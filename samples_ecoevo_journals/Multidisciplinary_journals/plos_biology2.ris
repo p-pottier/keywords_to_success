@@ -1,0 +1,766 @@
+TY  - JOUR
+AU  - Castiglione, GM
+AU  - Zhou, LL
+AU  - Xu, ZH
+AU  - Neiman, Z
+AU  - Hung, CF
+AU  - Duh, EJ
+TI  - Evolutionary pathways to SARS-CoV-2 resistance are opened and closed by epistasis acting on ACE2
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - ANGIOTENSIN-CONVERTING ENZYME-2
+KW  - EMPIRICAL FITNESS LANDSCAPES
+KW  - SEQUENCE SPACE
+KW  - HOST-RANGE
+KW  - HYPERTENSION
+KW  - CORONAVIRUS
+KW  - MODEL
+KW  - POLYMORPHISM
+KW  - ADAPTATION
+KW  - COVID-19
+AB  - Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) infects a broader range of mammalian species than previously predicted, binding a diversity of angiotensin converting enzyme 2 (ACE2) orthologs despite extensive sequence divergence. Within this sequence degeneracy, we identify a rare sequence combination capable of conferring SARS-CoV-2 resistance. We demonstrate that this sequence was likely unattainable during human evolution due to deleterious effects on ACE2 carboxypeptidase activity, which has vasodilatory and cardioprotective functions in vivo. Across the 25 ACE2 sites implicated in viral binding, we identify 6 amino acid substitutions unique to mouse-one of the only known mammalian species resistant to SARS-CoV-2. Substituting human variants at these positions is sufficient to confer binding of the SARS-CoV-2 S protein to mouse ACE2, facilitating cellular infection. Conversely, substituting mouse variants into either human or dog ACE2 abolishes viral binding, diminishing cellular infection. However, these same substitutions decrease human ACE2 activity by 50% and are predicted as pathogenic, consistent with the extreme rarity of human polymorphisms at these sites. This trade-off can be avoided, however, depending on genetic background; if substituted simultaneously, these same mutations have no deleterious effect on dog ACE2 nor that of the rodent ancestor estimated to exist 70 million years ago. This genetic contingency (epistasis) may have therefore opened the road to resistance for some species, while making humans susceptible to viruses that use these ACE2 surfaces for binding, as does SARS-CoV-2.
+AD  - Johns Hopkins Univ, Sch Med, Dept Ophthalmol, Baltimore, MD 21205 USAAD  - Johns Hopkins Univ, Sch Med, Dept Pathol, Baltimore, MD 21205 USAC3  - Johns Hopkins UniversityC3  - Johns Hopkins UniversityFU  - National Institutes of Health [EY022383, EY022683, P30EY001765]
+FX  - This work was supported by research grants from the National Institutes of Health (EY022383 and EY022683; to E.J.D.) and Core Grant P30EY001765, Imaging and Microscopy Core Module. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - DEC
+PY  - 2021
+VL  - 19
+IS  - 12
+C7  - e3001510
+DO  - 10.1371/journal.pbio.3001510
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000750903900010
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  117
+ER  -
+
+TY  - JOUR
+AU  - Liu, Y
+AU  - Demina, T
+AU  - Roux, S
+AU  - Aiewsakun, P
+AU  - Kazlauskas, DM
+AU  - Simmonds, P
+AU  - Prangishvili, D
+AU  - Oksanen, H
+AU  - Krupovic, M
+TI  - Diversity, taxonomy, and evolution of archaeal viruses of the class Caudoviricetes
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - TAILED VIRUSES
+KW  - SEQUENCE
+KW  - TOOL
+KW  - SUBUNITS
+KW  - FEATURES
+KW  - GENOMES
+KW  - PHI-CH1
+KW  - COMPLEX
+KW  - GENES
+AB  - The archaeal tailed viruses (arTV), evolutionarily related to tailed double-stranded DNA (dsDNA) bacteriophages of the class Caudoviricetes, represent the most common isolates infecting halophilic archaea. Only a handful of these viruses have been genomically characterized, limiting our appreciation of their ecological impacts and evolution. Here, we present 37 new genomes of haloarchaeal tailed virus isolates, more than doubling the current number of sequenced arTVs. Analysis of all 63 available complete genomes of arTVs, which we propose to classify into 14 new families and 3 orders, suggests ancient divergence of archaeal and bacterial tailed viruses and points to an extensive sharing of genes involved in DNA metabolism and counter defense mechanisms, illuminating common strategies of virus-host interactions with tailed bacteriophages. Coupling of the comparative genomics with the host range analysis on a broad panel of haloarchaeal species uncovered 4 distinct groups of viral tail fiber adhesins controlling the host range expansion. The survey of metagenomes using viral hallmark genes suggests that the global architecture of the arTV community is shaped through recurrent transfers between different biomes, including hypersaline, marine, and anoxic environments.
+AD  - Univ Paris, Archaeal Virol Unit, Inst Pasteur, Paris, FranceAD  - Univ Helsinki, Fac Biol & Environm Sci, Mol & Integrat Biosci Res Programme, Helsinki, FinlandAD  - Lawrence Berkeley Natl Lab, DOE Joint Genome Inst, Berkeley, CA USAAD  - Univ Oxford, Nuffield Dept Med, Oxford, EnglandAD  - Mahidol Univ, Fac Sci, Dept Microbiol, Bangkok, ThailandAD  - Mahidol Univ, Pornchai Matangkasombut Ctr Microbial Genom, Dept Microbiol, Fac Sci, Bangkok, ThailandAD  - Vilnius Univ, Life Sci Ctr, Inst Biotechnol, Vilnius, LithuaniaAD  - Ivane Javakhishvili Tbilisi State Univ, Tbilisi, GeorgiaC3  - Le Reseau International des Instituts Pasteur (RIIP)C3  - Institut Pasteur ParisC3  - UDICE-French Research UniversitiesC3  - Universite Paris CiteC3  - University of HelsinkiC3  - United States Department of Energy (DOE)C3  - Lawrence Berkeley National LaboratoryC3  - University of OxfordC3  - Mahidol UniversityC3  - Mahidol UniversityC3  - Vilnius UniversityC3  - Ivane Javakhishvili Tbilisi State UniversityFU  - l'Agence Nationale de la Recherche [ANR-20-CE20-0009-02]; European Union's Horizon 2020 research and innovation program [685778]; Institut Pasteur; Ella and Georg Ehrnrooth Foundation; Finnish Cultural Foundation; Office of Science of the U.S. Department of Energy [DE-AC02-05CH11231]; Wellcome Trust [WT108418AIA]
+FX  - This work was supported by l'Agence Nationale de la Recherche grant ANR-20-CE20-0009-02 (to M.K.) and the European Union's Horizon 2020 research and innovation program under grant agreement 685778, project VIRUS X (to D.P.). Y.L. is a recipient of the Pasteur-RouxCantarini Fellowship from Institut Pasteur. The Ella and Georg Ehrnrooth Foundation and the Finnish Cultural Foundation are sincerely acknowledged (grants to T.D.). The work conducted by the U.S. Department of Energy Joint Genome Institute (S. R.) is supported by the Office of Science of the U.S. Department of Energy under contract no. DEAC02-05CH11231. The development and application of GRAViTy analysis was supported by a grant to PS from the Wellcome Trust (WT108418AIA). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - NOV
+PY  - 2021
+VL  - 19
+IS  - 11
+C7  - e3001442
+DO  - 10.1371/journal.pbio.3001442
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000717689100001
+N1  - Times Cited in Web of Science Core Collection:  11
+Total Times Cited:  12
+Cited Reference Count:  101
+ER  -
+
+TY  - JOUR
+AU  - Li, R
+AU  - Ranipeta, A
+AU  - Wilshire, J
+AU  - Malczyk, J
+AU  - Duong, M
+AU  - Guralnick, R
+AU  - Wilson, A
+AU  - Jetz, W
+TI  - A cloud-based toolbox for the versatile environmental annotation of biodiversity data
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - SCALE
+KW  - UNCERTAINTY
+KW  - PHENOLOGY
+KW  - PATTERNS
+KW  - DRIVERS
+KW  - HABITAT
+KW  - FOREST
+AB  - A vast range of research applications in biodiversity sciences requires integrating primary species, genetic, or ecosystem data with other environmental data. This integration requires a consideration of the spatial and temporal scale appropriate for the data and processes in question. But a versatile and scale flexible environmental annotation of biodiversity data remains constrained by technical hurdles. Existing tools have streamlined the intersection of occurrence records with gridded environmental data but have remained limited in their ability to address a range of spatial and temporal grains, especially for large datasets. We present the Spatiotemporal Observation Annotation Tool (STOAT), a cloud-based toolbox for flexible biodiversity-environment annotations. STOAT is optimized for large biodiversity datasets and allows user-specified spatial and temporal resolution and buffering in support of environmental characterizations that account for the uncertainty and scale of data and of relevant processes. The tool offers these services for a growing set of near global, remotely sensed, or modeled environmental data, including Landsat, MODIS, EarthEnv, and CHELSA. STOAT includes a user-friendly, web-based dashboard that provides tools for annotation task management and result visualization, linked to Map of Life, and a dedicated R package (rstoat) for programmatic access. We demonstrate STOAT functionality with several examples that illustrate phenological variation and spatial and temporal scale dependence of environmental characteristics of birds at a continental scale. We expect STOAT to facilitate broader exploration and assessment of the scale dependence of observations and processes in ecology.
+AD  - Yale Univ, Dept Ecol & Evolutionary Biol, New Haven, CT 06520 USAAD  - Yale Univ, Ctr Biodivers & Global Change, New Haven, CT 06520 USAAD  - Descartes Labs, Santa Fe, NM USAAD  - Univ Florida, Florida Museum Nat Hist, Gainesville, FL 32611 USAAD  - Univ Buffalo, Dept Geog, New York, NY USAC3  - Yale UniversityC3  - Yale UniversityC3  - State University System of FloridaC3  - University of FloridaFU  - Intramural NASA [80NSSC18K0435, 80NSSC17K0282] Funding Source: Medline
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - NOV
+PY  - 2021
+VL  - 19
+IS  - 11
+C7  - e3001460
+DO  - 10.1371/journal.pbio.3001460
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000719652200001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  50
+ER  -
+
+TY  - JOUR
+AU  - Morais, R
+AU  - Siqueira, A
+AU  - Smallhorn-West, P
+AU  - Bellwood, D
+TI  - Spatial subsidies drive sweet spots of tropical marine biomass production
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - CORAL-REEF
+KW  - FISH COMMUNITIES
+KW  - SOLOMON-ISLANDS
+KW  - FOOD WEBS
+KW  - FISHERIES
+KW  - DYNAMICS
+KW  - ZOOPLANKTON
+KW  - TERRESTRIAL
+KW  - PHILIPPINES
+KW  - PREDATORS
+AB  - Spatial subsidies increase local productivity and boost consumer abundance beyond the limits imposed by local resources. In marine ecosystems, deeper water and open ocean subsidies promote animal aggregations and enhance biomass that is critical for human harvesting. However, the scale of this phenomenon in tropical marine systems remains unknown. Here, we integrate a detailed assessment of biomass production in 3 key locations, spanning a major biodiversity and abundance gradient, with an ocean-scale dataset of fish counts to predict the extent and magnitude of plankton subsidies to fishes on coral reefs. We show that planktivorous fish-mediated spatial subsidies are widespread across the Indian and Pacific oceans and drive local spikes in biomass production that can lead to extreme productivity, up to 30 kg ha(-1) day(-1). Plankton subsidies form the basis of productivity "sweet spots" where planktivores provide more than 50% of the total fish production, more than all other trophic groups combined. These sweet spots operate at regional, site, and smaller local scales. By harvesting oceanic productivity, planktivores bypass spatial constraints imposed by local primary productivity, creating "oases" of tropical fish biomass that are accessible to humans.
+AD  - James Cook Univ, Coll Sci & Engn, Res Hub Coral Reef Ecosyst Funct, Townsville, Qld, AustraliaAD  - James Cook Univ, ARC Ctr Excellence Coral Reef Studies, Townsville, Qld, AustraliaAD  - WorldFish, Bayan Lepas, MalaysiaC3  - James Cook UniversityC3  - James Cook UniversityC3  - CGIARC3  - WorldfishFU  - Australian Research Council [FL190100062]; James Cook University; Lizard Island Reef Research Foundation; Ocean Geographic Society; National Geographic Society [CP-137ER-17]
+FX  - Funded by the Australian Research Council through a Laureate Fellowship (FL190100062 to DRB). Also contributed to funding: James Cook University (Postgraduate Research Scholarship to RAM, ACS and PSW, and HDR Competitive Research Training Grant to RAM), the Lizard Island Reef Research Foundation (Lizard Island Doctoral Fellowship to RAM), the Ocean Geographic Society (Elysium Heart of the Coral Triangle Expedition to RAM), the National Geographic Society (CP-137ER-17 to PSW). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - NOV
+PY  - 2021
+VL  - 19
+IS  - 11
+C7  - e3001435
+DO  - 10.1371/journal.pbio.3001435
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000715947100001
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  7
+Cited Reference Count:  116
+ER  -
+
+TY  - JOUR
+AU  - Forstmeier, W
+AU  - Wang, DP
+AU  - Martin, K
+AU  - Kempenaers, B
+TI  - Fitness costs of female choosiness are low in a socially monogamous songbird
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - MATE CHOICE
+KW  - BROOD PARASITISM
+KW  - SEXUAL SELECTION
+KW  - ZEBRA FINCH
+KW  - GOOD PARENT
+KW  - EVOLUTION
+KW  - MODELS
+KW  - COMPETITION
+KW  - MALES
+KW  - LEKS
+AB  - Female mate choice is thought to be responsible for the evolution of many extravagant male ornaments and displays, but the costs of being too selective may hinder the evolution of choosiness. Selection against choosiness may be particularly strong in socially monogamous mating systems, because females may end up without a partner and forego reproduction, especially when many females prefer the same few partners (frequency-dependent selection). Here, we quantify the fitness costs of having mating preferences that are difficult to satisfy, by manipulating the availability of preferred males. We capitalize on the recent discovery that female zebra finches (Taeniopygia guttata) prefer males of familiar song dialect. We measured female fitness in captive breeding colonies in which one-third of females were given ample opportunity to choose a mate of their preferred dialect (two-thirds of all males; "relaxed competition"), while two-thirds of the females had to compete over a limited pool of mates they preferred (one-third of all males; "high competition"). As expected, social pairings were strongly assortative with regard to song dialect. In the high-competition group, 26% of the females remained unpaired, yet they still obtained relatively high fitness by using brood parasitism as an alternative reproductive tactic. Another 31% of high-competition females paired disassortatively for song dialect. These females showed increased levels of extra-pair paternity, mostly with same-dialect males as sires, suggesting that preferences were not abolished after social pairing. However, females that paired disassortatively for song dialect did not have lower reproductive success. Overall, females in the high-competition group reached equal fitness to those that experienced relaxed competition. Our study suggests that alternative reproductive tactics such as egg dumping can help overcome the frequency-dependent costs of being selective in a monogamous mating system, thereby facilitating the evolution of female choosiness.</p>
+AD  - Max Planck Inst Ornithol, Dept Behav Ecol & Evolutionary Genet, Seewiesen, GermanyAD  - Chinese Acad Sci, Inst Zool, CAS Key Lab Anim Ecol & Conservat Biol, Beijing, Peoples R ChinaC3  - Max Planck SocietyC3  - Chinese Academy of SciencesC3  - Institute of Zoology, CASFU  - Max Planck Society
+FX  - This research was supported by the Max Planck Society (to BK). The funders had no role instudy design, data collection and analysis, decision to publish, or preparation of the manuscript.
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - NOV
+PY  - 2021
+VL  - 19
+IS  - 11
+C7  - e3001257
+DO  - 10.1371/journal.pbio.3001257
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000716475700002
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  69
+ER  -
+
+TY  - JOUR
+AU  - Aylward, F
+AU  - Moniruzzaman, M
+AU  - Ha, A
+AU  - Koonin, E
+TI  - A phylogenomic framework for charting the diversity and evolution of giant viruses
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - DNA VIRUSES
+KW  - GENOME SEQUENCE
+KW  - GENE-TRANSFER
+KW  - GREEN-ALGAE
+KW  - HIGHLIGHTS
+KW  - COMPLEMENT
+KW  - ALGORITHM
+KW  - ORIGIN
+KW  - TOOL
+AB  - Large DNA viruses of the phylum Nucleocytoviricota have recently emerged as important members of ecosystems around the globe that challenge traditional views of viral complexity. Numerous members of this phylum that cannot be classified within established families have recently been reported, and there is presently a strong need for a robust phylogenomic and taxonomic framework for these viruses. Here, we report a comprehensive phylogenomic analysis of the Nucleocytoviricota, present a set of giant virus orthologous groups (GVOGs) together with a benchmarked reference phylogeny, and delineate a hierarchical taxonomy within this phylum. We show that the majority of Nucleocytoviricota diversity can be partitioned into 6 orders, 32 families, and 344 genera, substantially expanding the number of currently recognized taxonomic ranks for these viruses. We integrate our results within a taxonomy that has been adopted for all viruses to establish a unifying framework for the study of Nucleocytoviricota diversity, evolution, and environmental distribution.</p>
+AD  - Virginia Tech, Dept Biol Sci, Blacksburg, VA 24061 USAAD  - Virginia Tech, Ctr Emerging Zoonot & Arthropodborne Pathogens, Blacksburg, VA 24061 USAAD  - NIH, Natl Ctr Biotechnol Informat, Natl Lib Med, Bldg 10, Bethesda, MD 20892 USAC3  - Virginia Polytechnic Institute & State UniversityC3  - Virginia Polytechnic Institute & State UniversityC3  - National Institutes of Health (NIH) - USAC3  - NIH National Library of Medicine (NLM)FU  - Simons Early Career Award in Marine Microbial Ecology and Evolution; NSF [IIBR-1918271]; Intramural Research Program of the National Institutes of (National Library of Medicine) Health
+FX  - This work was supported by a Simons Early Career Award in Marine Microbial Ecology and Evolution to F.O.A, an the NSF (IIBR-1918271)award to F.O.A., and the Intramural Research Program of the National Institutes of Health (National Library of Medicine) for E.V.K. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - OCT
+PY  - 2021
+VL  - 19
+IS  - 10
+C7  - e3001430
+DO  - 10.1371/journal.pbio.3001430
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000713770600001
+N1  - Times Cited in Web of Science Core Collection:  13
+Total Times Cited:  13
+Cited Reference Count:  74
+ER  -
+
+TY  - JOUR
+AU  - Grundler, MC
+AU  - Rabosky, DL
+TI  - Rapid increase in snake dietary diversity and complexity following the end-Cretaceous mass extinction
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - FEEDING ECOLOGY
+KW  - MORPHOLOGICAL DIVERSIFICATION
+KW  - EVOLUTIONARY PATTERNS
+KW  - ADAPTIVE RADIATION
+KW  - HISTORY
+KW  - GENUS
+KW  - SIZE
+KW  - OPPORTUNITY
+KW  - PHYLOGENIES
+KW  - STRATEGIES
+AB  - The Cenozoic marked a period of dramatic ecological opportunity in Earth history due to the extinction of non-avian dinosaurs as well as to long-term physiographic changes that created new biogeographic theaters and new habitats. Snakes underwent massive ecological diversification during this period, repeatedly evolving novel dietary adaptations and prey preferences. The evolutionary tempo and mode of these trophic ecological changes remain virtually unknown, especially compared with co-radiating lineages of birds and mammals that are simultaneously predators and prey of snakes. Here, we assemble a dataset on snake diets (34,060 observations on the diets of 882 species) to investigate the history and dynamics of the multidimensional trophic niche during the global radiation of snakes. Our results show that per-lineage dietary niche breadths remained remarkably constant even as snakes diversified to occupy disparate outposts of dietary ecospace. Rapid increases in dietary diversity and complexity occurred in the early Cenozoic, and the overall rate of ecospace expansion has slowed through time, suggesting a potential response to ecological opportunity in the wake of the end-Cretaceous mass extinction. Explosive bursts of trophic innovation followed colonization of the Nearctic and Neotropical realms by a group of snakes that today comprises a majority of living snake diversity. Our results indicate that repeated transformational shifts in dietary ecology are important drivers of adaptive radiation in snakes and provide a framework for analyzing and visualizing the evolution of complex ecological phenotypes on phylogenetic trees.</p>
+AD  - Univ Michigan, Museum Zool, Ann Arbor, MI 48109 USAAD  - Univ Michigan, Dept Ecol & Evolutionary Biol, Ann Arbor, MI 48109 USAAD  - Univ Calif Los Angeles, Dept Ecol & Evolutionary Biol, Los Angeles, CA 90095 USAC3  - University of Michigan SystemC3  - University of MichiganC3  - University of Michigan SystemC3  - University of MichiganC3  - University of California SystemC3  - University of California Los AngelesFU  - National Science Foundation [DGE 1841052]; David and Lucile Packard Foundation
+FX  - This research was supported by a Graduate Research Fellowship (DGE 1841052) from the National Science Foundation to M.C.G. and by a fellowship from the David and Lucile Packard Foundation to D.L.R. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - OCT
+PY  - 2021
+VL  - 19
+IS  - 10
+C7  - e3001414
+DO  - 10.1371/journal.pbio.3001414
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000707598300001
+N1  - Times Cited in Web of Science Core Collection:  6
+Total Times Cited:  6
+Cited Reference Count:  104
+ER  -
+
+TY  - JOUR
+AU  - Amano, T
+AU  - Berdejo-Espinola, V
+AU  - Christie, AP
+AU  - Willott, K
+AU  - Akasaka, M
+AU  - Baldi, A
+AU  - Berthinussen, A
+AU  - Bertolino, S
+AU  - Bladon, AJ
+AU  - Chen, M
+AU  - Choi, CY
+AU  - Kharrat, MBD
+AU  - de Oliveira, LG
+AU  - Farhat, P
+AU  - Golivets, M
+AU  - Aranzamendi, NH
+AU  - Jantke, K
+AU  - Kajzer-Bonk, J
+AU  - Aytekin, MCK
+AU  - Khorozyan, I
+AU  - Kito, K
+AU  - Konno, K
+AU  - Lin, DL
+AU  - Littlewood, N
+AU  - Liu, Y
+AU  - Liu, YF
+AU  - Loretto, MC
+AU  - Marconi, V
+AU  - Martin, PA
+AU  - Morgan, WH
+AU  - Narvaez-Gomez, JP
+AU  - Negret, PJ
+AU  - Nourani, E
+AU  - Quintero, JMO
+AU  - Ockendon, N
+AU  - Oh, RRY
+AU  - Petrovan, SO
+AU  - Piovezan-Borges, AC
+AU  - Pollet, IL
+AU  - Ramos, DL
+AU  - Segovia, ALR
+AU  - Rivera-Villanueva, AN
+AU  - Rocha, R
+AU  - Rouyer, MM
+AU  - Sainsbury, KA
+AU  - Schuster, R
+AU  - Schwab, D
+AU  - Sekercioglu, CH
+AU  - Seo, HM
+AU  - Shackelford, G
+AU  - Shinoda, Y
+AU  - Smith, RK
+AU  - Tao, SD
+AU  - Tsai, MS
+AU  - Tyler, EHM
+AU  - Vajna, F
+AU  - Valdebenito, JO
+AU  - Vozykova, S
+AU  - Waryszak, P
+AU  - Zamora-Gutierrez, V
+AU  - Zenni, RD
+AU  - Zhou, WJ
+AU  - Sutherland, WJ
+TI  - Tapping into non-English-language science for the conservation of global biodiversity
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - IMPACT
+AB  - The widely held assumption that any important scientific information would be available in English underlies the underuse of non-English-language science across disciplines. However, non-English-language science is expected to bring unique and valuable scientific information, especially in disciplines where the evidence is patchy, and for emergent issues where synthesising available evidence is an urgent challenge. Yet such contribution of non-English-language science to scientific communities and the application of science is rarely quantified. Here, we show that non-English-language studies provide crucial evidence for informing global biodiversity conservation. By screening 419,679 peer-reviewed papers in 16 languages, we identified 1,234 non-English-language studies providing evidence on the effectiveness of biodiversity conservation interventions, compared to 4,412 English-language studies identified with the same criteria. Relevant non-English-language studies are being published at an increasing rate in 6 out of the 12 languages where there were a sufficient number of relevant studies. Incorporating non-English-language studies can expand the geographical coverage (i.e., the number of 2 degrees x 2 degrees grid cells with relevant studies) of English-language evidence by 12% to 25%, especially in biodiverse regions, and taxonomic coverage (i.e., the number of species covered by the relevant studies) by 5% to 32%, although they do tend to be based on less robust study designs. Our results show that synthesising non-English-language studies is key to overcoming the widespread lack of local, context-dependent evidence and facilitating evidence-based conservation globally. We urge wider disciplines to rigorously reassess the untapped potential of non-English-language science in informing decisions to address other global challenges.</p>
+   Please see the Supporting information files for Alternative Language Abstracts.</p>
+AD  - Univ Queensland, Sch Biol Sci, Brisbane, Qld, AustraliaAD  - Univ Queensland, Ctr Biodivers & Conservat Sci, Brisbane, Qld, AustraliaAD  - Univ Cambridge, Dept Zool, Conservat Sci Grp, Cambridge, EnglandAD  - St Catharines Coll, BioRISC, Cambridge, EnglandAD  - Tokyo Univ Agr & Technol, Inst Agr, Tokyo, JapanAD  - Tokyo Univ Agr & Technol, Inst Global Innovat Res, Tokyo, JapanAD  - Ctr Ecol Res, Inst Ecol & Bot, Lendulet Ecosyst Serv Res Grp, Vacratot, HungaryAD  - Conservat First, Ampleforth, York, N Yorkshire, EnglandAD  - Univ Turin, Dept Life Sci & Syst Biol, Turin, ItalyAD  - East China Normal Univ, Sch Life Sci, Inst EcoChongming IEC, Shanghai, Peoples R ChinaAD  - Minist Educ & Shanghai Sci & Technol Comm, Yangtze Delta Estuarine Wetland Ecosyst Observat, Shanghai, Peoples R ChinaAD  - Seoul Natl Univ, Dept Agr Forestry & Bioresources, Seoul, South KoreaAD  - Univ St Joseph, Lab Biodiversite & Genom Fonct, Fac Sci, Campus Sci & Technol, Beirut, LebanonAD  - Joint Nat Conservat Comm, Peterborough, EnglandAD  - UFZ Helmholtz Ctr Environm Res, Dept Community Ecol, Halle, GermanyAD  - Monash Univ, Sch Biol Sci, Melbourne, Vic, AustraliaAD  - Univ Hamburg, Ctr Earth Syst Res & Sustainabil, Hamburg, GermanyAD  - Polish Acad Sci, Inst Nat Conservat, Krakow, PolandAD  - Jagiellonian Univ, Dept Invertebrate Evolut, Krakow, PolandAD  - Koc Univ, Dept Mol Biol & Genet, Istanbul, TurkeyAD  - Georg August Univ Gottingen, Dept Conservat Biol, Gottingen, GermanyAD  - Univ Tokyo, Grad Sch Agr & Life Sci, Dept Ecosyst Studies, Tokyo, JapanAD  - Bangor Univ, Sch Nat Sci, Bangor, Gwynedd, WalesAD  - Endem Species Res Inst, Nantou, TaiwanAD  - SRUC, Dept Rural Land Use, Aberdeen, ScotlandAD  - Sun Yat Sen Univ, Sch Ecol, State Key Lab Biocontrol, Guangzhou, Guangdong, Peoples R ChinaAD  - Shanghai Jiao Tong Univ, Sch Agr & Biol, Shanghai, Peoples R ChinaAD  - Max Planck Inst Anim Behav, Dept Migrat, Radolfzell am Bodensee, GermanyAD  - Univ Konstanz, Dept Biol, Constance, GermanyAD  - Imperial Coll London, Fac Nat Sci, Dept Life Sci Silwood Pk, Ascot, Berks, EnglandAD  - Zool Soc London, Inst Zool, London, EnglandAD  - Univ Sao Paulo, Inst Biociencias, Dept Bot, Cidade Univ, Sao Paulo, BrazilAD  - Univ Cambridge, Conservat Res Inst, Forest Ecol & Conservat Grp, Cambridge, EnglandAD  - Univ Cambridge, Dept Plant Sci, Cambridge, EnglandAD  - Univ Queensland, Sch Earth & Environm Sci, Brisbane, Qld, AustraliaAD  - Inst Invest Recursos Biol Alexander von Humboldt, Bogota, ColombiaAD  - Cambridge Conservat Initiat, Endangered Landscapes Programme, Cambridge, EnglandAD  - German Ctr Integrat Biodivers Res iDiv, Leipzig, GermanyAD  - UFZ Helmholtz Ctr Environm Res, Leipzig, GermanyAD  - Univ Fed Mato Grosso do Sul UFMS, Inst Biociencias INBIO, Programa Posgrad Ecol & Conservacao, Campo Grande, MS, BrazilAD  - Acadia Univ, Dept Biol, Wolfville, NS, CanadaAD  - Plantem Plant Technol & Environm Monitoring Ltd, Sao Jose dos Campos, SP, BrazilAD  - Boston Univ, Dept Earth & Environm, Boston, MA 02215 USAAD  - Inst Politecn Nacl, Ctr Interdisciplinario Invest Desarrollo Integral, Durango, MexicoAD  - Univ Porto, Res Ctr Biodivers & Genet Resources, CIBIO InBIO, Vairao, PortugalAD  - Univ Lisbon, Res Ctr Biodivers & Genet Resources, Inst Agron, CIBIO InBIO, Lisbon, PortugalAD  - Univ Montpellier, EPHE, CNRS, CEFE,IRD, Montpellier, FranceAD  - Univ Alberta, Fac Kinesiol Sport & Recreat, Edmonton, AB, CanadaAD  - Carleton Univ, Dept Biol, Ottawa, ON, CanadaAD  - Univ Gottingen, Dept Crop Sci, Agroecol, Gottingen, GermanyAD  - Univ Utah, Sch Biol Sci, Salt Lake City, UT USAAD  - Univ Ryukyus, Grad Sch Engn & Sci, Nishihara, Okinawa, JapanAD  - Univ Oxford, Dept Zool, Wildlife Conservat Res Unit, Oxford, EnglandAD  - Univ Vet Med, Inst Biol, Dept Ecol, Budapest, HungaryAD  - Univ Bath, Milner Ctr Evolut, Bath, Avon, EnglandAD  - Univ Debrecen, Dept Evolutionary Zool & Human Biol, Debrecen, HungaryAD  - ITMO Univ, Fac Energy & Ecotechnol GreenTech, St Petersburg, RussiaAD  - Deakin Univ, Ctr Integrat Ecol, Sch Life & Environm Sci, Clayton, Vic, AustraliaAD  - Inst Politecn Nacl, Catedras CONACYT Ctr Interdisciplinario Invest De, Durango, MexicoAD  - Univ Fed Lavras, Inst Ciencias Nat, Dept Ecol & Conservacao, Campus Univ, Lavras, MG, BrazilC3  - University of QueenslandC3  - University of QueenslandC3  - University of CambridgeC3  - University of CambridgeC3  - Tokyo University of Agriculture & TechnologyC3  - Tokyo University of Agriculture & TechnologyC3  - Eotvos Lorand Research NetworkC3  - Hungarian Academy of SciencesC3  - Hungarian Centre for Ecological ResearchC3  - University of TurinC3  - East China Normal UniversityC3  - Seoul National University (SNU)C3  - Saint Joseph University BeirutC3  - Helmholtz AssociationC3  - Helmholtz Center for Environmental Research (UFZ)C3  - Monash UniversityC3  - University of HamburgC3  - Polish Academy of SciencesC3  - Jagiellonian UniversityC3  - Koc UniversityC3  - University of GottingenC3  - University of TokyoC3  - Bangor UniversityC3  - Sun Yat Sen UniversityC3  - Shanghai Jiao Tong UniversityC3  - Max Planck SocietyC3  - University of KonstanzC3  - Imperial College LondonC3  - Zoological Society of LondonC3  - Universidade de Sao PauloC3  - University of CambridgeC3  - University of CambridgeC3  - University of QueenslandC3  - AllianceC3  - International Center for Tropical Agriculture - CIATC3  - Helmholtz AssociationC3  - Helmholtz Center for Environmental Research (UFZ)C3  - Universidade Federal de Mato Grosso do SulC3  - Acadia UniversityC3  - Boston UniversityC3  - Instituto Politecnico Nacional - MexicoC3  - Universidade do PortoC3  - Universidade de LisboaC3  - Institut AgroC3  - Montpellier SupAgroC3  - UDICE-French Research UniversitiesC3  - PSL Research University ParisC3  - CIRADC3  - Centre National de la Recherche Scientifique (CNRS)C3  - Institut de Recherche pour le Developpement (IRD)C3  - Universite Paul-ValeryC3  - Universite de MontpellierC3  - University of AlbertaC3  - Carleton UniversityC3  - University of GottingenC3  - Utah System of Higher EducationC3  - University of UtahC3  - University of the RyukyusC3  - University of OxfordC3  - University of Veterinary Medicine BudapestC3  - University of BathC3  - University of DebrecenC3  - ITMO UniversityC3  - Deakin UniversityC3  - Instituto Politecnico Nacional - MexicoC3  - Universidade Federal de LavrasFU  - Australian Research Council Future Fellowship [FT180100354]; University of Queensland strategic funding; Natural Environment Research Council [NE/P012345/1, NE/L002507/1]; National Research, Development and Innovation Office, Hungary [ED_18-1-2018-0003]; University of Turin; German Research Foundation under Germany`s Excellence Strategy EXC 2037 [390683824]; National Science Centre, Poland [2014/14/E/NZ8/00165]; German Research Foundation [2153/5-1]; European Union [766417, 798091]; Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior Brasil (CAPES) [001]; Consejo Nacional de Ciencia y Tecnologia-CONACYT [1004537]; Chilean National Agency for Research and Development, BECAS CHILE [72170569]; CNPq-Brazil [304701/2019-0]; Arcadia; David and Claudia Harding Foundation; MAVA; Colombian Administrative Department of Science, Technology and Innovation; University of Veterinary Medicine Budapest
+FX  - This work was funded by the Australian Research Council Future Fellowship FT180100354, the University of Queensland strategic funding (T. A.), the Natural Environment Research Council NE/L002507/1 (A.P.C.), National Research, Development and Innovation Office, Hungary ED_18-1-2018-0003 (A. Ba ' ldi), University of Turin, local research grant (S.B.), the German Research Foundation under Germany`s Excellence Strategy EXC 2037 Project Number 390683824 (K.J.), Grant Sonata Bis 4 no. 2014/14/E/NZ8/00165 from the National Science Centre, Poland (J.K.-B,), German Research Foundation grant 2153/5-1 (I.K.), European Union's Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement no. 798091 (M.-C.L.), the Natural Environment Research Council NE/P012345/1 (V.M.), Coordenacao de Aperfeicoamento de Pessoal de Ni ' vel Superior Brasil (CAPES) -Finance Code 001 (J.P.N.G.), Colombian Administrative Department of Science, Technology and Innovation (P.J.N.), Consejo Nacional de Ciencia y Tecnologi ' a-CONACYT 1004537 (A.N.R.V.), European Union's Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement no. 766417 (M.-M.R.), Ph.D. fellowship at the University of Veterinary Medicine Budapest (F.V.), Chilean National Agency for Research and Development, BECAS CHILE 72170569 (J.O.V.), CNPq-Brazil 304701/2019-0 (R.D.Z.), Arcadia, MAVA, and the David and Claudia Harding Foundation (W.J.S.). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - OCT
+PY  - 2021
+VL  - 19
+IS  - 10
+C7  - e3001296
+DO  - 10.1371/journal.pbio.3001296
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000704699500003
+N1  - Times Cited in Web of Science Core Collection:  33
+Total Times Cited:  33
+Cited Reference Count:  64
+ER  -
+
+TY  - JOUR
+AU  - Tanentzap, AJ
+AU  - Cottingham, S
+AU  - Fonvielle, J
+AU  - Riley, I
+AU  - Walker, LM
+AU  - Woodman, SG
+AU  - Kontou, D
+AU  - Pichler, CM
+AU  - Reisner, E
+AU  - Lebreton, L
+TI  - Microplastics and anthropogenic fibre concentrations in lakes reflect surrounding land use
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - FRESH-WATER
+KW  - MARINE-ENVIRONMENT
+KW  - PLASTIC DEBRIS
+KW  - IDENTIFICATION
+KW  - POLLUTION
+KW  - VALIDATION
+KW  - POLYMERS
+KW  - IDENTIFY
+KW  - SURFACE
+KW  - LITTER
+AB  - Pollution from microplastics and anthropogenic fibres threatens lakes, but we know little about what factors predict its accumulation. Lakes may be especially contaminated because of long water retention times and proximity to pollution sources. Here, we surveyed anthropogenic microparticles, i.e., microplastics and anthropogenic fibres, in surface waters of 67 European lakes spanning 30 degrees of latitude and large environmental gradients. By collating data from >2,100 published net tows, we found that microparticle concentrations in our field survey were higher than previously reported in lakes and comparable to rivers and oceans. We then related microparticle concentrations in our field survey to surrounding land use, water chemistry, and plastic emissions to sites estimated from local hydrology, population density, and waste production. Microparticle concentrations in European lakes quadrupled as both estimated mismanaged waste inputs and wastewater treatment loads increased in catchments. Concentrations decreased by 2 and 5 times over the range of surrounding forest cover and potential in-lake biodegradation, respectively. As anthropogenic debris continues to pollute the environment, our data will help contextualise future work, and our models can inform control and remediation efforts.
+AD  - Univ Cambridge, Dept Plant Sci, Ecosyst & Global Change Grp, Cambridge, EnglandAD  - Univ Cambridge, Yusuf Hamied Dept Chem, Cambridge, EnglandAD  - Ocean Cleanup, Rotterdam, NetherlandsAD  - Modelling House, Raglan, New ZealandC3  - University of CambridgeC3  - University of CambridgeFU  - Horizon 2020 European Research Council [804673]; Isaac Newton Trust Research Grant [19.23(s)]; UK Research and Innovation Cambridge Creative Circular Plastics Centre [EP/S025308/1]
+FX  - This work was funded by the Horizon 2020 European Research Council Starting Grant 804673 sEEIngDOM and an Isaac Newton Trust Research Grant 19.23(s) to AJT. CMP and ER were supported by the UK Research and Innovation Cambridge Creative Circular Plastics Centre (grant EP/S025308/1). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - SEP
+PY  - 2021
+VL  - 19
+IS  - 9
+C7  - e3001389
+DO  - 10.1371/journal.pbio.3001389
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000697162700003
+N1  - Times Cited in Web of Science Core Collection:  12
+Total Times Cited:  12
+Cited Reference Count:  96
+ER  -
+
+TY  - JOUR
+AU  - Derevnina, L
+AU  - Contreras, MP
+AU  - Adachi, H
+AU  - Upson, J
+AU  - Cruces, AV
+AU  - Xie, RR
+AU  - Sklenar, J
+AU  - Menke, FLH
+AU  - Mugford, ST
+AU  - MacLean, D
+AU  - Ma, WB
+AU  - Hogenhout, S
+AU  - Goverse, A
+AU  - Maqbool, A
+AU  - Wu, CH
+AU  - Kamoun, S
+TI  - Plant pathogens convergently evolved to counteract redundant nodes of an NLR immune receptor network
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - NB-LRR PROTEIN
+KW  - TRIGGERED IMMUNITY
+KW  - CELL-DEATH
+KW  - TRANSIENT EXPRESSION
+KW  - DISEASE RESISTANCE
+KW  - EFFECTOR PROTEINS
+KW  - GENE
+KW  - RX
+KW  - TRAFFICKING
+KW  - PERCEPTION
+AB  - In plants, nucleotide-binding domain and leucine-rich repeat (NLR)-containing proteins can form receptor networks to confer hypersensitive cell death and innate immunity. One class of NLRs, known as NLR required for cell death (NRCs), are central nodes in a complex network that protects against multiple pathogens and comprises up to half of the NLRome of solanaceous plants. Given the prevalence of this NLR network, we hypothesised that pathogens convergently evolved to secrete effectors that target NRC activities. To test this, we screened a library of 165 bacterial, oomycete, nematode, and aphid effectors for their capacity to suppress the cell death response triggered by the NRC-dependent disease resistance proteins Prf and Rpi-blb2. Among 5 of the identified suppressors, 1 cyst nematode protein and 1 oomycete protein suppress the activity of autoimmune mutants of NRC2 and NRC3, but not NRC4, indicating that they specifically counteract a subset of NRC proteins independently of their sensor NLR partners. Whereas the cyst nematode effector SPRYSEC15 binds the nucleotide-binding domain of NRC2 and NRC3, the oomycete effector AVRcap1b suppresses the response of these NRCs via the membrane trafficking-associated protein NbTOL9a (Target of Myb 1-like protein 9a). We conclude that plant pathogens have evolved to counteract central nodes of the NRC immune receptor network through different mechanisms. Coevolution with pathogen effectors may have driven NRC diversification into functionally redundant nodes in a massively expanded NLR network.
+AD  - Univ East Anglia, Sainsbury Lab, Norwich, Norfolk, EnglandAD  - Swiss Fed Inst Technol, Dept Biol, Zurich, SwitzerlandAD  - Jiao Tong Univ, Joint Ctr Single Cell Biol, Sch Agr & Biol, Shanghai, Peoples R ChinaAD  - John Innes Ctr, Dept Crop Genet, Norwich, Norfolk, EnglandAD  - Univ Calif Riverside, Dept Plant Pathol & Microbiol, Riverside, CA 92521 USAAD  - Wageningen Univ & Res, Lab Nematol, Wageningen, NetherlandsAD  - Acad Sinica, Inst Plant & Microbial Biol, Taipei, TaiwanAD  - Nara Inst Sci & Technol, Grad Sch Biol Sci, Ikoma, JapanC3  - UK Research & Innovation (UKRI)C3  - Biotechnology and Biological Sciences Research Council (BBSRC)C3  - John Innes CenterC3  - University of East AngliaC3  - Swiss Federal Institutes of Technology DomainC3  - ETH ZurichC3  - Shanghai Jiao Tong UniversityC3  - UK Research & Innovation (UKRI)C3  - Biotechnology and Biological Sciences Research Council (BBSRC)C3  - John Innes CenterC3  - University of California SystemC3  - University of California RiversideC3  - Wageningen University & ResearchC3  - Academia Sinica - TaiwanC3  - Nara Institute of Science & TechnologyFU  - Gatsby Charitable Foundation; Biotechnology and Biological Sciences Research Council (BBSRC, UK) [BB/P012574, BB/V002937/1]; European Research Council (ERC); Marie Sklodowska-Curie actions fellowship; Japan Society for the Promotion of Sciences Postdoctoral fellowship; British Society
+FX  - This work was funded by the Gatsby Charitable Foundation (Core grant to TSL) and Biotechnology and Biological Sciences Research Council (BBSRC, UK) BB/P012574 and BB/V002937/1. S.K. also receives funding from the European Research Council (ERC NGRB and BLASTOFF projects). L.D. was funded by a Marie Sklodowska-Curie actions fellowship (BoostR), H. A. was funded by the Japan Society for the Promotion of Sciences Postdoctoral fellowship, A. V.C. was funded by a British Society for Plant Pathology summer bursary, J.U. was funded by the Gatsby Charitable Foundation PhD studentship. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - AUG
+PY  - 2021
+VL  - 19
+IS  - 8
+C7  - e3001136
+DO  - 10.1371/journal.pbio.3001136
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000687405700001
+N1  - Times Cited in Web of Science Core Collection:  21
+Total Times Cited:  21
+Cited Reference Count:  101
+ER  -
+
+TY  - JOUR
+AU  - Drury, JP
+AU  - Clavel, J
+AU  - Tobias, JA
+AU  - Rolland, J
+AU  - Sheard, C
+AU  - Morlon, H
+TI  - Tempo and mode of morphological evolution are decoupled from latitude in birds
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - CLIMATIC-NICHE EVOLUTION
+KW  - WITHIN-SPECIES VARIATION
+KW  - BODY-SIZE EVOLUTION
+KW  - TRAIT EVOLUTION
+KW  - R PACKAGE
+KW  - DIVERSITY GRADIENT
+KW  - SPECIATION
+KW  - RATES
+KW  - DIVERSIFICATION
+KW  - COMPETITION
+AB  - The latitudinal diversity gradient is one of the most striking patterns in nature, yet its implications for morphological evolution are poorly understood. In particular, it has been proposed that an increased intensity of species interactions in tropical biota may either promote or constrain trait evolution, but which of these outcomes predominates remains uncertain. Here, we develop tools for fitting phylogenetic models of phenotypic evolution in which the impact of species interactions-namely, competition-can vary across lineages. Deploying these models on a global avian trait dataset to explore differences in trait divergence between tropical and temperate lineages, we find that the effect of latitude on the mode and tempo of morphological evolution is weak and clade- or trait dependent. Our results indicate that species interactions do not disproportionately impact morphological evolution in tropical bird families and question the validity of previously reported patterns of slower trait evolution in the tropics.
+AD  - Univ Durham, Dept Biosci, Durham, EnglandAD  - Nat Hist Museum, London, EnglandAD  - Univ Claude Bernard Lyon 1, Univ Lyon, CNRS, ENTPE,UMR 5023,LEHNA, Villeurbanne, FranceAD  - Imperial Coll London, Dept Life Sci, Ascot, Berks, EnglandAD  - Univ British Columbia, Dept Zool, Vancouver, BC, CanadaAD  - Univ Bristol, Sch Earth Sci, Bristol, Avon, EnglandAD  - Ecole Normale Super, CNRS UMR 8197, Inst Biol, Paris, FranceC3  - Durham UniversityC3  - Natural History Museum LondonC3  - Centre National de la Recherche Scientifique (CNRS)C3  - CNRS - Institute of Ecology & Environment (INEE)C3  - UDICE-French Research UniversitiesC3  - Universite Claude Bernard Lyon 1C3  - Imperial College LondonC3  - University of British ColumbiaC3  - University of BristolC3  - Centre National de la Recherche Scientifique (CNRS)C3  - CNRS - National Institute for Biology (INSB)C3  - UDICE-French Research UniversitiesC3  - PSL Research University ParisFU  - European Research Council [616419-PANDA]; Natural Environment Research Council [NE/I028068/1, NE/P004512/1]
+FX  - This research was funded by the European Research Council (616419-PANDA to HM) and Natural Environment Research Council (NE/I028068/1 and NE/P004512/1 to JAT). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - AUG
+PY  - 2021
+VL  - 19
+IS  - 8
+C7  - e3001270
+DO  - 10.1371/journal.pbio.3001270
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000687852700002
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  94
+ER  -
+
+TY  - JOUR
+AU  - Tice, AK
+AU  - Zihala, D
+AU  - Panek, T
+AU  - Jones, RE
+AU  - Salomaki, ED
+AU  - Nenarokov, S
+AU  - Burki, F
+AU  - Elias, M
+AU  - Eme, L
+AU  - Roger, AJ
+AU  - Rokas, A
+AU  - Shen, XX
+AU  - Strassert, JFH
+AU  - Kolisko, M
+AU  - Brown, MW
+TI  - PhyloFisher: A phylogenomic package for resolving eukaryotic relationships
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - TOOL
+AB  - Phylogenomic analyses of hundreds of protein-coding genes aimed at resolving phylogenetic relationships is now a common practice. However, no software currently exists that includes tools for dataset construction and subsequent analysis with diverse validation strategies to assess robustness. Furthermore, there are no publicly available high-quality curated databases designed to assess deep (>100 million years) relationships in the tree of eukaryotes. To address these issues, we developed an easy-to-use software package, PhyloFisher (https://github.com/TheBrownLab/PhyloFisher), written in Python 3. PhyloFisher includes a manually curated database of 240 protein-coding genes from 304 eukaryotic taxa covering known eukaryotic diversity, a novel tool for ortholog selection, and utilities that will perform diverse analyses required by state-of-the-art phylogenomic investigations. Through phylogenetic reconstructions of the tree of eukaryotes and of the Saccharomycetaceae clade of budding yeasts, we demonstrate the utility of the PhyloFisher workflow and the provided starting database to address phylogenetic questions across a large range of evolutionary time points for diverse groups of organisms. We also demonstrate that undetected paralogy can remain in phylogenomic "single-copy orthogroup" datasets constructed using widely accepted methods such as all vs. all BLAST searches followed by Markov Cluster Algorithm (MCL) clustering and application of automated tree pruning algorithms. Finally, we show how the PhyloFisher workflow helps detect inadvertent paralog inclusions, allowing the user to make more informed decisions regarding orthology assignments, leading to a more accurate final dataset.
+AD  - Mississippi State Univ, Dept Biol Sci, Mississippi State, MS 39762 USAAD  - Mississippi State Univ, Inst Genom Biocomp & Biotechnol, Mississippi State, MS 39762 USAAD  - Univ Ostrava, Fac Sci, Dept Biol & Ecol, Ostrava, Czech RepublicAD  - Czech Acad Sci, Inst Parasitol, Biol Ctr, Ceske Budejovice, Czech RepublicAD  - Uppsala Univ, Dept Organismal Biol, Uppsala, SwedenAD  - Uppsala Univ, Sci Life Lab, Uppsala, SwedenAD  - Univ Paris Saclay, Unite Ecol Systemat & Evolut, CNRS, Paris, FranceAD  - Dalhousie Univ, Dept Biochem & Mol Biol, Halifax, NS, CanadaAD  - Vanderbilt Univ, Dept Biol Sci, Nashville, TN USAAD  - Zhejiang Univ, Inst Insect Sci, State Key Lab Rice Biol, Hangzhou, Peoples R ChinaAD  - Zhejiang Univ, Minist Agr, Key Lab Mol Biol Crop Pathogens & Insects, Inst Insect Sci, Hangzhou, Peoples R ChinaAD  - Leibniz Inst Freshwater Ecol & Inland Fisheries E, Berlin, GermanyAD  - Univ South Bohemia, Fac Sci, Ceske Budejovice, Czech RepublicC3  - Mississippi State UniversityC3  - Mississippi State UniversityC3  - University of OstravaC3  - Czech Academy of SciencesC3  - Biology Centre of the Czech Academy of SciencesC3  - Uppsala UniversityC3  - Uppsala UniversityC3  - Centre National de la Recherche Scientifique (CNRS)C3  - UDICE-French Research UniversitiesC3  - Universite Paris SaclayC3  - Dalhousie UniversityC3  - Vanderbilt UniversityC3  - Zhejiang UniversityC3  - Ministry of Agriculture & Rural AffairsC3  - Zhejiang UniversityC3  - Leibniz Institut fur Gewasserokologie und Binnenfischerei (IGB)C3  - University of South Bohemia Ceske BudejoviceFU  - United States National Science Foundation (NSF) Division of Environmental Biology (DEB) [1456054, 2100888]; J.W. Fulbright Commission of Czech Republic; Czech Science Foundation [18-18699S, 18-28103S]; 'Centre for Research of Pathogenicity and Virulence of Parasites' (ERD funds) [CZ.02.1.01/0.0/0.0/16_019/0000759]; International Mobilities of Researchers of the Biology Centre [CZ.02.2.69/0.0/0.0/16_027/0008357]; MSCA-IF-CZ SMART [CZ.02.2.69/0.0/0.0/20_079/0017809]; National Science Foundation [DEB-1442113]; European Research Council (ERC Starting grant) [803151]; German Research Foundation (DFG) [STR1349/2-1, 432453260]; IT4Innovations National Super Computer Center, Technical University of Ostrava, Ostrava, Czech Republic [Open-20-18]
+FX  - This project was supported primarily by the United States National Science Foundation (NSF) Division of Environmental Biology (DEB) grants 1456054 and 2100888 (http://www.nsf.gov), awarded to MWB. Support for TP's postdoctoral stay in MWB's laboratory was supported by the J.W. Fulbright Commission of Czech Republic awarded to TP. ME and MK labs are supported by the Czech Science Foundation (grants 18-18699S and 18-28103S, respectively) and the `Centre for Research of Pathogenicity and Virulence of Parasites' (ERD funds, project no. CZ.02.1.01/0.0/0.0/16_019/0000759). ES was supported by International Mobilities of Researchers of the Biology Centre (CZ.02.2.69/0.0/0.0/16_027/0008357) and the MSCA-IF-CZ SMART (CZ.02.2.69/0.0/0.0/20_079/0017809). Research on phylogenomics in AR's lab is supported by the National Science Foundation (DEB-1442113). LE is supported by a grant from the European Research Council (ERC Starting grant 803151). FB thanks Science for Life Laboratory for supporting the work of JFHS in his laboratory, and JFHS thanks the German Research Foundation (DFG; STR1349/2-1, project #432453260) for support. MK thanks IT4Innovations National Super Computer Center, Technical University of Ostrava, Ostrava, Czech Republic (project #Open-20-18) for providing computational resources. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - AUG
+PY  - 2021
+VL  - 19
+IS  - 8
+C7  - e3001365
+DO  - 10.1371/journal.pbio.3001365
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000685554400001
+N1  - Times Cited in Web of Science Core Collection:  12
+Total Times Cited:  13
+Cited Reference Count:  38
+ER  -
+
+TY  - JOUR
+AU  - Oliver, RY
+AU  - Meyer, C
+AU  - Ranipeta, A
+AU  - Winner, K
+AU  - Jetz, W
+TI  - Global and national trends, gaps, and opportunities in documenting and monitoring species distributions
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - BIODIVERSITY DATABASES
+KW  - CITIZEN-SCIENCE
+KW  - COMPLETENESS
+KW  - DIVERSITY
+KW  - MAP
+AB  - Conserving and managing biodiversity in the face of ongoing global change requires sufficient evidence to assess status and trends of species distributions. Here, we propose novel indicators of biodiversity data coverage and sampling effectiveness and analyze national trajectories in closing spatiotemporal knowledge gaps for terrestrial vertebrates (1950 to 2019). Despite a rapid rise in data coverage, particularly in the last 2 decades, strong geographic and taxonomic biases persist. For some taxa and regions, a tremendous growth in records failed to directly translate into newfound knowledge due to a sharp decline in sampling effectiveness. However, we found that a nation's coverage was stronger for species for which it holds greater stewardship. As countries under the post-2020 Global Biodiversity Framework renew their commitments to an improved, rigorous biodiversity knowledge base, our findings highlight opportunities for international collaboration to close critical information gaps.
+AD  - Yale Univ, Dept Ecol & Evolutionary Biol, New Haven, CT 06520 USAAD  - Yale Univ, Ctr Biodivers & Global Change, New Haven, CT 06520 USAAD  - German Ctr Integrat Biol Res iDiv Halle Jena Leip, Leipzig, GermanyAD  - Univ Leipzig, Fac Biosci Pharm & Psychol, Leipzig, GermanyAD  - Martin Luther Univ Halle Wittenberg, Inst Geosci & Geog, Halle, GermanyC3  - Yale UniversityC3  - Yale UniversityC3  - Leipzig UniversityC3  - Martin Luther University Halle WittenbergFU  - EO Wilson Biodiversity Foundation; National Science Foundation [DEB-1441737]; National Aeronautics and Space Administration [80NSSC17K0282, 80NSSC18K0435]; Volkswagen Foundation through a Freigeist Fellowship [A118199]; iDiv - German Research Foundation [DFG-FZT 118, 202548816]
+FX  - This study is supported by the EO Wilson Biodiversity Foundation, National Science Foundation grant DEB-1441737 and National Aeronautics and Space Administration grants 80NSSC17K0282 and 80NSSC18K0435 to W.J. C. M. acknowledges funding by the Volkswagen Foundation through a Freigeist Fellowship (A118199), and additional support by iDiv, funded by the German Research Foundation (DFG-FZT 118, 202548816). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - AUG
+PY  - 2021
+VL  - 19
+IS  - 8
+C7  - e3001336
+DO  - 10.1371/journal.pbio.3001336
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000684393800003
+N1  - Times Cited in Web of Science Core Collection:  8
+Total Times Cited:  8
+Cited Reference Count:  57
+ER  -
+
+TY  - JOUR
+AU  - De Agro, M
+AU  - Rossler, DC
+AU  - Kim, K
+AU  - Shamble, PS
+TI  - Perception of biological motion by jumping spiders
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - ANTERIOR-LATERAL EYES
+KW  - VISUAL-PERCEPTION
+KW  - PRINCIPAL EYES
+KW  - DENDRYPHANTINAE
+KW  - SALTICIDAE
+KW  - MOVEMENTS
+KW  - BEHAVIOR
+KW  - TRACKING
+KW  - RETINAE
+KW  - CHICKS
+AB  - The body of most creatures is composed of interconnected joints. During motion, the spatial location of these joints changes, but they must maintain their distances to one another, effectively moving semirigidly. This pattern, termed "biological motion" in the literature, can be used as a visual cue, enabling many animals (including humans) to distinguish animate from inanimate objects. Crucially, even artificially created scrambled stimuli, with no recognizable structure but that maintains semirigid movement patterns, are perceived as animated. However, to date, biological motion perception has only been reported in vertebrates. Due to their highly developed visual system and complex visual behaviors, we investigated the capability of jumping spiders to discriminate biological from nonbiological motion using point-light display stimuli. These kinds of stimuli maintain motion information while being devoid of structure. By constraining spiders on a spherical treadmill, we simultaneously presented 2 point-light displays with specific dynamic traits and registered their preference by observing which pattern they turned toward. Spiders clearly demonstrated the ability to discriminate between biological motion and random stimuli, but curiously turned preferentially toward the latter. However, they showed no preference between biological and scrambled displays, results that match responses produced by vertebrates. Crucially, spiders turned toward the stimuli when these were only visible by the lateral eyes, evidence that this task may be eye specific. This represents the first demonstration of biological motion recognition in an invertebrate, posing crucial questions about the evolutionary history of this ability and complex visual processing in nonvertebrate systems.
+AD  - Harvard Univ, John Harvard Distinguished Sci Fellows Program, Cambridge, MA 02138 USAAD  - Harvard Univ, Dept Organism & Evolutionary Biol, Cambridge, MA 02138 USAAD  - Regensburg Univ, Dept Zool, Regensburg, GermanyC3  - Harvard UniversityC3  - Harvard UniversityC3  - University of RegensburgFU  - FAS Division of Science, Harvard University
+FX  - PSS was supported by the John Harvard Distinguished Science Fellows Program within the FAS Division of Science, Harvard University. The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - JUL
+PY  - 2021
+VL  - 19
+IS  - 7
+C7  - e3001172
+DO  - 10.1371/journal.pbio.3001172
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000677702500003
+N1  - Times Cited in Web of Science Core Collection:  5
+Total Times Cited:  5
+Cited Reference Count:  58
+ER  -
+
+TY  - JOUR
+AU  - Hagen, O
+AU  - Fluck, B
+AU  - Fopp, F
+AU  - Cabral, JS
+AU  - Hartig, F
+AU  - Pontarp, M
+AU  - Rangel, TF
+AU  - Pellissier, L
+TI  - gen3sis: A general engine for eco-evolutionary simulations of the processes that shape Earth's biodiversity
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - LATITUDINAL DIVERSITY GRADIENT
+KW  - SPECIES-RICHNESS
+KW  - BETA-DIVERSITY
+KW  - SPATIAL-PATTERNS
+KW  - GLOBAL PATTERNS
+KW  - RANGE-SIZE
+KW  - PHYLOGENETIC TREES
+KW  - NICHE BREADTH
+KW  - R PACKAGE
+KW  - CLIMATE
+AB  - Understanding the origins of biodiversity has been an aspiration since the days of early naturalists. The immense complexity of ecological, evolutionary, and spatial processes, however, has made this goal elusive to this day. Computer models serve progress in many scientific fields, but in the fields of macroecology and macroevolution, eco-evolutionary models are comparatively less developed. We present a general, spatially explicit, eco-evolutionary engine with a modular implementation that enables the modeling of multiple macroecological and macroevolutionary processes and feedbacks across representative spatiotemporally dynamic landscapes. Modeled processes can include species' abiotic tolerances, biotic interactions, dispersal, speciation, and evolution of ecological traits. Commonly observed biodiversity patterns, such as alpha, beta, and gamma diversity, species ranges, ecological traits, and phylogenies, emerge as simulations proceed. As an illustration, we examine alternative hypotheses expected to have shaped the latitudinal diversity gradient (LDG) during the Earth's Cenozoic era. Our exploratory simulations simultaneously produce multiple realistic biodiversity patterns, such as the LDG, current species richness, and range size frequencies, as well as phylogenetic metrics. The model engine is open source and available as an R package, enabling future exploration of various landscapes and biological processes, while outputs can be linked with a variety of empirical biodiversity patterns. This work represents a key toward a numeric, interdisciplinary, and mechanistic understanding of the physical and biological processes that shape Earth's biodiversity.
+AD  - Swiss Fed Inst Technol, Dept Environm Syst Sci, Inst Terr Ecosyst, Landscape Ecol, Zurich, SwitzerlandAD  - WSL, Snow & Landscape Res, Swiss Fed Inst Forest, Land Change Sci Res Unit, Birmensdorf, SwitzerlandAD  - Univ Wurzburg, Ctr Computat & Theoret Biol, Ecosyst Modeling, Wurzburg, GermanyAD  - Univ Regensburg, Theoret Ecol, Regensburg, GermanyAD  - Lund Univ, Dept Biol, Lund, SwedenAD  - Univ Fed Goias, Dept Ecol, Inst Biol Sci, Goiania, Go, BrazilC3  - Swiss Federal Institutes of Technology DomainC3  - ETH ZurichC3  - Swiss Federal Institutes of Technology DomainC3  - Swiss Federal Institute for Forest, Snow & Landscape ResearchC3  - University of WurzburgC3  - University of RegensburgC3  - Lund UniversityC3  - Universidade Federal de GoiasFU  - WSL; ETH Zurich
+FX  - We thank Samuel Bickel and Alex Skeels for thorough comments on this manuscript and package. We thank Camille Albouy, Charles N.D. Santana, Lydian Boschman, Wilhelmine Bach, Thomas Keggin, Flurin Leugger, Victor L.J. Boussange, Conor Waldock, and all sELDiG working group participants for insightful feedback during the model development. We thank the WSL and ETH Zurich for support and infrastructure, including access to High Performance Computing facilities.
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - JUL
+PY  - 2021
+VL  - 19
+IS  - 7
+C7  - e3001340
+DO  - 10.1371/journal.pbio.3001340
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000674281900003
+N1  - Times Cited in Web of Science Core Collection:  22
+Total Times Cited:  21
+Cited Reference Count:  176
+ER  -
+
+TY  - JOUR
+AU  - Ulrich, Y
+AU  - Kawakatsu, M
+AU  - Tokita, CK
+AU  - Saragosti, J
+AU  - Chandra, V
+AU  - Tarnita, CE
+AU  - Kronauer, DJC
+TI  - Response thresholds alone cannot explain empirical patterns of division of labor in social insects
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - HONEYBEES APIS-MELLIFERA
+KW  - BIROI FOREL FORMICIDAE
+KW  - CLONAL RAIDER ANT
+KW  - AGE POLYETHISM
+KW  - THELYTOCOUS COLONIES
+KW  - INFORMATION-TRANSFER
+KW  - REPRODUCTIVE-CYCLE
+KW  - FORAGING BEHAVIOR
+KW  - DECISION-MAKING
+KW  - HYMENOPTERA
+AB  - The effects of heterogeneity in group composition remain a major hurdle to our understanding of collective behavior across disciplines. In social insects, division of labor (DOL) is an emergent, colony-level trait thought to depend on colony composition. Theoretically, behavioral response threshold models have most commonly been employed to investigate the impact of heterogeneity on DOL. However, empirical studies that systematically test their predictions are lacking because they require control over colony composition and the ability to monitor individual behavior in groups, both of which are challenging. Here, we employ automated behavioral tracking in 120 colonies of the clonal raider ant with unparalleled control over genetic, morphological, and demographic composition. We find that each of these sources of variation in colony composition generates a distinct pattern of behavioral organization, ranging from the amplification to the dampening of inherent behavioral differences in heterogeneous colonies. Furthermore, larvae modulate interactions between adults, exacerbating the apparent complexity. Models based on threshold variation alone only partially recapitulate these empirical patterns. However, by incorporating the potential for variability in task efficiency among adults and task demand among larvae, we account for all the observed phenomena. Our findings highlight the significance of previously overlooked parameters pertaining to both larvae and workers, allow the formulation of theoretical predictions for increasing colony complexity, and suggest new avenues of empirical study.
+AD  - Rockefeller Univ, Lab Social Evolut & Behav, New York, NY USAAD  - Swiss Fed Inst Technol, Inst Integrat Biol, Zurich, SwitzerlandAD  - Princeton Univ, Program Appl & Computat Math, Princeton, NJ USAAD  - Princeton Univ, Dept Ecol & Evolutionary Biol, Princeton, NJ USAC3  - Rockefeller UniversityC3  - Swiss Federal Institutes of Technology DomainC3  - ETH ZurichC3  - Princeton UniversityC3  - Princeton UniversityFU  - Faculty Scholars Program of the Howard Hughes Medical Institute; Pew Biomedical Scholars Program; National Institute of General Medical Sciences of the National Institutes of Health [R35GM127007]; Swiss National Science Foundation [P300P3-147900, PZ00P3_168066]; Rockefeller University Women AMP; Science fellowship; Army Research Office [W911NF-18-1-0325]; National Science Foundation Graduate Research Fellowship [DGE1656466]; Henry and Marie-Josee Kravis Postdoctoral Fellowship
+FX  - Research reported in this publication was supported by grants from the Faculty Scholars Program of the Howard Hughes Medical Institute (www.hhmi.org/programs/biomedical-research/faculty-scholars), the Pew Biomedical Scholars Program (www.pewtrusts.org/en/projects/pewbiomedical-scholars), and the National Institute of General Medical Sciences of the National Institutes of Health (www.nih.gov/) under Award Number R35GM127007 (D.J.C.K.); Swiss National Science Foundation (www.snf.ch/en/) Advanced Postdoc Mobility (P300P3-147900) and Ambizione (PZ00P3_168066) fellowships, and a Rockefeller University Women & Science fellowship (www.rockefeller.edu/support-our-science/women-andscience/) (Y.U.); Army Research Office (www.arl.army.mil) Grant W911NF-18-1-0325 (M.K.); National Science Foundation Graduate Research Fellowship (www.nsfgrfp.org) no. DGE1656466 (C. K.T.); and a Henry and Marie-Josee Kravis Postdoctoral Fellowship (J.S.). The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health, the Howard Hughes Medical Institute, or the Pew Biomedical Scholars Program. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - JUN
+PY  - 2021
+VL  - 19
+IS  - 6
+C7  - e3001269
+DO  - 10.1371/journal.pbio.3001269
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000670592800001
+N1  - Times Cited in Web of Science Core Collection:  13
+Total Times Cited:  13
+Cited Reference Count:  104
+ER  -
+
+TY  - JOUR
+AU  - Fetter-Pruneda, I
+AU  - Hart, T
+AU  - Ulrich, Y
+AU  - Gal, A
+AU  - Oxley, PR
+AU  - Olivos-Cisneros, L
+AU  - Ebert, MS
+AU  - Kazmi, MA
+AU  - Garrison, JL
+AU  - Bargmann, CI
+AU  - Kronauer, DJC
+TI  - An oxytocin/vasopressin-related neuropeptide modulates social foraging behavior in the clonal raider ant
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - DIVISION-OF-LABOR
+KW  - IMMUNOREACTIVE VPLI NEURONS
+KW  - BIROI FOREL FORMICIDAE
+KW  - THELYTOCOUS COLONIES
+KW  - RESPONSE THRESHOLDS
+KW  - REPRODUCTIVE-CYCLE
+KW  - MATERNAL-BEHAVIOR
+KW  - OVARIAN ACTIVITY
+KW  - GENE-EXPRESSION
+KW  - BIOGENIC-AMINES
+AB  - Oxytocin/vasopressin-related neuropeptides are highly conserved and play major roles in regulating social behavior across vertebrates. However, whether their insect orthologue, inotocin, regulates the behavior of social groups remains unknown. Here, we show that in the clonal raider ant Ooceraea biroi, individuals that perform tasks outside the nest have higher levels of inotocin in their brains than individuals of the same age that remain inside the nest. We also show that older ants, which spend more time outside the nest, have higher inotocin levels than younger ants. Inotocin thus correlates with the propensity to perform tasks outside the nest. Additionally, increasing inotocin pharmacologically increases the tendency of ants to leave the nest. However, this effect is contingent on age and social context. Pharmacologically treated older ants have a higher propensity to leave the nest only in the presence of larvae, whereas younger ants seem to do so only in the presence of pupae. Our results suggest that inotocin signaling plays an important role in modulating behaviors that correlate with age, such as social foraging, possibly by modulating behavioral response thresholds to specific social cues. Inotocin signaling thereby likely contributes to behavioral individuality and division of labor in ant societies.
+AD  - Rockefeller Univ, Lab Social Evolut & Behav, New York, NY USAAD  - Univ Nacl Autonoma Mexico, Inst Invest Biomed, Dept Biol & Celular Fisiol, Mexico City, DF, MexicoAD  - Swiss Fed Inst Technol, Inst Integrat Biol, Zurich, SwitzerlandAD  - Weill Cornell Med, Samuel J Wood Lib, New York, NY USAAD  - Rockefeller Univ, Lulu & Anthony Wang Lab Neural Circuits & Behav, 1230 York Ave, New York, NY 10021 USAAD  - Rockefeller Univ, Lab Chem Biol & Signal Transduct, 1230 York Ave, New York, NY 10021 USAAD  - Buck Inst Res Aging, Novato, CA USAAD  - Chan Zuckerberg Initiat, Redwood City, CA USAC3  - Rockefeller UniversityC3  - Universidad Nacional Autonoma de MexicoC3  - Swiss Federal Institutes of Technology DomainC3  - ETH ZurichC3  - Cornell UniversityC3  - Rockefeller UniversityC3  - Rockefeller UniversityC3  - Buck Institute for Research on AgingFU  - National Institute of General Medical Sciences of the National Institutes of Health [R35GM127007]; Sinsheimer Scholar Award; Klingenstein-Simons Fellowship Award in the Neurosciences; Howard Hughes Medical Institute; G. Harold AMP; Leila Y. Mathers Charitable Foundation; Fulbright-Garcia Robles fellowship; Rockefeller University Women AMP; Science fellowship
+FX  - Research reported in this publication was supported by the National Institute of General Medical Sciences of the National Institutes of Health under Award Number R35GM127007 to D. J.C.K. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health. This work was also supported by a Sinsheimer Scholar Award, a Klingenstein-Simons Fellowship Award in the Neurosciences, and a Faculty Scholars Award from the Howard Hughes Medical Institute to D.J.C.K., a G. Harold & Leila Y. Mathers Charitable Foundation award to C.I.B., by the Howard Hughes Medical Institute, of which C.I.B. was an Investigator, and Fulbright-Garci ' a Robles and Rockefeller University Women & Science fellowships to I.F.-P. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - JUN
+PY  - 2021
+VL  - 19
+IS  - 6
+C7  - e3001305
+DO  - 10.1371/journal.pbio.3001305
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000670593600001
+N1  - Times Cited in Web of Science Core Collection:  4
+Total Times Cited:  4
+Cited Reference Count:  85
+ER  -
+

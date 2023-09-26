@@ -1,0 +1,858 @@
+---
+title: "**Keywords to success: a practical guide to maximise the visibility and impact of academic papers**"
+author: Patrice Pottier (he/him), Malgorzata Lagisz (she/her), Samantha Burke (she/her), Szymon M. Drobniak (he/him), Philip A. Downing (he/him), Erin L. Macartney (she/her), April Robin Martinig (she/her), Ayumi Mizuno 水野歩 (she/her), Kyle Morrison (he/him), Pietro Pollo (he/him), Lorenzo Ricolfi (he/him), Jesse Tam (he/him), Coralie Williams (she/her), Yefeng Yang 杨业丰 (he/him), and Shinichi Nakagawa 中川震 (he/him)
+date: "latest update: `r format(Sys.time(), '%d %B %Y')`"
+output: 
+  rmdformats::downcute:
+    code_folding: show
+    code_download: true
+    toc_depth: 6
+    toc_float:
+      collapsed: false
+    lightbox: true
+    thumbnails: false
+    code_overflow: wrap
+editor_options: 
+  chunk_output_type: console
+---
+
+
+<style>
+#toc ul.nav li ul li {
+    display: none;
+    max-height: none;
+}
+
+#toc ul.nav li.active ul li  {
+    display: block;
+    max-height: none;
+}
+
+#toc ul.nav li ul li ul li {
+    max-height: none;
+    display: none !important;
+}
+
+#toc ul.nav li ul li.active ul li {
+    max-height: none;
+    display: block !important;
+    
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #B451E1 !important;
+
+</style>
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE, 
+  tidy = TRUE,
+  cache = TRUE,
+  echo=TRUE
+)
+```
+
+# **Load packages**
+```{r}
+pacman::p_load(tidyverse, 
+               stringr,
+               synthesisr,
+               stringi,
+               patchwork,
+               ggdist,
+               gghalves,
+               ggtext)
+```
+
+# **Process study samples**
+
+We performed seven bibliographic searches to gather a sample of ~25 studies per journal. Below are listed how each string was processed. Details on how the search string were constructed can be found in Supplementary Information S1. 
+
+## **Function to extract abstract, keyword and title lengths** 
+
+This function processes bibtex files and count the number of words in the title, abstract and keywords.
+
+```{r}
+# Function to extract the data 
+process_bib <- function(bib_file) {
+  data <- read_refs(bib_file)
+  
+  data <- dplyr::select(data, title, abstract, keywords, journal, year, volume, number, doi, issn)
+  
+  # Count number of words and characters in the title
+  data$title_length <- str_count(data$title, "\\S+") # count words in the title
+  data$title_character_length <- nchar(data$title) # count characters in the title
+  
+  # Count number of words and characters in the abstract
+  data$abstract_length <- str_count(data$abstract, "\\S+") # count words in the abstract
+  data$abstract_character_length <- nchar(data$abstract) # count characters in the abstract
+  
+  # Count number of author keywords
+  data$keywords_number <- str_count(data$keywords, ";") + 1 # Count the number of semi colons (+1 because there are one fewer semi-colons than the number of keywords in each entry)
+
+  return(data)
+}
+
+```
+
+## **First string (all journals)** 
+
+```{r}
+# Get the list of files
+dir_path <- "samples_ecoevo_journals/1st_string"
+files1 <- list.files(path = dir_path, pattern = "\\.bib$", full.names = TRUE)
+
+# Process each file
+results1 <- lapply(files1, process_bib)
+
+# Combine all results into one data frame
+data1 <- do.call(rbind, results1)
+
+data1 <- filter(data1, abstract_length >50) # Remove very short abstracts as they are more likely to be comments/opinions
+data1 <- filter(data1, is.na(abstract_length)==FALSE) # Remove papers with missing abstracts
+
+counts1 <- data1 %>% group_by(journal) %>% summarise(n = n())
+
+journals_to_search1 <- filter(counts1, n < 25)
+
+journals_to_search1 <- distinct(left_join(journals_to_search1, select(data1, journal, issn)))
+
+write_csv(journals_to_search1, "samples_ecoevo_journals/first_list_missing_journals.csv")
+```
+
+
+## **Second string (129 journals)**
+
+```{r}
+# Get the list of files
+dir_path <- "samples_ecoevo_journals/2nd_string"
+files2 <- list.files(path = dir_path, pattern = "\\.bib$", full.names = TRUE)
+
+# Process each file
+results2 <- lapply(files2, process_bib)
+
+# Combine all results into one data frame
+data2 <- do.call(rbind, results2)
+
+data2 <- filter(data2, abstract_length >50) # Remove very short abstracts as they are more likely to be comments/opinions
+data2 <- filter(data2, is.na(abstract_length)==FALSE) # Remove papers with missing abstracts
+
+counts2 <- data2 %>% group_by(journal) %>% summarise(n = n())
+
+journals_to_search2 <- filter(counts2, n < 25)
+
+journals_to_search2 <- distinct(left_join(journals_to_search2, select(data2, journal, issn))) # 61 journals left
+
+write_csv(journals_to_search2, "samples_ecoevo_journals/second_list_missing_journals.csv")
+```
+
+## **Third string (61 journals)**
+
+```{r}
+# Get the list of files
+dir_path <- "samples_ecoevo_journals/3rd_string"
+files3 <- list.files(path = dir_path, pattern = "\\.bib$", full.names = TRUE)
+
+# Process each file
+results3 <- lapply(files3, process_bib)
+
+# Combine all results into one data frame
+data3 <- do.call(rbind, results3)
+
+data3 <- filter(data3, abstract_length >50) # Remove very short abstracts as they are more likely to be comments/opinions
+data3 <- filter(data3, is.na(abstract_length)==FALSE) # Remove papers with missing abstracts
+
+counts3 <- data3 %>% group_by(journal) %>% summarise(n = n())
+
+journals_to_search3 <- filter(counts3, n < 25)
+
+journals_to_search3 <- distinct(left_join(journals_to_search3, select(data3, journal, issn))) # 26 journals left
+
+write_csv(journals_to_search3, "samples_ecoevo_journals/third_list_missing_journals.csv")
+```
+
+
+## **Fourth string (26 journals)**
+
+```{r}
+# Get the list of files
+dir_path <- "samples_ecoevo_journals/4th_string"
+files4 <- list.files(path = dir_path, pattern = "\\.bib$", full.names = TRUE)
+
+# Process each file
+results4 <- lapply(files4, process_bib)
+
+# Combine all results into one data frame
+data4 <- do.call(rbind, results4)
+
+data4 <- filter(data4, abstract_length >50) # Remove very short abstracts as they are more likely to be comments/opinions
+data4 <- filter(data4, is.na(abstract_length)==FALSE) # Remove papers with missing abstracts
+
+counts4 <- data4 %>% group_by(journal) %>% summarise(n = n())
+
+journals_to_search4 <- filter(counts4, n < 25)
+
+journals_to_search4 <- distinct(left_join(journals_to_search4, select(data4, journal, issn))) # 6 journals left
+
+write_csv(journals_to_search4, "samples_ecoevo_journals/fourth_list_missing_journals.csv")
+```
+
+
+## **Fifth string (6 journals)**
+
+```{r}
+# Get the list of files
+dir_path <- "samples_ecoevo_journals/5th_string"
+files5 <- list.files(path = dir_path, pattern = "\\.bib$", full.names = TRUE)
+# Process each file
+results5 <- lapply(files5, process_bib)
+
+# Combine all results into one data frame
+data5 <- do.call(rbind, results5)
+
+data5 <- filter(data5, abstract_length >50) # Remove very short abstracts as they are more likely to be comments/opinions
+data5 <- filter(data5, is.na(abstract_length)==FALSE) # Remove papers with missing abstracts
+
+counts5 <- data5 %>% group_by(journal) %>% summarise(n = n())
+
+journals_to_search5 <- filter(counts5, n < 25) # No journals left. 
+```
+
+## **Sample of studies from multidisciplinary journals** 
+
+Study samples from multidisciplinary journals were exported manually as .ris files. However, .ris files do not separate author keywords from keywords plus (the keywords automatically added by Web of Science). Therefore, it was needed to create a new search string to locate these papers in Web of Science, and export them as .bib. 
+
+### **Function to process ris files and create new search string** 
+
+```{r}
+# Function to extract the data from ris files
+process_ris <- function(ris_file) {
+  data <- read_refs(ris_file)
+  
+  data <- dplyr::select(data, title, abstract, keywords, source, year, doi, issn)
+  
+  # Count number of words and characters in the title
+  data$title_length <- str_count(data$title, "\\S+") # count words in the title
+  data$title_character_length <- nchar(data$title) # count characters in the title
+  
+  # Count number of words and characters in the abstract
+  data$abstract_length <- str_count(data$abstract, "\\S+") # count words in the abstract
+  data$abstract_character_length <- nchar(data$abstract) # count characters in the abstract
+  
+  # Count number of author keywords
+  data$keywords_number <- str_count(data$keywords, ";") + 1 # Count the number of semi colons (+1 because there are one fewer semi-colons than the number of keywords in each entry)
+
+  return(data)
+}
+
+
+# Get the list of files
+dir_path <- "samples_ecoevo_journals/Multidisciplinary_journals"
+files_multi <- list.files(path = dir_path, pattern = "\\.ris$", full.names = TRUE)
+# Process each file
+results_multi <- lapply(files_multi, process_ris)
+
+# Combine all results into one data frame
+data_multi <- do.call(rbind, results_multi)
+
+# Create search string
+create_search_string <- function(titles) {
+  
+  # Prefix and suffix for titles
+  prefix <- "TI=(\""
+  suffix <- "\")"
+  
+  # Create search string for each title and collapse with OR operator
+  search_string <- paste0(prefix, titles, suffix, collapse = " OR ")
+  
+  return(search_string)
+}
+
+# Generate search string from the title column of data_multi
+search_string <- create_search_string(data_multi$title)
+cat(search_string)
+
+```
+
+### **Process study samples from multidisciplinary journals** 
+
+```{r}
+# Export the bib files
+files_multi <- list.files(path = dir_path, pattern = "\\.bib$", full.names = TRUE)
+
+# Process each file
+results_multi <- lapply(files_multi, process_bib)
+
+# Combine all results into one data frame
+data_multi <- do.call(rbind, results_multi)
+
+data_multi <- filter(data_multi, abstract_length >50) # Remove very short abstracts as they are more likely to be comments/opinions
+data_multi <- filter(data_multi, is.na(abstract_length)==FALSE) # Remove papers with missing abstracts
+
+data_multi %>% group_by(journal) %>% summarise(n=n()) # Some extra journals were introduced.. 
+
+data_multi <- filter(data_multi, journal!= "AFRICAN ENTOMOLOGY" & 
+                                 journal!= "ECOLOGY AND EVOLUTION" &
+                                 journal!= "PEST MANAGEMENT SCIENCE" & 
+                                 journal!= "TAXON" & 
+                                 journal!= "WILDLIFE RESEARCH") # Remove these journals
+```
+
+
+## **Combine all files** 
+```{r}
+data <- rbind(data1,
+              data2,
+              data3,
+              data4,
+              data5,
+              data_multi)
+```
+
+## **Select sample of 25 studies per journal** 
+
+```{r}
+data$year <- as.numeric(data$year)
+
+# Function to handle study selection per year
+select_studies <- function(df) {
+  df <- distinct(df)
+  if (n_distinct(df$year) > 1) {
+    return(df %>% arrange(desc(year)) %>% slice_head(n = 25)) # Select the 25 most recent ones for journals with multiple years
+  } else {
+    return(df %>% sample_n(size = min(25, n()))) # Randomly select 25 rows (or fewer if there are fewer than 25) for journals with only one year
+  }
+}
+
+# Group by "journal" and apply the custom function
+data <- data %>%
+  group_by(journal) %>%
+  nest() %>%
+  mutate(data = map(data, select_studies)) %>%
+  unnest(data) %>%
+  ungroup()
+```
+
+
+# **Process data from journal policy survey** 
+
+```{r}
+survey <- read_csv("data/Survey_journal_guidelines.csv")
+```
+
+
+## **Convert character limits to word limits**  
+
+```{r}
+# Estimate relationship between word count and character count in the data
+ggplot(data, aes(x = title_character_length, y = title_length)) + 
+  geom_point() + 
+  geom_smooth(method = "lm")+
+  theme_classic()
+
+model <- lm(title_length ~ title_character_length, data = data)
+summary(model)
+
+# Predict this on the data from the journal survey
+new_data <- survey[, c(5,6)]
+new_data <- new_data %>% rename(title_length = `3.1 Title length limit`, title_character_length = `3.2 Title character limit`)
+
+pred <- data.frame(predicted_title_length = predict(model, newdata = new_data))
+
+pred$predicted_title_length = round(pred$predicted_title_length, 0)
+
+survey <- cbind(survey, dplyr::select(pred, predicted_title_length))
+
+# Now process the survey data 
+survey <- survey[, c(3,5,8,11,13,16)]
+survey <- survey %>% rename(journal = `2. Full journal name`,
+                            title_word_limit = `3.1 Title length limit`,
+                            abstract_word_limit = `5.1 Abstract length limit`, 
+                            keywords_limit = `7. Keywords limit`,
+                            structured_abstract = `9. Is the abstract structured?`)
+
+survey <- survey %>% mutate(title_word_limit = ifelse(is.na(title_word_limit)==TRUE & is.na(predicted_title_length)==FALSE, 
+                                                      predicted_title_length, 
+                                                      title_word_limit)) %>% 
+  dplyr::select(-predicted_title_length)
+```
+
+
+## **Standardise journal names between survey and study samples** 
+
+Some journals were not in the study samples because of how the search strings were constructed (i.e., when no study was published in the range of dates used for the first search string). Therefore, additional searches were needed. 
+
+```{r}
+# Convert journal name to upper case
+survey$journal <- str_to_upper(survey$journal)
+data$journal <- str_replace_all(data$journal, "\\\\&", "&")
+
+# Check the journal names not matching between the survey and the study sample
+not_matching <- survey$journal[!survey$journal %in% data$journal]
+not_matching
+
+survey <- survey %>%
+  mutate(journal = case_when(
+    journal == "FIRE-BASEL" ~ "FIRE-SWITZERLAND",
+    journal == "URBAN ECOSYST" ~ "URBAN ECOSYSTEMS",
+    journal == "AQUAT INVASIONS" ~ "AQUATIC INVASIONS",
+    journal == "INSECT SYSTEMATICS & EVOLUTION" ~ "INSECT SYSTEMATICS AND EVOLUTION",
+    journal == "J NAT CONSERV" ~ "JOURNAL FOR NATURE CONSERVATION",
+    journal == "WILDLIFE BIOL" ~ "WILDLIFE BIOLOGY",
+    journal == "AQUAT ECOL" ~ "AQUATIC ECOLOGY",
+    journal == "THEOR POPUL BIOL" ~ "THEORETICAL POPULATION BIOLOGY",
+    journal == "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES" ~ "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA",
+    journal == "MAMMAL REV" ~ "MAMMAL REVIEW",
+    journal == "ECOL COMPLEX" ~ "ECOLOGICAL COMPLEXITY",
+    journal == "BMC EVOLUTIONARY BIOLOGY (NAME CHANGE TO BMC ECOLOGY AND EVOLUTION)" ~ "BMC ECOLOGY AND EVOLUTION",
+    journal == "SOUTHWEST NAT" ~ "SOUTHWESTERN NATURALIST",
+    journal == "J WILDLIFE MANAGE" ~ "JOURNAL OF WILDLIFE MANAGEMENT",
+    journal == "SOUTHEAST NAT" ~ "SOUTHEASTERN NATURALIST",
+    TRUE ~ journal  # if no conditions are met, keep the original value
+  ))
+
+data <- data %>% 
+  mutate(journal = case_when(
+    journal == "NATURE ECOLOGY & EVOLUTION" ~ "NATURE ECOLOGY AND EVOLUTION",
+    journal == "ISRAEL JOURNAL OF ECOLOGY & EVOLUTION" ~ "ISRAEL JOURNAL OF ECOLOGY AND EVOLUTION",
+    journal == "ECOHYDROLOGY & HYDROBIOLOGY" ~ "ECOHYDROLOGY AND HYDROBIOLOGY",
+    journal == "AFRICAN JOURNAL OF RANGE & FORAGE SCIENCE" ~ "AFRICAN JOURNAL OF RANGE AND FORAGE SCIENCE",
+    journal == "RANGELAND ECOLOGY & MANAGEMENT" ~ "RANGELAND ECOLOGY AND MANAGEMENT", 
+    journal == "EVOLUTION & DEVELOPMENT" ~ "EVOLUTION AND DEVELOPMENT", 
+    journal == "TRENDS IN ECOLOGY & EVOLUTION"  ~ "TRENDS IN ECOLOGY AND EVOLUTION", 
+    journal == "ORGANISMS DIVERSITY & EVOLUTION"  ~ "ORGANISMS DIVERSITY AND EVOLUTION",
+    journal == "AGRICULTURE ECOSYSTEMS & ENVIRONMENT" ~ "AGRICULTURE ECOSYSTEMS AND ENVIRONMENT",
+    TRUE ~ journal
+  ))
+
+not_matching <- survey$journal[!survey$journal %in% data$journal]
+unique(not_matching)
+
+# "ANNUAL REVIEW OF ECOLOGY EVOLUTION AND SYSTEMATICS", NOT in the study sample.  ISSN = 1545-2069
+# "INSECT SYSTEMATICS AND EVOLUTION" , NOT in the study sample.  ISSN = 1876-312X
+# "BULLETIN OF THE AMERICAN MUSEUM OF NATURAL HISTORY", NOT in the study sample . ISSN = 1937-3546
+# "ANTHROPOLOGICAL SCIENCE", NOT in the study sample .  ISSN = 1348-8570
+# "SYSTEMATIC BOTANY", NOT in the study sample . ISSN = 1548-2324
+# "IDEAS IN ECOLOGY AND EVOLUTION"  NOT in the study sample .ISSN = 1918-3178
+# "ECOLOGICAL MANAGEMENT AND RESTORATION" NOT in the study sample . ISSN = 1442-8903
+# "FOLIA OECOLOGICA" NOT in the study sample . ISSN = 1338-7014
+# "POLISH POLAR RESEARCH" NOT in the study sample . ISSN = 2081-8262
+# "POLAR SCIENCE"  NOT in the study sample . ISSN = 1876-4428
+# "EVOLUTION MEDICINE AND PUBLIC HEALTH" NOT in the study sample . ISSN = 2050-6201
+# "SYSTEMATIC BIOLOGY" NOT in the study sample . ISSN = 1076-836X
+# "COMPOST SCIENCE & UTILIZATION" NOT in the study sample . ISSN = 2326-2397
+# "PROCEEDINGS OF THE ACADEMY OF NATURAL SCIENCES OF PHILADELPHIA" NOT in the study sample . ISSN = 0097-3157
+# "ECO MONT-JOURNAL ON PROTECTED MOUNTAIN AREAS RESEARCH" NOT in the study sample . ISSN = 2073-1558
+# "RUSSIAN JOURNAL OF ECOLOGY" NOT in the study sample . ISSN = 1608-3334
+# "VIE ET MILIEU-LIFE AND ENVIRONMENT" NOT in the study sample . ISSN = 0240-8759
+# "ECOLOGIA APLICADA" NOT in the study sample . ISSN = 1993-9507
+# "AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY" NOT in the study sample . ISSN = 1096-8644
+# "INTERNATIONAL JOURNAL OF ECOLOGY & DEVELOPMENT" NOT in the study sample . ISSN = 0973-7308
+# "VESTNIK TOMSKOGO GOSUDARSTVENNOGO UNIVERSITETA-BIOLOGIYA" NOT in the study sample . ISSN = 2311-2077
+# "AFRICAN JOURNAL OF WILDLIFE RESEARCH" NOT in the study sample . ISSN = 2410-8200
+# "BIOSYSTEMS DIVERSITY" NOT in the study sample . ISSN = 2520-2529
+# "WILDLIFE MONOGRAPHS" NOT in the study sample . ISSN = 1938-5455
+# "JOURNAL OF FISH AND WILDLIFE MANAGEMENT" NOT in the study sample . ISSN = 1944-687X
+# "NATURAL HISTORY"  NOT in the study sample . ISSN = 0028-0712 
+
+merged_data <- left_join(data, survey, by="journal")
+```
+
+# **Additional searches** 
+
+## **Sixth string**
+
+```{r}
+# Get the list of files
+dir_path <- "samples_ecoevo_journals/6th_string"
+files6 <- list.files(path = dir_path, pattern = "\\.bib$", full.names = TRUE)
+
+# Process each file
+results6 <- lapply(files6, process_bib)
+
+# Combine all results into one data frame
+data6 <- do.call(rbind, results6)
+
+data6 <- filter(data6, abstract_length >50) # Remove very short abstracts as they are more likely to be comments/opinions
+data6 <- filter(data6, is.na(abstract_length)==FALSE) # Remove papers with missing abstracts
+
+counts6 <- data6 %>% group_by(journal) %>% summarise(n = n())
+
+journals_to_search6 <- filter(counts6, n < 25) # No journals left. 
+
+journals_to_search6 <- distinct(left_join(journals_to_search6, select(data6, journal, issn))) # 8 journals left
+
+write_csv(journals_to_search6, "samples_ecoevo_journals/fifth_list_missing_journals.csv")
+```
+
+## **Seventh string** 
+```{r}
+# Get the list of files
+dir_path <- "samples_ecoevo_journals/7th_string"
+files7 <- list.files(path = dir_path, pattern = "\\.bib$", full.names = TRUE)
+
+# Process each file
+results7 <- lapply(files7, process_bib)
+
+# Combine all results into one data frame
+data7 <- do.call(rbind, results7)
+
+data7 <- mutate(data7, journal = ifelse(is.na(journal)==TRUE, 
+                                       "ANNUAL REVIEW OF ECOLOGY EVOLUTION AND SYSTEMATICS", 
+                                        journal))
+
+data7 <- filter(data7, abstract_length >50) # Remove very short abstracts as they are more likely to be comments/opinions
+data7 <- filter(data7, is.na(abstract_length)==FALSE) # Remove papers with missing abstracts
+
+counts7 <- data7 %>% group_by(journal) %>% summarise(n = n()) # 2 journals have less than 25 publications but we decided not to search further. We do not want to capture studies older than 5 years. 
+```
+
+
+# **Combine additional searches with the overall data** 
+
+```{r}
+data <- rbind(data,
+              data6, 
+              data7)
+
+data$year <- as.numeric(data$year)
+
+# Group by "journal" and select a sample of studies
+data <- data %>%
+  group_by(journal) %>%
+  nest() %>%
+  mutate(data = map(data, select_studies)) %>%
+  unnest(data) %>%
+  ungroup()
+
+data$journal <- str_replace_all(data$journal, "\\\\&", "&")
+```
+
+
+
+# **Combine survey results with study samples** 
+```{r}
+not_matching <- survey$journal[!survey$journal %in% data$journal]
+not_matching
+
+survey <- survey %>%
+  mutate(journal = case_when(
+    journal ==  "ECOL MANAG RESTOR" ~ "ECOLOGICAL MANAGEMENT AND RESTORATION",
+    TRUE ~ journal  # if no conditions are met, keep the original value
+  ))
+
+data <- data %>% 
+  mutate(journal = case_when(
+    journal == "ECOLOGICAL MANAGEMENT & RESTORATION" ~ "ECOLOGICAL MANAGEMENT AND RESTORATION",
+    journal == "INSECT SYSTEMATICS & EVOLUTION" ~ "INSECT SYSTEMATICS AND EVOLUTION",
+    journal == "COMPOST SCIENCE & UTILIZATION" ~ "COMPOST SCIENCE AND UTILIZATION", 
+    journal == "INTERNATIONAL JOURNAL OF ECOLOGY & DEVELOPMENT" ~ "INTERNATIONAL JOURNAL OF ECOLOGY AND DEVELOPMENT",
+    TRUE ~ journal
+  ))
+
+# Natural history does not have abstracts. 
+not_matching <- survey$journal[!survey$journal %in% data$journal]
+not_matching
+
+merged_data <- distinct(left_join(data, survey, by="journal"))
+```
+
+# **Data summary**
+
+## **Journal policies** 
+```{r}
+overall_summary_guidelines <- survey %>% 
+  summarise(mean_abstract_limit = mean(abstract_word_limit, na.rm = T), 
+            sd_abstract_limit=sd(abstract_word_limit, na.rm = T),
+            mean_keywords_limit = mean(keywords_limit, na.rm = T),
+            sd_keywords_limit = sd(keywords_limit, na.rm = T),
+            mean_title_limit = mean(title_word_limit, na.rm = T),
+            sd_title_limit = sd(title_word_limit, na.rm = T))
+
+summary(survey)
+
+# Identify the most common abstract limit 
+abstract_word_freq <- table(survey$abstract_word_limit, useNA = "always")
+abstract_word_percent <- (abstract_word_freq / sum(abstract_word_freq)) * 100
+most_common_abstract_word_limit <- names(abstract_word_freq)[which.max(abstract_word_freq)]
+most_common_abstract_word_limit_percent <- abstract_word_percent[most_common_abstract_word_limit]
+
+# Identify the most common abstract limit 
+keywords_freq <- table(survey$keywords_limit, useNA = "always")
+keywords_percent <- (keywords_freq / sum(keywords_freq)) * 100
+most_common_keywords_limit <- names(keywords_freq)[which.max(keywords_freq)]
+most_common_keywords_limit_percent <- keywords_percent[most_common_keywords_limit]
+
+# See the proportion of journals allowing structured abstracts 
+survey %>% mutate(structured_abstract = ifelse(structured_abstract == "Yes", 1, 0)) %>% summary()
+```
+
+
+## **Study samples** 
+
+### **Abstract data**
+
+Summary of abstract data. Here we only take data that is present in both the survey and study samples to make them comparable.
+
+```{r}
+merged_data <- filter(merged_data, abstract_length > 50)
+abstract_data <- filter(merged_data, is.na(abstract_word_limit) == FALSE & is.na(abstract_length) == FALSE)
+
+abstract_data %>% 
+  group_by(journal) %>% 
+  summarise(mean_abstract_length = mean(abstract_length, na.rm = T), 
+            sd_abstract_length=sd(abstract_length, na.rm = T),
+            n = n())
+
+abstract_data %>% summarise(mean_abstract_length = mean(abstract_length, na.rm = T), 
+                            sd_abstract_length=sd(abstract_length, na.rm = T),
+                            n = n())
+summary(abstract_data)
+
+### Summary in journals that don't have limits
+abstract_data_no_limit <- filter(merged_data, is.na(abstract_length) == TRUE)
+abstract_data_no_limit %>% summarise(mean_abstract_length = mean(abstract_length, na.rm = T), 
+                                     sd_abstract_length=sd(abstract_length, na.rm = T),
+                                     n = n())
+```
+
+
+### **Keyword data**
+
+Summary of keyword data. Here we only take data that is present in both the survey and study samples to make them comparable.
+
+```{r}
+keyword_data <- filter(merged_data, is.na(keywords_limit) == FALSE & is.na(keywords_number) == FALSE)
+
+keyword_data %>% 
+  group_by(journal) %>% 
+  summarise(mean_keywords = mean(keywords_number, na.rm = T),
+            sd_keywords = sd(keywords_number, na.rm = T),
+            n = n())
+
+keyword_data %>% summarise(mean_keywords = mean(keywords_number, na.rm = T),
+                           sd_keywords = sd(keywords_number, na.rm = T),
+                           n = n())
+
+summary(keyword_data)
+
+### Summary in journals that don't have limits
+keyword_data_no_limit <- filter(merged_data, is.na(keywords_limit) == TRUE)
+keyword_data_no_limit %>% summarise(mean_keywords = mean(keywords_number, na.rm = T),
+                                    sd_keywords = sd(keywords_number, na.rm = T),
+                                    n = n())
+```
+
+
+### **Title data**
+
+Summary of title data. Here we only take data that is present in both the survey and study samples to make them comparable.
+
+```{r}
+title_data <- filter(merged_data, is.na(title_word_limit) == FALSE & is.na(title_length) == FALSE)
+
+title_data %>% group_by(journal) %>% summarise(mean_title = mean(title_length, na.rm = T),
+                                              sd_title = sd(title_length, na.rm = T),
+                                                n = n())
+
+title_data %>% summarise(mean_title = mean(title_length, na.rm = T),
+                           sd_title = sd(title_length, na.rm = T),
+                           n = n())
+
+summary(title_data)
+
+### Summary in journals that don't have limits
+title_data_no_limit <- filter(merged_data, is.na(title_word_limit) == TRUE)
+title_data_no_limit %>% summarise(mean_title = mean(title_length, na.rm = T),
+                           sd_title = sd(title_length, na.rm = T),
+                           n = n())
+summary(title_data_no_limit)
+```
+
+## **Count key terms repeated between sections**
+```{r}
+## Function to count repeated keywords
+find_repeated_keywords <- function(keywords, text) {
+  if (is.na(keywords) || keywords == "") return(list(number_repeated_keywords = NA, repeated_keywords = NA)) 
+  
+  # Convert keywords and text to lowercase
+  keywords <- tolower(keywords)
+  text <- tolower(text)
+  
+  keyword_list <- str_split(keywords, "; ") %>% unlist()  # Split the keywords at semicolons
+  
+  # Check each keyword according to the rules, only count if it contains at least one lowercase letter
+  valid_keywords <- keyword_list[sapply(keyword_list, function(x) { grepl("[a-z]", x) })]
+  
+  # Check if all keywords are invalid, return NA in that case
+  if(length(valid_keywords) == 0) return(list(number_repeated_keywords = NA, repeated_keywords = NA))
+  
+  valid_keywords <- valid_keywords[valid_keywords != ""]  # Remove any empty strings if present
+  
+  repeated_keywords <- c()
+  
+  # Find and count the number of valid keywords that are repeated in the text, ignoring case
+  count <- sum(sapply(valid_keywords, function(kw) {
+    kw_escaped = stringi::stri_replace_all_regex(kw, "[\\\\.+*?\\[\\^\\]$(){}=!<>|:\\-]", "\\\\\\$0")
+    is_repeated <- grepl(paste0("\\b", kw_escaped, "\\b"), text)
+    if (is_repeated) {
+      repeated_keywords <<- c(repeated_keywords, kw)  # Append the repeated keyword to the vector
+    }
+    return(is_repeated)
+  }))
+  
+  repeated_keywords_str <- paste(repeated_keywords, collapse = "; ")  # Convert to semi-colon-separated string
+  
+  return(list(number_repeated_keywords = count, repeated_keywords = repeated_keywords_str))
+}
+
+# Count repeated keywords
+merged_data$result_list <- mapply(find_repeated_keywords, merged_data$keywords, merged_data$abstract, SIMPLIFY = FALSE)
+
+# Unlist the result to two separate columns
+merged_data <- merged_data %>%
+  rowwise() %>%
+  mutate(
+    number_repeated_keywords = list(result_list)[[1]]$number_repeated_keywords,
+    repeated_keywords = list(result_list)[[1]]$repeated_keywords
+  ) %>% 
+  dplyr::select(-result_list) %>% 
+  ungroup()
+
+# Filtering the data to include only rows where there are keywords
+filtered_data <- merged_data[!is.na(merged_data$keywords_number) & merged_data$keywords_number > 0,]
+
+# Calculating the proportion of studies repeating keywords
+filtered_data <- mutate(filtered_data, is_repeated  = ifelse(number_repeated_keywords > 0, 1, 0))
+
+filtered_data %>% summarise(prop = mean(is_repeated), n = n())
+
+filtered_data %>% summarise(n_keywords = mean(number_repeated_keywords), sd = sd(number_repeated_keywords), n = n())
+
+# Calculate the proportion of keywords repeated between sections
+filtered_data <- mutate(filtered_data, proportion_repeated = number_repeated_keywords/keywords_number)
+
+filtered_data %>% summarise(prop_repeated = mean(proportion_repeated), sd = sd(proportion_repeated), n = n())
+
+summary(filtered_data$proportion_repeated)
+```
+
+
+# **Figures**
+
+## **Figure 3A** 
+```{r, fig.height= 6, fig.width=12}
+# Convert word limit to a factor
+abstract_data$word_limit_factor <- as.factor(abstract_data$abstract_word_limit)
+
+annotate_df <- data.frame(
+  word_limit_factor = sort(unique(abstract_data$word_limit_factor), decreasing = TRUE), # Sort in descending order
+  abstract_length = c(500, 400, 350, 300, 250, 200, 150, 125, 120) # Reverse the order of the values
+)
+
+# Create plot
+fig_3A <- ggplot(abstract_data, aes(x=word_limit_factor, y= abstract_length)) + 
+   stat_halfeye(
+    adjust = 2,
+    justification = -0.5,
+    .width = 0,
+    point_colour = NA,
+    fill= "darkcyan",
+    alpha = 0.5,
+    width = 0.5
+  ) +
+  geom_jitter(width = 0.05, alpha = 0.1, col = "darkcyan") +
+  geom_boxplot(
+    width = 0.4,
+    outlier.color = NA,
+    alpha = 0.9,
+    color = "black",
+    lwd = 1.15,
+    #notch = TRUE,
+    fill = NA
+  ) +   
+  geom_segment(data=annotate_df, aes(x=as.numeric(word_limit_factor)-0.075, xend=as.numeric(word_limit_factor)+0.075, y=abstract_length, yend=abstract_length), color="red", size=1.5) +
+  theme_classic() +
+  scale_y_continuous(limits = c(0, 700)) + 
+  ylab("Abstract word count")+ 
+  xlab("Abstract word limit") + 
+  theme(axis.title.x = element_text (size = 24, vjust = -0.2),
+        axis.title.y = element_text (size = 24, hjust = 0.5),
+        axis.text.y = element_text (size = 15),
+        axis.text.x = element_text (size = 15),
+        panel.border = element_rect(fill=NA, size = 2)) 
+
+fig_3A
+
+ggsave(file = "fig/figure_3A.png", dpi = 1000, width=12, height=6)
+```
+
+## **Figure 3B**
+
+```{r, fig.height= 6, fig.width=12}
+# Convert word limit to a factor
+keyword_data$word_limit_factor <- as.factor(keyword_data$keywords_limit)
+
+annotate_df <- data.frame(
+  word_limit_factor = sort(unique(keyword_data$word_limit_factor), decreasing = TRUE), # Sort in descending order
+  keywords_number = c(15, 12, 10, 8, 7, 6, 5) # Reverse the order of the values
+)
+
+fig_3B <- ggplot(keyword_data, aes(x=word_limit_factor, y= keywords_number)) + 
+   stat_halfeye(
+    adjust = 2,
+    justification = -0.5,
+    .width = 0,
+    point_colour = NA,
+    fill= "darkcyan",
+    alpha = 0.5,
+    width = 0.5
+  ) +
+  geom_jitter(width = 0.05, 
+              height = 0.25,
+              alpha = 0.1, 
+              col = "darkcyan") +
+  geom_boxplot(
+    width = 0.4,
+    outlier.color = NA,
+    alpha = 0.9,
+    color = "black",
+    lwd=1.15,
+   # notch = TRUE,
+    fill = NA
+  ) +   
+  geom_segment(data=annotate_df, aes(x=as.numeric(word_limit_factor)-0.075, xend=as.numeric(word_limit_factor)+0.075, y=keywords_number, yend=keywords_number), color="red", size=1.5) +
+  theme_classic() +
+  scale_y_continuous(limits = c(0, 18)) + 
+  ylab("Keyword count")+ 
+  xlab("Keyword limit") + 
+  theme(axis.title.x = element_text (size = 24, vjust = -0.2),
+        axis.title.y = element_text (size = 24, hjust = 0.5),
+        axis.text.y = element_text (size = 15),
+        axis.text.x = element_text (size = 15),
+        panel.border = element_rect(fill=NA, size = 2)) 
+
+fig_3B
+
+ggsave(file = "fig/figure_3B.png", dpi = 1000, width=12, height=6)
+
+```
+## **Figure 3**
+
+```{r, fig.height = 10, fig.width=12}
+# Combine plots
+(fig_3A/fig_3B) + plot_annotation(tag_levels = "A") & 
+  theme(plot.tag = element_text(size = 25))
+
+ggsave(file = "fig/figure_3.png", dpi = 1000, width=12, height=10)
+
+```
+
+# **Software information**
+
+```{r}
+sessionInfo()
+```
+

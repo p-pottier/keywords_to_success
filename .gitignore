@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+*_cache/
+/cache/
+.Renviron
+

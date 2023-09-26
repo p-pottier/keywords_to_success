@@ -1,0 +1,839 @@
+TY  - JOUR
+AU  - Ruzicka, F
+AU  - Holman, L
+AU  - Connallon, T
+TI  - Polygenic signals of sex differences in selection in humans from the UK Biobank
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - ANTAGONISTIC SELECTION
+KW  - GENETIC ARCHITECTURE
+KW  - BALANCING SELECTION
+KW  - DEPENDENT DOMINANCE
+KW  - LOCAL ADAPTATION
+KW  - GENDER LOAD
+KW  - CONFLICT
+KW  - GENOME
+KW  - FITNESS
+KW  - EVOLUTION
+AB  - Sex differences in the fitness effects of genetic variants can influence the rate of adaptation and the maintenance of genetic variation. For example, "sexually antagonistic" (SA) variants, which are beneficial for one sex and harmful for the other, can both constrain adaptation and increase genetic variability for fitness components such as survival, fertility, and disease susceptibility. However, detecting variants with sex-differential fitness effects is difficult, requiring genome sequences and fitness measurements from large numbers of individuals. Here, we develop new theory for studying sex-differential selection across a complete life cycle and test our models with genotypic and reproductive success data from approximately 250,000 UK Biobank individuals. We uncover polygenic signals of sex-differential selection affecting survival, reproductive success, and overall fitness, with signals of sex-differential reproductive selection reflecting a combination of SA polymorphisms and sexually concordant polymorphisms in which the strength of selection differs between the sexes. Moreover, these signals hold up to rigorous controls that minimise the contributions of potential confounders, including sequence mapping errors, population structure, and ascertainment bias. Functional analyses reveal that sex-differentiated sites are enriched in phenotype-altering genomic regions, including coding regions and loci affecting a range of quantitative traits. Population genetic analyses show that sex-differentiated sites exhibit evolutionary histories dominated by genetic drift and/or transient balancing selection, but not long-term balancing selection, which is consistent with theoretical predictions of effectively weak SA balancing selection in historically small populations. Overall, our results are consistent with polygenic sex-differential-including SA-selection in humans. Evidence for sex-differential selection is particularly strong for variants affecting reproductive success, in which the potential contributions of nonrandom sampling to signals of sex differentiation can be excluded.
+AD  - Monash Univ, Sch Biol Sci, Clayton, Vic, AustraliaAD  - Univ Melbourne, Sch BioSci, Parkville, Vic, AustraliaAD  - Edinburgh Napier Univ, Sch Appl Sci, Edinburgh, Midlothian, ScotlandC3  - Monash UniversityC3  - University of MelbourneC3  - Edinburgh Napier UniversityFU  - Australian Research Council [FT170100328]
+FX  - This work was supported by an Australian Research Council Discovery Project Grant FT170100328, to TC. (www.arc.gov.au) The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+CR  - 1000 Genomes Project Consortium, 2015, Nature, V526, P68, DOI 10.1038/nature15393
+CR  - Albers PK, 2020, PLOS BIOL, V18, DOI 10.1371/journal.pbio.3000586
+CR  - Andres AM, 2009, MOL BIOL EVOL, V26, P2755, DOI 10.1093/molbev/msp190
+CR  - [Anonymous], NEALELAB
+CR  - Arnqvist G, 2010, P ROY SOC B-BIOL SCI, V277, P1345, DOI 10.1098/rspb.2009.2026
+CR  - Barson NJ, 2015, NATURE, V528, P405, DOI 10.1038/nature16062
+CR  - Benagiano G, 2010, REPROD BIOMED ONLINE, V21, P732, DOI 10.1016/j.rbmo.2010.08.011
+CR  - Benjamini Y., 1995, J R STAT SOC, P289, DOI DOI 10.1111/J.2517-6161.1995.TB02031.X
+CR  - Bernabeu E, 2021, NAT GENET, V53, P1283, DOI 10.1038/s41588-021-00912-0
+CR  - Bissegger M, 2020, MOL ECOL, V29, P262, DOI 10.1111/mec.15255
+CR  - Bitarello BD, 2018, GENOME BIOL EVOL, V10, P939, DOI 10.1093/gbe/evy054
+CR  - Bonduriansky R, 2009, TRENDS ECOL EVOL, V24, P280, DOI 10.1016/j.tree.2008.12.005
+CR  - Booker TR, 2017, BMC BIOL, V15, DOI 10.1186/s12915-017-0434-y
+CR  - Bulik-Sullivan B, 2015, NAT GENET, V47, P1236, DOI 10.1038/ng.3406
+CR  - Bycroft C, 2018, NATURE, V562, P203, DOI 10.1038/s41586-018-0579-z
+CR  - Chang CC, 2015, GIGASCIENCE, V4, DOI 10.1186/s13742-015-0047-8
+CR  - CHARLESWORTH B, 1978, AM NAT, V112, P975, DOI 10.1086/283342
+CR  - Charlesworth B, 2015, P NATL ACAD SCI USA, V112, P1662, DOI 10.1073/pnas.1423275112
+CR  - CHARLESWORTH D, 1980, GENET RES, V35, P205, DOI 10.1017/S0016672300014051
+CR  - Cheng CD, 2020, MOL ECOL, V29, P1406, DOI 10.1111/mec.15420
+CR  - Cheng CD, 2016, PLOS GENET, V12, DOI 10.1371/journal.pgen.1006170
+CR  - Chippindale AK, 2001, P NATL ACAD SCI USA, V98, P1671, DOI 10.1073/pnas.041378098
+CR  - Cingolani P, 2012, FLY, V6, P80, DOI 10.4161/fly.19695
+CR  - Connallon T, 2018, ANN NY ACAD SCI, V1422, P65, DOI 10.1111/nyas.13536
+CR  - Connallon T, 2014, P ROY SOC B-BIOL SCI, V281, DOI 10.1098/rspb.2013.2123
+CR  - Connallon T, 2013, EVOLUTION, V67, P908, DOI 10.1111/j.1558-5646.2012.01800.x
+CR  - Connallon T, 2012, GENETICS, V190, P1477, DOI 10.1534/genetics.111.137117
+CR  - Cox RM, 2009, AM NAT, V173, P176, DOI 10.1086/595841
+CR  - CURTSINGER JW, 1994, AM NAT, V144, P210, DOI 10.1086/285671
+CR  - Danecek P, 2011, BIOINFORMATICS, V27, P2156, DOI 10.1093/bioinformatics/btr330
+CR  - De Lisle SP, 2018, PHILOS T R SOC B, V373, DOI 10.1098/rstb.2017.0415
+CR  - DeGiorgio M, 2014, PLOS GENET, V10, DOI 10.1371/journal.pgen.1004561
+CR  - Delph LF, 2011, NEW PHYTOL, V192, P542, DOI 10.1111/j.1469-8137.2011.03811.x
+CR  - Dou JZ, 2012, BIOL DIRECT, V7, DOI 10.1186/1745-6150-7-17
+CR  - Dutoit L, 2018, MOL ECOL, V27, P3572, DOI 10.1111/mec.14789
+CR  - Evans LM, 2018, NAT GENET, V50, P737, DOI 10.1038/s41588-018-0108-x
+CR  - Eyre-Walker A, 2007, NAT REV GENET, V8, P610, DOI 10.1038/nrg2146
+CR  - Eyre-Walker A, 2010, P NATL ACAD SCI USA, V107, P1752, DOI 10.1073/pnas.0906182107
+CR  - Fijarczyk A, 2015, MOL ECOL, V24, P3529, DOI 10.1111/mec.13226
+CR  - Finucane HK, 2015, NAT GENET, V47, P1228, DOI 10.1038/ng.3404
+CR  - Fisher RA, 1930, GENETICAL THEORY NAT
+CR  - Flanagan SP, 2017, EVOLUTION, V71, P1096, DOI 10.1111/evo.13173
+CR  - Hoban S, 2016, AM NAT, V188, P379, DOI 10.1086/688018
+CR  - Janicke T, 2016, SCI ADV, V2, DOI 10.1126/sciadv.1500983
+CR  - Johnston SE, 2013, NATURE, V502, P93, DOI 10.1038/nature12489
+CR  - Jordan CY, 2012, EVOLUTION, V66, P505, DOI 10.1111/j.1558-5646.2011.01448.x
+CR  - Kasimatis KR, 2021, GENETICS, V217, DOI 10.1093/genetics/iyaa015
+CR  - Kasimatis KR, 2017, J HERED, V108, P780, DOI 10.1093/jhered/esx080
+CR  - KIDWELL JF, 1977, GENETICS, V85, P171
+CR  - Kirkpatrick M, 2014, GENETICS, V197, P531, DOI 10.1534/genetics.113.156026
+CR  - Li H, 2011, BIOINFORMATICS, V27, P2987, DOI 10.1093/bioinformatics/btr509
+CR  - Li H, 2011, NATURE, V475, P493, DOI 10.1038/nature10231
+CR  - Loh PR, 2018, NAT GENET, V50, P906, DOI 10.1038/s41588-018-0144-6
+CR  - Lucotte EA, 2016, GENOME BIOL EVOL, V8, P1489, DOI 10.1093/gbe/evw090
+CR  - Mackay TFC, 2001, ANNU REV GENET, V35, P303, DOI 10.1146/annurev.genet.35.102401.090633
+CR  - Mank JE, 2020, MOL ECOL, V29, P215, DOI 10.1111/mec.15311
+CR  - Mank JE, 2017, NAT REV GENET, V18, P721, DOI 10.1038/nrg.2017.83
+CR  - McKinney GJ, 2017, MOL ECOL RESOUR, V17, P656, DOI 10.1111/1755-0998.12613
+CR  - Morrissey MB, 2016, J EVOLUTION BIOL, V29, P1882, DOI 10.1111/jeb.12950
+CR  - Mullon C, 2012, EVOLUTION, V66, P3743, DOI 10.1111/j.1558-5646.2012.01728.x
+CR  - Olito C, 2019, AM NAT, V193, P688, DOI 10.1086/702847
+CR  - Patten MM, 2009, EVOLUTION, V63, P2888, DOI 10.1111/j.1558-5646.2009.00764.x
+CR  - Pearse DE, 2019, NAT ECOL EVOL, V3, P1731, DOI 10.1038/s41559-019-1044-6
+CR  - Pirastu N, 2021, NAT GENET, V53, P663, DOI 10.1038/s41588-021-00846-7
+CR  - Randall JC, 2013, PLOS GENET, V9, DOI 10.1371/journal.pgen.1003500
+CR  - Roberts RB, 2009, SCIENCE, V326, P998, DOI 10.1126/science.1174705
+CR  - Rostant WG, 2015, BMC BIOL, V13, DOI 10.1186/s12915-015-0143-3
+CR  - Rowe L, 2018, AM NAT, V192, P274, DOI 10.1086/698198
+CR  - Ruzicka F, 2020, EVOL LETT, V4, P398, DOI 10.1002/evl3.192
+CR  - Ruzicka F, 2019, PLOS BIOL, V17, DOI 10.1371/journal.pbio.3000244
+CR  - Sanjak JS, 2018, P NATL ACAD SCI USA, V115, P151, DOI 10.1073/pnas.1707227114
+CR  - Singh A, 2018, EVOLUTION, V72, P2818, DOI 10.1111/evo.13625
+CR  - Stearns SC, 2012, P ROY SOC B-BIOL SCI, V279, P4836, DOI 10.1098/rspb.2012.2024
+CR  - Stearns SC, 2010, NAT REV GENET, V11, P611, DOI 10.1038/nrg2831
+CR  - Stulp G, 2012, BIOL LETTERS, V8, P976, DOI 10.1098/rsbl.2012.0590
+CR  - Svensson EI, 2009, EVOLUTION, V63, P3124, DOI 10.1111/j.1558-5646.2009.00782.x
+CR  - Tsai KL, 2019, GENES-BASEL, V10, DOI 10.3390/genes10040320
+CR  - van Doorn GS, 2007, NATURE, V449, P909, DOI 10.1038/nature06178
+CR  - VanKuren NW, 2018, NAT ECOL EVOL, V2, P705, DOI 10.1038/s41559-018-0471-0
+CR  - Visscher PM, 2017, AM J HUM GENET, V101, P5, DOI 10.1016/j.ajhg.2017.06.005
+CR  - Vitti JJ, 2013, ANNU REV GENET, V47, P97, DOI 10.1146/annurev-genet-111212-133526
+CR  - Walsh B, 2009, ANNU REV ECOL EVOL S, V40, P41, DOI 10.1146/annurev.ecolsys.110308.120232
+CR  - Whitlock MC, 2009, EVOLUTION, V63, P569, DOI 10.1111/j.1558-5646.2008.00558.x
+CR  - Wright AE, 2018, EVOL LETT, V2, P52, DOI 10.1002/evl3.39
+CR  - WRIGHT S, 1951, ANN EUGENIC, V15, P323
+CR  - Yeaman S, 2015, AM NAT, V186, pS74, DOI 10.1086/682405
+CR  - Zeng J, 2018, NAT GENET, V50, P746, DOI 10.1038/s41588-018-0101-4
+CR  - Zhu C., 2022, BIORXIV, DOI [10.1101/2022.05.06.490973, DOI 10.1101/2022.05.06.490973]
+CR  - Zietsch BP, 2014, P NATL ACAD SCI USA, V111, P1032, DOI 10.1073/pnas.1310058111
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - SEP
+PY  - 2022
+VL  - 20
+IS  - 9
+C7  - e3001763
+DO  - 10.1371/journal.pbio.300176
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000892353700005
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  94
+ER  -
+
+TY  - JOUR
+AU  - Wu, SY
+AU  - Wen, YR
+AU  - Serre, NBC
+AU  - Laursen, CCH
+AU  - Dietz, AG
+AU  - Taylor, BR
+AU  - Drobizhev, M
+AU  - Molina, RS
+AU  - Aggarwal, A
+AU  - Rancic, V
+AU  - Becker, M
+AU  - Ballanyi, K
+AU  - Podgorski, K
+AU  - Hirase, H
+AU  - Nedergaard, M
+AU  - Fendrych, M
+AU  - Lemieux, MJ
+AU  - Eberl, DF
+AU  - Kay, AR
+AU  - Campbell, RE
+AU  - Shen, Y
+TI  - A sensitive and specific genetically encoded potassium ion biosensor for in vivo applications across the tree of life
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - GREEN FLUORESCENT PROTEIN
+KW  - SPREADING DEPRESSION
+KW  - STRUCTURAL BASIS
+KW  - PH
+KW  - EXPRESSION
+KW  - CALCIUM
+KW  - MECHANISMS
+KW  - CHANNEL
+KW  - COMPLEX
+KW  - ROLES
+AB  - Potassium ion (K+) plays a critical role as an essential electrolyte in all biological systems. Genetically encoded fluorescent r biosensors are promising tools to further improve our understanding of K+-dependent processes under normal and pathological conditions. Here, we report the crystal structure of a previously reported genetically encoded fluorescent K+ biosensor, GINKO1, in the K+-bound state. Using structure-guided optimization and directed evolution, we have engineered an improved r biosensor, designated GINKO2, with higher sensitivity and specificity. We have demonstrated the utility of GINKO2 for in vivo detection and imaging of K+ dynamics in multiple model organisms, including bacteria, plants, and mice.
+AD  - Univ Alberta, Dept Chem, Edmonton, AB, CanadaAD  - Univ Alberta, Dept Biochem, Edmonton, AB, CanadaAD  - Xi An Jiao Tong Univ, Affiliated Hosp 1, Ctr Microbiome Res, Med X Inst, Xian, Shaanxi, Peoples R ChinaAD  - Charles Univ Prague, Dept Expt Plant Biol, Prague, Czech RepublicAD  - Univ Copenhagen, Ctr Translat Neuromed, Copenhagen, DenmarkAD  - Univ Calif San Diego, Dept Phys, La Jolla, CA 92093 USAAD  - Montana State Univ, Dept Microbiol & Cell Biol, Bozeman, MT 59717 USAAD  - Howard Hughes Med Inst, Janelia Res Campus, Ashburn, VA USAAD  - Univ Alberta, Dept Physiol, Edmonton, AB, CanadaAD  - Argonne Natl Lab, Xray Sci Div, Adv Photon Source, GM CA APS, 9700 S Cass Ave, Argonne, IL 60439 USAAD  - Univ Rochester, Ctr Translat Neuromed, Med Ctr, Rochester, NY USAAD  - Univ Iowa, Dept Biol, Iowa City, IA USAAD  - Univ Tokyo, Dept Chem, Tokyo, JapanC3  - University of AlbertaC3  - University of AlbertaC3  - Xi'an Jiaotong UniversityC3  - Charles University PragueC3  - University of CopenhagenC3  - University of California SystemC3  - University of California San DiegoC3  - Montana State University SystemC3  - Montana State University BozemanC3  - Howard Hughes Medical InstituteC3  - University of AlbertaC3  - United States Department of Energy (DOE)C3  - Argonne National LaboratoryC3  - University of RochesterC3  - University of IowaC3  - University of TokyoFU  - Canadian Institutes of Health Research (CIHR) [FS-154310]; Natural Sciences and Engineering Research Council of Canada (NSERC) [RGPIN 2018-04364, RGPIN-2020-05514, RGPIN-2016-06478]; NSERC Canada Graduate Scholarships -Doctoral program; Alberta Innovates Technology Future (AITF) Graduate Scholarship; University of Alberta; Alberta Parkinson Society Fellowship; National Natural Science Foundation of China [31870132, 82072237]; DOE Office of Science [DE-AC02-06CH11357]; National Cancer Institute [ACB-12002]; National Institute of General Medical Sciences [AGM-12006, P30GM138396]; Canada Foundation for Innovation (CFI); NSERC; National Research Council (NRC); CIHR; Government of Saskatchewan; University of Saskatchewan; European Research Council [803048]; Charles University Primus [PRIMUS/19/SCI/09]; Novo Nordisk Foundation [NNF19OC0058058, NNF13OC0004258]; Lundbeck Foundation [R155-2016-552, R2632017-4062]; NIH [R01GM095903]; Howard Hughes Medical Institute; NSF [2037828]; NIH BRAIN [U24 NS109107]
+FX  - This work was supported by grants from the Canadian Institutes of Health Research (CIHR, FS-154310 to REC) and the Natural Sciences and Engineering Research Council of Canada (NSERC, RGPIN 2018-04364 to REC, RGPIN-2020-05514 to KB, and RGPIN-2016-06478 to MJL). SYW was supported by NSERC Canada Graduate Scholarships -Doctoral program, Alberta Innovates Technology Future (AITF) Graduate Scholarship, and the University of Alberta. YW was supported by the Alberta Parkinson Society Fellowship and National Natural Science Foundation of China (No. 31870132 and No. 82072237). This research used resources of the Advanced Photon Source (APS), a U.S. Department of Energy (DOE) Office of Science User Facility operated for the DOE Office of Science by Argonne National Laboratory under Contract No. DE-AC02-06CH11357. X-ray crystallography was performed using Beamline 23IDB at APS. GM/CA@APS has been funded by the National Cancer Institute (ACB-12002) and the National Institute of General Medical Sciences (AGM-12006, P30GM138396). Data were also collected at beamline CMCF-ID at the Canadian Light Source, a national research facility of the University of Saskatchewan, which is supported by the Canada Foundation for Innovation (CFI), the NSERC, the National Research Council (NRC), the CIHR, the Government of Saskatchewan, and the University of Saskatchewan. NBCS and MF work was supported by the European Research Council (Grant No. 803048) and Charles University Primus (Grant No. PRIMUS/19/SCI/09). CCHL, AGD, HH, and MN were supported by the Novo Nordisk Foundation (NNF19OC0058058 to HH and NNF13OC0004258 to MN) and the Lundbeck Foundation (R155-2016-552 to MN and R2632017-4062 to AGD). BRT was supported by NIH grant R01GM095903. AA and KP were supported by Howard Hughes Medical Institute. ARK and DFE were supported in part by NSF grant 2037828. Two-photon characterization work (MD and RSM) was supported by the NIH BRAIN grant U24 NS109107 (Resource for Multiphoton Characterization of Genetically-Encoded Probes). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+CR  - Adams PD, 2010, ACTA CRYSTALLOGR D, V66, P213, DOI 10.1107/S0907444909052925
+CR  - Ashraf KU, 2016, STRUCTURE, V24, P741, DOI 10.1016/j.str.2016.03.017
+CR  - Barnett LM, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0170934
+CR  - Beagle SD, 2021, TRENDS MICROBIOL, V29, P942, DOI 10.1016/j.tim.2020.11.005
+CR  - Bischof H, 2017, NAT COMMUN, V8, DOI 10.1038/s41467-017-01615-z
+CR  - BRAND AH, 1993, DEVELOPMENT, V118, P401
+CR  - Brown SD, 2015, GENOME ANNOUNCEMENTS, V3, DOI 10.1128/genomeA.00879-15
+CR  - Burgstaller S, 2021, ACS SENSORS, V6, P3994, DOI 10.1021/acssensors.1c01369
+CR  - Cao Y, 2011, NATURE, V471, P336, DOI 10.1038/nature09731
+CR  - Clough SJ, 1998, PLANT J, V16, P735, DOI 10.1046/j.1365-313x.1998.00343.x
+CR  - Cranfill PJ, 2016, NAT METHODS, V13, P557, DOI [10.1038/NMETH.3891, 10.1038/nmeth.3891]
+CR  - Dana H, 2019, NAT METHODS, V16, P649, DOI 10.1038/s41592-019-0435-6
+CR  - Ding JJ, 2014, SCI CHINA LIFE SCI, V57, P269, DOI 10.1007/s11427-013-4599-5
+CR  - Doyle DA, 1998, SCIENCE, V280, P69, DOI 10.1126/science.280.5360.69
+CR  - Drobizhev M, 2020, BIO-PROTOCOL, V10, DOI 10.21769/BioProtoc.3498
+CR  - Emsley P, 2010, ACTA CRYSTALLOGR D, V66, P486, DOI 10.1107/S0907444910007493
+CR  - Epstein W, 2003, PROG NUCLEIC ACID RE, V75, P293, DOI 10.1016/S0079-6603(03)75008-9
+CR  - Felle HH, 2005, ANN BOT-LONDON, V96, P519, DOI 10.1093/aob/mci207
+CR  - Fendrych M, 2014, CURR BIOL, V24, P931, DOI 10.1016/j.cub.2014.03.025
+CR  - FRANT MS, 1970, SCIENCE, V167, P987, DOI 10.1126/science.167.3920.987
+CR  - Halperin SJ, 2003, J EXP BOT, V54, P1269, DOI 10.1093/jxb/erg134
+CR  - Hasanuzzaman M, 2018, AGRONOMY-BASEL, V8, DOI 10.3390/agronomy8030031
+CR  - Ishige F, 1999, PLANT J, V18, P443, DOI 10.1046/j.1365-313X.1999.00456.x
+CR  - Kabsch W, 2010, ACTA CRYSTALLOGR D, V66, P125, DOI 10.1107/S0907444909047337
+CR  - Kay AR, 2016, FRONT PHYSIOL, V7, DOI 10.3389/fphys.2016.00398
+CR  - Liu JN, 2020, SCI ADV, V6, DOI 10.1126/sciadv.aax9757
+CR  - Liu JN, 2020, NAT NANOTECHNOL, V15, P321, DOI 10.1038/s41565-020-0634-4
+CR  - Liu SX, 2020, SCI ADV, V6, DOI 10.1126/sciadv.abe3717
+CR  - Mccoy AJ, 2007, J APPL CRYSTALLOGR, V40, P658, DOI 10.1107/S0021889807021206
+CR  - Miesenbock G, 1998, NATURE, V394, P192, DOI 10.1038/28190
+CR  - MINTA A, 1989, J BIOL CHEM, V264, P19449
+CR  - Molina RS, 2019, BIOPHYS J, V116, P1873, DOI 10.1016/j.bpj.2019.04.007
+CR  - Moseyko N, 2001, PLANT CELL ENVIRON, V24, P557, DOI 10.1046/j.1365-3040.2001.00703.x
+CR  - MUTCH WAC, 1984, J CEREBR BLOOD F MET, V4, P17, DOI 10.1038/jcbfm.1984.3
+CR  - Nasu Y, 2021, NAT CHEM BIOL, V17, P509, DOI 10.1038/s41589-020-00718-x
+CR  - NEUPERTLAVES K, 1975, HELV CHIM ACTA, V58, P432, DOI 10.1002/hlca.19750580212
+CR  - Palmer BF, 2015, CLIN J AM SOC NEPHRO, V10, P1050, DOI 10.2215/CJN.08580813
+CR  - Patterson GH, 1997, BIOPHYS J, V73, P2782, DOI 10.1016/S0006-3495(97)78307-3
+CR  - Pietrobon D, 2014, NAT REV NEUROSCI, V15, P379, DOI 10.1038/nrn3770
+CR  - Sarrion-Perdigones A, 2013, PLANT PHYSIOL, V162, P1618, DOI 10.1104/pp.113.217661
+CR  - Schindelin J, 2012, NAT METHODS, V9, P676, DOI [10.1038/NMETH.2019, 10.1038/nmeth.2019]
+CR  - Serre NBC, 2021, NAT PLANTS, V7, P1229, DOI 10.1038/s41477-021-00969-z
+CR  - Shabala S, 2008, PHYSIOL PLANTARUM, V133, P651, DOI 10.1111/j.1399-3054.2007.01008.x
+CR  - Shen Y, 2019, COMMUN BIOL, V2, DOI 10.1038/s42003-018-0269-2
+CR  - Shen Y, 2014, J CELL BIOL, V207, P419, DOI 10.1083/jcb.201404107
+CR  - Somjen GG, 2001, PHYSIOL REV, V81, P1065, DOI 10.1152/physrev.2001.81.3.1065
+CR  - Somjen GG, 2002, NEUROSCIENTIST, V8, P254, DOI 10.1177/1073858402008003011
+CR  - Sustr M, 2019, PLANTS-BASEL, V8, DOI 10.3390/plants8100435
+CR  - Tamura K, 2003, PLANT J, V35, P545, DOI 10.1046/j.1365-313X.2003.01822.x
+CR  - Tao RK, 2017, NAT METHODS, V14, P720, DOI 10.1038/nmeth.4306
+CR  - Trigo-Mourino P, 2019, SCI ADV, V5, DOI 10.1126/sciadv.aaw4988
+CR  - Udensi Udensi K, 2017, Int J Clin Exp Physiol, V4, P111, DOI 10.4103/ijcep.ijcep_43_17
+CR  - Walker DJ, 1996, P NATL ACAD SCI USA, V93, P10510, DOI 10.1073/pnas.93.19.10510
+CR  - Wang Q, 2008, STRUCTURE, V16, P1817, DOI 10.1016/j.str.2008.10.008
+CR  - Wang ZM, 2021, CHEM SCI, V12, P1720, DOI 10.1039/d0sc03844j
+CR  - YAMAGATA N, 1962, J Radiat Res, V3, P9, DOI 10.1269/jrr.3.9
+CR  - Zhao YX, 2011, SCIENCE, V333, P1888, DOI 10.1126/science.1208592
+CR  - Zhou YF, 2001, NATURE, V414, P43, DOI 10.1038/35102009
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - SEP
+PY  - 2022
+VL  - 20
+IS  - 9
+C7  - e3001772
+DO  - 10.1371/journal.pbio.3001772
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000892353700006
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  58
+ER  -
+
+TY  - JOUR
+AU  - Oechslin, F
+AU  - Zhu, XJ
+AU  - Dion, MB
+AU  - Shi, R
+AU  - Moineau, S
+TI  - Phage endolysins are adapted to specific hosts and are evolutionarily dynamic
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - LACTOCOCCAL BACTERIOPHAGE
+KW  - SEQUENCE
+KW  - PEPTIDOGLYCAN
+KW  - BACTERIAL
+KW  - IDENTIFICATION
+KW  - RECOGNITION
+KW  - ALIGNMENT
+KW  - DOMAINS
+KW  - BINDING
+KW  - LYSINS
+AB  - Endolysins are produced by (bacterio)phages to rapidly degrade the bacterial cell wall and release new viral particles. Despite sharing a common function, endolysins present in phages that infect a specific bacterial species can be highly diverse and vary in types, number, and organization of their catalytic and cell wall binding domains. While much is now known about the biochemistry of phage endolysins, far less is known about the implication of their diversity on phage-host adaptation and evolution. Using CRISPR-Cas9 genome editing, we could genetically exchange a subset of different endolysin genes into distinct lactococcal phage genomes. Regardless of the type and biochemical properties of these endolysins, fitness costs associated to their genetic exchange were marginal if both recipient and donor phages were infecting the same bacterial strain, but gradually increased when taking place between phage that infect different strains or bacterial species. From an evolutionary perspective, we observed that endolysins could be naturally exchanged by homologous recombination between phages coinfecting a same bacterial strain. Furthermore, phage endolysins could adapt to their new phage/host environment by acquiring adaptative mutations. These observations highlight the remarkable ability of phage lytic systems to recombine and adapt and, therefore, explain their large diversity and mosaicism. It also indicates that evolution should be considered to act on functional modules rather than on bacteriophages themselves. Furthermore, the extensive degree of evolvability observed for phage endolysins offers new perspectives for their engineering as antimicrobial agents.
+AD  - Univ Laval, Fac Sci & genie, Dept Biochim Microbiol & Bioinformat, Quebec City, PQ, CanadaAD  - Univ Laval, Fac medecine dentaire, Grp Rech ecol buccale, Quebec City, PQ, CanadaAD  - Univ Laval, Felix Herelle Reference Ctr Bacterial Viruses, Quebec City, PQ, CanadaC3  - Laval UniversityC3  - Laval UniversityC3  - Laval UniversityFU  - Schweizerischer Nationalfonds zur Foerderung der Wissenschaftlichen Forschung [P400PB_191059, P2LAP3_181297]; Fonds de Recherche du Quebec -Nature et Technologies [1C-203754, 259257, 950-232136]; Natural Sciences and Engineering Research Council of Canada [188158]; Canada Research Chair [RGPIN/06705-2019]
+FX  - F.O. was supported by the Schweizerischer Nationalfonds zur Foerderung der Wissenschaftlichen Forschung under grants P400PB_191059 and P2LAP3_181297. X.Z. was supported by graduate scholarships from Fonds de Recherche du Quebec -Nature et Technologies (1C-203754). M.B.D. is recipient of a graduate scholarship from Fonds de Recherche du Quebec -Nature et Technologies (259257). S.M.acknowledges funding from the Natural Sciences and Engineering Research Council of Canada (RGPIN/06705-2019), Canada Research Chair (950-232136) and Fonds de Recherche du Quebec -Nature et Technologies (188158). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+CR  - Altschul SF, 1997, NUCLEIC ACIDS RES, V25, P3389, DOI 10.1093/nar/25.17.3389
+CR  - ALTSCHUL SF, 1990, J MOL BIOL, V215, P403, DOI 10.1006/jmbi.1990.9999
+CR  - Armenteros JJA, 2019, NAT BIOTECHNOL, V37, P420, DOI 10.1038/s41587-019-0036-z
+CR  - Arndt D, 2016, NUCLEIC ACIDS RES, V44, pW16, DOI 10.1093/nar/gkw387
+CR  - Auclair SM, 2012, PROTEIN SCI, V21, P13, DOI 10.1002/pro.757
+CR  - Bankevich A, 2012, J COMPUT BIOL, V19, P455, DOI 10.1089/cmb.2012.0021
+CR  - Berry J, 2012, J BACTERIOL, V194, P5667, DOI 10.1128/JB.01245-12
+CR  - Blatny JM, 2004, VIROLOGY, V318, P231, DOI 10.1016/j.virol.2003.09.019
+CR  - Boisvert S, 2010, J COMPUT BIOL, V17, P1519, DOI 10.1089/cmb.2009.0238
+CR  - Bolger AM, 2014, BIOINFORMATICS, V30, P2114, DOI 10.1093/bioinformatics/btu170
+CR  - Bouchard JD, 2000, VIROLOGY, V270, P65, DOI 10.1006/viro.2000.0226
+CR  - Buist G, 2008, MOL MICROBIOL, V68, P838, DOI 10.1111/j.1365-2958.2008.06211.x
+CR  - Cahill J, 2019, ADV VIRUS RES, V103, P33, DOI 10.1016/bs.aivir.2018.09.003
+CR  - Catalao MJ, 2013, FEMS MICROBIOL REV, V37, P554, DOI 10.1111/1574-6976.12006
+CR  - Chen YH, 2013, BIOCHEM BIOPH RES CO, V441, P297, DOI 10.1016/j.bbrc.2013.09.087
+CR  - Crooks GE, 2004, GENOME RES, V14, P1188, DOI 10.1101/gr.849004
+CR  - Dion MB, 2020, NAT REV MICROBIOL, V18, P125, DOI 10.1038/s41579-019-0311-5
+CR  - Fischetti VA, 2010, INT J MED MICROBIOL, V300, P357, DOI 10.1016/j.ijmm.2010.04.002
+CR  - Fischetti VA, 2008, CURR OPIN MICROBIOL, V11, P393, DOI 10.1016/j.mib.2008.09.012
+CR  - Gibson DG, 2009, NAT METHODS, V6, P343, DOI [10.1038/NMETH.1318, 10.1038/nmeth.1318]
+CR  - Hendrix RW, 1999, P NATL ACAD SCI USA, V96, P2192, DOI 10.1073/pnas.96.5.2192
+CR  - Hendrix RW, 2002, THEOR POPUL BIOL, V61, P471, DOI 10.1006/tpbi.2002.1590
+CR  - Kearse M, 2012, BIOINFORMATICS, V28, P1647, DOI 10.1093/bioinformatics/bts199
+CR  - Krogh A, 2001, J MOL BIOL, V305, P567, DOI 10.1006/jmbi.2000.4315
+CR  - Kropinski Andrew M., 2009, V501, P69, DOI 10.1007/978-1-60327-164-6_7
+CR  - Lemay ML, 2018, BIO-PROTOCOL, V8, DOI 10.21769/BioProtoc.2674
+CR  - Letunic I, 2021, NUCLEIC ACIDS RES, V49, pW293, DOI 10.1093/nar/gkab301
+CR  - Loessner MJ, 2002, MOL MICROBIOL, V44, P335, DOI 10.1046/j.1365-2958.2002.02889.x
+CR  - Mahony J, 2013, APPL ENVIRON MICROB, V79, P4401, DOI 10.1128/AEM.00832-13
+CR  - Mesnage S, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms5269
+CR  - MOINEAU S, 1994, APPL ENVIRON MICROB, V60, P1832, DOI 10.1128/AEM.60.6.1832-1841.1994
+CR  - MOINEAU S, 1993, APPL ENVIRON MICROB, V59, P208, DOI 10.1128/AEM.59.1.208-212.1993
+CR  - Navarre WW, 1999, J BIOL CHEM, V274, P15847, DOI 10.1074/jbc.274.22.15847
+CR  - Nelson D, 2006, P NATL ACAD SCI USA, V103, P10765, DOI 10.1073/pnas.0604521103
+CR  - Oechslin F, 2021, J BIOL CHEM, V296, DOI 10.1016/j.jbc.2021.100639
+CR  - Oechslin F, 2013, ANTIMICROB AGENTS CH, V57, P6276, DOI 10.1128/AAC.01701-13
+CR  - Oliveira H, 2013, J VIROL, V87, P4558, DOI 10.1128/JVI.03277-12
+CR  - Ondov BD, 2016, GENOME BIOL, V17, DOI 10.1186/s13059-016-0997-x
+CR  - Payne KM, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0034052
+CR  - Pope WH, 2015, ELIFE, V4, DOI 10.7554/eLife.06416
+CR  - Pritchard DG, 2007, APPL ENVIRON MICROB, V73, P7150, DOI 10.1128/AEM.01783-07
+CR  - Pritchard DG, 2004, MICROBIOL-SGM, V150, P2079, DOI 10.1099/mic.0.27063-0
+CR  - RENNELL D, 1985, VIROLOGY, V143, P280, DOI 10.1016/0042-6822(85)90115-1
+CR  - Rigden DJ, 2003, TRENDS BIOCHEM SCI, V28, P230, DOI 10.1016/S0968-0004(03)00062-8
+CR  - Samson JE, 2013, J BACTERIOL, V195, P3947, DOI 10.1128/JB.00296-13
+CR  - SCHLEIFER KH, 1972, BACTERIOL REV, V36, P407, DOI 10.1128/MMBR.36.4.407-477.1972
+CR  - Schmelcher M, 2015, J ANTIMICROB CHEMOTH, V70, P1453, DOI 10.1093/jac/dku552
+CR  - Schmelcher M, 2012, FUTURE MICROBIOL, V7, P1147, DOI [10.2217/FMB.12.97, 10.2217/fmb.12.97]
+CR  - Schneider CA, 2012, NAT METHODS, V9, P671, DOI 10.1038/nmeth.2089
+CR  - Schuch R, 2002, NATURE, V418, P884, DOI 10.1038/nature01026
+CR  - Simonsen M., 2008, ALGORITHMS BIOINFORM
+CR  - Soding J, 2005, NUCLEIC ACIDS RES, V33, pW244, DOI 10.1093/nar/gki408
+CR  - Szymczak P, 2017, APPL ENVIRON MICROB, V83, DOI [10.1128/AEM.02748-16, 10.1128/aem.02748-16]
+CR  - THOMPSON JD, 1994, NUCLEIC ACIDS RES, V22, P4673, DOI 10.1093/nar/22.22.4673
+CR  - Vazquez R, 2021, J VIROL, V95, DOI 10.1128/JVI.00321-21
+CR  - Villion M, 2009, VIROLOGY, V388, P49, DOI 10.1016/j.virol.2009.03.011
+CR  - Vollmer W, 2008, FEMS MICROBIOL REV, V32, P149, DOI 10.1111/j.1574-6976.2007.00094.x
+CR  - Xu M, 2004, P NATL ACAD SCI USA, V101, P6415, DOI 10.1073/pnas.0400957101
+CR  - Zhou B, 2020, PLOS PATHOG, V16, DOI 10.1371/journal.ppat.1008394
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - AUG
+PY  - 2022
+VL  - 20
+IS  - 8
+C7  - e3001740
+DO  - 10.1371/journal.pbio.3001740
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000837817600002
+N1  - Times Cited in Web of Science Core Collection:  2
+Total Times Cited:  2
+Cited Reference Count:  59
+ER  -
+
+TY  - JOUR
+AU  - Naguib, M
+AU  - Feldman, N
+AU  - Zarodkiewicz, P
+AU  - Shropshire, H
+AU  - Biamis, C
+AU  - El-Halfawy, OM
+AU  - McCain, J
+AU  - Dezanet, C
+AU  - Decout, JL
+AU  - Chen, Y
+AU  - Cosa, G
+AU  - Valvano, MA
+TI  - An evolutionary conserved detoxification system for membrane lipid-derived peroxyl radicals in Gram-negative bacteria
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - TEMPERATURE-INDUCED LIPOCALIN
+KW  - ODORANT-BINDING-PROTEIN
+KW  - ESCHERICHIA-COLI
+KW  - OXIDATIVE-STRESS
+KW  - BURKHOLDERIA-CENOCEPACIA
+KW  - OUTER-MEMBRANE
+KW  - PSEUDOMONAS-AERUGINOSA
+KW  - ANTIBIOTIC-RESISTANCE
+KW  - HYDROGEN-PEROXIDE
+KW  - CRYSTAL-STRUCTURE
+AB  - How double-membraned Gram-negative bacteria overcome lipid peroxidation is virtually unknown. Bactericidal antibiotics and superoxide ion stress stimulate the transcription of the Burkholderia cenocepacia bcnA gene that encodes a secreted lipocalin. bcnA gene orthologs are conserved in bacteria and generally linked to a conserved upstream gene encoding a cytochrome b 561 membrane protein (herein named lcoA, lipocalin-associated cytochrome oxidase gene). Mutants in bcnA, lcoA, and in a gene encoding a conserved cytoplasmic aldehyde reductase (peroxidative stress-associated aldehyde reductase gene, psrA) display enhanced membrane lipid peroxidation. Compared to wild type, the levels of the peroxidation biomarker malondialdehyde (MDA) increase in the mutants upon exposure to sublethal concentrations of the bactericidal antibiotics polymyxin B and norfloxacin. Microscopy with lipid peroxidation-sensitive fluorescent probes shows that lipid peroxyl radicals accumulate at the bacterial cell poles and septum and peroxidation is associated with a redistribution of anionic phospholipids and reduced antimicrobial resistance in the mutants. We conclude that BcnA, LcoA, and PsrA are components of an evolutionary conserved, hitherto unrecognized peroxidation detoxification system that protects the bacterial cell envelope from lipid peroxyl radicals.
+AD  - Queens Univ Belfast, Wellcome Wolfson Inst Expt Med, Belfast, Antrim, North IrelandAD  - Damanhour Univ, Fac Pharm, Dept Microbiol & Immunol, Damanhour, EgyptAD  - Univ Warwick, Sch Life Sci, Coventry, W Midlands, EnglandAD  - Univ Regina, Fac Sci, Dept Chem & Biochem, Regina, SK, CanadaAD  - Alexandria Univ, Fac Pharm, Dept Microbiol & Immunol, Alexandria, EgyptAD  - McGill Univ, Dept Chem, Montreal, PQ, CanadaAD  - McGill Univ, Quebec Ctr Adv Mat, Montreal, PQ, CanadaAD  - Univ Grenoble Alpes, Dept Mol Pharmacochem, CNRS, Grenoble, FranceC3  - Queens University BelfastC3  - Egyptian Knowledge Bank (EKB)C3  - Damanhour UniversityC3  - University of WarwickC3  - University of ReginaC3  - Egyptian Knowledge Bank (EKB)C3  - Alexandria UniversityC3  - McGill UniversityC3  - McGill UniversityC3  - Centre National de la Recherche Scientifique (CNRS)C3  - Communaute Universite Grenoble AlpesC3  - UDICE-French Research UniversitiesC3  - Universite Grenoble Alpes (UGA)FU  - Biotechnology and Biological Sciences Research Council (BBSRC) [BB/S006281/1]; Natural Sciences and Engineering Research Council [NSERC RGPIN2019-05935]; Canada Foundation for Innovation [10401, 36368]; British Council; Northern Ireland Department of Economy; NSERC Post-Graduate Scholarship; Canada Research Chair in Chemogenomics and Antimicrobial Research [950-232965]
+FX  - This work was supported by a grant from the Biotechnology and Biological Sciences Research Council (BBSRC grant BB/S006281/1) to MAV, and by grants from the Natural Sciences and Engineering Research Council (NSERC RGPIN2019-05935) and the Canada Foundation for Innovation (Project Numbers 10401 and 36368) to G.C. MN was supported from a Scholarship Award by the Newton-Moshrafa PhD Programme, a partnership of the British Council and Egypt; N.F. was supported by an International PhD Fellowship from the Northern Ireland Department of Economy; J.M. was supported by an NSERC Post-Graduate Scholarship (CGSD3-519527-2018). OME is supported by a Canada Research Chair in Chemogenomics and Antimicrobial Research (Project Number 950-232965). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+CR  - AKASAKA K, 1987, ANAL LETT, V20, P797
+CR  - Aliaga C, 2003, ORG LETT, V5, P4145, DOI 10.1021/ol035589w
+CR  - Aliaga C, 2008, ORG LETT, V10, P2147, DOI 10.1021/ol800446c
+CR  - Asard H, 2013, ANTIOXID REDOX SIGN, V19, P1026, DOI 10.1089/ars.2012.5065
+CR  - Aubert DF, 2014, METHODS MOL BIOL, V1197, P311, DOI 10.1007/978-1-4939-1261-2_18
+CR  - Belenky P, 2015, CELL REP, V13, P968, DOI 10.1016/j.celrep.2015.09.059
+CR  - Bishop RE, 2000, BBA-PROTEIN STRUCT M, V1482, P73, DOI 10.1016/S0167-4838(00)00138-2
+CR  - Boca S, 2014, PLANT CELL ENVIRON, V37, P368, DOI 10.1111/pce.12159
+CR  - Borisov VB, 2013, FEBS LETT, V587, P2214, DOI 10.1016/j.febslet.2013.05.047
+CR  - Cabiscol Elisa, 2000, International Microbiology, V3, P3
+CR  - Campanacci V, 2006, FEBS LETT, V580, P4877, DOI 10.1016/j.febslet.2006.07.086
+CR  - CHANCE B, 1979, PHYSIOL REV, V59, P527, DOI 10.1152/physrev.1979.59.3.527
+CR  - Chi WT, 2009, PLANT CELL ENVIRON, V32, P917, DOI 10.1111/j.1365-3040.2009.01972.x
+CR  - Cho G, 2021, SCI REP-UK, V11, DOI 10.1038/s41598-021-85195-5
+CR  - COHEN SN, 1972, P NATL ACAD SCI USA, V69, P2110, DOI 10.1073/pnas.69.8.2110
+CR  - Conrad M, 2018, GENE DEV, V32, P602, DOI 10.1101/gad.314674.118
+CR  - CRAIG FF, 1989, J GEN MICROBIOL, V135, P2885
+CR  - Dandekar T, 1998, TRENDS BIOCHEM SCI, V23, P324, DOI 10.1016/S0968-0004(98)01274-2
+CR  - Dezanet C, 2020, INT J MOL SCI, V21, DOI 10.3390/ijms21197411
+CR  - Donnarumma D, 2015, FASEB J, V29, P2260, DOI 10.1096/fj.14-263954
+CR  - Ducret A, 2016, NAT MICROBIOL, V1, DOI [10.1038/NMICROBIOL.2016.77, 10.1038/nmicrobiol.2016.77]
+CR  - El Khoury M, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-10543-3
+CR  - El-Halfawy OM, 2017, MBIO, V8, DOI 10.1128/mBio.00225-17
+CR  - El-Halfawy OM, 2014, ANTIMICROB AGENTS CH, V58, P4162, DOI 10.1128/AAC.02649-14
+CR  - El-Halfawy OM, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0068874
+CR  - FIGURSKI DH, 1979, P NATL ACAD SCI USA, V76, P1648, DOI 10.1073/pnas.76.4.1648
+CR  - Flannagan RS, 2008, ENVIRON MICROBIOL, V10, P1652, DOI 10.1111/j.1462-2920.2008.01576.x
+CR  - Flower DR, 2000, BBA-PROTEIN STRUCT M, V1482, P9, DOI 10.1016/S0167-4838(00)00148-5
+CR  - Foret MK, 2020, CHEM REV, V120, P12757, DOI 10.1021/acs.chemrev.0c00761
+CR  - Ganfornina MD, 2000, MOL BIOL EVOL, V17, P114, DOI 10.1093/oxfordjournals.molbev.a026224
+CR  - Goldstein S, 2007, J PHYS CHEM A, V111, P1066, DOI 10.1021/jp0655975
+CR  - Greene LE, 2019, PHOTOCHEM PHOTOBIOL, V95, P192, DOI 10.1111/php.13062
+CR  - Greene LE, 2018, FREE RADICAL BIO MED, V128, P124, DOI 10.1016/j.freeradbiomed.2018.04.006
+CR  - Greene LE, 2017, J AM CHEM SOC, V139, P15801, DOI 10.1021/jacs.7b08036
+CR  - Griesser M, 2018, J AM CHEM SOC, V140, P3798, DOI 10.1021/jacs.8b00998
+CR  - Grolli S, 2006, FEBS J, V273, P5131, DOI 10.1111/j.1742-4658.2006.05510.x
+CR  - Handa N, 2005, PROTEIN SCI, V14, P1004, DOI 10.1110/ps.041183305
+CR  - Hare NJ, 2011, PROTEOMICS, V11, P3056, DOI 10.1002/pmic.201000807
+CR  - He XY, 2015, PLANT MOL BIOL, V87, P645, DOI 10.1007/s11103-015-0304-3
+CR  - Henderson JC, 2016, ANNU REV MICROBIOL, V70, P255, DOI 10.1146/annurev-micro-102215-095308
+CR  - Huang KC, 2006, PLOS COMPUT BIOL, V2, P1357, DOI 10.1371/journal.pcbi.0020151
+CR  - Imlay JA, 2008, ANNU REV BIOCHEM, V77, P755, DOI 10.1146/annurev.biochem.77.061606.161055
+CR  - Imlay JA, 2015, ANNU REV MICROBIOL, V69, P93, DOI 10.1146/annurev-micro-091014-104322
+CR  - Johnson LA, 2019, FREE RADICAL BIO MED, V140, P93, DOI 10.1016/j.freeradbiomed.2019.03.032
+CR  - Johnson L, 2012, J BACTERIOL, V194, P813, DOI 10.1128/JB.05230-11
+CR  - Kaewsuya P, 2007, ANAL BIOANAL CHEM, V387, P2775, DOI 10.1007/s00216-007-1135-0
+CR  - Klein S, 2009, MOL MICROBIOL, V71, P551, DOI 10.1111/j.1365-2958.2008.06562.x
+CR  - Knippel RJ, 2020, CELL HOST MICROBE, V28, P411, DOI 10.1016/j.chom.2020.05.015
+CR  - Lechner M, 2001, BIOCHEM J, V356, P129, DOI 10.1042/0264-6021:3560129
+CR  - Lee C, 2020, BIOCHEM BIOPH RES CO, V528, P85, DOI 10.1016/j.bbrc.2020.05.023
+CR  - Lefebre MD, 2001, MICROBIOL-SGM, V147, P97, DOI 10.1099/00221287-147-1-97
+CR  - Lefebre MD, 2005, MICROBIOL-SGM, V151, P1975, DOI 10.1099/mic.0.27704-0
+CR  - Lundgren CAK, 2018, NAT CHEM BIOL, V14, P788, DOI 10.1038/s41589-018-0072-x
+CR  - Luthra A, 2020, PLOS PATHOG, V16, DOI 10.1371/journal.ppat.1008871
+CR  - Macedo-Marquez A, 2014, FREE RADICAL RES, V48, P814, DOI 10.3109/10715762.2014.910867
+CR  - Maloney KE, 2006, INFECT IMMUN, V74, P5477, DOI 10.1128/IAI.00798-06
+CR  - Maness PC, 1999, APPL ENVIRON MICROB, V65, P4094
+CR  - Martinez SR, 2020, ACS INFECT DIS, V6, P2468, DOI 10.1021/acsinfecdis.0c00317
+CR  - Mason RP, 1997, FREE RADICAL BIO MED, V23, P419, DOI 10.1016/S0891-5849(97)00101-9
+CR  - Medema MH, 2013, MOL BIOL EVOL, V30, P1218, DOI 10.1093/molbev/mst025
+CR  - Naguib MM, 2018, MSPHERE, V3, DOI 10.1128/mSphere.00564-18
+CR  - Nikaido H, 2003, MICROBIOL MOL BIOL R, V67, P593, DOI 10.1128/MMBR.67.4.593-656.2003
+CR  - Nowicka B, 2010, BBA-BIOENERGETICS, V1797, P1587, DOI 10.1016/j.bbabio.2010.06.007
+CR  - Olsson MG, 2008, FREE RADICAL RES, V42, P725, DOI 10.1080/10715760802337265
+CR  - Perez JM, 2007, PLOS ONE, V2, DOI 10.1371/journal.pone.0000211
+CR  - Perez JM, 2008, J BIOL CHEM, V283, P7346, DOI 10.1074/jbc.M708846200
+CR  - Rahman MM, 2010, ULTRASON SONOCHEM, V17, P738, DOI 10.1016/j.ultsonch.2009.12.001
+CR  - Renner LD, 2011, P NATL ACAD SCI USA, V108, P6264, DOI 10.1073/pnas.1015757108
+CR  - Roy A, 2010, NAT PROTOC, V5, P725, DOI 10.1038/nprot.2010.5
+CR  - Sass AM, 2013, ISME J, V7, P1568, DOI 10.1038/ismej.2013.36
+CR  - Sautrey G, 2016, J BIOL CHEM, V291, P13864, DOI 10.1074/jbc.M115.665364
+CR  - Schindelin J, 2012, NAT METHODS, V9, P676, DOI [10.1038/NMETH.2019, 10.1038/nmeth.2019]
+CR  - Semchyshyn H, 2005, CELL BIOL INT, V29, P898, DOI 10.1016/j.cellbi.2005.08.002
+CR  - Siliakus MF, 2017, EXTREMOPHILES, V21, P651, DOI 10.1007/s00792-017-0939-x
+CR  - Silvano E, 2020, FRONT MICROBIOL, V11, DOI 10.3389/fmicb.2020.552135
+CR  - Sisinni L, 2010, FEBS J, V277, P1896, DOI 10.1111/j.1742-4658.2010.07612.x
+CR  - Soballe B, 1999, MICROBIOL-SGM, V145, P1817, DOI 10.1099/13500872-145-8-1817
+CR  - Sohlenkamp C, 2016, FEMS MICROBIOL REV, V40, P133, DOI 10.1093/femsre/fuv008
+CR  - Strahl H, 2017, ANNU REV MICROBIOL, V71, P519, DOI 10.1146/annurev-micro-102215-095630
+CR  - Sulzenbacher G, 2004, J MOL BIOL, V342, P489, DOI 10.1016/j.jmb.2004.07.034
+CR  - SUUTARI M, 1994, CRIT REV MICROBIOL, V20, P285, DOI 10.3109/10408419409113560
+CR  - Vincent F, 2010, FEBS LETT, V584, P1577, DOI 10.1016/j.febslet.2010.03.015
+CR  - Wiegand I, 2008, NAT PROTOC, V3, P163, DOI 10.1038/nprot.2007.521
+CR  - Wong F, 2021, NAT COMMUN, V12, DOI 10.1038/s41467-021-22485-6
+CR  - Wong-Ekkabut J, 2007, BIOPHYS J, V93, P4225, DOI 10.1529/biophysj.107.112565
+CR  - Yamada K, 2016, NAT CHEM BIOL, V12, P608, DOI [10.1038/NCHEMBIO.2105, 10.1038/nchembio.2105]
+CR  - Yin HY, 2011, CHEM REV, V111, P5944, DOI 10.1021/cr200084z
+CR  - Yoon SJ, 2002, J BIOCHEM MOL BIOL, V35, P297
+CR  - Zimmermann L, 2018, EUR J MED CHEM, V157, P1512, DOI 10.1016/j.ejmech.2018.08.022
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - MAY
+PY  - 2022
+VL  - 20
+IS  - 5
+C7  - e3001610
+DO  - 10.1371/journal.pbio.3001610
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000858960300007
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  89
+ER  -
+
+TY  - JOUR
+AU  - Eden, R
+AU  - Manica, A
+AU  - Mitchell, EG
+TI  - Metacommunity analyses show an increase in ecological specialisation throughout the Ediacaran period
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - MISTAKEN POINT
+KW  - ANIMAL COMMUNITIES
+KW  - DIVERSITY
+KW  - PATTERNS
+KW  - ASSEMBLAGE
+KW  - BIOTA
+KW  - RECONSTRUCTION
+KW  - DISTRIBUTIONS
+KW  - PALEOECOLOGY
+KW  - DICKINSONIA
+AB  - The first animals appear during the late Ediacaran (572 to 541 Ma); an initial diversity increase was followed reduction in diversity, often interpreted as catastrophic mass extinction. We investigate Ediacaran ecosystem structure changes over this time period using the "Elements of Metacommunity Structure" framework to assess whether this diversity reduction in the Nama was likely caused by an external mass extinction, or internal metacommunity restructuring. The oldest metacommunity was characterised by taxa with wide environmental tolerances, and limited specialisation or intertaxa associations. Structuring increased in the second oldest metacommunity, with groups of taxa sharing synchronous responses to environmental gradients, aggregating into distinct communities. This pattern strengthened in the youngest metacommunity, with communities showing strong environmental segregation and depth structure. Thus, metacommunity structure increased in complexity, with increased specialisation and resulting in competitive exclusion, not a catastrophic environmental disaster, leading to diversity loss in the terminal Ediacaran. These results reveal that the complex eco-evolutionary dynamics associated with Cambrian diversification were established in the Ediacaran.
+AD  - Univ Cambridge, Dept Zool, Cambridge, EnglandC3  - University of CambridgeFU  - Natural Environment Research Council Independent Research Fellowship [NE/S014756/1]
+FX  - This work was funded by a Natural Environment Research Council Independent Research Fellowship NE/S014756/1 to EGM. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+CR  - Bar-Massada A, 2015, P ROY SOC B-BIOL SCI, V282, DOI 10.1098/rspb.2015.0927
+CR  - Blanchet FG, 2020, ECOL LETT, V23, P1050, DOI 10.1111/ele.13525
+CR  - Boag TH, 2016, PALEOBIOLOGY, V42, P574, DOI 10.1017/pab.2016.20
+CR  - Bobrovskiy I, 2018, SCIENCE, V361, P1246, DOI 10.1126/science.aat7228
+CR  - Bobrovskiy I, 2018, NAT ECOL EVOL, V2, P437, DOI 10.1038/s41559-017-0438-6
+CR  - Boddy CE, 2022, J GEOL SOC LONDON, V179, DOI 10.1144/jgs2021-030
+CR  - Bowyer FT, 2020, SCI REP-UK, V10, DOI 10.1038/s41598-020-59335-2
+CR  - Budd GE, 2020, SCI ADV, V6, DOI 10.1126/sciadv.aaz1626
+CR  - Burgess TI, 2019, ECOGRAPHY, V42, P594, DOI 10.1111/ecog.03904
+CR  - Bush AM, 2011, TOP GEOBIOL, V36, P111, DOI 10.1007/978-94-007-0680-4_5
+CR  - Clapham ME, 2003, PALEOBIOLOGY, V29, P527, DOI 10.1666/0094-8373(2003)029<0527:POTOKA>2.0.CO;2
+CR  - Collins MD, 2011, J BIOGEOGR, V38, P2373, DOI 10.1111/j.1365-2699.2011.02506.x
+CR  - CONNELL J H, 1971, P298
+CR  - Cribb AT, 2019, ROY SOC OPEN SCI, V6, DOI 10.1098/rsos.190548
+CR  - Dahlgren JP, 2011, OIKOS, V120, P1183, DOI 10.1111/j.1600-0706.2010.19063.x
+CR  - Dallas T, 2014, ECOGRAPHY, V37, P402, DOI 10.1111/j.1600-0587.2013.00695.x
+CR  - Darroch SAF, 2021, EARTH-SCI REV, V212, DOI 10.1016/j.earscirev.2020.103435
+CR  - Darroch SAF, 2018, NAT ECOL EVOL, V2, P1541, DOI 10.1038/s41559-018-0663-7
+CR  - Darroch SAF, 2018, TRENDS ECOL EVOL, V33, P653, DOI 10.1016/j.tree.2018.06.003
+CR  - Darroch SAF, 2015, P ROY SOC B-BIOL SCI, V282, P129, DOI 10.1098/rspb.2015.1003
+CR  - Darroch SAF, 2013, PALEOBIOLOGY, V39, P591, DOI 10.1666/12051
+CR  - Droser ML, 2008, SCIENCE, V319, P1660, DOI 10.1126/science.1152595
+CR  - Droser ML, 2019, PALAEOGEOGR PALAEOCL, V513, P132, DOI 10.1016/j.palaeo.2017.09.007
+CR  - Droser ML, 2015, P NATL ACAD SCI USA, V112, P4865, DOI 10.1073/pnas.1403669112
+CR  - Droser ML, 2006, PALAEOGEOGR PALAEOCL, V232, P131, DOI 10.1016/j.palaeo.2005.12.015
+CR  - Dunn FS, 2021, SCI ADV, V7, DOI 10.1126/sciadv.abe0291
+CR  - Finnegan S, 2019, PALEOBIOLOGY, V45, P235, DOI 10.1017/pab.2019.1
+CR  - Garcia-Giron J, 2021, PALAEONTOLOGY, V64, P335, DOI 10.1111/pala.12526
+CR  - Grazhdankin D, 2004, PALEOBIOLOGY, V30, P203, DOI 10.1666/0094-8373(2004)030<0203:PODITE>2.0.CO;2
+CR  - Grazhdankin D, 2007, LETHAIA, V40, P201, DOI 10.1111/j.1502-3931.2007.00025.x
+CR  - Griffith DM, 2016, J STAT SOFTW, V69, P1
+CR  - Gu YB, 2021, MAR POLLUT BULL, V171, DOI 10.1016/j.marpolbul.2021.112662
+CR  - Heino J, 2005, ECOL ENTOMOL, V30, P590, DOI 10.1111/j.0307-6946.2005.00728.x
+CR  - Henriques-Silva R, 2013, ECOLOGY, V94, P627, DOI 10.1890/12-0683.1
+CR  - Ivantsov AY, 2013, STRATIGR GEO CORREL+, V21, P252, DOI 10.1134/S0869593813030039
+CR  - Ivantsov AY, 2011, PALEONTOL J+, V45, P237, DOI 10.1134/S0031030111030063
+CR  - Ivantsov AY, 2009, PALEONTOL J+, V43, P601, DOI 10.1134/S003103010906001X
+CR  - Leibold MA, 2004, ECOL LETT, V7, P601, DOI 10.1111/j.1461-0248.2004.00608.x
+CR  - Leibold MA, 2002, OIKOS, V97, P237, DOI 10.1034/j.1600-0706.2002.970210.x
+CR  - Liu AG, 2015, GONDWANA RES, V27, P1355, DOI 10.1016/j.gr.2014.11.002
+CR  - Lyons SK, 2016, NATURE, V529, P80, DOI 10.1038/nature16447
+CR  - Mangano MG, 2014, P ROY SOC B-BIOL SCI, V281, DOI 10.1098/rspb.2014.0038
+CR  - Mitchell EG, 2020, INTERFACE FOCUS, V10, DOI 10.1098/rsfs.2019.0109
+CR  - Mitchell EG, 2019, ECOL LETT, V22, P2028, DOI 10.1111/ele.13383
+CR  - Mitchell EG, 2018, NAT ECOL EVOL, V2, P1218, DOI 10.1038/s41559-018-0591-6
+CR  - Mitchell EG, 2018, PALEOBIOLOGY, V44, P40, DOI 10.1017/pab.2017.35
+CR  - Mitchell EG, 2015, NATURE, V524, P343, DOI 10.1038/nature14646
+CR  - Muscente AD, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-019-08837-3
+CR  - Muscente AD, 2018, EARTH-SCI REV, V177, P248, DOI 10.1016/j.earscirev.2017.11.019
+CR  - Na L, 2015, P NATL ACAD SCI USA, V112, P4702, DOI 10.1073/pnas.1424985112
+CR  - Narbonne GM, 2003, GEOLOGY, V31, P27, DOI 10.1130/0091-7613(2003)031<0027:LASTOC>2.0.CO;2
+CR  - PATTERSON BD, 1986, BIOL J LINN SOC, V28, P65, DOI 10.1111/j.1095-8312.1986.tb01749.x
+CR  - Penny AM, 2014, SCIENCE, V344, P1504, DOI 10.1126/science.1253393
+CR  - Pitta Eva, 2012, Diversity, V4, P179
+CR  - Presley SJ, 2019, OECOLOGIA, V190, P323, DOI 10.1007/s00442-019-04420-1
+CR  - Presley SJ, 2010, OIKOS, V119, P908, DOI 10.1111/j.1600-0706.2010.18544.x
+CR  - Reid LM, 2018, J PALEONTOL, V92, P313, DOI 10.1017/jpa.2017.142
+CR  - SCHIFFBAUER J.D., 2016, GSA TODAY, V26, P4, DOI 10.1130/GSATG265A.1
+CR  - Shen B, 2008, SCIENCE, V319, P81, DOI 10.1126/science.1150279
+CR  - Tarhan LG, 2018, INTEGR COMP BIOL, V58, P688, DOI 10.1093/icb/icy020
+CR  - Veech JA, 2013, GLOBAL ECOL BIOGEOGR, V22, P252, DOI 10.1111/j.1466-8238.2012.00789.x
+CR  - Waggoner B, 2003, INTEGR COMP BIOL, V43, P104, DOI 10.1093/icb/43.1.104
+CR  - Wilborn R, 2018, HYDROBIOLOGIA, V811, P251, DOI 10.1007/s10750-017-3492-9
+CR  - Wilby PR, 2011, GEOLOGY, V39, P655, DOI 10.1130/G31890.1
+CR  - Wood DA, 2003, CAN J EARTH SCI, V40, P1375, DOI 10.1139/E03-048
+CR  - Wood R, 2019, NAT ECOL EVOL, V3, P528, DOI 10.1038/s41559-019-0821-6
+CR  - Wright DH, 1998, OECOLOGIA, V113, P1, DOI 10.1007/s004420050348
+CR  - Xiao SH, 2009, TRENDS ECOL EVOL, V24, P31, DOI 10.1016/j.tree.2008.07.015
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - MAY
+PY  - 2022
+VL  - 20
+IS  - 5
+C7  - e3001289
+DO  - 10.1371/journal.pbio.3001289
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000858960300001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  68
+ER  -
+
+TY  - JOUR
+AU  - Kohda, M
+AU  - Sogawa, S
+AU  - Jordan, A
+AU  - Kubo, N
+AU  - Awata, S
+AU  - Satoh, S
+AU  - Kobayashi, T
+AU  - Fujita, A
+AU  - Bshary, R
+TI  - Further evidence for the capacity of mirror self-recognition in cleaner fish and the significance of ecologically relevant marks
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - MACACA-MULATTA
+KW  - CHIMPANZEES
+KW  - THEMSELVES
+KW  - ELASTOMER
+KW  - EVOLUTION
+KW  - PRIMATES
+KW  - TAGS
+AB  - An animal that tries to remove a mark from its body that is only visible when looking into a mirror displays the capacity for mirror self-recognition (MSR), which has been interpreted as evidence for self-awareness. Conservative interpretations of existing data conclude that convincing evidence for MSR is currently restricted to great apes. Here, we address proposed shortcomings of a previous study on MSR in the cleaner wrasse Labroides dimidiatus, by varying preexposure to mirrors and by marking individuals with different colors. We found that (1) 14/14 new individuals scraped their throat when a brown mark had been provisioned, but only in the presence of a mirror; (2) blue and green color marks did not elicit scraping; (3) intentionally injecting the mark deeper beneath the skin reliably elicited spontaneous scraping in the absence of a mirror; (4) mirror-naive individuals injected with a brown mark scraped their throat with lower probability and/or lower frequency compared to mirror-experienced individuals; (5) in contrast to the mirror images, seeing another fish with the same marking did not induce throat scraping; and (6) moving the mirror to another location did not elicit renewed aggression in mirror-experienced individuals. Taken together, these results increase our confidence that cleaner fish indeed pass the mark test, although only if it is presented in ecologically relevant contexts. Therefore, we reiterate the conclusion of the previous study that either self-awareness in animals or the validity of the mirror test needs to be revised.
+AD  - Osaka City Univ, Grad Sch Sci, Dept Biol & Geosci, Lab Anim Sociol, Osaka, JapanAD  - Max Planck Inst Anim Behav, Dept Collect Behav, Constance, GermanyAD  - Univ Neuchatel, Inst Zool, Neuchatel, SwitzerlandC3  - Osaka Metropolitan UniversityC3  - Max Planck SocietyC3  - University of NeuchatelFU  - KAKENHI Grants from JSPS [17K18712, 19F19713, 19H03306, 20K20630, 20J01170]; Osaka City University; Swiss Science Foundation [310030_192673/1]; Max Planck Society; Deutsche Forschungsgemeinschaft Cluster of Excellence 2117 "Centre for the Advanced Study of Collective Behavior" [422037984]
+FX  - This study was financially supported by KAKENHI Grants from JSPS to MK (nos. 17K18712, 19F19713, 19H03306 and 20K20630) and to SS (nos. 20J01170) and by the Osaka City University Strategic Research Grant 2018 and 2019 for Top Priority Researches to MK. RB is supported by the Swiss Science Foundation, Grant 310030_192673/1. ALJ is supported by the Max Planck Society and Deutsche Forschungsgemeinschaft Cluster of Excellence 2117 "Centre for the Advanced Study of Collective Behavior" Grant 422037984. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+CR  - Aellen M, 2021, ANIM BEHAV, V176, P125, DOI 10.1016/j.anbehav.2021.04.002
+CR  - AMSTERDAM B, 1972, DEV PSYCHOBIOL, V5, P297, DOI 10.1002/dev.420050403
+CR  - Anderson JR, 2015, PRIMATES, V56, P317, DOI 10.1007/s10329-015-0488-9
+CR  - Anderson JR, 2011, AM J PRIMATOL, V73, P603, DOI 10.1002/ajp.20950
+CR  - Anderson JR, 2011, PLOS BIOL, V9, DOI 10.1371/journal.pbio.1001024
+CR  - Astington JW, 1993, CHILDS DISCOVERY MIN
+CR  - Baragli P, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0176717
+CR  - Basile BM., 2018, ENCY ANIMAL COGNITIO, DOI 10.1007/978-3-319-47829-6_1560-1
+CR  - Binning SA, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-07128-5
+CR  - Broom DM, 2009, ANIM BEHAV, V78, P1037, DOI 10.1016/j.anbehav.2009.07.027
+CR  - Brown C, 2015, ANIM COGN, V18, P1, DOI 10.1007/s10071-014-0761-0
+CR  - Bshary R, 2002, P ROY SOC B-BIOL SCI, V269, P2087, DOI 10.1098/rspb.2002.2084
+CR  - Bshary R, 2011, FISH COGNITION BEHAV, P223, DOI DOI 10.1002/9781444342536.CH13
+CR  - Bshary R, 2014, CURR BIOL, V24, pR947, DOI 10.1016/j.cub.2014.08.043
+CR  - Buniyaadi A, 2020, J ORNITHOL, V161, P341, DOI 10.1007/s10336-019-01730-2
+CR  - Burghardt GM, 2015, ETHOLOGY, V121, P38, DOI 10.1111/eth.12312
+CR  - Chojnacka D, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0135373
+CR  - Clary D, 2016, SCI REP-UK, V6, DOI 10.1038/srep36459
+CR  - Cote IM, 2000, OCEANOGR MAR BIOL, V38, P311
+CR  - de Waal FBM, 2005, P NATL ACAD SCI USA, V102, P11140, DOI 10.1073/pnas.0503935102
+CR  - de Waal FBM, 2019, PLOS BIOL, V17, DOI 10.1371/journal.pbio.3000112
+CR  - GALLUP GG, 1970, SCIENCE, V167, P86, DOI 10.1126/science.167.3914.86
+CR  - GALLUP GG, 1982, AM J PRIMATOL, V2, P237, DOI 10.1002/ajp.1350020302
+CR  - GALLUP GG, 1991, J COMP PSYCHOL, V105, P376, DOI 10.1037/0735-7036.105.4.376
+CR  - GALLUP GG, 1977, AM PSYCHOL, V32, P329, DOI 10.1037/0003-066X.32.5.329
+CR  - Gallup Gordon G. Jr, 1994, P35, DOI 10.1017/CBO9780511565526.005
+CR  - Gallup GG, 2020, PSYCHOL CONSCIOUS, V7, P46, DOI 10.1037/cns0000206
+CR  - GRUTTER AS, 1994, MAR ECOL PROG SER, V115, P21, DOI 10.3354/meps115021
+CR  - Hare B, 2001, ANIM BEHAV, V61, P139, DOI 10.1006/anbe.2000.1518
+CR  - HEYES CM, 1994, ANIM BEHAV, V47, P909, DOI 10.1006/anbe.1994.1123
+CR  - Hotta T, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0237817
+CR  - Hotta T, 2018, ANIM COGN, V21, P127, DOI 10.1007/s10071-017-1146-y
+CR  - Jordan LA, 2015, BIOL LETTERS, V11, DOI 10.1098/rsbl.2014.1054
+CR  - Keenan J. P., 2003, FACE MIRROR SEARCH O
+CR  - Kohda M, 2019, PLOS BIOL, V17, DOI 10.1371/journal.pbio.3000021
+CR  - Kohda M, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0142552
+CR  - KUWAMURA T, 1984, Publications of the Seto Marine Biological Laboratory, V29, P117
+CR  - Losey GS, 1999, BEHAV CONSERVATION L, P379
+CR  - McAuliffe K., 2021, COMMUN BIOL, V4, P1, DOI [10.1038/s42003-020-01566-0, DOI 10.1038/S42003-020-01566-0]
+CR  - Medina FS, 2011, ANIM BEHAV, V82, P981, DOI 10.1016/j.anbehav.2011.07.033
+CR  - Morrison R, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0189813
+CR  - Olsen EM, 2004, N AM J FISH MANAGE, V24, P282, DOI 10.1577/M02-190
+CR  - Olsen EM, 2001, N AM J FISH MANAGE, V21, P967, DOI 10.1577/1548-8675(2001)021&lt;0967:AEOVIE&gt;2.0.CO;2
+CR  - Plotnik JM, 2006, P NATL ACAD SCI USA, V103, P17053, DOI 10.1073/pnas.0608062103
+CR  - Posada S, 2007, AM J PRIMATOL, V69, P576, DOI 10.1002/ajp.20355
+CR  - Povinelli DJ, 1997, ANIM BEHAV, V53, P1083, DOI 10.1006/anbe.1996.0303
+CR  - Prior H, 2008, PLOS BIOL, V6, P1642, DOI 10.1371/journal.pbio.0060202
+CR  - Quinones AE, 2020, AM NAT, V195, P664, DOI 10.1086/707519
+CR  - R Core Team, 2020, LANG ENV STAT COMP
+CR  - Rajala AZ, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0012865
+CR  - Reiss D, 2001, P NATL ACAD SCI USA, V98, P5937, DOI 10.1073/pnas.101086398
+CR  - Sakai Y, 2001, ANIM BEHAV, V62, P251, DOI 10.1006/anbe.2001.1761
+CR  - Salwiczek LH, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0049068
+CR  - Sogawa S, 2018, FRONT ECOL EVOL, V6, DOI 10.3389/fevo.2018.00044
+CR  - SUAREZ SD, 1986, AM J PRIMATOL, V11, P239, DOI 10.1002/ajp.1350110305
+CR  - Suddendorf T, 2013, TRENDS COGN SCI, V17, P121, DOI 10.1016/j.tics.2013.01.004
+CR  - Suddendorf T, 2009, P R SOC B, V276, P1671, DOI 10.1098/rspb.2008.1754
+CR  - SWARTZ KB, 1991, PRIMATES, V32, P483, DOI 10.1007/BF02381939
+CR  - Swartz KB., 1999, SELF AWARENESS ANIMA, P189
+CR  - Triki Z, 2019, BEHAV ECOL, V30, P1548, DOI 10.1093/beheco/arz111
+CR  - van Buuren M, 2019, BEHAVIOUR, V156, P763, DOI 10.1163/1568539X-00003514
+CR  - Willis TJ, 1998, NEW ZEAL J MAR FRESH, V32, P247, DOI 10.1080/00288330.1998.9516823
+CR  - Wismer S, 2016, ANIM COGN, V19, P769, DOI 10.1007/s10071-016-0975-4
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - FEB
+PY  - 2022
+VL  - 20
+IS  - 2
+C7  - e3001529
+DO  - 10.1371/journal.pbio.3001529
+WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000759890300001
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  7
+Cited Reference Count:  63
+ER  -
+
+TY  - JOUR
+AU  - Clements, J
+AU  - Sundin, J
+AU  - Clark, T
+AU  - Jutfelt, F
+TI  - Meta-analysis reveals an extreme "decline effect" in the impacts of ocean acidification on fish behavior
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - PUBLICATION BIAS
+KW  - ELEVATED CO2
+KW  - EFFECT SIZES
+KW  - SENSITIVITIES
+KW  - IMPAIRMENT
+KW  - RESPONSES
+KW  - EXPOSURE
+KW  - ECOLOGY
+KW  - SCIENCE
+KW  - ABILITY
+AB  - Ocean acidification-decreasing oceanic pH resulting from the uptake of excess atmospheric CO2-has the potential to affect marine life in the future. Among the possible consequences, a series of studies on coral reef fish suggested that the direct effects of acidification on fish behavior may be extreme and have broad ecological ramifications. Recent studies documenting a lack of effect of experimental ocean acidification on fish behavior, however, call this prediction into question. Indeed, the phenomenon of decreasing effect sizes over time is not uncommon and is typically referred to as the "decline effect." Here, we explore the consistency and robustness of scientific evidence over the past decade regarding direct effects of ocean acidification on fish behavior. Using a systematic review and meta-analysis of 91 studies empirically testing effects of ocean acidification on fish behavior, we provide quantitative evidence that the research to date on this topic is characterized by a decline effect, where large effects in initial studies have all but disappeared in subsequent studies over a decade. The decline effect in this field cannot be explained by 3 likely biological explanations, including increasing proportions of studies examining (1) cold-water species; (2) nonolfactory-associated behaviors; and (3) nonlarval life stages. Furthermore, the vast majority of studies with large effect sizes in this field tend to be characterized by low sample sizes, yet are published in high-impact journals and have a disproportionate influence on the field in terms of citations. We contend that ocean acidification has a negligible direct impact on fish behavior, and we advocate for improved approaches to minimize the potential for a decline effect in future avenues of research.
+AD  - Norwegian Univ Sci & Technol, Dept Biol, Trondheim, NorwayAD  - Swedish Univ Agr Sci, Dept Aquat Resources, Drottningholm, SwedenAD  - Deakin Univ, Sch Life & Environm Sci, Geelong, Vic, AustraliaAD  - Fisheries & Oceans Canada, Moncton, NB, CanadaC3  - Norwegian University of Science & Technology (NTNU)C3  - Swedish University of Agricultural SciencesC3  - Deakin UniversityC3  - Fisheries & Oceans CanadaFU  - Marie Sklodowska-CurieIndividual Fellowship through the European Union Horizon 2020 program [752813]; Australian Research Councils Future Fellowship program [FT180100154]; Research Council of Norway [262942]
+FX  - This work was supported by a Marie Sklodowska-CurieIndividual Fellowship funded through the European Union Horizon 2020 program (projectnumber 752813 to J.C.C.), the Australian Research Councils Future Fellowship program (FT180100154 to T.D.C.),and the Research Council of Norway (262942 to F.J.).The funders had no role in study design ,data collection and analysis, decision to publish,or preparationofthe manuscrip.
+CR  - Baumann H, 2019, CAN J ZOOL, V97, P399, DOI 10.1139/cjz-2018-0198
+CR  - Bender D, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0131442
+CR  - Black, 2011, BBC NEWS
+CR  - Browman HI, 2016, ICES J MAR SCI, V73, P529, DOI 10.1093/icesjms/fsw010
+CR  - Brown NEM, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-28012-w
+CR  - Camerer CF, 2018, NAT HUM BEHAV, V2, P637, DOI 10.1038/s41562-018-0399-z
+CR  - Clark TD, 2020, NATURE, V577, P370, DOI 10.1038/s41586-019-1903-y
+CR  - Clark TD, 2017, NATURE, V542, P139, DOI 10.1038/542139a
+CR  - Clements JC, 2020, NATURE, V582, P300, DOI 10.1038/d41586-020-01642-9
+CR  - Clements JC, 2019, J SHELLFISH RES, V38, P811, DOI 10.2983/035.038.0330
+CR  - Clements JC, 2018, HYDROBIOLOGIA, V820, P1, DOI 10.1007/s10750-018-3665-1
+CR  - Columb MO, 2016, BJA EDUC, V16, P159, DOI 10.1093/bjaed/mkv034
+CR  - Dell AI, 2014, TRENDS ECOL EVOL, V29, P417, DOI 10.1016/j.tree.2014.05.004
+CR  - Devine BM, 2013, MAR BIOL, V160, P1955, DOI 10.1007/s00227-012-2051-1
+CR  - Dixson DL, 2017, SCI AM, V316, P42, DOI 10.1038/scientificamerican0617-42
+CR  - Dixson DL, 2010, ECOL LETT, V13, P68, DOI 10.1111/j.1461-0248.2009.01400.x
+CR  - Duarte CM, 2015, BIOSCIENCE, V65, P130, DOI 10.1093/biosci/biu198
+CR  - Enserink M, 2021, SCIENCE, V372, P560, DOI 10.1126/science.372.6542.560
+CR  - Garamszegi LZ, 2006, BEHAV ECOL, V17, P682, DOI 10.1093/beheco/ark005
+CR  - Garcia-Roa R, 2020, BIOL REV, V95, P1607, DOI 10.1111/brv.12632
+CR  - Gonzales JE, 2015, AM PSYCHOL ASS
+CR  - Hadfield JD, 2010, J STAT SOFTW, V33, P1, DOI 10.18637/jss.v033.i02
+CR  - Harvey BP, 2013, ECOL EVOL, V3, P1016, DOI 10.1002/ece3.516
+CR  - Harzing A.W., 2007, PUBLISH PERISH
+CR  - Harzing A. W. K., 2008, ETHICS SCI ENV POLIT, V8, P61, DOI [10.3354/ESEP00076, DOI 10.3354/ESEP00076]
+CR  - Head ML, 2015, PLOS BIOL, V13, DOI 10.1371/journal.pbio.1002106
+CR  - Hintze, 2007, NCSS STAT SYSTEM USE
+CR  - Hofseth LJ, 2018, CARCINOGENESIS, V39, P21, DOI 10.1093/carcin/bgx085
+CR  - Holman L, 2015, PLOS BIOL, V13, DOI 10.1371/journal.pbio.1002190
+CR  - Ioannidis JPA, 2005, PLOS MED, V2, P696, DOI 10.1371/journal.pmed.0020124
+CR  - Jannot AS, 2013, J CLIN EPIDEMIOL, V66, P296, DOI 10.1016/j.jclinepi.2012.09.015
+CR  - Jennions MD, 2002, P ROY SOC B-BIOL SCI, V269, P43, DOI 10.1098/rspb.2001.1832
+CR  - Jutfelt F, 2017, METHODS ECOL EVOL, V8, P379, DOI 10.1111/2041-210X.12668
+CR  - Koricheva J, 2019, TRENDS ECOL EVOL, V34, P895, DOI 10.1016/j.tree.2019.05.006
+CR  - Kroeker KJ, 2013, GLOBAL CHANGE BIOL, V19, P1884, DOI 10.1111/gcb.12179
+CR  - Kroeker KJ, 2010, ECOL LETT, V13, P1419, DOI 10.1111/j.1461-0248.2010.01518.x
+CR  - Kwiatkowski L, 2018, NAT CLIM CHANGE, V8, P141, DOI 10.1038/s41558-017-0054-0
+CR  - Lonnstedt OM, 2013, ECOL EVOL, V3, P3565, DOI 10.1002/ece3.684
+CR  - Lonnstedt OM, 2017, SCIENCE, V358, P1549
+CR  - Maneja RH, 2013, MAR BIOL, V160, P1963, DOI 10.1007/s00227-012-2054-y
+CR  - Marsh DM, 2007, ETHOLOGY, V113, P1089, DOI 10.1111/j.1439-0310.2007.01406.x
+CR  - Martin-Martin A, 2018, J INFORMETR, V12, P1160, DOI 10.1016/j.joi.2018.09.002
+CR  - Morrissey MB, 2016, J EVOLUTION BIOL, V29, P1882, DOI 10.1111/jeb.12950
+CR  - Munday PL, 2014, NAT CLIM CHANGE, V4, P487, DOI [10.1038/nclimate2195, 10.1038/NCLIMATE2195]
+CR  - Munday PL, 2013, MAR BIOL, V160, P2137, DOI 10.1007/s00227-012-2111-6
+CR  - Munday PL, 2010, P NATL ACAD SCI USA, V107, P12930, DOI 10.1073/pnas.1004519107
+CR  - Munday PL, 2009, P NATL ACAD SCI USA, V106, P1848, DOI 10.1073/pnas.0809996106
+CR  - Murtaugh PA, 2002, ECOLOGY, V83, P1162, DOI 10.1890/0012-9658(2002)083[1162:JQESAP]2.0.CO;2
+CR  - Nilsson GE, 2012, NAT CLIM CHANGE, V2, P201, DOI [10.1038/NCLIMATE1352, 10.1038/nclimate1352]
+CR  - Page MJ, 2021, BMJ-BRIT MED J, V372, DOI [10.1016/j.ijsu.2021.105906, 10.1136/bmj.n71]
+CR  - Palmer AR, 1999, AM NAT, V154, P220, DOI 10.1086/303223
+CR  - Paulus FM, 2013, SCHIZOPHRENIA BULL, V39, P501, DOI 10.1093/schbul/sbt035
+CR  - Pimentel MS, 2016, CLIMATIC CHANGE, V137, P495, DOI 10.1007/s10584-016-1682-5
+CR  - Poulton DA, 2017, ICES J MAR SCI, V74, P1230, DOI 10.1093/icesjms/fsw003
+CR  - Pustejovsky JE, 2018, J SCHOOL PSYCHOL, V68, P99, DOI 10.1016/j.jsp.2018.02.003
+CR  - Riebesell U, 2010, GUIDE BEST PRACTICES, P260, DOI [10.2777/66906, DOI 10.2777/66906]
+CR  - Roberts KB, 2015, UDAILY
+CR  - Rodriguez-Dominguez A, 2018, MAR POLLUT BULL, V133, P562, DOI 10.1016/j.marpolbul.2018.06.004
+CR  - Sanchez-Tojar A, 2018, ELIFE, V7, DOI 10.7554/eLife.37385
+CR  - Schneider CA, 2012, NAT METHODS, V9, P671, DOI 10.1038/nmeth.2089
+CR  - Schooler J, 2011, NATURE, V470, P437, DOI 10.1038/470437a
+CR  - Schunter C, 2018, NAT ECOL EVOL, V2, P334, DOI 10.1038/s41559-017-0428-8
+CR  - Schunter C, 2016, NAT CLIM CHANGE, V6, P1014, DOI 10.1038/NCLIMATE3087
+CR  - Sterne JAC, 2001, BMJ-BRIT MED J, V323, P101, DOI 10.1136/bmj.323.7304.101
+CR  - Traniello JFA, 2015, BEHAV ECOL SOCIOBIOL, V69, P1573, DOI 10.1007/s00265-015-2001-2
+CR  - WASSERMAN S, 1988, J EDUC STAT, V13, P75
+CR  - Yang Y., 2021, LOW STAT POWER OVERE, DOI [10.1111/gcb.15972, DOI 10.1111/GCB.15972]
+CR  - Yong, 2009, DISCOVER MAGAZINE
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - FEB
+PY  - 2022
+VL  - 20
+IS  - 2
+C7  - e3001511
+DO  - 10.1371/journal.pbio.3001511
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000751428800002
+N1  - Times Cited in Web of Science Core Collection:  8
+Total Times Cited:  8
+Cited Reference Count:  68
+ER  -
+
+TY  - JOUR
+AU  - Coughlan, J
+TI  - One fish, two fish, red fish, dead fish: Detecting the genomic footprint of ecological incompatibilities
+T2  - PLOS BIOLOGY
+LA  - English
+KW  - DIVERGENCE
+KW  - SELECTION
+AB  - As we uncover the ubiquity of hybridization in nature, determining how natural selection acts on hybrids has newfound importance for speciation. A study in PLOS Biology uses threespine stickleback to detect a genomic signature of ecological incompatibilities.
+AD  - Univ N Carolina, Biol Dept, Chapel Hill, NC 27515 USAAD  - Yale Univ, Dept Ecol & Evolutionary Biol, New Haven, CT 06511 USAC3  - University of North CarolinaC3  - University of North Carolina Chapel HillC3  - Yale UniversityFU  - NSF DEB Dimensions of Biodiversity grant [DEB-DOB-1737752]
+FX  - Thank you to Adam Stuckert and Andrius Dagilis for thoughtful comments.
+CR  - Arnegard ME, 2014, NATURE, V511, P307, DOI 10.1038/nature13301
+CR  - BARTON NH, 1993, HYBRID ZONES AND THE EVOLUTIONARY PROCESS, P13
+CR  - Cooper BS, 2018, CURR BIOL, V28, P2940, DOI 10.1016/j.cub.2018.07.005
+CR  - Coughlan JM, 2020, PHILOS T R SOC B, V375, DOI 10.1098/rstb.2019.0533
+CR  - Delmore KE, 2014, ECOL LETT, V17, P1211, DOI 10.1111/ele.12326
+CR  - Dobzhansky T., 1937, GENETICS ORIGIN SPEC, DOI [10.1093/genetics/22.3.340, DOI 10.1093/GENETICS/22.3.340]
+CR  - McBride CS, 2010, PLOS BIOL, V8, DOI 10.1371/journal.pbio.1000529
+CR  - Simon A, 2018, EVOL LETT, V2, P472, DOI 10.1002/evl3.66
+CR  - Thompson K, 2022, PLOS BIOL, V20, DOI 10.1371/journal.pbio.3001469
+CR  - Thompson KA, 2021, AM NAT, V197, pE72, DOI 10.1086/712603
+PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1544-9173
+SN  - 1545-7885
+J9  - PLOS BIOL
+JI  - PLoS. Biol.
+DA  - JAN
+PY  - 2022
+VL  - 20
+IS  - 1
+C7  - e3001504
+DO  - 10.1371/journal.pbio.3001504
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000747186700001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  12
+ER  -
+
