@@ -1,1194 +1,0 @@
-TY  - JOUR
-AU  - Smith, TM
-AU  - Youngblom, MA
-AU  - Kernien, JF
-AU  - Mohamed, MA
-AU  - Fry, SS
-AU  - Bohr, LL
-AU  - Mortimer, TD
-AU  - O'Neill, MB
-AU  - Pepperell, CS
-TI  - Rapid adaptation of a complex trait during experimental evolution of Mycobacterium tuberculosis
-T2  - ELIFE
-LA  - English
-KW  - Mycobacterium tuberculosis
-KW  - biofilms
-KW  - experimental evolution
-KW  - population genetics
-KW  - Other
-KW  - 2-COMPONENT REGULATORY SYSTEMS
-KW  - LONG-TERM EXPERIMENT
-KW  - TUBERCLE-BACILLI
-KW  - PHYLOGENETIC TREES
-KW  - BIOFILM FORMATION
-KW  - GENE DUPLICATION
-KW  - ACID-FAST
-KW  - EXPRESSION
-KW  - IDENTIFICATION
-KW  - MUTATIONS
-AB  - Tuberculosis (TB), caused by Mycobacterium tuberculosis (M. tb), is a leading cause of death due to infectious disease. TB is not traditionally associated with biofilms, but M. tb biofilms are linked with drug and immune tolerance and there is increasing recognition of their contribution to the recalcitrance of TB infections. Here, we used M. tb experimental evolution to investigate this complex phenotype and identify candidate loci controlling biofilm formation. We identified novel candidate loci, adding to our understanding of the genetic architecture underlying M. tb biofilm development. Under selective pressure to grow as a biofilm, regulatory mutations rapidly swept to fixation and were associated with changes in multiple traits, including extracellular matrix production, cell size, and growth rate. Genetic and phenotypic paths to enhanced biofilm growth varied according to the genetic background of the parent strain, suggesting that epistatic interactions are important in M. tb adaptation to changing environments.
-AD  - New York Genome Ctr, New York, NY USAAD  - Univ Wisconsin, Dept Med Microbiol & Immunol, Sch Med & Publ Hlth, Madison, WI 53706 USAAD  - Univ Wisconsin, Microbiol Doctoral Training Program, Madison, WI USAAD  - Harvard TH Chan Sch Publ Hlth, Dept Immunol & Infect Dis, Boston, MA USAAD  - PSL Univ, Lab Biochim LBC Chim Biol & Innovat, ESPCI Paris, Paris, FranceAD  - Univ Wisconsin, Sch Med & Publ Hlth, Dept Med Infect Dis, Madison, WI 53715 USAC3  - University of Wisconsin SystemC3  - University of Wisconsin MadisonC3  - University of Wisconsin SystemC3  - University of Wisconsin MadisonC3  - Harvard UniversityC3  - Harvard T.H. Chan School of Public HealthC3  - UDICE-French Research UniversitiesC3  - PSL Research University ParisC3  - University of Wisconsin SystemC3  - University of Wisconsin MadisonFU  - National Institute of Allergy and Infectious Diseases [R01AI113287, T32-GM07215, DGE-1256259]; National Science Foundation [T32-AI55391, DGE-1747503]
-FX  - National Institute of Allergy and Infectious Diseases R01AI113287 Caitlin S Pepperell National Science Foundation DGE-1747503 Madison A Youngblom National Institute of Allergy and Infectious Diseases T32-AI55391 Lindsey L Bohr National Science Foundation DGE-1256259 Tatum D Mortimer Mary B O'Neill National Institute of Allergy and Infectious Diseases T32-GM07215 Tatum D Mortimer
-PU  - eLIFE SCIENCES PUBL LTD
-PI  - CAMBRIDGE
-PA  - SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
-SN  - 2050-084X
-J9  - ELIFE
-JI  - eLife
-DA  - JUN 21
-PY  - 2022
-VL  - 11
-C7  - e78454
-DO  - 10.7554/eLife.78454
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000814773300001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  118
-ER  -
-
-TY  - JOUR
-AU  - Xiong, TZ
-AU  - Li, XY
-AU  - Yago, M
-AU  - Mallet, J
-TI  - Admixture of evolutionary rates across a butterfly hybrid zone
-T2  - ELIFE
-LA  - English
-KW  - hybridization
-KW  - reproductive isolation
-KW  - molecular clock
-KW  - gene flow
-KW  - Other
-KW  - DIVERGENT SELECTION
-KW  - MUTATION-RATE
-KW  - GENE FLOW
-KW  - HYBRIDIZATION
-KW  - POPULATION
-KW  - SPECIATION
-KW  - REVEALS
-KW  - ROAD
-AB  - Hybridization is a major evolutionary force that can erode genetic differentiation between species, whereas reproductive isolation maintains such differentiation. In studying a hybrid zone between the swallowtail butterflies Papilio syfanius and Papilio maackii (Lepidoptera: Papilionidae), we made the unexpected discovery that genomic substitution rates are unequal between the parental species. This phenomenon creates a novel process in hybridization, where genomic regions most affected by gene flow evolve at similar rates between species, while genomic regions with strong reproductive isolation evolve at species-specific rates. Thus, hybridization mixes evolutionary rates in a way similar to its effect on genetic ancestry. Using coalescent theory, we show that the rate-mixing process provides distinct information about levels of gene flow across different parts of genomes, and the degree of rate-mixing can be predicted quantitatively from relative sequence divergence (FST) between the hybridizing species at equilibrium. Overall, we demonstrate that reproductive isolation maintains not only genomic differentiation, but also the rate at which differentiation accumulates. Thus, asymmetric rates of evolution provide an additional signature of loci involved in reproductive isolation.
-AD  - Harvard Univ, Dept Organism & Evolutionary Biol, Cambridge, MA 02138 USAAD  - Chinese Acad Sci, Kunming Inst Zool, Kunming, Peoples R ChinaAD  - Univ Tokyo, Univ Museum, Tokyo, JapanC3  - Harvard UniversityC3  - Chinese Academy of SciencesC3  - Kunming Institute of ZoologyC3  - University of TokyoFU  - American Philosophical Society; NSF-Simons Center for Mathematical and Statistical Analysis of Biology [1764269]; Quantitative Biology Initiative (Harvard University); Department of Organismic and Evolutionary Biology, Harvard University
-FX  - American Philosophical Society The Lewis and Clark Fund for Exploration and Field Research (2017-2018) Tianzhu Xiong
-FX  - The NSF-Simons Center for Mathematical and Statistical Analysis of Biology (Award Number #1764269), and The Quantitative Biology Initiative (Harvard University) Graduate Student Fellowship Tianzhu Xiong
-FX  - Department of Organismic and Evolutionary Biology, Harvard University Graduate Student Fellowship Tianzhu Xiong
-FX  - Department of Organismic and Evolutionary Biology, Harvard University Faculty Start-up Fund James Mallet
-PU  - eLIFE SCIENCES PUBL LTD
-PI  - CAMBRIDGE
-PA  - SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
-SN  - 2050-084X
-J9  - ELIFE
-JI  - eLife
-DA  - JUN 15
-PY  - 2022
-VL  - 11
-C7  - e78135
-DO  - 10.7554/eLife.78135
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000820056700001
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  72
-ER  -
-
-TY  - JOUR
-AU  - Ni, AM
-AU  - Huang, CC
-AU  - Doiron, B
-AU  - Cohen, MR
-AU  - Ostojic, S
-TI  - A general decoding strategy explains the relationship between behavior and correlated variability
-T2  - ELIFE
-LA  - English
-KW  - noise correlations
-KW  - visual attention
-KW  - neural coding
-KW  - perception
-KW  - Rhesus macaque
-KW  - ATTENTIONAL MODULATION
-KW  - NEURONAL MODULATIONS
-KW  - DEPENDENCE
-KW  - EFFICIENCY
-KW  - REDUCTION
-KW  - RESPONSES
-KW  - CORTEX
-AB  - Improvements in perception are frequently accompanied by decreases in correlated variability in sensory cortex. This relationship is puzzling because overall changes in correlated variability should minimally affect optimal information coding. We hypothesize that this relationship arises because instead of using optimal strategies for decoding the specific stimuli at hand, observers prioritize generality: a single set of neuronal weights to decode any stimuli. We tested this using a combination of multineuron recordings in the visual cortex of behaving rhesus monkeys and a cortical circuit model. We found that general decoders optimized for broad rather than narrow sets of visual stimuli better matched the animals' decoding strategy, and that their performance was more related to the magnitude of correlated variability. In conclusion, the inverse relationship between perceptual performance and correlated variability can be explained by observers using a general decoding strategy, capable of decoding neuronal responses to the variety of stimuli encountered in natural vision.
-AD  - Univ Pittsburgh, Dept Neurosci, Pittsburgh, PA 15260 USAAD  - Ctr Neural Basis Cognit, Pittsburgh, PA 15260 USAAD  - Univ Pittsburgh, Dept Math, Pittsburgh, PA USAC3  - Pennsylvania Commonwealth System of Higher Education (PCSHE)C3  - University of PittsburghC3  - Pennsylvania Commonwealth System of Higher Education (PCSHE)C3  - University of PittsburghC3  - Pennsylvania Commonwealth System of Higher Education (PCSHE)C3  - University of PittsburghFU  - National Institutes of Health [1K99NS118117-01, 1U19NS107613-01, R01EB026953, 4R00EY020844-03, R01 EY022930, P30 EY008098s]; Simons Foundation [2017-7]; Swartz Foundation [2017-7]; Vannevar Bush faculty fellowship [N00014-18-1-2002]; Whitehall Foundation; Klingenstein-Simons Fellowship; Sloan Research Fellowship; McKnight Foundation
-FX  - National Institutes of Health 1K99NS118117-01 Amy M Ni Simons Foundation Amy M Ni Chengcheng Huang Brent Doiron Marlene R Cohen Swartz Foundation Fellowship #2017-7 Chengcheng Huang National Institutes of Health 1U19NS107613-01 Brent Doiron National Institutes of Health R01EB026953 Brent Doiron Vannevar Bush faculty fellowship N00014-18-1-2002 Brent Doiron National Institutes of Health 4R00EY020844-03 Marlene R Cohen National Institutes of Health R01 EY022930 Marlene R Cohen National Institutes of Health Core Grant P30 EY008098s Marlene R Cohen Whitehall Foundation Marlene R Cohen Klingenstein-Simons Fellowship Marlene R Cohen Sloan Research Fellowship Marlene R Cohen McKnight Foundation Marlene R Cohen The funders had no role in study design, data collection and interpretation, or the decision to submit the work for publication.
-PU  - eLIFE SCIENCES PUBL LTD
-PI  - CAMBRIDGE
-PA  - SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
-SN  - 2050-084X
-J9  - ELIFE
-JI  - eLife
-DA  - JUN 6
-PY  - 2022
-VL  - 11
-C7  - e67258
-DO  - 10.7554/eLife.67258
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000807810900001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  58
-ER  -
-
-TY  - JOUR
-AU  - Pasukonis, A
-AU  - Serrano-Rojas, SJ
-AU  - Fischer, MT
-AU  - Loretto, MC
-AU  - Shaykevich, DA
-AU  - Rojas, B
-AU  - Ringler, M
-AU  - Roland, AB
-AU  - Marcillo-Lara, A
-AU  - Ringler, E
-AU  - Rodriguez, C
-AU  - Coloma, LA
-AU  - O'Connell, LA
-TI  - Contrasting parental roles shape sex differences in poison frog space use but not navigational performance
-T2  - ELIFE
-LA  - English
-KW  - Allobates femoralis
-KW  - Dendrobates tinctorius
-KW  - Oophaga sylvatica
-KW  - adaptive specialization hypothesis
-KW  - testosterone spillover
-KW  - amphibians
-KW  - Other
-KW  - SPECIES MICROTUS-OCHROGASTER
-KW  - HUNTER-GATHERER THEORY
-KW  - SPATIAL ABILITIES
-KW  - ORIENTATION BEHAVIOR
-KW  - DENDROBATID FROG
-KW  - SOCIAL-BEHAVIOR
-KW  - ALPINE NEWT
-KW  - WATER MAZE
-KW  - BODY-SIZE
-KW  - CARE
-AB  - Sex differences in vertebrate spatial abilities are typically interpreted under the adaptive specialization hypothesis, which posits that male reproductive success is linked to larger home ranges and better navigational skills. The androgen spillover hypothesis counters that enhanced male spatial performance may be a byproduct of higher androgen levels. Animal groups that include species where females are expected to outperform males based on life-history traits are key for disentangling these hypotheses. We investigated the association between sex differences in reproductive strategies, spatial behavior, and androgen levels in three species of poison frogs. We tracked individuals in natural environments to show that contrasting parental sex roles shape sex differences in space use, where the sex performing parental duties shows wider-ranging movements. We then translocated frogs from their home areas to test their navigational performance and found that the caring sex outperformed the non-caring sex only in one out of three species. In addition, males across species displayed more explorative behavior than females and androgen levels correlated with explorative behavior and homing accuracy. Overall, we reveal that poison frog reproductive strategies shape movement patterns but not necessarily navigational performance. Together this work suggests that prevailing adaptive hypotheses provide an incomplete explanation of sex differences in spatial abilities.
-AD  - Vilnius Univ, Life Sci Ctr, Inst Biosci, Vilnius, LithuaniaAD  - Univ Montpellier, CEFE, Montpellier, FranceAD  - Stanford Univ, Dept Biol, Stanford, CA 94305 USAAD  - Univ Nacl San Antonio Abad Cusco, Cuzco, PeruAD  - Tech Univ Munich, TUM Sch Life Sci Ecosyst Dynam & Forest Managemen, Hans Carl von Carlowitz Pl, Freising Weihenstephan, GermanyAD  - Berchtesgaden Natl Pk, Berchtesgaden, GermanyAD  - Univ Vet Med Vienna, Konrad Lorenz Inst Ethol, Dept Interdisciplinary Life Sci, Vienna, AustriaAD  - Univ Jyvaskyla, Dept Biol & Environm Sci, Jyvaskyla, FinlandAD  - Univ Bern, Inst Ecol & Evolut, Div Behav Ecol, Hinterkappelen, SwitzerlandAD  - Univ Mus & Performing Arts Graz, Inst Elect Mus & Acoust, Graz, AustriaAD  - Univ Vienna, Dept Behav & Cognit Biol, Vienna, AustriaAD  - Univ Vienna, Dept Evolutionary Biol, Vienna, AustriaAD  - Paul Sabatier Univ, Res Ctr Anim Cognit, CNRS, Ctr Integrat Biol, Toulouse, FranceAD  - Oklahoma State Univ, Dept Integrat Biol, Stillwater, OK 74078 USAAD  - Ctr Jambatu Invest & Conservac Anfibios, Quito, EcuadorAD  - Univ Vet Med Vienna, Messerli Res Inst, Vienna, AustriaC3  - Vilnius UniversityC3  - UDICE-French Research UniversitiesC3  - PSL Research University ParisC3  - Ecole Pratique des Hautes Etudes (EPHE)C3  - Institut AgroC3  - Montpellier SupAgroC3  - CIRADC3  - Centre National de la Recherche Scientifique (CNRS)C3  - Institut de Recherche pour le Developpement (IRD)C3  - Universite Paul-ValeryC3  - Universite de MontpellierC3  - Stanford UniversityC3  - Universidad Nacional de San Antonio Abad del CuscoC3  - Technical University of MunichC3  - University of Veterinary Medicine ViennaC3  - University of JyvaskylaC3  - University of BernC3  - University of ViennaC3  - University of ViennaC3  - Centre National de la Recherche Scientifique (CNRS)C3  - Universite de ToulouseC3  - Universite Toulouse III - Paul SabatierC3  - Oklahoma State University SystemC3  - Oklahoma State University - StillwaterC3  - University of Veterinary Medicine ViennaFU  - Horizon 2020 Framework Programme; National Science Foundation [835530, 79809]; Association for the Study of Animal Behaviour 2016 Research Grant [IOS-1845651]; ~Austrian Science Fund; Analyses et Experimentations pour les Ecosystem [P24788, P31518, T699, P33728, J3827-B29]; New York Stem Cell Foundation [ANR-11-INBS-0001]; Academy of Finland; Austrian Science Fund [319949]; Agence Nationale de la Recherche [W-1262]; Rodriguez Saint Luis Zoo [835530]; Wikiri; Austrian Science Fund;  [J3868-B29];  [ANR-10-LABX-25-01]
-FX  - Horizon 2020 Framework Programme 835530 Andrius Pas"ukonis National Science Foundation IOS-1845651 Lauren A O'Connell Association for the Study of Animal Behaviour 2016 Research Grant Andrius Pas"ukonis Austrian Science Fund P24788 Eva Ringler Austrian Science Fund P31518 Eva Ringler Austrian Science Fund T699 Eva Ringler Austrian Science Fund J3868-B29 Max Ringler Austrian Science Fund J3827-B29 Andrius Pas"ukonis Analyses et Experimentations pour les Ecosystem ANR-11-INBS-0001 Andrius Pas"ukonis Shirley Jennifer Serrano -Rojas Marie-Therese Fischer Daniel A Shaykevich Matthias-Claudio Loretto Bibiana Rojas Max Ringler Eva Ringler Camilo Rodriguez New York Stem Cell Foundation Robertson Investigator Lauren A O'Connell Horizon 2020 Framework Programme 79809 Matthias-Claudio Loretto Academy of Finland 319949 Bibiana Rojas Austrian Science Fund W-1262 Camilo Rodriguez Saint Luis Zoo Luis A Coloma Wikiri Luis A Coloma Agence Nationale de la Recherche ANR-10-LABX-25-01 Andrius Pas"ukonis Shirley Jennifer Serrano -Rojas Marie-Therese Fischer Daniel A Shaykevich Matthias-Claudio Loretto Bibiana Rojas Max Ringler Eva Ringler Camilo Rodriguez Austrian Science Fund P33728 Max Ringler
-PU  - eLIFE SCIENCES PUBL LTD
-PI  - CAMBRIDGE
-PA  - SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
-SN  - 2050-084X
-J9  - ELIFE
-JI  - eLife
-DA  - NOV 15
-PY  - 2022
-VL  - 11
-C7  - e80483
-DO  - 10.7554/eLife.80483
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000888089100001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  150
-ER  -
-
-TY  - JOUR
-AU  - Chintalapati, M
-AU  - Patterson, N
-AU  - Moorjani, P
-TI  - The spatiotemporal patterns of major human admixture events during the European Holocene
-T2  - ELIFE
-LA  - English
-KW  - HUNTER-GATHERERS
-KW  - FARMERS
-KW  - HISTORY
-KW  - LANGUAGES
-KW  - STEPPE
-KW  - GENES
-AB  - Recent studies have shown that admixture has been pervasive throughout human history. While several methods exist for dating admixture in contemporary populations, they are not suitable for sparse, low coverage ancient genomic data. Thus, we developed DATES (Distribution of Ancestry Tracts of Evolutionary Signals) that leverages ancestry covariance patterns across the genome of a single individual to infer the timing of admixture. DATES provides reliable estimates under various demographic scenarios and outperforms available methods for ancient DNA applications. Using DATES on-1100 ancient genomes from sixteen regions in Europe and west Asia, we reconstruct the chronology of the formation of the ancestral populations and the fine-scale details of the spread of Neolithic farming and Steppe pastoralist-related ancestry across Europe. By studying the genetic formation of Anatolian farmers, we infer that gene flow related to Iranian Neolithic farmers occurred before 9600 BCE, predating the advent of agriculture in Anatolia. Contrary to the archaeological evidence, we estimate that early Steppe pastoralist groups (Yamnaya and Afanasievo) were genetically formed more than a millennium before the start of Steppe pastoralism. Our analyses provide new insights on the origins and spread of farming and Indo-European languages, highlighting the power of genomic dating methods to elucidate the legacy of human migrations.
-AD  - Univ Calif Berkeley, Dept Mol & Cell Biol, Berkeley, CA 94720 USAAD  - Broad Inst Harvard & MIT, Cambridge, MA 02138 USAAD  - Harvard Univ, Human Evolutionary Biol, Boston, MA 02115 USAAD  - Univ Calif Berkeley, Ctr Computat Biol, Berkeley, CA 94720 USAC3  - University of California SystemC3  - University of California BerkeleyC3  - Harvard UniversityC3  - Massachusetts Institute of Technology (MIT)C3  - Broad InstituteC3  - Harvard UniversityC3  - University of California SystemC3  - University of California BerkeleyFU  - National Institutes of Health [R35GM142978]; Burroughs Wellcome Fund; Alfred P. Sloan Foundation
-FX  - National Institutes of Health R35GM142978 Priya Moorjani Burroughs Wellcome Fund Career Award at the Scientific Interface Priya Moorjani Alfred P. Sloan Foundation Sloan Research Fellowship Priya Moorjani
-PU  - eLIFE SCIENCES PUBL LTD
-PI  - CAMBRIDGE
-PA  - SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
-SN  - 2050-084X
-J9  - ELIFE
-JI  - eLife
-DA  - MAY 30
-PY  - 2022
-VL  - 11
-C7  - e77625
-DO  - 10.7554/eLife.77625
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000829478200001
-N1  - Times Cited in Web of Science Core Collection:  3
-Total Times Cited:  3
-Cited Reference Count:  57
-ER  -
-
-TY  - JOUR
-AU  - Bolet, A
-AU  - Stubbs, TL
-AU  - Herrera-Flores, JA
-AU  - Benton, MJ
-AU  - Zhu, M
-TI  - The Jurassic rise of squamates as supported by lepidosaur disparity and evolutionary rates
-T2  - ELIFE
-LA  - English
-KW  - Reptilia
-KW  - Lepidosauria
-KW  - Squamata
-KW  - Disparity
-KW  - Macroevolution
-KW  - fossil record
-KW  - Other
-KW  - R PACKAGE
-KW  - REPTILES LIZARDS
-KW  - CRETACEOUS LIZARD
-KW  - RADIATION
-KW  - ORIGIN
-KW  - SNAKES
-KW  - MORPHOSPACE
-KW  - EXTINCTION
-KW  - PHYLOGENY
-KW  - DINOSAURS
-AB  - The squamates (lizards, snakes, and relatives) today comprise more than 10,000 species, and yet their sister group, the Rhynchocephalia, is represented by a single species today, the tuatara. The explosion in squamate diversity has been tracked back to the Cretaceous Terrestrial Revolution, 100 million years ago (Ma), the time when flowering plants began their takeover of terrestrial ecosystems, associated with diversification of coevolving insects and insect-eating predators such as lizards, birds, and mammals. Squamates arose much earlier, but their long pre-Cretaceous history of some 150 million years (Myr) is documented by sparse fossils. Here, we provide evidence for an initial radiation of squamate morphology in the Middle and Late Jurassic (174-145 Ma), and show that they established their key ecological roles much earlier than had been assumed, and they have not changed them much since.
-FU  - Newton International Fellowship [NF170464]; Spanish Government [IJC2018-037685-I]; Spanish Government; CERCA Programme of the Generalitat de Catalunya; ERC Innovation Advanced Grant [ERC 788203]
-FX  - We thank Graeme Lloyd, Benjamin Moon, Armin Elsler, and Guillermo Navalon for help with the scripts and discussion. Funding for AB comes from a Newton International Fellowship (NF170464) and a Juan de la Cierva Incorporacion fellowship (IJC2018- 037685- I) of the Spanish Government, and by the CERCA Programme of the Generalitat de Catalunya. This is part of the ERC Innovation Advanced Grant to MJB. (ERC 788203). We thank Min Zhu, George Perry, and two anonymous reviewers for comments on an early version of this manuscript.
-PU  - eLIFE SCIENCES PUBL LTD
-PI  - CAMBRIDGE
-PA  - SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
-SN  - 2050-084X
-J9  - ELIFE
-JI  - eLife
-DA  - MAY 3
-PY  - 2022
-VL  - 11
-C7  - e66511
-DO  - 10.7554/eLife.66511
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000911141100001
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  2
-Cited Reference Count:  85
-ER  -
-
-TY  - JOUR
-AU  - Vignogna, RC
-AU  - Allocca, M
-AU  - Monticelli, M
-AU  - Norris, JW
-AU  - Steet, R
-AU  - Perlstein, EO
-AU  - Andreotti, G
-AU  - Lang, GI
-TI  - Evolutionary rescue of phosphomannomutase deficiency in yeast models of human disease
-T2  - ELIFE
-LA  - English
-KW  - experimental evolution
-KW  - humanized yeast
-KW  - congenital disorders of glycosylation
-KW  - PMM2-CDG
-KW  - S
-KW  - cerevisiae
-KW  - LIPID-LINKED OLIGOSACCHARIDE
-KW  - CONGENITAL DISORDER
-KW  - SACCHAROMYCES-CEREVISIAE
-KW  - ENDOPLASMIC-RETICULUM
-KW  - PROTEIN GLYCOSYLATION
-KW  - ALG9 GENE
-KW  - IDENTIFICATION
-KW  - MUTATIONS
-KW  - VARIANTS
-KW  - HITCHHIKING
-AB  - The most common cause of human congenital disorders of glycosylation (CDG) are mutations in the phosphomannomutase gene PMM2, which affect protein N-linked glycosylation. The yeast gene SEC53 encodes a homolog of human PMM2. We evolved 384 populations of yeast harboring one of two human-disease-associated alleles, sec53-V238M and sec53-F126L, or wild-type SEC53. We find that after 1000 generations, most populations compensate for the slow-growth phenotype associated with the sec53 human-disease-associated alleles. Through whole-genome sequencing we identify compensatory mutations, including known SEC53 genetic interactors. We observe an enrichment of compensatory mutations in other genes whose human homologs are associated with Type 1 CDG, including PGM1, which encodes the minor isoform of phosphoglucomutase in yeast. By genetic reconstruction, we show that evolved pgm1 mutations are dominant and allele-specific genetic interactors that restore both protein glycosylation and growth of yeast harboring the sec53-V238M allele. Finally, we characterize the enzymatic activity of purified Pgm1 mutant proteins. We find that reduction, but not elimination, of Pgm1 activity best compensates for the deleterious phenotypes associated with the sec53-V238M allele. Broadly, our results demonstrate the power of experimental evolution as a tool for identifying genes and pathways that compensate for human-disease-associated alleles.
-AD  - Lehigh Univ, Dept Biol Sci, Bethlehem, PA 18015 USAAD  - CNR, Inst Biomol Chem, Pozzuoli, ItalyAD  - Univ Campania Luigi Vanvitelli, Dept Environm Biol & Pharmaceut Sci & Technol, Caserta, ItalyAD  - Univ Napoli Federico II, Dept Biol, Naples, ItalyAD  - Greenwood Genet Ctr, JC Self Res Inst, Greenwood, SC 29646 USAAD  - Perlara PBC, Berkeley, CA USAAD  - Cornell Univ, Weill Inst Cell & Mol Biol, Dept Mol Biol & Genet, New York, NY 10021 USAC3  - Lehigh UniversityC3  - Consiglio Nazionale delle Ricerche (CNR)C3  - Universita della Campania VanvitelliC3  - University of Naples Federico IIC3  - Greenwood Genetic CenterC3  - Cornell UniversityFU  - National Institutes of Health [R01GM127420, P20GM139769]
-FX  - National Institutes of Health R01GM127420 Gregory I Lang National Institutes of Health P20GM139769 Richard Steet The funders had no role in study design, data collection, and interpretation, or the decision to submit the work for publication.
-PU  - eLIFE SCIENCES PUBL LTD
-PI  - CAMBRIDGE
-PA  - SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
-SN  - 2050-084X
-J9  - ELIFE
-JI  - eLife
-DA  - OCT 10
-PY  - 2022
-VL  - 11
-C7  - e79346
-DO  - 10.7554/eLife.79346
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000875454200001
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  86
-ER  -
-
-TY  - JOUR
-AU  - Varma, SJ
-AU  - Calvani, E
-AU  - Gruening, NM
-AU  - Messner, CB
-AU  - Grayson, N
-AU  - Capuano, F
-AU  - Muelleder, M
-AU  - Ralser, M
-TI  - Global analysis of cytosine and adenine DNA modifications across the tree of life
-T2  - ELIFE
-LA  - English
-KW  - dna epigenetic modification
-KW  - liquid chromatography
-KW  - mass spectrometry
-KW  - D
-KW  - melanogaster
-KW  - E
-KW  - coli
-KW  - Human
-KW  - Mouse
-KW  - S
-KW  - cerevisiae
-KW  - MASS-SPECTROMETRY METHOD
-KW  - METHYLATION LEVELS
-KW  - BASE
-KW  - 5-HYDROXYMETHYLCYTOSINE
-KW  - 5-METHYLCYTOSINE
-KW  - ACID
-AB  - Interpreting the function and metabolism of enzymatic DNA modifications requires both position-specific and global quantities. Sequencing-based techniques that deliver the former have become broadly accessible, but analytical methods for the global quantification of DNA modifications have thus far been applied mostly to individual problems. We established a mass spectrometric method for the sensitive and accurate quantification of multiple enzymatic DNA modifications. Then, we isolated DNA from 124 archean, bacterial, fungal, plant, and mammalian species, and several tissues and created a resource of global DNA modification quantities. Our dataset provides insights into the general nature of enzymatic DNA modifications, reveals unique biological cases, and provides complementary quantitative information to normalize and assess the accuracy of sequencing-based detection of DNA modifications. We report that only three of the studied DNA modifications, methylcytosine (5mdC), methyladenine (N6mdA) and hydroxymethylcytosine (5hmdC), were detected above a picomolar detection limit across species, and dominated in higher eukaryotes (5mdC), in bacteria (N6mdA), or the vertebrate central nervous systems (5hmdC). All three modifications were detected simultaneously in only one of the tested species, Raphanus sativus. In contrast, these modifications were either absent or detected only at trace quantities, across all yeasts and insect genomes studied. Further, we reveal interesting biological cases. For instance, in Allium cepa, Helianthus annuus, or Andropogon gerardi, more than 35% of cytosines were methylated. Additionally, next to the mammlian CNS, 5hmdC was also detected in plants like Lepidium sativum and was found on 8% of cytosines in the Garra barreimiae brain samples. Thus, identifying unexpected levels of DNA modifications in several wild species, our resource underscores the need to address biological diversity for studying DNA modifications.
-AD  - Charite, Dept Biochem, Berlin, GermanyAD  - Francis Crick Inst, Mol Biol Metab Lab, London, EnglandAD  - Univ Cambridge, Cambridge Syst Biol Ctr, Dept Biochem, Cambridge, EnglandAD  - Wellcome Trust Sanger Inst, Wellcome Trust Genome Campus, Hinxton, EnglandAD  - Charite, Core Facil High Throughput Mass Spectrometry, Berlin, GermanyC3  - Free University of BerlinC3  - Humboldt University of BerlinC3  - Charite Universitatsmedizin BerlinC3  - Francis Crick InstituteC3  - University of CambridgeC3  - Wellcome Trust Sanger InstituteC3  - Free University of BerlinC3  - Humboldt University of BerlinC3  - Charite Universitatsmedizin BerlinFU  - Francis Crick Institute; Cancer Research UK [200829/Z/16/Z]; UK Medical Research Council; Wellcome Trust [200829/Z/16/Z, 101503/Z/13/Z]; German Ministry of Education and Research (BMBF) [031L0220A]
-FX  - The funders had no role in study design, data collection and interpretation, or the decision to submit the work for publication. For the purpose of Open Access, the authors have applied a CC BY public copyright license to any Author Accepted Manuscript version arising from this submission.
-PU  - eLIFE SCIENCES PUBL LTD
-PI  - CAMBRIDGE
-PA  - SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
-SN  - 2050-084X
-J9  - ELIFE
-JI  - eLife
-DA  - JUL 28
-PY  - 2022
-VL  - 11
-C7  - e81002
-DO  - 10.7554/eLife.81002
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000834333700001
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  54
-ER  -
-
-TY  - JOUR
-AU  - Soszynska-Maj, A
-AU  - Krzeminska, E
-AU  - de la Fuente, R
-AU  - Wang, JS
-AU  - Szpila, K
-AU  - Skibinska, K
-AU  - Kopec, K
-AU  - Krzeminski, W
-TI  - Evolution of sexual conflict in scorpionflies
-T2  - ELIFE
-LA  - English
-KW  - mating strategies
-KW  - coercive copulation
-KW  - amber
-KW  - Mecoptera
-KW  - Cretaceous
-KW  - Eocene
-KW  - Other
-KW  - PANORPIDAE INSECTA MECOPTERA
-KW  - NUPTIAL FEEDING-BEHAVIOR
-KW  - MALE MATING SUCCESS
-KW  - FEMALE CHOICE
-KW  - NOTAL ORGAN
-KW  - EL SOPLAO
-KW  - PHYLOGENY
-KW  - DIPTERA
-KW  - MALES
-KW  - GENUS
-AB  - Sexual conflict - opposite reproductive/genetic interests between sexes - can be a significant driver of insect evolution. Scorpionflies (Insecta: Mecoptera) are models in sexual conflict research due to their large variety of mating practices, including coercive behaviour and nuptial gift provisioning. However, the role of palaeontology in sexual conflict studies remains negligible, namely due to the paucity of well-preserved fossils. Here, we describe three male scorpionflies from Cretaceous and Eocene ambers. The structure of notal and postnotal organs is analysed in extant and extinct forms; a depression below the base of the notal organ in different panorpid species spatially matches the anterior fold of the female's wing. Based on disparate abdominal configurations and correlations in extant relatives, we posit that each new fossil taxon had a different mating approach along a nuptial gifting-coercive spectrum. The Eocene specimen possesses extreme female clamping abdominal armature, suggesting a degree of sexual coercion greater than in any other known scorpionfly, extinct or extant. The fossil record of abdominal modifications in male scorpionflies documents a relatively late evolution (Eocene) of long notal organs indicating oppressive behaviour toward a female during mating. Our findings reveal a wider array of mating-related morphological specialisations among extinct Panorpoidea, likely reflecting more diversified past mating strategies and behaviours in this group, and represent first steps towards gaining a deep-time perspective on the evolution of sexual conflict over mating among insects.
-AD  - Univ Lodz, Fac Biol & Environm Protect, Dept Invertebrate Zool & Hydrobiol, Lodz, PolandAD  - Polish Acad Sci, Inst Systemat & Evolut Anim, Krakow, PolandAD  - Univ Oxford, Museum Nat Hist, Oxford, EnglandAD  - Dali Univ, Coll Agr & Biol Sci, Dali, Peoples R ChinaAD  - Nicolaus Copernicus Univ, Fac Biol & Vet Sci, Dept Ecol & Biogeog, Torun, PolandC3  - University of LodzC3  - Polish Academy of SciencesC3  - Institute of Systematics & Evolution of Animals of the Polish Academy of SciencesC3  - University of OxfordC3  - Dali UniversityC3  - Nicolaus Copernicus UniversityFU  - National Science Centre, Poland [2016/23/B/NZ8/00936, High-level Talents KY2096124040]; AEI/FEDER [2018/31/B/NZ8/02113]; Dali University [UECGL2017-84419]
-FX  - National Science Centre, Poland 2016/23/B/NZ8/00936, AEI/FEDER, UECGL2017-84419, Dali University High-level Talents KY2096124040, National Science Centre, Poland 2018/31/B/NZ8/02113
-PU  - eLIFE SCIENCES PUBL LTD
-PI  - CAMBRIDGE
-PA  - SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
-SN  - 2050-084X
-J9  - ELIFE
-JI  - eLife
-DA  - FEB 11
-PY  - 2022
-VL  - 11
-C7  - e70508
-DO  - 10.7554/eLife.70508
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000789626200001
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  88
-ER  -
-
-TY  - JOUR
-AU  - Fleig, P
-AU  - Kramar, M
-AU  - Wilczek, M
-AU  - Alim, K
-TI  - Emergence of behaviour in a self-organized living matter network
-T2  - ELIFE
-LA  - English
-KW  - ethology
-KW  - flow network
-KW  - unicellular
-KW  - self-organisation
-KW  - living matter
-KW  - Other
-KW  - PHYSARUM-POLYCEPHALUM
-KW  - PERISTALTIC TRANSPORT
-KW  - CHEMOTAXIS
-KW  - OSCILLATIONS
-KW  - PATTERNS
-AB  - What is the origin of behaviour? Although typically associated with a nervous system, simple organisms also show complex behaviours. Among them, the slime mold Physarum polycephalum, a giant single cell, is ideally suited to study emergence of behaviour. Here, we show how locomotion and morphological adaptation behaviour emerge from self-organized patterns of rhythmic contractions of the actomyosin lining of the tubes making up the network-shaped organism. We quantify the spatio-temporal contraction dynamics by decomposing experimentally recorded contraction patterns into spatial contraction modes. Notably, we find a continuous spectrum of modes, as opposed to a few dominant modes. Our data suggests that the continuous spectrum of modes allows for dynamic transitions between a plethora of specific behaviours with transitions marked by highly irregular contraction states. By mapping specific behaviours to states of active contractions, we provide the basis to understand behaviour's complexity as a function of biomechanical dynamics.
-AD  - Univ Penn, Dept Phys & Astron, Philadelphia, PA 19104 USAAD  - Max Planck Inst Dynam & Self Org, Gottingen, GermanyAD  - Tech Univ Munich, Phys Dept, Garching, GermanyAD  - Tech Univ Munich, Ctr Prot Assemblies, Garching, GermanyC3  - University of PennsylvaniaC3  - Max Planck SocietyC3  - Technical University of MunichC3  - Technical University of MunichFU  - Simons Foundation [400425]; Max Planck Society; IMPRS for Physics of Biological and Complex Systems
-FX  - Simons Foundation 400425 Philipp Fleig IMPRS for Physics of Biological and Complex Systems Mirna Kramar Max Planck Society Philipp Fleig Mirna Kramar Michael Wilczek Karen Alim
-PU  - eLIFE SCIENCES PUBL LTD
-PI  - CAMBRIDGE
-PA  - SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
-SN  - 2050-084X
-J9  - ELIFE
-JI  - eLife
-DA  - JAN 21
-PY  - 2022
-VL  - 11
-C7  - e62863
-DO  - 10.7554/eLife.62863
-DO  - 10.7554/eLife.62863.sa0
-DO  - 10.7554/eLife.62863.sa1
-DO  - 10.7554/eLife.62863.sa2
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000748395900001
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  2
-Cited Reference Count:  66
-ER  -
-
-TY  - JOUR
-AU  - Andreani, T
-AU  - Rosensweig, C
-AU  - Sisobhan, S
-AU  - Ogunlana, E
-AU  - Kath, W
-AU  - Allada, R
-TI  - Circadian programming of the ellipsoid body sleep homeostat in Drosophila
-T2  - ELIFE
-LA  - English
-KW  - circadian
-KW  - sleep homeostasis
-KW  - ellipsoid body
-KW  - Drosophila
-KW  - clock
-KW  - D
-KW  - melanogaster
-KW  - SLOW WAVES
-KW  - MEMORY CONSOLIDATION
-KW  - CLOCK NEURONS
-KW  - VISUAL INPUT
-KW  - LIGHT
-KW  - DEPRIVATION
-KW  - PLASTICITY
-KW  - BEHAVIOR
-KW  - GENE
-KW  - EEG
-AB  - Homeostatic and circadian processes collaborate to appropriately time and consolidate sleep and wake. To understand how these processes are integrated, we scheduled brief sleep deprivation at different times of day in Drosophila and find elevated morning rebound compared to evening. These effects depend on discrete morning and evening clock neurons, independent of their roles in circadian locomotor activity. In the R5 ellipsoid body sleep homeostat, we identified elevated morning expression of activity dependent and presynaptic gene expression as well as the presynaptic protein BRUCHPILOT consistent with regulation by clock circuits. These neurons also display elevated calcium levels in response to sleep loss in the morning, but not the evening consistent with the observed time-dependent sleep rebound. These studies reveal the circuit and molecular mechanisms by which discrete circadian clock neurons program a homeostatic sleep center.
-AD  - Northwestern Univ, Dept Neurobiol, Evanston, IL USAAD  - Northwestern Univ, Dept Engn Sci & Appl Math, Evanston, IL 60208 USAAD  - Northwestern Univ, Dept Neurobiol, Chicago, IL 60208 USAC3  - Northwestern UniversityC3  - Northwestern UniversityC3  - Northwestern UniversityFU  - National Institutes of Health [R01NS106955]; Army Research Office [W911NF1610584]; National Science Foundation [DMS-1764421]; Simons Foundation [597491-RWC]; Northwestern University; National Institute of Neurological Disorders and Stroke [F32 NS110183]
-FX  - National Institutes of Health R01NS106955 Ravi AlladaArmy Research Office W911NF1610584 Ravi AlladaNational Science Foundation DMS-1764421 William Kath Ravi AlladaSimons Foundation 597491-RWC William Kath Ravi AlladaNorthwestern University Clark RosensweigNational Institute of Neurological Disorders and Stroke F32 NS110183 Clark RosensweigThe funders had no role in study design, data collection and interpretation, or the decision to submit the work for publication.
-PU  - eLIFE SCIENCES PUBL LTD
-PI  - CAMBRIDGE
-PA  - SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
-SN  - 2050-084X
-J9  - ELIFE
-JI  - eLife
-DA  - JUN 23
-PY  - 2022
-VL  - 11
-C7  - e74327
-DO  - 10.7554/eLife.74327
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000822965200001
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  100
-ER  -
-
-TY  - JOUR
-AU  - Zhang, B
-AU  - Xue, K
-AU  - Zhou, ST
-AU  - Wang, K
-AU  - Liu, WJ
-AU  - Xu, C
-AU  - Cui, LZ
-AU  - Li, LF
-AU  - Ran, QW
-AU  - Wang, ZS
-AU  - Hu, RH
-AU  - Hao, YB
-AU  - Cui, XY
-AU  - Wang, YF
-TI  - Environmental selection overturns the decay relationship of soil prokaryotic community over geographic distance across grassland biotas
-T2  - ELIFE
-LA  - English
-KW  - prokaryote
-KW  - distance-decay
-KW  - U-shape
-KW  - grassland
-KW  - biota
-KW  - microbial community
-KW  - Prokaryote
-KW  - Microbial community
-KW  - BACTERIAL BETA-DIVERSITY
-KW  - FUNGAL COMMUNITY
-KW  - PLANT DIVERSITY
-KW  - ORGANIC-CARBON
-KW  - HETEROTROPHIC RESPIRATION
-KW  - BIOGEOGRAPHIC PATTERNS
-KW  - MICROBIAL PROPERTIES
-KW  - SPATIAL PROCESSES
-KW  - NEUTRAL THEORY
-KW  - TAXA-AREA
-AB  - Though being fundamental to global diversity distribution, little is known about the geographic pattern of soil microorganisms across different biotas on a large scale. Here, we investigated soil prokaryotic communities from Chinese northern grasslands on a scale up to 4000 km in both alpine and temperate biotas. Prokaryotic similarities increased over geographic distance after tipping points of 1760-1920 km, generating a significant U-shape pattern. Such pattern was likely due to decreased disparities in environmental heterogeneity over geographic distance when across biotas, supported by three lines of evidences: (1) prokaryotic similarities still decreased with the environmental distance, (2) environmental selection dominated prokaryotic assembly, and (3) short-term environmental heterogeneity followed the U-shape pattern spatially, especially attributed to dissolved nutrients. In sum, these results demonstrate that environmental selection overwhelmed the geographic 'distance' effect when across biotas, overturning the previously well-accepted geographic pattern for microbes on a large scale.
-AD  - Univ Chinese Acad Sci, Coll Resources & Environm, Beijing, Peoples R ChinaAD  - Univ Chinese Acad Sci, Yanshan Earth Crit Zone Natl Res Stn, Beijing, Peoples R ChinaAD  - Chinese Acad Sci, Key Lab Adaptat & Evolut Plateau Biota, Xining, Peoples R ChinaAD  - Univ Chinese Acad Sci, Coll Life Sci, Beijing, Peoples R ChinaAD  - Chinese Acad Sci, Aerosp Informat Res Inst, State Key Lab Remote Sensing Sci, Beijing, Peoples R ChinaAD  - Griffith Univ, Sch Environm & Sci, Environm Futures Res Inst, Nathan, Qld, AustraliaAD  - State Key Lab Tibetan Plateau Earth Syst Sci LATP, Beijing, Peoples R ChinaC3  - Chinese Academy of SciencesC3  - University of Chinese Academy of Sciences, CASC3  - Chinese Academy of SciencesC3  - University of Chinese Academy of Sciences, CASC3  - Chinese Academy of SciencesC3  - Chinese Academy of SciencesC3  - University of Chinese Academy of Sciences, CASC3  - Chinese Academy of SciencesC3  - Griffith UniversityFU  - Chinese Academy of Sciences [XDA20050104, XDA1907304, XDB15010201]; National Natural Science Foundation of China [42041005]; Ministry of Science and Technology of the People's Republic of China [2019QZKK0304]; Chinese Academy of Sciences and People's Government of Qinghai Province [LHZX2020-02-01]
-FX  - Chinese Academy of Sciences Strategic Priority Research and Program A (XDA20050104) Kai Xue Yanfen Wang
-FX  - National Natural Science Foundation of China 42041005 Yanfen Wang Kai Xue
-FX  - Ministry of Science and Technology of the People's Republic of China The Second Tibetan Plateau Scientific Expedition and Research program (2019QZKK0304) Yanfen Wang Kai Xue
-FX  - Chinese Academy of Sciences Strategic Priority Research Program A (XDA1907304) Kai Xue
-FX  - Chinese Academy of Sciences Strategic Priority Research Program B (XDB15010201) Yanfen Wang
-FX  - Chinese Academy of Sciences Light of West China Kai Xue
-FX  - Chinese Academy of Sciences and People's Government of Qinghai Province Sanjiangyuan National Park Joint Program (LHZX2020-02-01) Yanfen Wang
-FX  - The funders had no role in study design, data collection and interpretation, or the decision to submit the work for publication.
-PU  - eLIFE SCIENCES PUBL LTD
-PI  - CAMBRIDGE
-PA  - SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
-SN  - 2050-084X
-J9  - ELIFE
-JI  - eLife
-DA  - JAN 24
-PY  - 2022
-VL  - 11
-C7  - e70164
-DO  - 10.7554/eLife.70164
-DO  - 10.7554/eLife.70164.sa0
-DO  - 10.7554/eLife.70164.sa1
-DO  - 10.7554/eLife.70164.sa2
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000758182000001
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  110
-ER  -
-
-TY  - JOUR
-AU  - Jaimes-Nino, LM
-AU  - Heinze, J
-AU  - Oettler, J
-TI  - Late-life fitness gains and reproductive death in Cardiocondyla obscurior ants
-T2  - ELIFE
-LA  - English
-KW  - Cardiocondyla obscurior
-KW  - aging
-KW  - selection shadow
-KW  - senescence
-KW  - social insects
-KW  - Other
-KW  - WESTERN HARVESTER ANT
-KW  - COLONY SIZE
-KW  - SPAN
-KW  - POPULATION
-KW  - MECHANISMS
-KW  - LONGEVITY
-KW  - MORTALITY
-KW  - EVOLUTION
-KW  - QUEENS
-KW  - AGE
-AB  - A key hypothesis for the occurrence of senescence is the decrease in selection strength due to the decrease in the proportion of newborns from parents attaining an advanced age - the so-called selection shadow. Strikingly, queens of social insects have long lifespans and reproductive senescence seems to be negligible. By lifelong tracking of 99 Cardiocondyla obscurior (Formicidae: Myrmicinae) ant colonies, we find that queens shift to the production of sexuals in late life regardless of their absolute lifespan or the number of workers present. Furthermore, RNAseq analyses of old queens past their peak of reproductive performance showed the development of massive pathology while queens were still fertile, leading to rapid death. We conclude that the evolution of superorganismality is accompanied by 'continuusparity,' a life history strategy that is distinct from other iteroparous and semelparous strategies across the tree of life, in that it combines continuous reproduction with a fitness peak late in life.
-AD  - Univ Regensburg, Zoologie Evolutionsbiol, Regensburg, GermanyC3  - University of RegensburgFU  - Deutsche Forschungsgemeinschaft [OE549/2-2]
-FX  - Deutsche Forschungsgemeinschaft OE549/2-2 Jan Oettler Jurgen Heinze
-FX  - The funders had no role in study design, data collection and interpretation, or the decision to submit the work for publication.
-PU  - eLIFE SCIENCES PUBL LTD
-PI  - CAMBRIDGE
-PA  - SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
-SN  - 2050-084X
-J9  - ELIFE
-JI  - eLife
-DA  - APR 6
-PY  - 2022
-VL  - 11
-C7  - e74695
-DO  - 10.7554/eLife.74695
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000789669500001
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  2
-Cited Reference Count:  56
-ER  -
-
-TY  - JOUR
-AU  - Gallo, T
-AU  - Fidino, M
-AU  - Gerber, B
-AU  - Ahlers, AA
-AU  - Angstmann, JL
-AU  - Amaya, M
-AU  - Concilio, AL
-AU  - Drake, D
-AU  - Gay, D
-AU  - Lehrer, EW
-AU  - Murray, MH
-AU  - Ryan, TJ
-AU  - St Clair, CC
-AU  - Salsbury, CM
-AU  - Sander, HA
-AU  - Stankowich, T
-AU  - Williamson, J
-AU  - Belaire, JA
-AU  - Simon, K
-AU  - Magle, SB
-TI  - Mammals adjust diel activity across gradients of urbanization
-T2  - ELIFE
-LA  - English
-KW  - mammal
-KW  - urban
-KW  - wildlife cameras
-KW  - temporal resource selection
-KW  - Other
-KW  - ACTIVITY PATTERNS
-KW  - HOME-RANGE
-KW  - HABITAT FRAGMENTATION
-KW  - URBAN
-KW  - COYOTES
-KW  - RESPONSES
-KW  - SURVIVAL
-KW  - PREY
-KW  - DISTRIBUTIONS
-KW  - MOVEMENTS
-AB  - Time is a fundamental component of ecological processes. How animal behavior changes over time has been explored through well-known ecological theories like niche partitioning and predator-prey dynamics. Yet, changes in animal behavior within the shorter 24-hr light-dark cycle have largely gone unstudied. Understanding if an animal can adjust their temporal activity to mitigate or adapt to environmental change has become a recent topic of discussion and is important for effective wildlife management and conservation. While spatial habitat is a fundamental consideration in wildlife management and conservation, temporal habitat is often ignored. We formulated a temporal resource selection model to quantify the diel behavior of 8 mammal species across 10 US cities. We found high variability in diel activity patterns within and among species and species-specific correlations between diel activity and human population density, impervious land cover, available greenspace, vegetation cover, and mean daily temperature. We also found that some species may modulate temporal behaviors to manage both natural and anthropogenic risks. Our results highlight the complexity with which temporal activity patterns interact with local environmental characteristics, and suggest that urban mammals may use time along the 24-hr cycle to reduce risk, adapt, and therefore persist, and in some cases thrive, in human-dominated ecosystems.
-AD  - George Mason Univ, Coll Sci Environm Sci & Policy, Fairfax, VA 22030 USAAD  - Lincoln Pk Zoo, Urban Wildlife Inst, Conservat & Sci Dept, Chicago, IL 60614 USAAD  - Univ Rhode Isl, Dept Nat Resource Sci, Kingston, RI USAAD  - Kansas State Univ, Dept Hort & Nat Resources, Manhattan, KS USAAD  - Butler Univ, Dept Biol Sci, Indianapolis, IN USAAD  - Calif State Univ Long Beach, Dept Biol Sci, Long Beach, CA USAAD  - St Edwards Univ, Dept Environm Sci & Policy, Austin, TX USAAD  - Univ Wisconsin, Dept Forest & Wildlife Ecol, Madison, WI USAAD  - Austin Pk & Recreat, Austin, MN USAAD  - Univ Alberta, Dept Biol Sci, Edmonton, AB, CanadaAD  - Univ Iowa, Dept Geog & Sustainabil Sci, Iowa City, IA USAAD  - Brandywine Zoo, Dept Educ & Conservat, Wilmington, DE USAAD  - Nat Conservancy Texas, San Antonio, TX USAAD  - Texas Pk & Wildlife, Austin, TX USAAD  - Butler Univ, Ctr Urban Ecol & Sustainabil, Indianapolis, IN USAC3  - George Mason UniversityC3  - University of Rhode IslandC3  - Kansas State UniversityC3  - Butler UniversityC3  - California State University SystemC3  - California State University Long BeachC3  - University of Wisconsin SystemC3  - University of Wisconsin MadisonC3  - University of AlbertaC3  - University of IowaC3  - Nature ConservancyC3  - Butler UniversityPU  - eLIFE SCIENCES PUBL LTD
-PI  - CAMBRIDGE
-PA  - SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
-SN  - 2050-084X
-J9  - ELIFE
-JI  - eLife
-DA  - MAR 31
-PY  - 2022
-VL  - 11
-C7  - e74756
-DO  - 10.7554/eLife.74756
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000789672900001
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  2
-Cited Reference Count:  69
-ER  -
-
-TY  - JOUR
-AU  - Rawat, RS
-AU  - Bhambri, A
-AU  - Pal, M
-AU  - Roy, A
-AU  - Jain, S
-AU  - Pillai, B
-AU  - Konar, A
-AU  - McCarthy, MM
-TI  - Early life stressful experiences escalate aggressive behavior in adulthood via changes in transthyretin expression and function
-T2  - ELIFE
-LA  - English
-KW  - escalated aggression
-KW  - transcriptome
-KW  - transthyretin
-KW  - Mouse
-KW  - SYNAPTIC PLASTICITY
-KW  - ANIMAL-MODELS
-KW  - HORMONE
-KW  - NEUROBIOLOGY
-KW  - NEUROGRANIN
-KW  - MECHANISMS
-KW  - CHILDHOOD
-KW  - VIOLENCE
-KW  - DISEASE
-KW  - BRAIN
-AB  - Escalated and inappropriate levels of aggressive behavior referred to as pathological in psychiatry can lead to violent outcomes with detrimental impact on health and society. Early life stressful experiences might increase the risk of developing pathological aggressive behavior in adulthood, though molecular mechanisms remain elusive. Here, we provide prefrontal cortex and hypothalamus specific transcriptome profiles of peripubertal stress (PPS) exposed Balb/c adult male mice exhibiting escalated aggression and adult female mice resilient to such aberrant behavioral responses. We identify transthyretin (TTR), a well known thyroid hormone transporter, as a key regulator of PPS induced escalated aggressive behavior in males. Brain-region-specific long-term changes in Ttr gene expression and thyroid hormone (TH) availability were evident in PPS induced escalated aggressive male mice, circulating TH being unaltered. Ttr promoter methylation marks were also altered being hypermethylated in hypothalamus and hypomethylated in prefrontal cortex corroborating with its expression pattern. Further, Ttr knockdown in hypothalamus resulted in escalated aggressive behavior in males without PPS and also reduced TH levels and expression of TH-responsive genes (Nrgn, Trh, and Hr). Escalated aggressive behavior along with reduced Ttr gene expression and TH levels in hypothalamus was also evident in next generation F1 male progenies. Our findings reveal that stressful experiences during puberty might trigger lasting escalated aggression by modulating TTR expression in brain. TTR can serve as a potential target in reversal of escalated aggression and related psychopathologies.
-AD  - CSIR, Inst Genom & Integrat Biol, New Delhi, IndiaAD  - Acad Sci & Innovat Res AcSIR, New Delhi, IndiaAD  - All India Inst Med Sci, New Delhi, IndiaAD  - Presidency Univ, Inst Hlth Sci, Kolkata, IndiaC3  - Council of Scientific & Industrial Research (CSIR) - IndiaC3  - CSIR - Institute of Genomics & Integrative Biology (IGIB)C3  - Academy of Scientific & Innovative Research (AcSIR)C3  - All India Institute of Medical Sciences (AIIMS) New DelhiC3  - Presidency University, KolkataFU  - Department of Science and Technology, Ministry of Science and Technology, India [DST/INSPIRE/04/2014/002261]; Department of Biotechnology, Ministry of Science and Technology, India [GAP0197]; Indian Council of Medical Research Research [IR-594/2019/RS]
-FX  - Department of Science and Technology, Ministry of Science and Technology, India Inspire Faculty Award DST/INSPIRE/04/2014/002261 Arpita Konar Department of Biotechnology, Ministry of Science and Technology, India Research Grant GAP0197 Beena Pillai Indian Council of Medical Research Research Grant IR-594/2019/RS Beena Pillai The funders had no role in study design, data collection and interpretation, or the decision to submit the work for publication.
-PU  - eLIFE SCIENCES PUBL LTD
-PI  - CAMBRIDGE
-PA  - SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
-SN  - 2050-084X
-J9  - ELIFE
-JI  - eLife
-DA  - OCT 13
-PY  - 2022
-VL  - 11
-C7  - e77968
-DO  - 10.7554/eLife.77968
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000883763800001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  45
-ER  -
-
-TY  - JOUR
-AU  - Wan, B
-AU  - Bayrak, S
-AU  - Xu, T
-AU  - Schaare, HL
-AU  - Bethlehem, RAI
-AU  - Bernhardt, BC
-AU  - Valk, SL
-TI  - Heritability and cross-species comparisons of human cortical functional organization asymmetry
-T2  - ELIFE
-LA  - English
-KW  - DEFAULT-MODE NETWORK
-KW  - BRAIN
-KW  - LANGUAGE
-KW  - LATERALIZATION
-KW  - SPECIALIZATION
-KW  - ATTENTION
-KW  - REGIONS
-AB  - The human cerebral cortex is symmetrically organized along large-scale axes but also presents inter-hemispheric differences in structure and function. The quantified contralateral homologous difference, that is asymmetry, is a key feature of the human brain left-right axis supporting functional processes, such as language. Here, we assessed whether the asymmetry of cortical functional organization is heritable and phylogenetically conserved between humans and macaques. Our findings indicate asymmetric organization along an axis describing a functional trajectory from perceptual/action to abstract cognition. Whereas language network showed leftward asymmetric organization, frontoparietal network showed rightward asymmetric organization in humans. These asymmetries were heritable in humans and showed a similar spatial distribution with macaques, in the case of intra-hemispheric asymmetry of functional hierarchy. This suggests (phylo)genetic conservation. However, both language and frontoparietal networks showed a qualitatively larger asymmetry in humans relative to macaques. Overall, our findings suggest a genetic basis for asymmetry in intrinsic functional organization, linked to higher order cognitive functions uniquely developed in humans.
-AD  - Max Planck Inst Human Cognit & Brain Sci, Otto Hahn Grp Cognit Neurogenet, Leipzig, GermanyAD  - Int Max Planck Res Sch Neurosci Commun Funct Stru, Leipzig, GermanyAD  - Univ Leipzig, Univ Hosp Leipzig, Dept Cognit Neurol, Leipzig, GermanyAD  - Univ Leipzig, Fac Med, Leipzig, GermanyAD  - Res Ctr Julich, Inst Neurosci & Med INM 7 Brain & Behav, Julich, GermanyAD  - Child Mind Inst, Ctr Developing Brain, New York, NY USAAD  - Univ Cambridge, Dept Psychiat, Cambridge, EnglandAD  - McGill Univ, Montreal Neurol Inst & Hosp, McConnell Brain Imaging Ctr, Montreal, PQ, CanadaAD  - Heinrich Heine Univ Dusseldorf, Inst Syst Neurosci, Dusseldorf, GermanyC3  - Max Planck SocietyC3  - Leipzig UniversityC3  - Leipzig UniversityC3  - Helmholtz AssociationC3  - Research Center JulichC3  - University of CambridgeC3  - McGill UniversityC3  - Heinrich Heine University DusseldorfFU  - Max-Planck-Gesellschaft; Sick Kids Foundation [NI17-039]; Natural Sciences and Engineering Research Council of Canada [1304413]; Canadian Institutes of Health Research [FDN154298]; Canada First Research Excellence Fund; Research School on Neuroscience of Communication
-FX  - Max-Planck-Gesellschaft Sofie L Valk Sick Kids Foundation NI17-039 Boris C Bernhardt Natural Sciences and Engineering Research Council of Canada Discovery-1304413 Boris C Bernhardt Canadian Institutes of Health Research FDN154298 Boris C Bernhardt Azrieli Center for Autism Research Boris C Bernhardt Canada First Research Excellence Fund Boris C Bernhardt Sofie L Valk International Max Planck Research School on Neuroscience of Communication: Function, Structure, and Plasticity Bin Wan The funders had no role in study design, data collection and interpretation, or the decision to submit the work for publication.
-PU  - eLIFE SCIENCES PUBL LTD
-PI  - CAMBRIDGE
-PA  - SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
-SN  - 2050-084X
-J9  - ELIFE
-JI  - eLife
-DA  - JUL 29
-PY  - 2022
-VL  - 11
-C7  - e77215
-DO  - 10.7554/eLife.77215
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000868281300001
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  94
-ER  -
-
-TY  - JOUR
-AU  - Nocedal, I
-AU  - Laub, MT
-TI  - Ancestral reconstruction of duplicated signaling proteins reveals the evolution of signaling specificity
-T2  - ELIFE
-LA  - English
-KW  - ancestral protein reconstruction
-KW  - two-component signaling
-KW  - gene duplication
-KW  - None
-KW  - SEQUENCE RECONSTRUCTION
-KW  - 2-COMPONENT SYSTEMS
-KW  - TRANSDUCTION
-KW  - CONSTRAINS
-KW  - COMPLEXITY
-KW  - EXPANSION
-AB  - Gene duplication is crucial to generating novel signaling pathways during evolution. However, it remains unclear how the redundant proteins produced by gene duplication ultimately acquire new interaction specificities to establish insulated paralogous signaling pathways. Here, we used ancestral sequence reconstruction to resurrect and characterize a bacterial two-component signaling system that duplicated in alpha-proteobacteria. We determined the interaction specificities of the signaling proteins that existed before and immediately after this duplication event and then identified key mutations responsible for establishing specificity in the two systems. Just three mutations, in only two of the four interacting proteins, were sufficient to establish specificity of the extant systems. Some of these mutations weakened interactions between paralogous systems to limit crosstalk. However, others strengthened interactions within a system, indicating that the ancestral interaction, although functional, had the potential to be strengthened. Our work suggests that protein-protein interactions with such latent potential may be highly amenable to duplication and divergence.
-AD  - MIT, Dept Biol, Cambridge, MA 02139 USAAD  - MIT, Howard Hughes Med Inst, Cambridge, MA 02139 USAC3  - Massachusetts Institute of Technology (MIT)C3  - Howard Hughes Medical InstituteC3  - Massachusetts Institute of Technology (MIT)FU  - National Institute of General Medical Sciences [1F32GM126765]
-FX  - National Institute of General Medical Sciences 1F32GM126765 Isabel Nocedal
-FX  - Howard Hughes Medical Institute Michael T Laub
-FX  - The funders had no role in study design, data collection and interpretation, or the decision to submit the work for publication.
-PU  - eLIFE SCIENCES PUBL LTD
-PI  - CAMBRIDGE
-PA  - SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
-SN  - 2050-084X
-J9  - ELIFE
-JI  - eLife
-DA  - JUN 10
-PY  - 2022
-VL  - 11
-C7  - e77346
-DO  - 10.7554/eLife.77346
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000814016000001
-N1  - Times Cited in Web of Science Core Collection:  3
-Total Times Cited:  3
-Cited Reference Count:  49
-ER  -
-
-TY  - JOUR
-AU  - Dillard, BA
-AU  - Chung, AK
-AU  - Gunderson, AR
-AU  - Campbell-Staton, SC
-AU  - Moeller, AH
-TI  - Humanization of wildlife gut microbiota in urban environments
-T2  - ELIFE
-LA  - English
-KW  - metagenome
-KW  - transmission
-KW  - bacteria
-KW  - archaea
-KW  - anolis
-KW  - canis
-KW  - Human
-KW  - Other
-KW  - CAPTIVITY
-AB  - Urbanization is rapidly altering Earth's environments, demanding investigation of the impacts on resident wildlife. Here, we show that urban populations of coyotes (Canis latrans), crested anole lizards (Anolis cristatellus), and white-crowned sparrows (Zonotrichia leucophrys) acquire gut microbiota constituents found in humans, including gut bacterial lineages associated with urbanization in humans. Comparisons of urban and rural wildlife and human populations revealed significant convergence of gut microbiota among urban populations relative to rural populations. All bacterial lineages overrepresented in urban wildlife relative to rural wildlife and differentially abundant between urban and rural humans were also overrepresented in urban humans relative to rural humans. Remarkably, the bacterial lineage most overrepresented in urban anoles was a Bacteroides sequence variant that was also the most significantly overrepresented in urban human populations. These results indicate parallel effects of urbanization on human and wildlife gut microbiota and suggest spillover of bacteria from humans into wildlife in cities.
-AD  - Cornell Univ, Dept Ecol & Evolutionary Biol, Ithaca, NY 14850 USAAD  - Princeton Univ, Princeton, NJ USAAD  - Tulane Univ, New Orleans, LA 70118 USAC3  - Cornell UniversityC3  - Princeton UniversityC3  - Tulane UniversityFU  - National Institute of General Medical Sciences [R35 GM138284]
-FX  - National Institute of General Medical Sciences R35 GM138284 Andrew H Moeller
-FX  - The funders had no role in study design, data collection, and interpretation, or the decision to submit the work for publication.
-PU  - eLIFE SCIENCES PUBL LTD
-PI  - CAMBRIDGE
-PA  - SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
-SN  - 2050-084X
-J9  - ELIFE
-JI  - eLife
-DA  - MAY 31
-PY  - 2022
-VL  - 11
-C7  - e76381
-DO  - 10.7554/eLife.76381
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000816094600001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  1
-Cited Reference Count:  36
-ER  -
-
-TY  - JOUR
-AU  - Cupello, C
-AU  - Hirasawa, T
-AU  - Tatsumi, N
-AU  - Yabumoto, Y
-AU  - Gueriau, P
-AU  - Isogai, S
-AU  - Matsumoto, R
-AU  - Saruwatari, T
-AU  - King, A
-AU  - Hoshino, M
-AU  - Uesugi, K
-AU  - Okabe, M
-AU  - Brito, PM
-TI  - Lung evolution in vertebrates and the water-to-land transition
-T2  - ELIFE
-LA  - English
-KW  - osteichthyes
-KW  - actinopterygii
-KW  - sarcopterygii
-KW  - tetrapod
-KW  - Other
-KW  - AUSTRALIAN LUNGFISH
-KW  - NEOCERATODUS-FORSTERI
-KW  - POLYPTERUS-SENEGALUS
-KW  - INSIGHTS
-AB  - A crucial evolutionary change in vertebrate history was the Palaeozoic (Devonian 419-359 million years ago) water-to-land transition, allowed by key morphological and physiological modifications including the acquisition of lungs. Nonetheless, the origin and early evolution of vertebrate lungs remain highly controversial, particularly whether the ancestral state was paired or unpaired. Due to the rarity of fossil soft tissue preservation, lung evolution can only be traced based on the extant phylogenetic bracket. Here we investigate, for the first time, lung morphology in extensive developmental series of key living lunged osteichthyans using synchrotron x-ray microtomography and histology. Our results shed light on the primitive state of vertebrate lungs as unpaired, evolving to be truly paired in the lineage towards the tetrapods. The water-to-land transition confronted profound physiological challenges and paired lungs were decisive for increasing the surface area and the pulmonary compliance and volume, especially during the air-breathing on land. Editor's evaluation This study focused on five osteichthy an vertebrate species and investigated their lung morphology. The comparison of the observations suggests an origin of the lung as an unpaired organ, with the present -day paired forms in amniotes being a result of secondary modification. The sound morpho-logical comparison presented provides valuable insight into the evolution of the lung. The work will be of interest to colleagues studying vertebrate evolution.Cupello et al. used a range of techniques to examine how the lungs of the bony fish and salamander changed shape during development. The results suggested that the lungs of vertebrates started out as a single organ, which became truly paired later in evolution once vertebrates started developing limbs. This anatomical shift increased the surface area available for exchanging oxygen and carbon dioxide so that vertebrates could breathe more easily on land.These findings provide new insights in to how the lung evolved into the paired structure found in most vertebrates alive today. It likely that this transition allowed vertebrates to fully adapt to breathing above water, which may explain why this event only happened once over the course of evolution. All life on Earth started out under water. However, around 400 million years ago some vertebrates, such as fish, started developing limbs and other characteristics that allowed them to explore life on land. One of the most pivotal features to evolve was the lungs, which gave vertebrates the ability to breathe above water.Most land-living vertebrates, including humans, have two lungs which sit on either side of their chest. The lungs extract oxygen from the atmosphere and transfer it to the bloodstream in exchange for carbon dioxide which then gets exhaled out in to the atmosphere. How this important organ first evolved is a hotly debated topic. This is largely because lung tissue does not preserve well in fossils, making it difficult to trace how the lungs of vertebrates changed over the course of evolution.To overcome this barrier, Cupello et al. compared the lungs of living species which are crucial to understand the early stages of the water-to-land transition. This included four species of lunged bony fish which breathe air at the water surface, and a four-legged salamander that lives on land.
-AD  - Univ Estado Rio de Janeiro, Dept Zool, IBRAG, Rio De Janeiro, RJ, BrazilAD  - Univ Tokyo, Grad Sch Sci, Dept Earth & Planetary Sci, Tokyo, JapanAD  - Jikei Univ, Dept Anat, Sch Med, Tokyo, JapanAD  - Kitakyushu Museum Nat Hist & Human Hist, 2-4-1 Higashida,Yahatahigashi Ku, Kitakyushu, Fukuoka, JapanAD  - Univ Lausanne, Inst Earth Sci, Lausanne, SwitzerlandAD  - Univ Paris Saclay, Inst Photon Anal Nondestruct Europeen Mat Anciens, Minist Culture, CNRS,UVSQ,MNHN, St Aubin, FranceAD  - Iwate Med Univ, Dept Anat, Sch Med, Morioka, Iwate, JapanAD  - Kanagawa Prefectural Museum Nat Hist, Odawara, Kanagawa, JapanAD  - Univ Tokyo, Atmosphere & Ocean Res Inst, Chiba, JapanAD  - Seikei Educ & Res Ctr Sustainable Dev, Tokyo, JapanAD  - Synchrotron SOLEIL, Lorme Merisiers, St Aubin, FranceAD  - Japan Synchrotron Radiat Res Inst JASRI SPring 8, Sayo, Hyogo, JapanC3  - Universidade do Estado do Rio de JaneiroC3  - University of TokyoC3  - Jikei UniversityC3  - University of LausanneC3  - Centre National de la Recherche Scientifique (CNRS)C3  - Museum National d'Histoire Naturelle (MNHN)C3  - UDICE-French Research UniversitiesC3  - Universite Paris SaclayC3  - Iwate Medical UniversityC3  - University of TokyoC3  - SOLEIL SynchrotronC3  - Japan Synchrotron Radiation Research InstituteFU  - Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior [001]; Programa de Apoio a Docencia [E-26/007/10661/2019]; Fundacao Carlos Chagas Filho de Amparo a Pesquisa do Estado do Rio de Janeiro [E-26/200.605/2022, E-26/210.369/2022, E-26/202.890/2018]; Interdisciplinary Collaborative Research Program of the Atmosphere and Ocean Research Institute, the University of Tokyo; CNPq [310101/2017-4]
-FX  - Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior Finance Code 001 Camila Cupello
-FX  - Programa de Apoio a Docencia E-26/007/10661/2019 Camila Cupello
-FX  - Fundacao Carlos Chagas Filho de Amparo a Pesquisa do Estado do Rio de Janeiro E-26/200.605/2022 Camila Cupello
-FX  - Fundacao Carlos Chagas Filho de Amparo a Pesquisa do Estado do Rio de Janeiro E-26/210.369/2022 Camila Cupello
-FX  - Fundacao Carlos Chagas Filho de Amparo a Pesquisa do Estado do Rio de Janeiro E-26/202.890/2018 Paulo M Brito
-FX  - Interdisciplinary Collaborative Research Program of the Atmosphere and Ocean Research Institute, the University of Tokyo Camila Cupello Toshiro Saruwatari
-FX  - Prociencia Fellowship CNPq 310101/2017-4 Paulo M Brito
-PU  - eLIFE SCIENCES PUBL LTD
-PI  - CAMBRIDGE
-PA  - SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
-SN  - 2050-084X
-J9  - ELIFE
-JI  - eLife
-DA  - JUL 26
-PY  - 2022
-VL  - 11
-C7  - e77156
-DO  - 10.7554/eLife.77156
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000834587300001
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  53
-ER  -
-
-TY  - JOUR
-AU  - Meier, JK
-AU  - Staresina, BP
-AU  - Schwabe, L
-TI  - Stress diminishes outcome but enhances response representations during instrumental learning
-T2  - ELIFE
-LA  - English
-KW  - stress
-KW  - goal-directed learning
-KW  - habitual behaviour
-KW  - instrumental learning
-KW  - Human
-KW  - MULTIPLE MEMORY-SYSTEMS
-KW  - GOAL-DIRECTED ACTION
-KW  - SINGLE-TRIAL EEG
-KW  - DORSOLATERAL STRIATUM
-KW  - MOTIVATIONAL CONTROL
-KW  - DRUG-ADDICTION
-KW  - INDUCED SHIFT
-KW  - HABITS
-KW  - GLUCOCORTICOIDS
-KW  - REINFORCEMENT
-AB  - Stress may shift behavioural control from a goal-directed system that encodes action-outcome relationships to a habitual system that learns stimulus-response associations. Although this shift to habits is highly relevant for stress-related psychopathologies, limitations of existing behavioural paradigms hinder research from answering the fundamental question of whether the stress-induced bias to habits is due to reduced outcome processing or enhanced response processing at the time of stimulus presentation, or both. Here, we used EEG-based multivariate pattern analysis to decode neural outcome representations crucial for goal-directed control, as well as response representations during instrumental learning. We show that stress reduced outcome representations but enhanced response representations. Both were directly associated with a behavioural index of habitual responding. Furthermore, changes in outcome and response representations were uncorrelated, suggesting that these may reflect distinct processes. Our findings indicate that habitual behaviour under stress may be the result of both enhanced stimulus-response processing and diminished outcome processing.
-AD  - Univ Hamburg, Dept Cognit Psychol, Hamburg, GermanyAD  - Univ Oxford, Dept Expt Psychol, Oxford, EnglandAD  - Univ Oxford, Oxford Ctr Human Brain Act, Wellcome Ctr Integrat Neuroimaging, Dept Psychiat, Oxford, EnglandC3  - University of HamburgC3  - University of OxfordC3  - University of OxfordFU  - Deutsche Forschungsgemeinschaft [SCHW1357/23-1]
-FX  - Deutsche Forschungsgemeinschaft SCHW1357/23-1 Lars Schwabe
-FX  - The funders had no role in study design, data collection and interpretation, or the decision to submit the work for publication.
-PU  - eLIFE SCIENCES PUBL LTD
-PI  - CAMBRIDGE
-PA  - SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
-SN  - 2050-084X
-J9  - ELIFE
-JI  - eLife
-DA  - JUL 18
-PY  - 2022
-VL  - 11
-C7  - e67517
-DO  - 10.7554/eLife.67517
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000837830000001
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  2
-Cited Reference Count:  77
-ER  -
-
-TY  - JOUR
-AU  - Webster, AK
-AU  - Chitrakar, R
-AU  - Powell, M
-AU  - Chen, JX
-AU  - Fisher, K
-AU  - Tanny, RE
-AU  - Stevens, L
-AU  - Evans, K
-AU  - Wei, A
-AU  - Antoshechkin, I
-AU  - Andersen, EC
-AU  - Baugh, LR
-TI  - Using population selection and sequencing to characterize natural variation of starvation resistance in Caenorhabditis elegans
-T2  - ELIFE
-LA  - English
-KW  - L1 arrest
-KW  - diapause
-KW  - starvation
-KW  - irld
-KW  - insulin
-KW  - molecular inversion probe
-KW  - C
-KW  - elegans
-KW  - MOLECULAR INVERSION PROBES
-KW  - LIFE-SPAN
-KW  - STRESS RESISTANCE
-KW  - INSULIN
-KW  - DAF-16
-KW  - RECEPTOR
-KW  - FAMILY
-KW  - MEMBER
-KW  - TRANSCRIPTION
-KW  - ASSOCIATION
-AB  - Starvation resistance is important to disease and fitness, but the genetic basis of its natural variation is unknown. Uncovering the genetic basis of complex, quantitative traits such as starvation resistance is technically challenging. We developed a synthetic-population (re)sequencing approach using molecular inversion probes (MIP-seq) to measure relative fitness during and after larval starvation in Caenorhabditis elegans. We applied this competitive assay to 100 genetically diverse, sequenced, wild strains, revealing natural variation in starvation resistance. We confirmed that the most starvation-resistant strains survive and recover from starvation better than the most starvation-sensitive strains using standard assays. We performed genome-wide association (GWA) with the MIP-seq trait data and identified three quantitative trait loci (QTL) for starvation resistance, and we created near isogenic lines (NILs) to validate the effect of these QTL on the trait. These QTL contain numerous candidate genes including several members of the Insulin/EGF Receptor-L Domain (irld) family. We used genome editing to show that four different irld genes have modest effects on starvation resistance. Natural variants of irld-39 and irld-52 affect starvation resistance, and increased resistance of the irld-39; irld-52 double mutant depends on daf-16/FoxO. DAF-16/FoxO is a widely conserved transcriptional effector of insulin/IGF signaling (IIS), and these results suggest that IRLD proteins modify IIS, although they may act through other mechanisms as well. This work demonstrates efficacy of using MIP-seq to dissect a complex trait and it suggests that irld genes are natural modifiers of starvation resistance in C. elegans.
-AD  - Duke Univ, Dept Biol, Durham, NC 27708 USAAD  - Northwestern Univ, Dept Mol Biosci, Evanston, IL USAAD  - CALTECH, Div Biol, Pasadena, CA 91125 USAAD  - Duke Univ, Ctr Genom & Computat Biol, Durham, NC 27708 USAAD  - Univ Oregon, Inst Ecol & Evolut, Eugene, OR 97403 USAAD  - Univ N Carolina, Environm Ecol & Energy Program, Chapel Hill, NC 27515 USAAD  - Wellcome Sanger Inst, Tree Life, Cambridge, MA USAC3  - Duke UniversityC3  - Northwestern UniversityC3  - California Institute of TechnologyC3  - Duke UniversityC3  - University of OregonC3  - University of North CarolinaC3  - University of North Carolina Chapel HillFU  - National Institute of General Medical Sciences [R01GM117408, R01GM143159]; National Institute of Environmental Health Sciences [R01ES029930]
-FX  - National Institute of General Medical Sciences R01GM117408 L Ryan Baugh National Institute of General Medical Sciences R01GM143159 L Ryan Baugh National Institute of Environmental Health Sciences R01ES029930 Erik C Andersen L Ryan Baugh The funders had no role in study design, data collection and interpretation, or the decision to submit the work for publication.
-PU  - eLIFE SCIENCES PUBL LTD
-PI  - CAMBRIDGE
-PA  - SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
-SN  - 2050-084X
-J9  - ELIFE
-JI  - eLife
-DA  - JUN 21
-PY  - 2022
-VL  - 11
-C7  - e80204
-DO  - 10.7554/eLife.80204
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000822768600001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  67
-ER  -
-
-TY  - JOUR
-AU  - Lapinska, U
-AU  - Voliotis, M
-AU  - Lee, KK
-AU  - Campey, A
-AU  - Stone, MRL
-AU  - Tuck, B
-AU  - Phetsang, W
-AU  - Zhang, B
-AU  - Tsaneva-Atanasova, K
-AU  - Blaskovich, MA
-AU  - Pagliara, S
-TI  - Fast bacterial growth reduces antibiotic accumulation and efficacy
-T2  - ELIFE
-LA  - English
-KW  - membrane transport
-KW  - antibiotics
-KW  - single-cell analysis
-KW  - antibiotic resistance
-KW  - phenotypic heterogeneity
-KW  - antibiotic uptake
-KW  - efflux
-KW  - microfluidics
-KW  - Escherichia coli
-KW  - Pseudomonas aeruginosa
-KW  - Staphylococcus aureus
-KW  - Burkholderia cenocepacia
-KW  - OUTER-MEMBRANE PERMEABILITY
-KW  - ESCHERICHIA-COLI
-KW  - PSEUDOMONAS-AERUGINOSA
-KW  - STAPHYLOCOCCUS-AUREUS
-KW  - PERSISTER CELLS
-KW  - PENETRATION
-KW  - SALMONELLA
-KW  - TOLERANCE
-KW  - KINETICS
-KW  - PROTEIN
-AB  - Phenotypic variations between individual microbial cells play a key role in the resistance of microbial pathogens to pharmacotherapies. Nevertheless, little is known about cell individuality in antibiotic accumulation. Here, we hypothesise that phenotypic diversification can be driven by fundamental cell-to-cell differences in drug transport rates. To test this hypothesis, we employed microfluidics-based single-cell microscopy, libraries of fluorescent antibiotic probes and mathematical modelling. This approach allowed us to rapidly identify phenotypic variants that avoid antibiotic accumulation within populations of Escherichia coli, Pseudomonas aeruginosa, Burkholderia cenocepacia, and Staphylococcus aureus. Crucially, we found that fast growing phenotypic variants avoid macrolide accumulation and survive treatment without genetic mutations. These findings are in contrast with the current consensus that cellular dormancy and slow metabolism underlie bacterial survival to antibiotics. Our results also show that fast growing variants display significantly higher expression of ribosomal promoters before drug treatment compared to slow growing variants. Drug-free active ribosomes facilitate essential cellular processes in these fast-growing variants, including efflux that can reduce macrolide accumulation. We used this new knowledge to eradicate variants that displayed low antibiotic accumulation through the chemical manipulation of their outer membrane inspiring new avenues to overcome current antibiotic treatment failures.
-AD  - Univ Exeter, Living Syst Inst, Exeter, Devon, EnglandAD  - Univ Exeter, Biosci, Exeter, Devon, EnglandAD  - Univ Exeter, Dept Math, Exeter, Devon, EnglandAD  - Univ Queensland, Inst Mol Biosci, Ctr Superbug Solut, Brisbane, AustraliaAD  - State Univ New Jersey, Dept Chem & Chem Biol, Piscataway, NJ USAAD  - Univ Exeter, EPSRC Hub Quantitat Modelling Healthcare, Exeter, Devon, EnglandAD  - Bulgarian Acad Sci, Inst Biophys & Biomed Engn, Dept Bioinformat & Math Modelling, Sofia, BulgariaC3  - University of ExeterC3  - University of ExeterC3  - University of ExeterC3  - University of QueenslandC3  - Rutgers State University New BrunswickC3  - University of ExeterC3  - Bulgarian Academy of SciencesFU  - Biotechnology and Biological Sciences Research Council; Medical Research Council; Gordon and Betty Moore Foundation; Engineering and Physical Sciences Research Council; Wellcome Trust [BB/V008021/1]; Royal Society [MCPC17189]; H2020 Marie Sklodowska-Curie Actions [GBMF5514];  [EP/T017856/1];  [EP/M506527/1];  [WT1104797/Z/14/Z];  [RG180007];  [H2020-MSCA-ITN-2015-675752]
-FX  - Biotechnology and Biological Sciences Research Council BB/V008021/1 Urszula Lapinska Stefano Pagliara Medical Research Council MCPC17189 Urszula Lapinska Stefano Pagliara Gordon and Betty Moore Foundation GBMF5514 Stefano Pagliara Engineering and Physical Sciences Research Council EP/T017856/1 Margaritis Voliotis Krasimira Tsaneva-Atanasova Engineering and Physical Sciences Research Council EP/M506527/1 Adrian Campey Wellcome Trust WT1104797/Z/14/Z Mark AT Blaskovich Royal Society RG180007 Stefano Pagliara H2020 Marie Sklodowska-Curie Actions H2020-MSCA-ITN-2015-675752 Stefano Pagliara
-PU  - eLIFE SCIENCES PUBL LTD
-PI  - CAMBRIDGE
-PA  - SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
-SN  - 2050-084X
-J9  - ELIFE
-JI  - eLife
-DA  - JUN 7
-PY  - 2022
-VL  - 11
-C7  - e74062
-DO  - 10.7554/eLife.74062
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000807999700001
-N1  - Times Cited in Web of Science Core Collection:  7
-Total Times Cited:  7
-Cited Reference Count:  114
-ER  -
-
-TY  - JOUR
-AU  - Gupta, D
-AU  - Shalvarjian, KE
-AU  - Nayak, DD
-TI  - An Archaea-specific c-type cytochrome maturation machinery is crucial for methanogenesis in Methanosarcina acetivorans
-T2  - ELIFE
-LA  - English
-KW  - Archaea
-KW  - methanogens
-KW  - Methanosarcina acetivorans
-KW  - methane
-KW  - cytochromes
-KW  - energy conservation
-KW  - Other
-KW  - HEME CHAPERONE CCME
-KW  - ELECTRON-TRANSPORT
-KW  - RHODOBACTER-CAPSULATUS
-KW  - SYSTEM-I
-KW  - BIOGENESIS
-KW  - MECHANISMS
-KW  - OXIDATION
-KW  - PATHWAY
-KW  - METHANE
-KW  - GENE
-AB  - c-Type cytochromes (cyt c) are proteins that undergo post-translational modification to covalently bind heme, which allows them to facilitate redox reactions in electron transport chains across all domains of life. Genomic evidence suggests that cyt c are involved in electron transfer processes among the Archaea, especially in members that produce or consume the potent greenhouse gas methane. However, neither the maturation machinery for cyt c in Archaea nor their role in methane metabolism has ever been functionally characterized. Here, we have used CRISPR-Cas9 genome editing tools to map a distinct pathway for cyt c biogenesis in the model methanogenic archaeon Methanosarcina acetivorans, and have also identified substrate-specific functional roles for cyt c during methanogenesis. Although the cyt c maturation machinery from M. acetivorans is universally conserved in the Archaea, our evolutionary analyses indicate that different clades of Archaea acquired this machinery through multiple independent horizontal gene transfer events from different groups of Bacteria. Overall, we demonstrate the convergent evolution of a novel Archaea-specific cyt c maturation machinery and its physiological role during methanogenesis, a process which contributes substantially to global methane emissions.
-AD  - Univ Calif Berkeley, Dept Mol & Cell Biol, Berkeley, CA USAAD  - Univ Calif Berkeley, Dept Plant & Microbial Biol, Berkeley, CA USAC3  - University of California SystemC3  - University of California BerkeleyC3  - University of California SystemC3  - University of California BerkeleyFU  - Gordon and Betty Moore Foundation GBMF [9324]; Simons Foundation Simons Early Career Investigator in Marine Microbial Ecology and Evolution Award [822981]; David and Lucile Packard Foundation; Searle Scholars Program; Arnold and Mabel Beckman Foundation; Shurl and Kay Curci Foundation
-FX  - Gordon and Betty Moore Foundation GBMF#9324 Dipti D Nayak Dinesh Gupta
-FX  - Simons Foundation Simons Early Career Investigator in Marine Microbial Ecology and Evolution Award (822981) Dipti D Nayak Katie E Shalvarjian
-FX  - David and Lucile Packard Foundation Packard Fellowships for Science and Engineering Dipti D Nayak
-FX  - Searle Scholars Program Dipti D Nayak
-FX  - Arnold and Mabel Beckman Foundation Beckman Young Investigator Program Dipti D Nayak
-FX  - Shurl and Kay Curci Foundation Dipti D Nayak
-FX  - The funders had no role in study design, data collection and interpretation, or the decision to submit the work for publication.
-PU  - eLIFE SCIENCES PUBL LTD
-PI  - CAMBRIDGE
-PA  - SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
-SN  - 2050-084X
-J9  - ELIFE
-JI  - eLife
-DA  - APR 5
-PY  - 2022
-VL  - 11
-C7  - e76970
-DO  - 10.7554/eLife.76970
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000795701000001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  66
-ER  -
-
-TY  - JOUR
-AU  - Tsai, K
-AU  - Stojkovic, V
-AU  - Noda-Garcia, L
-AU  - Young, ID
-AU  - Myasnikov, AG
-AU  - Kleinman, J
-AU  - Palla, A
-AU  - Floor, SN
-AU  - Frost, A
-AU  - Fraser, JS
-AU  - Tawfik, DS
-AU  - Fujimori, DG
-TI  - Directed evolution of the rRNA methylating enzyme Cfr reveals molecular basis of antibiotic resistance
-T2  - ELIFE
-LA  - English
-KW  - Cfr
-KW  - directed evolution
-KW  - antibiotic resistance
-KW  - RNA modifications
-KW  - peptidyl transferase center
-KW  - cryoEM
-KW  - E
-KW  - coli
-KW  - MULTIRESISTANCE GENE CFR
-KW  - TERMINAL CODON BIAS
-KW  - N-END RULE
-KW  - ESCHERICHIA-COLI
-KW  - STAPHYLOCOCCUS-EPIDERMIDIS
-KW  - LINEZOLID RESISTANCE
-KW  - INITIATION CODON
-KW  - MESSENGER-RNA
-KW  - TRANSLATION INITIATION
-KW  - METHYLTRANSFERASE CFR
-AB  - eLife digest Antibiotics treat or prevent infections by killing bacteria or slowing down their growth. A large proportion of these drugs do this by disrupting an essential piece of cellular machinery called the ribosome which the bacteria need to make proteins. However, over the course of the treatment, some bacteria may gain genetic alterations that allow them to resist the effects of the antibiotic. Antibiotic resistance is a major threat to global health, and understanding how it emerges and spreads is an important area of research. Recent studies have discovered populations of resistant bacteria carrying a gene for a protein named chloramphenicol-florfenicol resistance, or Cfr for short. Cfr inserts a small modification in to the ribosome that prevents antibiotics from inhibiting the production of proteins, making them ineffective against the infection. To date, Cfr has been found to cause resistance to eight different classes of antibiotics. Identifying which mutations enhance its activity and protect bacteria is vital for designing strategies that fight antibiotic resistance. To investigate how the gene for Cfr could mutate and make bacteria more resistant, Tsai et al. performed a laboratory technique called directed evolution, a cyclic process which mimics natural selection. Genetic changes were randomly introduced in the gene for the Cfr protein and bacteria carrying these mutations were treated with tiamulin, an antibiotic rendered ineffective by the modification Cfr introduces into the ribosome. Bacteria that survived were then selected and had more mutations inserted. By repeating this process several times, Tsai et al. identified 'super' variants of the Cfr protein that lead to greater resistance. The experiments showed that these variants boosted resistance by increasing the proportion of ribosomes that contained the protective modification. This process was facilitated by mutations that enabled higher levels of Cfr protein to accumulate in the cell. In addition, the current study allowed, for the first time, direct visualization of how the Cfr modification disrupts the effect antibiotics have on the ribosome. These findings will make it easier for clinics to look out for bacteria that carry these 'super' resistant mutations. They could also help researchers design a new generation of antibiotics that can overcome resistance caused by the Cfr protein.
-   Alteration of antibiotic binding sites through modification of ribosomal RNA (rRNA) is a common form of resistance to ribosome-targeting antibiotics. The rRNA-modifying enzyme Cfr methylates an adenosine nucleotide within the peptidyl transferase center, resulting in the C-8 methylation of A2503 (m(8)A2503). Acquisition of cfr results in resistance to eight classes of ribosome-targeting antibiotics. Despite the prevalence of this resistance mechanism, it is poorly understood whether and how bacteria modulate Cfr methylation to adapt to antibiotic pressure. Moreover, direct evidence for how m(8)A2503 alters antibiotic binding sites within the ribosome is lacking. In this study, we performed directed evolution of Cfr under antibiotic selection to generate Cfr variants that confer increased resistance by enhancing methylation of A2503 in cells. Increased rRNA methylation is achieved by improved expression and stability of Cfr through transcriptional and post-transcriptional mechanisms, which may be exploited by pathogens under antibiotic stress as suggested by natural isolates. Using a variant that achieves near-stoichiometric methylation of rRNA, we determined a 2.2 angstrom cryo-electron microscopy structure of the Cfr-modified ribosome. Our structure reveals the molecular basis for broad resistance to antibiotics and will inform the design of new antibiotics that overcome resistance mediated by Cfr.
-AD  - Univ Calif San Francisco, Dept Cellular & Mol Pharmacol, San Francisco, CA 94143 USAAD  - Weizmann Inst Sci, Dept Biomol Sci, Rehovot, IsraelAD  - Univ Calif San Francisco, Dept Bioengn & Therapeut Sci, San Francisco, CA 94143 USAAD  - Univ Calif San Francisco, Dept Biochem & Biophys, San Francisco, CA 94143 USAAD  - Univ Calif San Francisco, Helen Diller Family Comprehens Canc Ctr, San Francisco, CA 94143 USAAD  - Univ Calif San Francisco, Dept Cell & Tissue Biol, San Francisco, CA 94143 USAAD  - Univ Calif San Francisco, Quantitat Biosci Inst, San Francisco, CA 94143 USAAD  - Univ Calif San Francisco, Dept Pharmaceut Chem, San Francisco, CA 94143 USAC3  - University of California SystemC3  - University of California San FranciscoC3  - Weizmann Institute of ScienceC3  - University of California SystemC3  - University of California San FranciscoC3  - University of California SystemC3  - University of California San FranciscoC3  - University of California SystemC3  - University of California San FranciscoC3  - UCSF Medical CenterC3  - UCSF Helen Diller Family Comprehensive Cancer CenterC3  - University of California SystemC3  - University of California San FranciscoC3  - University of California SystemC3  - University of California San FranciscoC3  - University of California SystemC3  - University of California San FranciscoFU  - National Institute of Allergy and Infectious Diseases [R01AI137270]; National Science Foundation [1650113]; University of California, San Francisco; National Institute of General Medical Sciences [F32GM133129, R01GM123159]; Sanghvi-Agarwal Innovation Award
-FX  - National Institute of Allergy and Infectious Diseases R01AI137270 Danica Galonic Fujimori
-FX  - National Science Foundation 1650113 Kaitlyn Tsai
-FX  - University of California, San Francisco Kaitlyn Tsai
-FX  - National Institute of General Medical Sciences F32GM133129 Iris D Young
-FX  - National Institute of General Medical Sciences R01GM123159 James S Fraser
-FX  - Sanghvi-Agarwal Innovation Award James S Fraser
-FX  - The funders had no role in study design, data collection and interpretation, or the decision to submit the work for publication.
-PU  - eLIFE SCIENCES PUBL LTD
-PI  - CAMBRIDGE
-PA  - SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
-SN  - 2050-084X
-J9  - ELIFE
-JI  - eLife
-DA  - JAN 11
-PY  - 2022
-VL  - 11
-C7  - e70017
-DO  - 10.7554/eLife.70017
-DO  - 10.7554/eLife.70017.sa0
-DO  - 10.7554/eLife.70017.sa1
-DO  - 10.7554/eLife.70017.sa2
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000746374000001
-N1  - Times Cited in Web of Science Core Collection:  3
-Total Times Cited:  3
-Cited Reference Count:  112
-ER  -
-
-TY  - JOUR
-AU  - Huang, YH
-AU  - Shukla, H
-AU  - Lee, YCG
-TI  - Species-specific chromatin landscape determines how transposable elements shape genome evolution
-T2  - ELIFE
-LA  - English
-KW  - transposable element
-KW  - genome evolution
-KW  - epigenetics
-KW  - heterochromatin
-KW  - population genetics
-KW  - chromatin
-KW  - D
-KW  - melanogaster
-KW  - POSITION-EFFECT VARIEGATION
-KW  - DROSOPHILA-MELANOGASTER
-KW  - GENE-EXPRESSION
-KW  - RETROTRANSPOSABLE ELEMENTS
-KW  - ECTOPIC RECOMBINATION
-KW  - NATURAL-POPULATIONS
-KW  - COPY NUMBER
-KW  - HETEROCHROMATIN
-KW  - SEQUENCE
-KW  - SIZE
-AB  - Transposable elements (TEs) are selfish genetic parasites that increase their copy number at the expense of host fitness. The 'success', or genome-wide abundance, of TEs differs widely between species. Deciphering the causes for this large variety in TE abundance has remained a central question in evolutionary genomics. We previously proposed that species-specific TE abundance could be driven by the inadvertent consequences of host-direct epigenetic silencing of TEs-the spreading of repressive epigenetic marks from silenced TEs into adjacent sequences. Here, we compared this TE-mediated local enrichment of repressive marks, or 'the epigenetic effect of TEs', in six species in the Drosophila melanogaster subgroup to dissect step-by-step the role of such effect in determining genomic TE abundance. We found that TE-mediated local enrichment of repressive marks is prevalent and substantially varies across and even within species. While this TE-mediated effect alters the epigenetic states of adjacent genes, we surprisingly discovered that the transcription of neighboring genes could reciprocally impact this spreading. Importantly, our multi-species analysis provides the power and appropriate phylogenetic resolution to connect species-specific host chromatin regulation, TE-mediated epigenetic effects, the strength of natural selection against TEs, and genomic TE abundance unique to individual species. Our findings point toward the importance of host chromatin landscapes in shaping genome evolution through the epigenetic effects of a selfish genetic parasite.
-AD  - Univ Calif Irvine, Dept Ecol & Evolutionary Biol, Irvine, CA 92717 USAC3  - University of California SystemC3  - University of California IrvineFU  - NIH;  [R00GM121868];  [R35GM14292]
-FX  - The funders had no role in study design, data collection and interpretation, or the decision to submit the work for publication.
-PU  - eLIFE SCIENCES PUBL LTD
-PI  - CAMBRIDGE
-PA  - SHERATON HOUSE, CASTLE PARK, CAMBRIDGE, CB3 0AX, ENGLAND
-SN  - 2050-084X
-J9  - ELIFE
-JI  - eLife
-DA  - AUG 23
-PY  - 2022
-VL  - 11
-C7  - e81567
-DO  - 10.7554/eLife.81567
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000891702900001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  168
-ER  -
-

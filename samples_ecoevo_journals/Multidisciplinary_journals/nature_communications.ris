@@ -1,1075 +1,0 @@
-TY  - JOUR
-AU  - Nagashima, T
-AU  - Tohyama, S
-AU  - Mikami, K
-AU  - Nagase, M
-AU  - Morishima, M
-AU  - Kasai, A
-AU  - Hashimoto, H
-AU  - Watabe, AM
-TI  - Parabrachial-to-parasubthalamic nucleus pathway mediates fear-induced suppression of feeding in male mice
-T2  - NATURE COMMUNICATIONS
-LA  - English
-KW  - CYCLASE-ACTIVATING POLYPEPTIDE
-KW  - ADENYLATE-CYCLASE
-KW  - NEURAL CIRCUIT
-KW  - PACAP
-KW  - AMYGDALA
-KW  - NEURONS
-KW  - STRESS
-KW  - CONNECTIONS
-KW  - NETWORK
-KW  - PAIN
-AB  - Feeding behavior is adaptively regulated by external and internal environment, such that feeding is suppressed when animals experience pain, sickness, or fear. While the lateral parabrachial nucleus (lPB) plays key roles in nociception and stress, neuronal pathways involved in feeding suppression induced by fear are not fully explored. Here, we investigate the parasubthalamic nucleus (PSTN), located in the lateral hypothalamus and critically involved in feeding behaviors, as a target of lPB projection neurons. Optogenetic activation of lPB-PSTN terminals in male mice promote avoidance behaviors, aversive learning, and suppressed feeding. Inactivation of the PSTN and lPB-PSTN pathway reduces fear-induced feeding suppression. Activation of PSTN neurons expressing pituitary adenylate cyclase-activating polypeptide (PACAP), a neuropeptide enriched in the PSTN, is sufficient for inducing avoidance behaviors and feeding suppression. Blockade of PACAP receptors impaires aversive learning induced by lPB-PSTN photomanipulation. These findings indicate that lPB-PSTN pathway plays a pivotal role in fear-induced feeding suppression.
-AD  - Jikei Univ, Inst Clin Med & Res, Res Ctr Med Sci, Sch Med, Chiba, JapanAD  - Osaka Univ, Grad Sch Pharmaceut Sci, Lab Mol Neuropharmacol, Osaka 5650871, JapanAD  - Osaka Univ, Mol Res Ctr Childrens Mental Dev, United Grad Sch Child Dev, Osaka 5650871, JapanAD  - Osaka Univ, Inst Databil Sci, Div Biosci, Osaka 5650871, JapanAD  - Kanazawa Univ, Osaka 5650871, JapanAD  - Hamamatsu Univ Sch Med, Osaka 5650871, JapanAD  - Chiba Univ, Osaka 5650871, JapanAD  - Univ Fukui, Osaka 5650871, JapanAD  - Osaka Univ, Inst Open & Transdisciplinary Res Initiat, Transdimens Life Imaging Div, Osaka 5650871, JapanAD  - Osaka Univ, Grad Sch Med, Dept Mol Pharmaceut Sci, Osaka 5650871, JapanC3  - Jikei UniversityC3  - Osaka UniversityC3  - Osaka UniversityC3  - Osaka UniversityC3  - Kanazawa UniversityC3  - Hamamatsu University School of MedicineC3  - Chiba UniversityC3  - University of FukuiC3  - Osaka UniversityC3  - Osaka UniversityFU  - JSPS [19H04062, 19H04758, 21K18564, 22H03542, JP20H00492, JP20H03429]; Core Research for Evolutional Science and Technology Japan Science and Technology Agency (CREST-JST) [JPMJCR1751]; Japan Agency for Medical Research and Development (AMED) Brain Mapping by Integrated Neurotechnologies for Disease Studies (Brain/MINDS) [JP19dm0207081, JP21dm0207117]; JST (Moonshot R and D) [JPMJMS2024]; MEXT [JP18H05416]; Takeda Science Foundation, Japan; Brain/MINDS, AMED [JP19dm0207064, JP19dm0207052, JP21dm207112, JP21dm207113];  [JP21K16374];  [JP20K15936]
-FX  - We thank all the members of the Watabe laboratory for their helpful discussions and assistance. We are particularly indebted to Kazuko Shibahara, Aimi Yuasa, Mariko Komatsu, and Kana Morikyu for their technical support. We also thank Dr. Bradford Lowell and Kenichiro Nakajima for providing Pacap-IRES-Cre mice and Dr. Ichiro Takasaki for his advice on PA8 administration. This work was supported by JSPS Grant-in-Aid for Scientific Research (19H04062, 19H04758, 21K18564, and 22H03542 to A.M.W.; JP20H00492 and JP20H03429 to H.H.), Core Research for Evolutional Science and Technology Japan Science and Technology Agency (CREST-JST: JPMJCR1751 to A.M.W.), Japan Agency for Medical Research and Development (AMED) Brain Mapping by Integrated Neurotechnologies for Disease Studies (Brain/MINDS) (JP19dm0207081 to A.M.W.; JP21dm0207117 to H.H.), JST (Moonshot R and D) (JPMJMS2024 to A.M.W.), MEXT (JP18H05416 to H.H.), Grants from the Takeda Science Foundation, Japan (A.K. and H.H.), and Young Scientist (JP21K16374 to T.N. and JP20K15936 to M.N.). Production of AAV vectors was partly supported by the Brain/MINDS, AMED (JP19dm0207064, JP19dm0207052, JP21dm207112, and JP21dm207113). Some illustrations were created using Biorender.com.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2041-1723
-J9  - NAT COMMUN
-JI  - Nat. Commun.
-DA  - DEC 30
-PY  - 2022
-VL  - 13
-IS  - 1
-C7  - 7913
-DO  - 10.1038/s41467-022-35634-2
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000906189600001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  59
-ER  -
-
-TY  - JOUR
-AU  - Wen, D
-AU  - Ding, LMS
-AU  - Zhang, YA
-AU  - Li, XY
-AU  - Zhang, X
-AU  - Yuan, F
-AU  - Zhao, TBA
-AU  - Zheng, AH
-TI  - Suppression of flavivirus transmission from animal hosts to mosquitoes with a mosquito-delivered vaccine
-T2  - NATURE COMMUNICATIONS
-LA  - English
-KW  - DENGUE VIRUS
-KW  - ZIKA
-KW  - CIRCULATION
-KW  - EPIDEMIC
-KW  - DYNAMICS
-AB  - Zoonotic viruses circulate in the natural reservoir and sporadically spill over into human populations, resulting in endemics or pandemics. We previously found that the Chaoyang virus (CYV), an insect-specific flavivirus (ISF), is replication-defective in vertebrate cells. Here, we develope a proof-of-concept mosquito-delivered vaccine to control the Zika virus (ZIKV) within inaccessible wildlife hosts using CYV as the vector. The vaccine is constructed by replacing the pre-membrane and envelope (prME) proteins of CYV with those of ZIKV, assigned as CYV-ZIKV. CYV-ZIKV replicates efficiently in Aedes mosquitoes and disseminates to the saliva, with no venereal or transovarial transmission observed. To reduce the risk of CYV-ZIKV leaking into the environment, mosquitoes are X-ray irradiated to ensure 100% infertility, which does not affect the titer of CYV-ZIKV in the saliva. Immunization of mice via CYV-ZIKV-carrying mosquito bites elicites robust and persistent ZIKV-specific immune responses and confers complete protection against ZIKV challenge. Correspondingly, the immunized mice could no longer transmit the challenged ZIKV to naive mosquitoes. Therefore, immunization with an ISF-vectored vaccine via mosquito bites is feasible to induce herd immunity in wildlife hosts of ZIKV. Our study provides a future avenue for developing a mosquito-delivered vaccine to eliminate zoonotic viruses in the sylvatic cycle.
-AD  - Chinese Acad Sci, Inst Zool, State Key Lab Integrated Management Pest Insects, Beijing 100101, Peoples R ChinaAD  - Univ Chinese Acad Sci, CAS Ctr Excellence Biot Interact, Beijing 100101, Peoples R ChinaAD  - Henan Normal Univ, Coll Life Sci, Xinxiang 45300, Henan, Peoples R ChinaAD  - Univ Chinese Acad Sci, Coll Life Sci, Beijing 100049, Peoples R ChinaAD  - Chinese Acad Sci, Inst Zool, Inst Stem Cell & Regenerat, State Key Lab Stem Cell & Reprod Biol, Beijing, Peoples R ChinaC3  - Chinese Academy of SciencesC3  - Institute of Zoology, CASC3  - Chinese Academy of SciencesC3  - University of Chinese Academy of Sciences, CASC3  - Henan Normal UniversityC3  - Chinese Academy of SciencesC3  - University of Chinese Academy of Sciences, CASC3  - Chinese Academy of SciencesFU  - National Natural Science Foundation of China Major Program [32090024]; National Key Ramp;D Program of China [2021YFC2300903]; Strategic Priority Research Program of the Chinese Academy of Sciences [XDPB16]; National Natural Science Foundation of China General Program [81871687]; key program of the Chinese Academy of Sciences [KJZD-SW-L11]; Open Research Fund Program of the State Key Laboratory of Integrated Pest Management [IPM1806, IPM1603]
-FX  - We thank Dr. Qiyong Liu from the Chinese Center for Disease Control and Prevention for providing A. albopictus and Dr. Chengfeng Qin from the Academy of Military Medical Science for providing the ZIKV GZ01 strain. This work was supported by grants to A.Z. This work was funded by the National Natural Science Foundation of China Major Program (32090024), National Key R & D Program of China 2021YFC2300903, Strategic Priority Research Program of the Chinese Academy of Sciences (Grant No. XDPB16), National Natural Science Foundation of China General Program (81871687), key program of the Chinese Academy of Sciences (KJZD-SW-L11), and Open Research Fund Program of the State Key Laboratory of Integrated Pest Management (IPM1806 and IPM1603).
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2041-1723
-J9  - NAT COMMUN
-JI  - Nat. Commun.
-DA  - DEC 16
-PY  - 2022
-VL  - 13
-IS  - 1
-C7  - 7780
-DO  - 10.1038/s41467-022-35407-x
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000895882200001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  59
-ER  -
-
-TY  - JOUR
-AU  - Wagg, C
-AU  - Roscher, C
-AU  - Weigelt, A
-AU  - Vogel, A
-AU  - Ebeling, A
-AU  - De Luca, E
-AU  - Roeder, A
-AU  - Kleinspehn, C
-AU  - Temperton, V
-AU  - Meyer, ST
-AU  - Scherer-Lorenzen, M
-AU  - Buchmann, N
-AU  - Fischer, M
-AU  - Weisser, WW
-AU  - Eisenhauer, N
-AU  - Schmid, B
-TI  - Biodiversity-stability relationships strengthen over time in a long-term grassland experiment
-T2  - NATURE COMMUNICATIONS
-LA  - English
-KW  - PLANT-SPECIES RICHNESS
-KW  - ECOSYSTEM PRODUCTIVITY
-KW  - SOIL CARBON
-KW  - DIVERSITY
-KW  - INCREASES
-KW  - SELECTION
-KW  - IMPACTS
-KW  - COMMUNITIES
-KW  - PERFORMANCE
-KW  - POPULATION
-AB  - Numerous studies have demonstrated that biodiversity drives ecosystem functioning, yet how biodiversity loss alters ecosystems functioning and stability in the long-term lacks experimental evidence. We report temporal effects of species richness on community productivity, stability, species asynchrony, and complementarity, and how the relationships among them change over 17 years in a grassland biodiversity experiment. Productivity declined more rapidly in less diverse communities resulting in temporally strengthening positive effects of richness on productivity, complementarity, and stability. In later years asynchrony played amore important role in increasing community stability as the negative effect of richness on population stability diminished. Only during later years did species complementarity relate to species asynchrony. These results show that species complementarity and asynchrony can take more than a decade to develop strong stabilizing effects on ecosystem functioning in diverse plant communities. Thus, the mechanisms stabilizing ecosystem functioning change with community age.
-AD  - Univ Zurich, Dept Geog, Remote Sensing Labs, Winterthurerstr 190, CH-8057 Zurich, SwitzerlandAD  - Agr & Agri Food Canada, Fredericton Res & Dev Ctr, 95 Innovat Rd,POB 20280, Fredericton, NB E3B 4Z7, CanadaAD  - UFZ, Dept Physiol Div, Helmholtz Ctr Environm Res, Permoserstr 15, D-04318 Leipzig, GermanyAD  - German Ctr Integrat Biodivers Res iDiv, Puschstr 4, D-04103 Leipzig, GermanyAD  - Univ Leipzig, Inst Biol, Johannisallee 21, D-04103 Leipzig, GermanyAD  - Univ Jena, Inst Ecol & Evolut, Dornburger Str 159, D-07743 Jena, GermanyAD  - Univ Bern, Inst Plant Sci, Altenbergrain 21, CH-3013 Bern, SwitzerlandAD  - Leuphana Univ, Inst Ecol, Luneburg, GermanyAD  - Tech Univ Munich, Dept Ecol & Ecosyst Management, Terr Ecol Res Grp, Ctr Food & Life Sci Weihenstephan, Hans Carl von Carlowitz Pl 2, D-85350 Freising Weihenstephan, GermanyAD  - Univ Freiburg, Geobot, Fac Biol, Schanzlestr 1, D-79104 Freiburg, GermanyAD  - Swiss Fed Inst Technol, Inst Agr Sci, Univ Str 2, CH-8092 Zurich, SwitzerlandAD  - Univ Leipzig, Inst Biol, Puschstr 4, D-04103 Leipzig, GermanyC3  - University of ZurichC3  - Agriculture & Agri Food CanadaC3  - Helmholtz AssociationC3  - Helmholtz Center for Environmental Research (UFZ)C3  - Leipzig UniversityC3  - Friedrich Schiller University of JenaC3  - University of BernC3  - Leuphana University LuneburgC3  - Technical University of MunichC3  - University of FreiburgC3  - Swiss Federal Institutes of Technology DomainC3  - ETH ZurichC3  - Leipzig UniversityFU  - German Research Foundation [FOR 456, FOR 1451, FOR 5000]; Swiss National Science Foundation [147092, 166457]; University Research Priority Program Global Change and Biodiversity of the University of Zurich
-FX  - We are grateful to all Jena Experiment technicians and student helpers for their support in setting up andmaintaining the experiment as well as their help with data collection. We also acknowledge the role of Prof. Ernst-Detlef Schulze for his instrumental role in establishing the Jena Experiment. This research was supported by the German Research Foundation (FOR 456, FOR 1451, and FOR 5000) awarded to the Jena research consortium and the Swiss National Science Foundation (147092 and 166457) awarded to Bernhard Schmid. Bernhard Schmid was additionally supported by the University Research Priority Program Global Change and Biodiversity of the University of Zurich.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2041-1723
-J9  - NAT COMMUN
-JI  - Nat. Commun.
-DA  - DEC 14
-PY  - 2022
-VL  - 13
-IS  - 1
-DO  - 10.1038/s41467-022-35189-2
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000908351800001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  69
-ER  -
-
-TY  - JOUR
-AU  - Brownstein, CD
-AU  - Meyer, DL
-AU  - Fabbri, M
-AU  - Bhullar, BAS
-AU  - Gauthier, JA
-TI  - Evolutionary origins of the prolonged extant squamate radiation
-T2  - NATURE COMMUNICATIONS
-LA  - English
-KW  - SCINCOMORPH LIZARD
-KW  - TUATARA SPHENODON
-KW  - REPTILES LIZARDS
-KW  - PHYLOGENY
-KW  - SNAKES
-KW  - AMPHISBAENIANS
-KW  - LEPIDOSAURIA
-KW  - BIOGEOGRAPHY
-KW  - DENTITION
-KW  - PATTERNS
-AB  - Here, the authors present two well preserved fossil lizard skulls from the Late Jurassic of North America. These fossils, placed at the base of the clade Pan-Scincoidea, suggest that squamates had a wide geographic distribution and preserve characteristics that show the complex early evolutionary history of squamate anatomy.
-   Squamata is the most diverse clade of terrestrial vertebrates. Although the origin of pan-squamates lies in the Triassic, the oldest undisputed members of extant clades known from nearly complete, uncrushed material come from the Cretaceous. Here, we describe three-dimensionally preserved partial skulls of two new crown lizards from the Late Jurassic of North America. Both species are placed at the base of the skink, girdled, and night lizard clade Pan-Scincoidea, which consistently occupies a position deep inside the squamate crown in both morphological and molecular phylogenies. The new lizards show that several features uniting pan-scincoids with another major lizard clade, the pan-lacertoids, in trees using morphology were convergently acquired as predicted by molecular analyses. Further, the palate of one new lizard bears a handful of ancestral saurian characteristics lost in nearly all extant squamates, revealing an underappreciated degree of complex morphological evolution in the early squamate crown. We find strong evidence for close relationships between the two new species and Cretaceous taxa from Eurasia. Together, these results suggest that early crown squamates had a wide geographic distribution and experienced complicated morphological evolution even while the Rhynchocephalia, now solely represented by the tuatara, was the dominant clade of lepidosaurs.
-AD  - Yale Univ, Dept Ecol & Evolutionary Biol, New Haven, CT 06520 USAAD  - Stamford Museum & Nat Ctr, Stamford, CT 06903 USAAD  - Yale Univ, Dept Earth & Planetary Sci, New Haven, CT USAAD  - Field Museum Nat Hist, Negaunee Integrat Res Ctr, Chicago, IL 60605 USAAD  - Yale Univ, Yale Peabody Museum, New Haven, CT USAC3  - Yale UniversityC3  - Yale UniversityC3  - Field Museum of Natural History (Chicago)C3  - Yale UniversityPU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2041-1723
-J9  - NAT COMMUN
-JI  - Nat. Commun.
-DA  - NOV 29
-PY  - 2022
-VL  - 13
-IS  - 1
-C7  - 7087
-DO  - 10.1038/s41467-022-34217-5
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000890398000010
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  90
-ER  -
-
-TY  - JOUR
-AU  - Wan, NF
-AU  - Fu, LW
-AU  - Dainese, M
-AU  - Hu, YQ
-AU  - Kiaer, LP
-AU  - Isbell, F
-AU  - Scherber, C
-TI  - Plant genetic diversity affects multiple trophic levels and trophic interactions
-T2  - NATURE COMMUNICATIONS
-LA  - English
-KW  - GENOTYPIC DIVERSITY
-KW  - ARTHROPOD COMMUNITIES
-KW  - CULTIVAR MIXTURES
-KW  - INTRASPECIFIC DIVERSITY
-KW  - APHID PERFORMANCE
-KW  - METAANALYSIS
-KW  - CONSEQUENCES
-KW  - POPULATION
-KW  - PREDATORS
-KW  - INCREASES
-AB  - Plant intraspecific diversity genetic diversity could affect also other trophic levels. This meta-analysis shows that increasing plant genetic diversity improves the performance of plants and natural enemies of herbivores, while decreasing the performance of plant antagonists.
-   Intraspecific genetic diversity is an important component of biodiversity. A substantial body of evidence has demonstrated positive effects of plant genetic diversity on plant performance. However, it has remained unclear whether plant genetic diversity generally increases plant performance by reducing the pressure of plant antagonists across trophic levels for different plant life forms, ecosystems and climatic zones. Here, we analyse 4702 effect sizes reported in 413 studies that consider effects of plant genetic diversity on trophic groups and their interactions. We found that that increasing plant genetic diversity decreased the performance of plant antagonists including invertebrate herbivores, weeds, plant-feeding nematodes and plant diseases, while increasing the performance of plants and natural enemies of herbivores. Structural equation modelling indicated that plant genetic diversity increased plant performance partly by reducing plant antagonist pressure. These results reveal that plant genetic diversity often influences multiple trophic levels in ways that enhance natural pest control in managed ecosystems and consumer control of plants in natural ecosystems for sustainable plant production.
-AD  - East China Univ Sci & Technol, Sch Pharm, Shanghai Key Lab Chem Biol, Shanghai 200237, Peoples R ChinaAD  - Capital Med Univ, Beijing Childrens Hosp, Ctr Noncommunicable Dis Management, Natl Ctr Childrens Hlth, Beijing 100045, Peoples R ChinaAD  - Fudan Univ, Sch Life Sci, Inst Biostat, State Key Lab Genet Engn, Shanghai 200438, Peoples R ChinaAD  - Univ Verona, Dept Biotechnol, Verona, ItalyAD  - Univ Copenhagen, Dept Plant & Environm Sci, DK-1871 Frederiksberg C, DenmarkAD  - Univ Minnesota, Dept Ecol Evolut & Behav, St Paul, MN 55108 USAAD  - Leibniz Inst Anal Biodivers Change, Ctr Biodivers Monitoring & Conservat Sci, Museum Koenig, Adenauerallee 127, D-53113 Bonn, GermanyC3  - East China University of Science & TechnologyC3  - Capital Medical UniversityC3  - Fudan UniversityC3  - University of VeronaC3  - University of CopenhagenC3  - University of Minnesota SystemC3  - University of Minnesota Twin CitiesC3  - Zoologisches Forschungsmuseum Alexander Koenig (ZFMK)FU  - Shanghai Science and Technology Innovation Action Plan from Shanghai Municipal Science and Technology Commission of China [22015821000]; National Ten Thousand Plan-Young Top Talents of China; National Natural Science Foundation of China [82204063, 11971117]
-FX  - The authors thank all of the researchers whose data and work have been included in this meta-analysis, and Professor Bo Li, Jihua Wu, Xiaoqi Zhou, Ming Nie and Zhijie Zhang for providing useful help. N.F.W. was supported by the Shanghai Science and Technology Innovation Action Plan from Shanghai Municipal Science and Technology Commission of China (22015821000) and National Ten Thousand Plan-Young Top Talents of China, Y.Q.H. was supported by the National Natural Science Foundation of China (11971117), and L.F. was supported by the National Natural Science Foundation of China (82204063).
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2041-1723
-J9  - NAT COMMUN
-JI  - Nat. Commun.
-DA  - NOV 27
-PY  - 2022
-VL  - 13
-IS  - 1
-C7  - 7312
-DO  - 10.1038/s41467-022-35087-7
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000889068000006
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  69
-ER  -
-
-TY  - JOUR
-AU  - Cherry, LB
-AU  - Gilleaudeau, GJ
-AU  - Grazhdankin, DV
-AU  - Romaniello, SJ
-AU  - Martin, AJ
-AU  - Kaufman, AJ
-TI  - A diverse Ediacara assemblage survived under low-oxygen conditions
-T2  - NATURE COMMUNICATIONS
-LA  - English
-KW  - URANIUM ISOTOPE EVIDENCE
-KW  - DOUSHANTUO FORMATION
-KW  - CAMBRIAN RADIATION
-KW  - SUPERHEAVY PYRITE
-KW  - OCEAN OXYGENATION
-KW  - OLENEK UPLIFT
-KW  - ANOXIA
-KW  - BASIN
-KW  - EVOLUTION
-KW  - SEAWATER
-AB  - The Ediacaran biota were soft-bodied organisms, many with enigmatic phylogenetic placement and ecology, living in marine environments between 574 and 539 million years ago. Some studies hypothesize a metazoan affinity and aerobic metabolism for these taxa, whereas others propose a fundamentally separate taxonomic grouping and a reliance on chemoautotrophy. To distinguish between these hypotheses and test the redox-sensitivity of Ediacaran organisms, here we present a high-resolution local and global redox dataset from carbonates that contain in situ Ediacaran fossils from Siberia. Cerium anomalies are consistently >1, indicating that local environments, where a diverse Ediacaran assemblage is preserved in situ as nodules and carbonaceous compressions, were pervasively anoxic. Additionally, delta U-238 values match other terminal Ediacaran sections, indicating widespread marine euxinia. These data suggest that some Ediacaran biotas were tolerant of at least intermittent anoxia, and thus had the capacity for a facultatively anaerobic lifestyle. Alternatively, these soft-bodied Ediacara organisms may have colonized the seafloor during brief oxygenation events not recorded by redox proxy data. Broad temporal correlations between carbon, sulfur, and uranium isotopes further highlight the dynamic redox landscape of Ediacaran-Cambrian evolutionary events.
-   Geochemical data from sedimentary rocks in Siberia indicate that members of the soft-bodied Ediacara biota (the earliest macroscopic life on Earth) were tolerant of low-oxygen conditions, suggesting they had the capacity for anaerobic metabolisms.
-AD  - George Mason Univ, Dept Atmospher Ocean & Earth Sci, Fairfax, VA 22030 USAAD  - Univ Maryland, Dept Geol, College Pk, MD 20742 USAAD  - Russian Acad Sci, Trofimuk Inst Petr Geol & Geophys, Siberian Branch, Novosibirsk, RussiaAD  - Arizona State Univ, Sch Earth & Space Explorat, Tempe, AZ USAAD  - IPICYT, Div Geociencias Aplicadas, CP 78216, San Luis Potosi, San Luis Potosi, MexicoAD  - Univ Maryland, Earth Syst Sci Interdisciplinary Ctr, College Pk, MD 20742 USAC3  - George Mason UniversityC3  - University System of MarylandC3  - University of Maryland College ParkC3  - Russian Academy of SciencesC3  - Trofimuk Institute of Petroleum Geology & GeophysicsC3  - Arizona State UniversityC3  - Arizona State University-TempeC3  - Instituto Potosino Investigacion Cientifica y TecnologicaC3  - University System of MarylandC3  - University of Maryland College ParkFU  - NASA Postdoctoral Program; College of Science Seed Grant Program at George Mason University; National Science Foundation (NSF) Geobiology and Low-Temperature Geochemistry Program grant [2020644, 2020593]; Russian Science Foundation [20-67-46028]
-FX  - The authors thank Tyler Goepfert, Trevor Martin, and Gwyneth Gordon at Arizona State University, as well as Richard Ash at the University of Maryland, for analytical support. G.J.G. is indebted to Ariel Anbar at Arizona State University for use of instrumentation, and also thanks the NASA Postdoctoral Program and the College of Science Seed Grant Program at George Mason University for financial support. This project was supported by a National Science Foundation (NSF) Geobiology and Low-Temperature Geochemistry Program grant (Award Numbers 2020644 and 2020593) to A.J.K. and G.J.G. This project was also supported by Russian Science Foundation grant 20-67-46028 to D.V.G.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2041-1723
-J9  - NAT COMMUN
-JI  - Nat. Commun.
-DA  - NOV 27
-PY  - 2022
-VL  - 13
-IS  - 1
-C7  - 7306
-DO  - 10.1038/s41467-022-35012-y
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000888871500003
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  103
-ER  -
-
-TY  - JOUR
-AU  - Vitali, R
-AU  - Belcher, CM
-AU  - Kaplan, JO
-AU  - Watson, AJ
-TI  - Increased fire activity under high atmospheric oxygen concentrations is compatible with the presence of forests
-T2  - NATURE COMMUNICATIONS
-LA  - English
-KW  - VEGETATION DYNAMICS
-KW  - FOSSIL CHARCOAL
-KW  - REVISED MODEL
-KW  - BURNED AREA
-KW  - COMBUSTION
-KW  - RISE
-KW  - O-2
-KW  - CO2
-KW  - FLAMMABILITY
-KW  - GEOCARBSULF
-AB  - Throughout Earth's history, the abundance of oxygen in our atmosphere has varied, but by how much remains debated. Previously, an upper limit for atmospheric oxygen has been bounded by assumptions made regarding the fire window: atmospheric oxygen concentrations higher than 30-40% would threaten the regeneration of forests in the present world. Here we have tested these assumptions by adapting a Dynamic Global Vegetation Model to run over high atmospheric oxygen concentrations. Our results show that whilst global tree cover is significantly reduced under high O-2 concentrations, forests persist in the wettest parts of the low and high latitudes and fire is more dependent on fuel moisture than O-2 levels. This implies that the effect of fire on suppressing global vegetation under high O-2 may be lower than previously assumed and questions our understanding of the mechanisms involved in regulating the abundance of oxygen in our atmosphere, with moisture as a potentially important factor.
-   This study shows that fire activity under high atmospheric oxygen concentrations does not remove or prevent regeneration of present-day global forests, contradicting a long-term assumption used to define the upper limit of oxygen through time.
-AD  - Univ Exeter, Global Syst Inst, Exeter, Devon, EnglandAD  - Univ Hong Kong, Dept Earth Sci, Hong Kong, Peoples R ChinaAD  - Univ Hong Kong, Inst Climate & Carbon Neutral, Hong Kong, Peoples R ChinaC3  - University of ExeterC3  - University of Hong KongC3  - University of Hong KongFU  - Royal Society Research Professorship; NERC [NE/T003553/1]; European Research Council [ERC-2013StG-335891-ECOFLAM]; BMBF-DAAD Make Our Planet Great Again Program [57429870]
-FX  - This research was funded by a Royal Society Research Professorship (A.J.W & R.V). We also acknowledge support from NERC NE/T003553/1 (C.M.B), previous support from a European Research Council Starter Grant that supported the conception of some of the ideas (ERC-2013StG-335891-ECOFLAM)(C.M.B) and support by the BMBF-DAAD Make Our Planet Great Again Program (grant 57429870) (J.O.K).
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2041-1723
-J9  - NAT COMMUN
-JI  - Nat. Commun.
-DA  - NOV 26
-PY  - 2022
-VL  - 13
-IS  - 1
-C7  - 7285
-DO  - 10.1038/s41467-022-35081-z
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000888871600023
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  73
-ER  -
-
-TY  - JOUR
-AU  - Kreider, JJ
-AU  - Janzen, T
-AU  - Bernadou, A
-AU  - Elsner, D
-AU  - Kramer, BH
-AU  - Weissing, FJ
-TI  - Resource sharing is sufficient for the emergence of division of labour
-T2  - NATURE COMMUNICATIONS
-LA  - English
-KW  - DIFFERENTIAL GENE-EXPRESSION
-KW  - NUTRITION
-KW  - BEHAVIOR
-KW  - BIOLOGY
-KW  - WORKERS
-KW  - ANTS
-KW  - SIZE
-KW  - WASP
-AB  - Division of labour, where members of a group specialise on different tasks, is a central feature of many social organisms. Using a theoretical model, the authors demonstrate that division of labour can emerge spontaneously within a group of entirely identical individuals.
-   Division of labour occurs in a broad range of organisms. Yet, how division of labour can emerge in the absence of pre-existing interindividual differences is poorly understood. Using a simple but realistic model, we show that in a group of initially identical individuals, division of labour emerges spontaneously if returning foragers share part of their resources with other group members. In the absence of resource sharing, individuals follow an activity schedule of alternating between foraging and other tasks. If non-foraging individuals are fed by other individuals, their alternating activity schedule becomes interrupted, leading to task specialisation and the emergence of division of labour. Furthermore, nutritional differences between individuals reinforce division of labour. Such differences can be caused by increased metabolic rates during foraging or by dominance interactions during resource sharing. Our model proposes a plausible mechanism for the self-organised emergence of division of labour in animal groups of initially identical individuals. This mechanism could also play a role for the emergence of division of labour during the major evolutionary transitions to eusociality and multicellularity.
-AD  - Univ Groningen, Groningen Inst Evolutionary Life Sci, Nijenborgh 7, NL-9747 AG Groningen, NetherlandsAD  - Univ Regensburg, Zool Evolutionary Biol, Univ Str 31, D-93053 Regensburg, GermanyAD  - Univ Toulouse, Ctr Rech Sur Cognit Anim CRCA, Ctr Biol Integrat CBI, CNRS,UPS, F-31062 Toulouse, FranceAD  - Univ Freiburg, Inst Biol & Zool, Dept Evolutionary Biol & Ecol, Hauptstr 1, D-79104 Freiburg, Breisgau, GermanyC3  - University of GroningenC3  - University of RegensburgC3  - Centre National de la Recherche Scientifique (CNRS)C3  - Universite de ToulouseC3  - Universite Toulouse III - Paul SabatierC3  - University of FreiburgFU  - University of Groningen; DFG [BE6684/1-1, KO1895/19-1]; NWO [823.01.006]; European Research Council (ERC) [789240]
-FX  - We thank Hanno Hildenbrandt for helping us debug the model and increase simulation efficiency. We thank the Center for Information Technology of the University of Groningen for providing access to the Peregrine high performance computing cluster. J.J.K. was supported by an Adaptive Life grant by the University of Groningen. A.B. was supported by DFG grant no. BE6684/1-1 (Research Unit "So-long" - FOR 2218). D.E. was supported by DFG grant no. KO1895/19-1 (to Judith Korb) and by NWO grant no. 823.01.006 (to F.J.W.). F.J.W. acknowledges funding from the European Research Council (ERC Advanced Grant No. 789240).
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2041-1723
-J9  - NAT COMMUN
-JI  - Nat. Commun.
-DA  - NOV 24
-PY  - 2022
-VL  - 13
-IS  - 1
-C7  - 7232
-DO  - 10.1038/s41467-022-35038-2
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000888905000013
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  69
-ER  -
-
-TY  - JOUR
-AU  - Windfelder, AG
-AU  - Muller, FHH
-AU  - Mc Larney, B
-AU  - Hentschel, M
-AU  - Bohringer, AC
-AU  - Von Bredow, CR
-AU  - Leinberger, FH
-AU  - Kampschulte, M
-AU  - Maier, L
-AU  - von Bredow, YM
-AU  - Flocke, V
-AU  - Merzendorfer, H
-AU  - Krombach, GA
-AU  - Vilcinskas, A
-AU  - Grimm, J
-AU  - Trenczek, TE
-AU  - Flogel, U
-TI  - High-throughput screening of caterpillars as a platform to study host-microbe interactions and enteric immunity
-T2  - NATURE COMMUNICATIONS
-LA  - English
-KW  - TOBACCO HORNWORM
-KW  - MANDUCA-SEXTA
-KW  - CROHNS-DISEASE
-KW  - GUT BACTERIA
-KW  - OXIDASE
-KW  - DUOX2
-KW  - LEPIDOPTERA
-KW  - HOMEOSTASIS
-KW  - SPHINGIDAE
-KW  - EXPRESSION
-AB  - Mammalian models of human disease are expensive and subject to ethical restrictions. Here, we present an independent platform for high-throughput screening, using larvae of the tobacco hornworm Manduca sexta, combining diagnostic imaging modalities for a comprehensive characterization of aberrant phenotypes. For validation, we use bacterial/chemical-induced gut inflammation to generate a colitis-like phenotype and identify significant alterations in morphology, tissue properties, and intermediary metabolism, which aggravate with disease progression and can be rescued by antimicrobial treatment. In independent experiments, activation of the highly conserved NADPH oxidase DUOX, a key mediator of gut inflammation, leads to similar, dose-dependent alterations, which can be attenuated by pharmacological interventions. Furthermore, the developed platform could differentiate pathogens from mutualistic gastrointestinal bacteria broadening the scope of applications also to microbiomics and host-pathogen interactions. Overall, larvae-based screening can complement mammals in preclinical studies to explore innate immunity and host-pathogen interactions, thus representing a substantial contribution to improve mammalian welfare.
-   Here, combining diagnostic imaging modalities and in vivo assays, Windfelder and colleagues established tobacco hornworm larvae Manduca sexta as an alternative high-throughput platform to study the innate immunity of the gut and host-pathogen interactions. Using the platform, the authors identify mediators of gut inflammation, differentiate pathogens from gut mutualist bacteria, and demonstrate pharmacological interventions.
-AD  - Inst Zool & Dev Biol, Giessen, GermanyAD  - Justus Liebig Univ Giessen, Cellular Recognit & Def Proc, Giessen, GermanyAD  - Fraunhofer Inst Mol Biol & Appl Ecol IME, Dept Bioresources, Giessen, GermanyAD  - Justus Liebig Univ Giessen, Lab Expt Radiol, Giessen, GermanyAD  - Radiol & Nucl Med Ludwigshafen, Ludwigshafen, GermanyAD  - Mem Sloan Kettering Canc Ctr, Mol Pharmacol Program, 1275 York Ave, New York, NY 10021 USAAD  - Mem Sloan Kettering Canc Ctr, Mol Imaging & Therapy Serv, 1275 York Ave, New York, NY 10021 USAAD  - Inselspital Bern, Dept Nucl Med, Bern, SwitzerlandAD  - Univ Siegen, Sch Sci & Technol, Dept Chem & Biol, Siegen, GermanyAD  - Tech Univ Dresden, Dept Biol, Appl Zool, Dresden, GermanyAD  - Heinrich Heine Univ Dusseldorf, Mol Cardiol, Expt Cardiovasc Imaging, Dusseldorf, GermanyAD  - Univ Hosp Giessen, Dept Diagnost & Intervent Radiol, Giessen, GermanyAD  - Justus Liebig Univ Giessen, Inst Insect Biotechnol, Dept Appl Entomol, Giessen, GermanyAD  - Weill Cornell Med Coll, Pharmacol Dept, New York, NY USAAD  - Mem Sloan Kettering Canc Ctr, Dept Radiol, 1275 York Ave, New York, NY 10021 USAAD  - Weill Cornell Med Ctr, Dept Radiol, New York, NY USAC3  - Justus Liebig University GiessenC3  - Fraunhofer GesellschaftC3  - Justus Liebig University GiessenC3  - Memorial Sloan Kettering Cancer CenterC3  - Memorial Sloan Kettering Cancer CenterC3  - University of BernC3  - University Hospital of BernC3  - Universitat SiegenC3  - Technische Universitat DresdenC3  - Heinrich Heine University DusseldorfC3  - University Hospital of Giessen & MarburgC3  - Justus Liebig University GiessenC3  - Cornell UniversityC3  - Memorial Sloan Kettering Cancer CenterC3  - Cornell UniversityFU  - Deutsche Forschungsgemeinschaft [INST 208/764-1 FUGG]; NIH/NCI [P30 CA008748]
-FX  - We are grateful to Jessica Steinbart (mu CT and CT) and the team from Radiologie und Nuklearmedizin Ludwigshafen for their technical support in image acquisition. Furthermore, we thank Dr. Sebastian Faby (Siemens Healthineers, Erlangen, Germany) for his help in imaging the Derenzo phantom in different CT scanners. We also thank Prof. Dr. Michael Kanost (Kansas State University), Prof. Maria Grandoch (Heinrich Heine University), and PD Dr. Ellen Kauschke (Justus Liebig University Giessen) for their helpful comments on the manuscript. Finally, we thank Carolin Ina Schroter for the artwork of M. sexta and the bacteria. This work was supported by the Deutsche Forschungsgemeinschaft (INST 208/764-1 FUGG to U.F.) and the NIH/NCI (P30 CA008748 Cancer Center Support Grant to J.G.).
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2041-1723
-J9  - NAT COMMUN
-JI  - Nat. Commun.
-DA  - NOV 24
-PY  - 2022
-VL  - 13
-IS  - 1
-C7  - 7216
-DO  - 10.1038/s41467-022-34865-7
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000888905000010
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  67
-ER  -
-
-TY  - JOUR
-AU  - Zhao, HD
-AU  - Zhang, LN
-AU  - Kirkham, MB
-AU  - Welch, SM
-AU  - Nielsen-Gammon, JW
-AU  - Bai, GH
-AU  - Luo, JB
-AU  - Andresen, DA
-AU  - Rice, CW
-AU  - Wan, NH
-AU  - Lollato, RP
-AU  - Zheng, DF
-AU  - Gowda, PH
-AU  - Lin, XM
-TI  - US winter wheat yield loss attributed to compound hot-dry-windy events
-T2  - NATURE COMMUNICATIONS
-LA  - English
-KW  - PROTEIN ACCUMULATION
-KW  - TEMPERATURE
-KW  - DROUGHT
-KW  - IMPACT
-KW  - MODEL
-KW  - WATER
-KW  - RISK
-AB  - The authors show that in recent decades compound climate extremes (i.e., hot, dry, and windy events) have increased and have reduced winter wheat yields in the U.S. Great Plains. The area most affected is the same area as that in 1930s Dust Bowl.
-   Climate extremes cause significant winter wheat yield loss and can cause much greater impacts than single extremes in isolation when multiple extremes occur simultaneously. Here we show that compound hot-dry-windy events (HDW) significantly increased in the U.S. Great Plains from 1982 to 2020. These HDW events were the most impactful drivers for wheat yield loss, accounting for a 4% yield reduction per 10 h of HDW during heading to maturity. Current HDW trends are associated with yield reduction rates of up to 0.09 t ha(-1) per decade and HDW variations are atmospheric-bridged with the Pacific Decadal Oscillation. We quantify the "yield shock", which is spatially distributed, with the losses in severely HDW-affected areas, presumably the same areas affected by the Dust Bowl of the 1930s. Our findings indicate that compound HDW, which traditional risk assessments overlooked, have significant implications for the U.S. winter wheat production and beyond.
-AD  - Kansas State Univ, Plant Sci Ctr, Dept Agron, 2004 Throckmorton Hall, Manhattan, KS 66506 USAAD  - Kansas State Univ, Kansas Climate Ctr, Plant Sci Ctr, 2108 Throckmorton Hall, Manhattan, KS 66506 USAAD  - Texas A&M Univ, Dept Atmospher Sci, College Stn, TX 77843 USAAD  - Kansas State Univ, USDA ARS, Hard Winter Wheat Genet Res Unit, Manhattan, KS 66506 USAAD  - Univ Rochester, Dept Comp Sci, Rochester, NY 14627 USAAD  - Kansas State Univ, Dept Comp Sci, Manhattan, KS 66506 USAAD  - Guangdong Ocean Univ, Coll Coastal Agr Sci, Zhanjiang 524088, Guangdong, Peoples R ChinaAD  - ARS, USDA, Southeast Area, Stoneville, MS 38776 USAC3  - Kansas State UniversityC3  - Kansas State UniversityC3  - Texas A&M University SystemC3  - Texas A&M University College StationC3  - Kansas State UniversityC3  - United States Department of Agriculture (USDA)C3  - University of RochesterC3  - Kansas State UniversityC3  - Guangdong Ocean UniversityC3  - United States Department of Agriculture (USDA)FU  - USA Department of Agriculture, National Institute of Food and Agriculture NIFA [2016-68007-25066]; USDA NIFA [2022-68013-36439]; NSF [1826820]
-FX  - This study was supported by the USA Department of Agriculture, National Institute of Food and Agriculture NIFA (#2016-68007-25066) (X.L.), the USDA NIFA (#2022-68013-36439) (G.B.), and NSF (#1826820) (S.W.). We are grateful to Dr. Allan Fritz and Dr. Zachary Zambreski for their valuable comments on the paper. We thank Dallas Staley, for her outstanding contribution in editing and finalizing the paper. Contribution no. 22-246-J from the Kansas Agricultural Experiment Station.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2041-1723
-J9  - NAT COMMUN
-JI  - Nat. Commun.
-DA  - NOV 24
-PY  - 2022
-VL  - 13
-IS  - 1
-C7  - 7233
-DO  - 10.1038/s41467-022-34947-6
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000888905000007
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  63
-ER  -
-
-TY  - JOUR
-AU  - Zimmer, MA
-AU  - Burgin, AJ
-AU  - Kaiser, K
-AU  - Hosen, J
-TI  - The unknown biogeochemical impacts of drying rivers and streams
-T2  - NATURE COMMUNICATIONS
-LA  - English
-AB  - Non-perennial rivers and streams - those that periodically cease flowing - are critical components of aquatic systems and comprise over half of global river and stream systems. We argue for coordinated, collaborative, standardized, and open efforts to understand their unique biogeochemical behaviour, which is becoming ever more pressing due to pronounced shifts between wet and dry as the climate changes.
-   Rivers and streams are increasingly drying with climate change and biogeochemical impacts may be important. In this comment the authors discuss the challenges to the biogeochemistry of non-perennial rivers and streams, and what can be done to tackle them.
-AD  - Univ Calif Santa Cruz, Dept Earth & Planetary Sci, Santa Cruz, CA 95064 USAAD  - Univ Kansas, Lawrence, KS 66047 USAAD  - Kansas Biol Survey, Ctr Ecol Res, Lawrence, KS 66047 USAAD  - Boise State Univ, Dept Geosci, Boise, ID 83725 USAAD  - Purdue Univ, Dept Forestry & Nat Resources, W Lafayette, IN 47907 USAC3  - University of California SystemC3  - University of California Santa CruzC3  - University of KansasC3  - IdahoC3  - Boise State UniversityC3  - Purdue University SystemC3  - Purdue UniversityC3  - Purdue University West Lafayette CampusFU  - Dry Rivers Research Coordination Network (DR RCN) [NSF DEB-1754389]; Aquatic Intermittency effects on Microbiomes in Streams project (AIMS) [NSF OIA-2019603]
-FX  - This manuscript is a product of the Dry Rivers Research Coordination Network (DR RCN; NSF DEB-1754389) and the Aquatic Intermittency effects on Microbiomes in Streams project (AIMS; NSF OIA-2019603). We thank our collegial community for many extended conversations that helped form and hone these ideas.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2041-1723
-J9  - NAT COMMUN
-JI  - Nat. Commun.
-DA  - NOV 24
-PY  - 2022
-VL  - 13
-IS  - 1
-C7  - 7213
-DO  - 10.1038/s41467-022-34903-4
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000887966900001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  13
-ER  -
-
-TY  - JOUR
-AU  - Lee, BR
-AU  - Miller, TK
-AU  - Rosche, C
-AU  - Yang, Y
-AU  - Heberling, JM
-AU  - Kuebbing, SE
-AU  - Primack, RB
-TI  - Wildflower phenological escape differs by continent and spring temperature
-T2  - NATURE COMMUNICATIONS
-LA  - English
-KW  - LEAF PHENOLOGY
-KW  - HERBARIUM RECORDS
-KW  - FLOWERING TIMES
-KW  - CLIMATE-CHANGE
-KW  - FOREST
-KW  - TRILLIUM
-KW  - GROWTH
-KW  - DIVERSITY
-KW  - RESPONSES
-KW  - SURVIVAL
-AB  - Climate change may be inducing phenological mismatches between trees and understory plants. Here, phenological models based on long-term data from herbarium specimens indicate that spring ephemeral wildflowers are more vulnerable to such mismatches in North America than in Eurasia.
-   Temperate understory plant species are at risk from climate change and anthropogenic threats that include increased deer herbivory, habitat loss, pollinator declines and mismatch, and nutrient pollution. Recent work suggests that spring ephemeral wildflowers may be at additional risk due to phenological mismatch with deciduous canopy trees. The study of this dynamic, commonly referred to as "phenological escape", and its sensitivity to spring temperature is limited to eastern North America. Here, we use herbarium specimens to show that phenological sensitivity to spring temperature is remarkably conserved for understory wildflowers across North America, Europe, and Asia, but that canopy trees in North America are significantly more sensitive to spring temperature compared to in Asia and Europe. We predict that advancing tree phenology will lead to decreasing spring light windows in North America while spring light windows will be maintained or even increase in Asia and Europe in response to projected climate warming.
-AD  - Carnegie Museum Nat Hist, Sect Bot, Pittsburgh, PA 15213 USAAD  - Univ Pittsburgh, Dept Biol Sci, Pittsburgh, PA 15260 USAAD  - Holden Forests & Gardens, Kirtland, OH 44094 USAAD  - Boston Univ, Dept Biol, 5 Cummington St, Boston, MA 02215 USAAD  - Martin Luther Univ Halle Wittenberg, Inst Biol Geobot & Bot Garden, Halle, GermanyAD  - German Ctr Integrat Biodivers Res iDiv, Halle, GermanyAD  - Nanjing Forestry Univ, Coll Biol & Environm, Coinnovat Ctr Sustainable Forestry Southern China, 159 Longpan Rd, Nanjing 210037, Peoples R ChinaAD  - Yale Univ, Forest Sch Sch Environm, Yale Appl Sci Synth Program, 195 Prospect St, New Haven, CT USAC3  - Pennsylvania Commonwealth System of Higher Education (PCSHE)C3  - University of PittsburghC3  - Boston UniversityC3  - Martin Luther University Halle WittenbergC3  - Nanjing Forestry UniversityC3  - Yale UniversityFU  - National Science Foundation [DEB 1936971, 1936877, 1936960]
-FX  - We thank A. Helmling, L. de Castro Machado de Souza, P.Y. Lai, C. Terry, and M. Rothendler (North American specimens); I. Vogler, M. Schramm, V. Bastian, K. Adler, and B. Muller (European specimens); and Z. Yang, C. Tan, L. Wang, and X. Huo (East Asian specimens) for their efforts in databasing and georeferencing the herbarium specimens analyzed for this project. We also thank C. Romermann, E. Welk, and B. Liu for their suggestions on the European and Asian species list. We are grateful to the Chinese Virtual Herbarium and Chinese Field Herbarium for providing the East Asian specimen data and digitized photos and to the Metasequoia funding of Nanjing Forestry University [YY], which helped fund the Asian data extraction. We thank F Lindgren and F Willems for providing guidance on INLA methodology for the models with spatial autocorrelation. BRL, TKM, JMH, SEK, and RBP were funded by National Science Foundation Grants Nos. DEB 1936971, 1936877, and 1936960. We acknowledge the World Climate Research Program, which, through its Working Group on Coupled Modeling, coordinated and promoted CMIP6. We thank the climate modeling groups for producing and making available their model output, the Earth System Grid Federation (ESGF) for archiving the data and providing access, and the multiple funding agencies who support CMIP6 and ESGF. We thank Abe Miller-Rushing and Amanda S. Gallinat for providing valuable feedback on this manuscript.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2041-1723
-J9  - NAT COMMUN
-JI  - Nat. Commun.
-DA  - NOV 22
-PY  - 2022
-VL  - 13
-IS  - 1
-C7  - 7157
-DO  - 10.1038/s41467-022-34936-9
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000887967900013
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  71
-ER  -
-
-TY  - JOUR
-AU  - Tong, C
-AU  - Aviles, L
-AU  - Rayor, LS
-AU  - Mikheyev, AS
-AU  - Linksvayer, TA
-TI  - Genomic signatures of recent convergent transitions to social life in spiders
-T2  - NATURE COMMUNICATIONS
-LA  - English
-KW  - PHYLOGENETIC ANALYSIS
-KW  - EVOLUTION
-KW  - BEHAVIOR
-KW  - SELECTION
-KW  - GENES
-KW  - POPULATION
-KW  - ARANEAE
-KW  - TRANSCRIPTOMICS
-KW  - THERIDIIDAE
-KW  - PROTEINS
-AB  - Sociality has evolved repeatedly in arthropods. Tong et al. compare the genomes of 22 spider species with a range of social complexity and eight independent origins of sociality, and identify specific genetic changes associated with the evolution of sociality in spiders.
-   The transition from solitary to social life is a major phenotypic innovation, but its genetic underpinnings are largely unknown. To identify genomic changes associated with this transition, we compare the genomes of 22 spider species representing eight recent and independent origins of sociality. Hundreds of genes tend to experience shifts in selection during the repeated transition to social life. These genes are associated with several key functions, such as neurogenesis, behavior, and metabolism, and include genes that previously have been implicated in animal social behavior and human behavioral disorders. In addition, social species have elevated genome-wide rates of molecular evolution associated with relaxed selection caused by reduced effective population size. Altogether, our study provides unprecedented insights into the genomic signatures of social evolution and the specific genetic changes that repeatedly underpin the evolution of sociality. Our study also highlights the heretofore unappreciated potential of transcriptomics using ethanol-preserved specimens for comparative genomics and phylotranscriptomics.
-AD  - Univ Penn, Dept Biol, Philadelphia, PA 19104 USAAD  - Texas Tech Univ, Dept Biol Sci, Lubbock, TX 79409 USAAD  - Univ British Columbia, Dept Zool, Columbia, BC V6T 1Z4, CanadaAD  - Cornell Univ, Dept Entomol, Ithaca, NY 14853 USAAD  - Australian Natl Univ, Res Sch Biol, Evolutionary Genom Grp, Canberra, ACT 0200, AustraliaC3  - University of PennsylvaniaC3  - Texas Tech University SystemC3  - Texas Tech UniversityC3  - University of British ColumbiaC3  - Cornell UniversityC3  - Australian National UniversityFU  - National Institutes of Health [GM115509]
-FX  - We would like to thank Dr. MarcMilne from University of Indianapolis for kindly contributing ethanol-preserved spider specimens. We would like to thank Dr. Yi-yong Zhao from Fudan University for suggestion in phylotranscriptomic analysis and Drs. Endo Tatsuya and Lijun Qiu from Okinawa Institute of Science and Technology Graduate University for expertise in RNA-seq library construction. This work was funded by the National Institutes of Health Grant GM115509 to T.A.L.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2041-1723
-J9  - NAT COMMUN
-JI  - Nat. Commun.
-DA  - NOV 22
-PY  - 2022
-VL  - 13
-IS  - 1
-C7  - 6967
-DO  - 10.1038/s41467-022-34446-8
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000888056000007
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  113
-ER  -
-
-TY  - JOUR
-AU  - Vallejo-Vargas, AF
-AU  - Sheil, D
-AU  - Semper-Pascual, A
-AU  - Beaudrot, L
-AU  - Ahumada, JA
-AU  - Akampurira, E
-AU  - Bitariho, R
-AU  - Espinosa, S
-AU  - Estienne, V
-AU  - Jansen, PA
-AU  - Kayijamahe, C
-AU  - Martin, EH
-AU  - Lima, MGM
-AU  - Mugerwa, B
-AU  - Rovero, F
-AU  - Salvador, J
-AU  - Santos, F
-AU  - Spironello, WR
-AU  - Uzabaho, E
-AU  - Bischof, R
-TI  - Consistent diel activity patterns of forest mammals among tropical regions
-T2  - NATURE COMMUNICATIONS
-LA  - English
-KW  - PREDATOR-PREY INTERACTIONS
-KW  - JAGUAR
-KW  - TIME
-KW  - DIVERSITY
-KW  - ECOLOGY
-AB  - An animal's daily use of time (their "diel activity") reflects their adaptations, requirements, and interactions, yet we know little about the underlying processes governing diel activity within and among communities. Here we examine whether community-level activity patterns differ among biogeographic regions, and explore the roles of top-down versus bottom-up processes and thermoregulatory constraints. Using data from systematic cameratrap networks in 16 protected forests across the tropics, we examine the relationships of mammals' diel activity to body mass and trophic guild. Also, we assess the activity relationships within and among guilds. Apart from Neotropical insectivores, guilds exhibited consistent cross-regional activity in relation to body mass. Results indicate that thermoregulation constrains herbivore and insectivore activity (e.g., larger Afrotropical herbivores are -7 times more likely to be nocturnal than smaller herbivores), while bottom-up processes constrain the activity of carnivores in relation to herbivores, and top-down processes constrain the activity of small omnivores and insectivores in relation to large carnivores' activity. Overall, diel activity of tropical mammal communities appears shaped by similar processes and constraints among regions reflecting body mass and trophic guilds.
-AD  - Norwegian Univ Life Sci, Fac Environm Sci & Nat Resource Management, N-1432 As, NorwayAD  - Wageningen Univ & Res, Dept Environm Sci, Wageningen, NetherlandsAD  - Ctr Int Forestry Res CIFOR, Kota Bogor 16115, Jawa Barat, IndonesiaAD  - Rice Univ, Dept BioSci, Program Ecol & Evolutionary Biol, Houston, TX USAAD  - Moore Ctr Sci, Conservat Int, Arlington, VA USAAD  - Univ Ghent, Dept Conflict & Dev Studies, Sint Pietersnieuwstr 41, B-9000 Ghent, BelgiumAD  - Mbarara Univ Sci & Technol, Inst Trop Forest Conservat, POB 44, Kabale, UgandaAD  - Univ Autonoma San Luis Potosi, Fac Ciencias, San Luis Potosi, San Luis Potosi, MexicoAD  - Pontificia Univ Catolica Ecuador, Escuela Ciencias Biol, Quito, EcuadorAD  - Wildlife Conservat Soc, Congo Program, 151 Ave Gen de Gaulle, Brazzaville, Rep CongoAD  - Smithsonian Trop Res Inst, Panama City, PanamaAD  - Int Gorilla Conservat Programme, Kigali, RwandaAD  - Coll African Wildlife Management, Dept Wildlife Management, POB 3031, Mweka, Moshi, TanzaniaAD  - Univ Fed Para, Inst Ciencias Biol, Lab Biogeog Conservacao & Macroecol, Belem, Para, BrazilAD  - Leibniz Inst Zoo & Wildlife Res, Alfred Kowalke Str 17, D-10315 Berlin, GermanyAD  - Tech Univ Berlin, Dept Ecol, Str Des 17 Juni 135, D-10623 Berlin, GermanyAD  - Univ Florence, Dept Biol, Florence, ItalyAD  - MUSE Museo Sci, Trento, ItalyAD  - Wildlife Conservat Soc Ecuador, Mariana de Jesus E7-248 & Pradera, Quito, EcuadorAD  - Museu Paraense Emilio Goeldi, Coordenacao Ciencias Terra & Ecol, Programa Capacitacao Inst, Belem, Para, BrazilAD  - Inst Nacl de Pesquisas da Amazonia, Coordenacao Biodiversidade, Grp Pesquisa Mamiferos Amazon, Manaus, Amazonas, BrazilC3  - Norwegian University of Life SciencesC3  - Wageningen University & ResearchC3  - CGIARC3  - Center for International Forestry Research (CIFOR)C3  - Rice UniversityC3  - Conservation InternationalC3  - Ghent UniversityC3  - Mbarara University of Science & TechnologyC3  - Universidad Autonoma de San Luis PotosiC3  - Pontificia Universidad Catolica del EcuadorC3  - Smithsonian InstitutionC3  - Smithsonian Tropical Research InstituteC3  - Universidade Federal do ParaC3  - Leibniz Institut fur Zoo und WildtierforschungC3  - Technical University of BerlinC3  - University of FlorenceC3  - Museu Paraense Emilio GoeldiC3  - Institute Nacional de Pesquisas da AmazoniaFU  - Research Council of Norway [NFR301075]; National Science Foundation [DEB-2213568]
-FX  - We thank the funding by Research Council of Norway (project NFR301075 to D.S., and R.B.), and National Science Foundation grant (DEB-2213568 to L.B.). This work was made possible by the Tropical Ecology Assessment and Monitoring (TEAM) Network, a collaboration between Conservation International, the Smithsonian Tropical Research Institute, and the Wildlife Conservation Society. We acknowledge the effort of all TEAM site managers and collaborators who helped collecting data aswell asWildlife Insight for the data processing and availability and David Kenfack. We acknowledge the suggestions of Pierre Dupont for the analysis. Finally, we thank John Megahan for species illustrations in Fig. 1.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2041-1723
-J9  - NAT COMMUN
-JI  - Nat. Commun.
-DA  - NOV 19
-PY  - 2022
-VL  - 13
-IS  - 1
-C7  - 7102
-DO  - 10.1038/s41467-022-34825-1
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000886221900033
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  67
-ER  -
-
-TY  - JOUR
-AU  - Banreti, A
-AU  - Bhattacharya, S
-AU  - Wien, F
-AU  - Matsuo, K
-AU  - Refregiers, M
-AU  - Meinert, C
-AU  - Meierhenrich, U
-AU  - Hudry, B
-AU  - Thompson, D
-AU  - Noselli, S
-TI  - Biological effects of the loss of homochirality in a multicellular organism
-T2  - NATURE COMMUNICATIONS
-LA  - English
-KW  - L-ISOASPARTYL METHYLTRANSFERASE
-KW  - PROTEIN CARBOXYL METHYLTRANSFERASE
-KW  - D-ASPARTYL RESIDUES
-KW  - TRANSFER-RNA SYNTHETASE
-KW  - D-AMINO-ACID
-KW  - CAENORHABDITIS-ELEGANS
-KW  - POLY(ADP-RIBOSE) POLYMERASE
-KW  - D-TYR-TRNA(TYR) DEACYLASE
-KW  - D-TYROSYL
-KW  - REPAIR
-AB  - Active regulation of chirality, or handedness, is crucial for life. Here, the authors describe assays to characterise proteome chirality in vivo and show that errors degrade enzyme activity triggering tumour formation and reduced lifespan.
-   Homochirality is a fundamental feature of all known forms of life, maintaining biomolecules (amino-acids, proteins, sugars, nucleic acids) in one specific chiral form. While this condition is central to biology, the mechanisms by which the adverse accumulation of non-l-alpha-amino-acids in proteins lead to pathophysiological consequences remain poorly understood. To address how heterochirality build-up impacts organism's health, we use chiral-selective in vivo assays to detect protein-bound non-l-alpha-amino acids (focusing on aspartate) and assess their functional significance in Drosophila. We find that altering the in vivo chiral balance creates a 'heterochirality syndrome' with impaired caspase activity, increased tumour formation, and premature death. Our work shows that preservation of homochirality is a key component of protein function that is essential to maintain homeostasis across the cell, tissue and organ level.
-AD  - Univ Cote dAzur, Inst Biol Valrose, INSERM, CNRS, F-06108 Nice, FranceAD  - Univ Limerick, Bernal Inst, Dept Phys, Limerick V94 T9PX, IrelandAD  - Synchrotron SOLEIL, DISCO Beamline, F-91192 Gif Sur Yvette, FranceAD  - Hiroshima Univ, HiSOR Hiroshima Synchrotron Radiat Ctr, Hiroshima, JapanAD  - CNRS, Ctr Biophys Mol, UPR4301, F-45071 Orleans, FranceAD  - Univ Cote dAzur, Inst Chim Nice, UMR 7272, CNRS, F-06108 Nice, FranceC3  - Centre National de la Recherche Scientifique (CNRS)C3  - Institut National de la Sante et de la Recherche Medicale (Inserm)C3  - UDICE-French Research UniversitiesC3  - Universite Cote d'AzurC3  - University of LimerickC3  - SOLEIL SynchrotronC3  - Hiroshima UniversityC3  - Centre National de la Recherche Scientifique (CNRS)C3  - CNRS - Institute of Chemistry (INC)C3  - Centre National de la Recherche Scientifique (CNRS)C3  - CNRS - Institute of Chemistry (INC)C3  - UDICE-French Research UniversitiesC3  - Universite Cote d'AzurFU  - Universite Cote d'Azur (UCA), IDEX-Initiative d'excellence Grant; SOLEIL Synchrotron grant [20180582, 20181617]; Science Foundation Ireland (SFI) grant [12/RC/2275_P2]; ERC [ERC-2019-STG, 850934]; Agence Nationale pour la Recherche [ANR-17CE13-0024, ANR-20-CE13-0004]; Fondation pour la Recherche Medicale (FRM) [EQU201903007825]; Universite Cote d'Azur (UCA), Centre National pour la Recherche Scientifique (CNRS), Institut National pour la Recherche Medicale (Inserm); LABEX SIGNALIFE [ANR-11-LABX-0028-01]
-FX  - We thank Masayuki Miura, Joaquin de Navascues, Eli Arama and Kim McCall for reagents; the BloomingtonDrosophila Stock Centre and Vienna Drosophila RNAi Centre (VDRC) for providing Drosophila fly lines; the Irish Centre for High-End Computing (ICHEC) for supercomputing resources, the iBV PRISM platform; the French national synchrotron facility -Synchrotron SOLEIL; Pascal Meier, Tencho Tenev, Florence Besse, Maximilian Furthauer, Maria Duca for comments; Jean-Marc Gambaudo and Sylvie Mellet for their support, and members of theSNlaboratory for discussions. Funding: Universite Cote d'Azur (UCA), IDEX-Initiative d'excellence Grant (A.B.), SOLEIL Synchrotron grant, Project number 20181617 (A.B.), SOLEIL Synchrotron grant, Project number 20180582 (A.B.), Science Foundation Ireland (SFI) grant, award number 12/RC/2275_P2 (DT), ERC starting grant CellSex, Grant number: ERC-2019-STG#850934 (B.H.). Work in SN laboratory is supported by Agence Nationale pour la Recherche (ANR-17CE13-0024; ANR-20-CE13-0004), Fondation pour la Recherche Medicale (FRM; EQU201903007825), Universite Cote d'Azur (UCA), Centre National pour la Recherche Scientifique (CNRS), Institut National pour la Recherche Medicale (Inserm), LABEX SIGNALIFE (ANR-11-LABX-0028-01).
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2041-1723
-J9  - NAT COMMUN
-JI  - Nat. Commun.
-DA  - NOV 18
-PY  - 2022
-VL  - 13
-IS  - 1
-C7  - 7059
-DO  - 10.1038/s41467-022-34516-x
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000885878700016
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  104
-ER  -
-
-TY  - JOUR
-AU  - Minich, JJ
-AU  - Harer, A
-AU  - Vechinski, J
-AU  - Frable, BW
-AU  - Skelton, ZR
-AU  - Kunselman, E
-AU  - Shane, MA
-AU  - Perry, DS
-AU  - Gonzalez, A
-AU  - McDonald, D
-AU  - Knight, R
-AU  - Michael, TP
-AU  - Allen, EE
-TI  - Host biology, ecology and the environment influence microbial biomass and diversity in 101 marine fish species
-T2  - NATURE COMMUNICATIONS
-LA  - English
-KW  - IMMUNE-SYSTEM
-KW  - MORPHOLOGY
-KW  - COMMUNITY
-KW  - BACTERIA
-KW  - EVOLUTION
-KW  - REVEALS
-KW  - UNIFRAC
-KW  - PLANT
-AB  - Fish are the most diverse and widely distributed vertebrates, yet little is known about the microbial ecology of fishes nor the biological and environmental factors that influence fish microbiota. To identify factors that explain microbial diversity patterns in a geographical subset of marine fish, we analyzed the microbiota (gill tissue, skin mucus, midgut digesta and hindgut digesta) from 101 species of Southern California marine fishes, spanning 22 orders, 55 families and 83 genera, representing similar to 25% of local marine fish diversity. We compare alpha, beta and gamma diversity while establishing a method to estimate microbial biomass associated with these host surfaces. We show that body site is the strongest driver of microbial diversity while microbial biomass and diversity is lowest in the gill of larger, pelagic fishes. Patterns of phylosymbiosis are observed across the gill, skin and hindgut. In a quantitative synthesis of vertebrate hindguts (569 species), we also show that mammals have the highest gamma diversity when controlling for host species number while fishes have the highest percent of unique microbial taxa. The composite dataset will be useful to vertebrate microbiota researchers and fish biologists interested in microbial ecology, with applications in aquaculture and fisheries management.
-AD  - Salk Inst Biol Studies, Mol & Cellular Biol Lab, La Jolla, CA 92037 USAAD  - Univ Calif San Diego, Sch Biol Sci, Dept Ecol Behav & Evolut, La Jolla, CA 92093 USAAD  - Univ Calif San Diego, Ctr Marine Biotechnol & Biomed, Scripps Inst Oceanog, 9500 Gilman Dr, La Jolla, CA 92093 USAAD  - Univ Calif San Diego, Marine Vertebrate Collect, Scripps Inst Oceanog, 9500 Gilman Dr, La Jolla, CA 92093 USAAD  - Univ Calif San Diego, Scripps Inst Oceanog, Marine Biol Res Div, La Jolla, CA 92093 USAAD  - Hubbs SeaWorld Res Inst, 2595 Ingraham St, San Diego, CA 92109 USAAD  - Univ Calif San Diego, Dept Pediat, La Jolla, CA 92093 USAAD  - Univ Calif San Diego, Dept Bioengn, La Jolla, CA 92093 USAAD  - Univ San Diego, Ctr Microbiome Innovat, La Jolla, CA 92093 USAAD  - Univ Calif San Diego, Dept Comp Sci, La Jolla, CA 92093 USAAD  - Univ Calif San Diego, Dept Mol Biol, Sch Biol Sci, La Jolla, CA 92093 USAC3  - Salk InstituteC3  - University of California SystemC3  - University of California San DiegoC3  - University of California SystemC3  - University of California San DiegoC3  - Scripps Institution of OceanographyC3  - University of California SystemC3  - University of California San DiegoC3  - Scripps Institution of OceanographyC3  - University of California SystemC3  - University of California San DiegoC3  - Scripps Institution of OceanographyC3  - University of California SystemC3  - University of California San DiegoC3  - University of California SystemC3  - University of California San DiegoC3  - University of San DiegoC3  - University of California SystemC3  - University of California San DiegoC3  - University of California SystemC3  - University of California San DiegoFU  - Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) [458274593]; NSF [OCE-1313747, EF-2025217]; NIH NIEHS [P01-ES021921]
-FX  - We would like to thank the California Department of Fish and Game for permitting this project (2016 Scientific Collecting permit DFW 1379: DocID: D-0018712881-8). We thank Mike Shane and Brice Semmens along with their corresponding organizations for enabling us to collect opportunistic samples which would have otherwise been discarded such as the Hubbs-SeaWorld Research Institute and the California Cooperative Oceanic Fisheries Investigations. We thank the crew of the R/V Robert Gordon Sproul including Phil Zerofski. We especially thank all of the fishers who donated their fish for analysis. We thank Gail Ackermann for help on data submission and metadata. We thank Phil Hastings for insights on fish behavior and ecology. J.J.M. was funded by the NSF Postdoctoral Fellowship in Biology "Rules of Life" Award #2011004. A.H. was supported by funding from the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation)-project number 458274593. This work was supported by grants NSF (OCE-1313747 and EF-2025217) and NIH NIEHS (P01-ES021921) to E.E.A.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2041-1723
-J9  - NAT COMMUN
-JI  - Nat. Commun.
-DA  - NOV 17
-PY  - 2022
-VL  - 13
-IS  - 1
-C7  - 6978
-DO  - 10.1038/s41467-022-34557-2
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000885172300020
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  97
-ER  -
-
-TY  - JOUR
-AU  - Chomel, M
-AU  - Lavallee, JM
-AU  - Alvarez-Segura, N
-AU  - Baggs, EM
-AU  - Caruso, T
-AU  - de Castro, F
-AU  - Emmerson, MC
-AU  - Magilton, M
-AU  - Rhymes, JM
-AU  - de Vries, FT
-AU  - Johnson, D
-AU  - Bardgett, RD
-TI  - Intensive grassland management disrupts below-ground multi-trophic resource transfer in response to drought
-T2  - NATURE COMMUNICATIONS
-LA  - English
-KW  - ARBUSCULAR MYCORRHIZAL FUNGI
-KW  - SOIL MICROBIAL COMMUNITIES
-KW  - LAND-USE
-KW  - CARBON FLUXES
-KW  - FOOD WEBS
-KW  - UPLAND GRASSLAND
-KW  - PLANT CARBON
-KW  - ALTERS
-KW  - BIOMASS
-KW  - GROWTH
-AB  - Land use intensification could make soil food webs less able to recover from drought. Here, the authors find that intensive grassland management impairs recent photosynthate flux to roots and soil biota after drought, whereas extensive grassland management buffers the legacy of drought.
-   Modification of soil food webs by land management may alter the response of ecosystem processes to climate extremes, but empirical support is limited and the mechanisms involved remain unclear. Here we quantify how grassland management modifies the transfer of recent photosynthates and soil nitrogen through plants and soil food webs during a post-drought period in a controlled field experiment, using in situ C-13 and N-15 pulse-labelling in intensively and extensively managed fields. We show that intensive management decrease plant carbon (C) capture and its transfer through components of food webs and soil respiration compared to extensive management. We observe a legacy effect of drought on C transfer pathways mainly in intensively managed grasslands, by increasing plant C assimilation and C-13 released as soil CO2 efflux but decreasing its transfer to roots, bacteria and Collembola. Our work provides insight into the interactive effects of grassland management and drought on C transfer pathways, and highlights that capture and rapid transfer of photosynthates through multi-trophic networks are key for maintaining grassland resistance to drought.
-AD  - Univ Manchester, Dept Earth & Environm Sci, Manchester M13 9PT, Lancs, EnglandAD  - Colorado State Univ, Dept Soil & Crop Sci, Ft Collins, CO 80523 USAAD  - Environm Def Fund, 257 Pk Ave S, New York, NY USAAD  - Univ Aberdeen, Inst Biol & Environm Sci, Cruickshank Bldg, Aberdeen AB24 3UU, ScotlandAD  - Technol Ctr Catalonia, Dept Climate Change, EURECAT, Amposta, SpainAD  - Univ Edinburgh, Global Acad Agr & Food Syst, Royal Dick Sch Vet Studies, Edinburgh, Midlothian, ScotlandAD  - Queens Univ Belfast, Sch Biol Sci, Belfast, Antrim, North IrelandAD  - Queens Univ Belfast, Inst Global Food Secur, Belfast, Antrim, North IrelandAD  - Univ Coll Dublin, Sch Biol & Environm Sci, Dublin, IrelandAD  - AgriFood & Biosci Inst, Belfast, Antrim, North IrelandAD  - Univ Lincoln, Sch Life Sci, Lincoln, EnglandAD  - UK Ctr Ecol & Hydrol, Environm Ctr Wales, Deiniol Rd, Bangor LL57 2UW, Gwynedd, WalesAD  - Univ Amsterdam, Inst Biodivers & Ecosyst Dynam, Amsterdam, NetherlandsAD  - Res Inst Organ Agr, FiBL France, F-26400 Eurre, FranceC3  - University of ManchesterC3  - Colorado State UniversityC3  - Environmental Defense FundC3  - University of AberdeenC3  - University of EdinburghC3  - Queens University BelfastC3  - Queens University BelfastC3  - University College DublinC3  - Agri-Food & Biosciences InstituteC3  - University of LincolnC3  - UK Centre for Ecology & Hydrology (UKCEH)C3  - University of AmsterdamFU  - Natural Environment Research Council (NERC) [NE/M017028/1, NE/M01701X/2, NE/M017036/1]
-FX  - This study was supported by a consortium grant from the Natural Environment Research Council (NERC) Soil Security Programme led by R.D.B., with component grants NE/M017028/1 to R.D.B. and F.d.V., NE/M01701X/2 to D.J. and E.M.B. and NE/M017036/1 to T.C. and M.E. We are very grateful to the landowners and farmers for allowing us to perform our experiment and sample their fields. We also thank Lucy Frotin and Juliette Papelard for help in the laboratory and field, H. Stott for help with isotope analyses, L. Harrold for plant and N2O isotope analysis, B. Thornton and G. Martin for the PLFA and soil fauna isotope analysis, T. Balanant for the map figure, and C. Collins for his support as coordinator of the NERC Soil Security Programme.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2041-1723
-J9  - NAT COMMUN
-JI  - Nat. Commun.
-DA  - NOV 16
-PY  - 2022
-VL  - 13
-IS  - 1
-C7  - 6991
-DO  - 10.1038/s41467-022-34449-5
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000884843700002
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  82
-ER  -
-
-TY  - JOUR
-AU  - Pates, S
-AU  - Botting, JP
-AU  - Muir, LA
-AU  - Wolfe, JM
-TI  - Ordovician opabiniid-like animals and the role of the proboscis in euarthropod head evolution
-T2  - NATURE COMMUNICATIONS
-LA  - English
-KW  - BURGESS SHALE
-KW  - FOSSIL RECORD
-KW  - ANOMALOCARIS
-KW  - BRAIN
-KW  - APPENDAGES
-KW  - MORPHOLOGY
-KW  - REGALIS
-KW  - LABRUM
-AB  - A crucial step in the evolution of Euarthropoda (chelicerates, myriapods, pancrustaceans) was the transition between fossil groups that possessed frontal appendages innervated by the first segment of the brain (protocerebrum), and living groups with a protocerebral labrum and paired appendages innervated by the second brain segment (deutocerebrum). Appendage homologies between the groups are controversial. Here we describe two specimens of opabiniid-like euarthropods, each bearing an anterior proboscis (a fused protocerebral appendage), from the Middle Ordovician Castle Bank Biota, Wales, UK. Phylogenetic analyses support a paraphyletic grade of stem-group euarthropods with fused protocerebral appendages and a posterior-facing mouth, as in the iconic Cambrian panarthropod Opabinia. These results suggest that the labrum may have reduced from an already-fused proboscis, rather than a pair of arthropodized appendages. If some shared features between the Castle Bank specimens and radiodonts are considered convergent rather than homologous, phylogenetic analyses retrieve them as opabiniids, substantially extending the geographic and temporal range of Opabiniidae.
-   Here, the authors describe two opabiniid-like euarthropods with anterior proboscises from the Middle Ordovician Castle Bank Biota, Wales, UK. Phylogenetic analysis suggests that these specimens may be sister to radiodonts and deuteropods.
-AD  - Univ Cambridge, Dept Zool, Cambridge, EnglandAD  - Chinese Acad Sci, Nanjing Inst Geol & Palaeontol, Nanjing, Peoples R ChinaAD  - Amgueddfa Cymru Natl Museum Wales, Dept Nat Sci, Cardiff, WalesAD  - Harvard Univ, Museum Comparat Zool, Cambridge, MA 02138 USAAD  - Harvard Univ, Dept Organism & Evolutionary Biol, Cambridge, MA 02138 USAC3  - University of CambridgeC3  - Chinese Academy of SciencesC3  - Harvard UniversityC3  - Harvard UniversityFU  - University of Cambridge Herchel Smith Postdoctoral Fellowship; Chinese Academy of Sciences PIFI fellowships [2020VCB0014, 2018VCB0014]; National Science Foundation [1856679]
-FX  - The support of the landowners, Ben Douel and family, and contributors to a crowdfunding appeal (including a Holloway Bursary from the WarwickshireGeologicalConservation Society) that allowed the purchase of photomicroscope equipment used in this study, is gratefully acknowledged. Funding was provided by a University of Cambridge Herchel Smith Postdoctoral Fellowship (SP), Chinese Academy of Sciences PIFI fellowships (2020VCB0014 and 2018VCB0014, JPB and LAM respectively) and National Science Foundation DEB #1856679 (JMW). Harriet B. Drage offered advice on figure presentation, and Lucy M. E. McCobb provided curatorial assistance.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2041-1723
-J9  - NAT COMMUN
-JI  - Nat. Commun.
-DA  - NOV 15
-PY  - 2022
-VL  - 13
-IS  - 1
-C7  - 6969
-DO  - 10.1038/s41467-022-34204-w
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000884426700006
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  71
-ER  -
-
-TY  - JOUR
-AU  - Richardson, TO
-AU  - Stroeymeyt, N
-AU  - Crespi, A
-AU  - Keller, L
-TI  - Two simple movement mechanisms for spatial division of labour in social insects
-T2  - NATURE COMMUNICATIONS
-LA  - English
-KW  - TEMPORAL POLYETHISM
-KW  - AGE POLYETHISM
-KW  - ANT
-KW  - BEHAVIOR
-KW  - NETWORKS
-KW  - NAVIGATION
-KW  - INACTIVITY
-KW  - DYNAMICS
-KW  - COLONIES
-KW  - FIDELITY
-AB  - Ant and honeybee workers specialize on certain tasks and also on zones within the nest; but how do they avoid straying into the wrong zone? The authors conduct automated tracking experiments following thousands of individuals, revealing that workers use context-dependent rules to navigate inside the nest.
-   Many animal species divide space into a patchwork of home ranges, yet there is little consensus on the mechanisms individuals use to maintain fidelity to particular locations. Theory suggests that animal movement could be based upon simple behavioural rules that use local information such as olfactory deposits, or global strategies, such as long-range biases toward landmarks. However, empirical studies have rarely attempted to distinguish between these mechanisms. Here, we perform individual tracking experiments on four species of social insects, and find that colonies consist of different groups of workers that inhabit separate but partially-overlapping spatial zones. Our trajectory analysis and simulations suggest that worker movement is consistent with two local mechanisms: one in which workers increase movement diffusivity outside their primary zone, and another in which workers modulate turning behaviour when approaching zone boundaries. Parallels with other organisms suggest that local mechanisms might represent a universal method for spatial partitioning in animal populations.
-AD  - Univ Lausanne, Dept Ecol & Evolut, Lausanne, SwitzerlandAD  - Univ Bristol, Sch Biol Sci, Bristol, Avon, EnglandAD  - Ecole Polytech Fed Lausanne EPFL, Biorobot Lab BioRob, Inst Bioengn, Lausanne, SwitzerlandC3  - University of LausanneC3  - University of BristolC3  - Swiss Federal Institutes of Technology DomainC3  - Ecole Polytechnique Federale de LausanneFU  - EU Marie Curie Actions Fellowship [30114]; European Research Council (ERC Starting Grant 'DISEASE') [802628]; Swiss NSF; European Research Council (ERC) [249375, 741491]
-FX  - T.O.R. acknowledges funding by an EU Marie Curie Actions Fellowship, no. 30114. N.S. acknowledges funding by the European Research Council (ERC Starting Grant `DISEASE', no. 802628). L.K. acknowledges funding by the Swiss NSF and the European Research Council (ERC Advanced Grants `Social Life', no. 249375, and `resiliANT', no. 741491). The computations were performed at the Vital-IT (http://www.vital-it.ch) Center for high-performance computing and at the Advanced Computing Research Centre of the University of Bristol. The authors thank Enrico Gavagnin, Thomas Gorochowski, Graham Thompson, Yuko Ulrich, Erik Frank, Tomas Kay, Danielle Mersch for useful comments, and Guillaume Cailleau (www.data-partner.ch) for the illustrations.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2041-1723
-J9  - NAT COMMUN
-JI  - Nat. Commun.
-DA  - NOV 15
-PY  - 2022
-VL  - 13
-IS  - 1
-C7  - 6985
-DO  - 10.1038/s41467-022-34706-7
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000884426700027
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  68
-ER  -
-
-TY  - JOUR
-AU  - Hagihara, T
-AU  - Mano, H
-AU  - Miura, T
-AU  - Hasebe, M
-AU  - Toyota, M
-TI  - Calcium-mediated rapid movements defend against herbivorous insects in Mimosa pudica
-T2  - NATURE COMMUNICATIONS
-LA  - English
-KW  - EXCITABLE CELLS
-KW  - ACTION-POTENTIALS
-KW  - PLANT
-KW  - RESPONSES
-KW  - LANTHANUM
-KW  - VECTORS
-KW  - PETIOLE
-AB  - Animals possess specialized systems, e.g., neuromuscular systems, to sense the environment and then move their bodies quickly in response. Mimosa pudica, the sensitive plant, moves its leaves within seconds in response to external stimuli; e.g., touch or wounding. However, neither the plant-wide signaling network that triggers these rapid movements nor the physiological roles of the movements themselves have been determined. Here by simultaneous recording of cytosolic Ca2+ and electrical signals, we show that rapid changes in Ca2+ coupled with action and variation potentials trigger rapid movements in wounded M. pudica. Furthermore, pharmacological manipulation of cytosolic Ca2+ dynamics and CRISPR-Cas9 genome editing technology revealed that an immotile M. pudica is more vulnerable to attacks by herbivorous insects. Our findings provide evidence that rapid movements based on propagating Ca2+ and electrical signals protect this plant from insect attacks.
-   Mimosa pudica moves its leaves within seconds of being touched or wounded. Here the authors show that such movements are triggered by rapid changes in Ca2+ and action and variation potentials and provide evidence that rapid movements help protect the plant from insect attacks.
-AD  - Saitama Univ, Dept Biochem & Mol Biol, Saitama 3388570, JapanAD  - Natl Inst Basic Biol, Div Evolutionary Biol, Okazaki, Aichi 4448585, JapanAD  - Grad Univ Adv Studies SOKENDAI, Sch Life Sci, Okazaki, Aichi 4448585, JapanAD  - PRESTO, JST, Kawaguchi, Saitama 3320012, JapanAD  - Suntory Fdn Life Sci, Suntory Rising Stars Encouragement Program Life S, Kyoto 6190284, JapanAD  - Univ Wisconsin, Dept Bot, Madison, WI 53706 USAC3  - Saitama UniversityC3  - National Institutes of Natural Sciences (NINS) - JapanC3  - National Institute for Basic Biology (NIBB)C3  - Graduate University for Advanced Studies - JapanC3  - Japan Science & Technology Agency (JST)C3  - Suntory Holdings LtdC3  - University of Wisconsin SystemC3  - University of Wisconsin MadisonFU  - KAKENHI [21J23365, 16K07411, 19K06715, 17H06390, 18H05491]; JST PRESTO; JST A-STEP
-FX  - We thank Simon Gilroy for critical reading of the manuscript. This research was supported by grants from KAKENHI (21J23365 to T.H., 16K07411 and 19K06715 to H.M., 17H06390 to M.H., 21H04978 to H.M., M.T., and M.H. and 18H05491 to M.T.), JST PRESTO to H.M., and JST A-STEP to M.T.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2041-1723
-J9  - NAT COMMUN
-JI  - Nat. Commun.
-DA  - NOV 14
-PY  - 2022
-VL  - 13
-IS  - 1
-C7  - 6412
-DO  - 10.1038/s41467-022-34106-x
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000883836600022
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  37
-ER  -
-
-TY  - JOUR
-AU  - Katsuma, S
-AU  - Hirota, K
-AU  - Matsuda-Imai, N
-AU  - Fukui, T
-AU  - Muro, T
-AU  - Nishino, K
-AU  - Kosako, H
-AU  - Shoji, K
-AU  - Takanashi, H
-AU  - Fujii, T
-AU  - Arimura, SI
-AU  - Kiuchi, T
-TI  - A Wolbachia factor for male killing in lepidopteran insects
-T2  - NATURE COMMUNICATIONS
-LA  - English
-KW  - SEX
-KW  - REPEAT
-AB  - Bacterial symbionts, such as Wolbachia species, can manipulate the sexual development and reproduction of their insect hosts. Here, the authors identify a Wolbachia protein that interacts with a host masculinization factor and leads to male killing in lepidopteran insects.
-   Bacterial symbionts, such as Wolbachia species, can manipulate the sexual development and reproduction of their insect hosts. For example, Wolbachia infection induces male-specific death in the Asian corn borer Ostrinia furnacalis by targeting the host factor Masculinizer (Masc), an essential protein for masculinization and dosage compensation in lepidopteran insects. Here we identify a Wolbachia protein, designated Oscar, which interacts with Masc via its ankyrin repeats. Embryonic expression of Oscar inhibits Masc-induced masculinization and leads to male killing in two lepidopteran insects, O. furnacalis and the silkworm Bombyx mori. Our study identifies a mechanism by which Wolbachia induce male killing of host progeny.
-AD  - Univ Tokyo, Grad Sch Agr & Life Sci, Dept Agr & Environm Biol, Bunkyo Ku, 1-1-1 Yayoi, Tokyo 1138657, JapanAD  - Tokushima Univ, Fujii Mem Inst Med Sci, Inst Adv Med Sci, Div Cell Signaling, Tokushima 7708503, JapanAD  - Univ Tokyo, Inst Quantitat Biosci, Bunkyo Ku, 1-1-1 Yayoi, Tokyo 1130032, JapanAD  - Setsunan Univ, Fac Agr, 45-1 Nagaotoge Cho, Hirakata, Osaka 5730101, JapanC3  - University of TokyoC3  - Tokushima UniversityC3  - University of TokyoC3  - Setsunan UniversityFU  - JST SPRING [17H06431, 22H00366, 15K14893, JPMJSP2108]
-FX  - We thank S.G. Kamita for critical reading of the manuscript, M. Ote for providing the FISH protocol and critical reading of the manuscript, M. Kawano for LC-MS/MS analysis, N. Matsuda for critical comments and technical suggestions, N. Nakashima for insect rearing and sampling, M. Kawamoto, H. Hikida, and Y. Suzuki for their contribution of the initial stage of the project, the Technology Advancement Center, Graduate School of Agricultural and Life Sciences, The University of Tokyo for TEM analysis, the Institute for Sustainable Agro-ecosystem Services, The University of Tokyo, for facilitating the mulberry cultivation, the Biotron Facility at The University of Tokyo for insect rearing, and C. Yasunaga-Aoki and R. Sato for providing BmN-4 and Sf-9 cell lines, respectively. This work was supported by Grants-in-Aid for Scientific Research on Innovative Areas "Spectrum of the Sex: a continuity of phenotypes between female and male" (17H06431) to S.K. and T.K., Grant-in-Aid for Scientific Research (A) (22H00366) to S.K., Grant-in-Aid for Challenging Exploratory Research (15K14893) to S.K., JST SPRING (JPMJSP2108) to K.H.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2041-1723
-J9  - NAT COMMUN
-JI  - Nat. Commun.
-DA  - NOV 14
-PY  - 2022
-VL  - 13
-IS  - 1
-C7  - 6764
-DO  - 10.1038/s41467-022-34488-y
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000883836600005
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  36
-ER  -
-
-TY  - JOUR
-AU  - Kaucka, M
-AU  - Araus, AJ
-AU  - Tesarova, M
-AU  - Currie, JD
-AU  - Bostrom, J
-AU  - Kavkova, M
-AU  - Petersen, J
-AU  - Yao, ZY
-AU  - Bouchnita, A
-AU  - Hellander, A
-AU  - Zikmund, T
-AU  - Elewa, A
-AU  - Newton, PT
-AU  - Fei, JF
-AU  - Chagin, AS
-AU  - Fried, K
-AU  - Tanaka, EM
-AU  - Kaiser, J
-AU  - Simon, A
-AU  - Adameyko, I
-TI  - Altered developmental programs and oriented cell divisions lead to bulky bones during salamander limb regeneration
-T2  - NATURE COMMUNICATIONS
-LA  - English
-KW  - INDIAN HEDGEHOG
-KW  - ENDOCHONDRAL OSSIFICATION
-KW  - SKELETAL REGENERATION
-KW  - RESTING ZONE
-KW  - CARTILAGE
-KW  - DIFFERENTIATION
-KW  - CHOREOGRAPHY
-KW  - CHONDROCYTES
-KW  - HUSBANDRY
-KW  - PLATFORM
-AB  - There are major differences in duration and scale at which limb development and regeneration proceed, raising the question to what extent regeneration is a recapitulation of development. We address this by analyzing skeletal elements using a combination of micro-CT imaging, molecular profiling and clonal cell tracing. We find that, in contrast to development, regenerative skeletal growth is accomplished based entirely on cartilage expansion prior to ossification, not limiting the transversal cartilage expansion and resulting in bulkier skeletal parts. The oriented extension of salamander cartilage and bone appear similar to the development of basicranial synchondroses in mammals, as we found no evidence for cartilage stem cell niches or growth plate-like structures during neither development nor regeneration. Both regenerative and developmental ossification in salamanders start from the cortical bone and proceeds inwards, showing the diversity of schemes for the synchrony of cortical and endochondral ossification among vertebrates.
-   Normal limb development relies on synchronized formation of cartilage and bone. Here, the authors show that in salamander limb regeneration these processes are decoupled: ossification occurs after the final size of regenerating cartilage is reached, allowing fast regeneration and leading to bulky bones.
-AD  - Max Planck Inst Evolutionary Biol, D-24306 Plon, GermanyAD  - Karolinska Inst, Dept Cell & Mol Biol, Biomed, S-17165 Stockholm, SwedenAD  - Brno Univ Technol, Cent European Inst Technol, Brno 61200, Czech RepublicAD  - Wake Forest Univ, Dept Biol, Winston Salem, NC 27109 USAAD  - Med Univ Vienna, Ctr Brain Res, Dept Neuroimmunol, A-1090 Vienna, AustriaAD  - Univ Leipzig Med Ctr, Dept Orthodont, D-04103 Leipzig, GermanyAD  - Uppsala Univ, Dept Informat Technol, Uppsala, SwedenAD  - Univ Texas El Paso, Dept Math Sci, El Paso, TX 79902 USAAD  - Univ Barcelona, Fac Biol, Dept Genet Microbiol & Stat, Barcelona, SpainAD  - Karolinska Inst, Dept Womens & Childrens Hlth, Solna, SwedenAD  - Karolinska Univ Hosp, Astrid Lindgren Childrens Hosp, Solna, SwedenAD  - Res Inst Mol Pathol IMP, A-1030 Vienna, AustriaAD  - Guangdong Acad Med Sci, Guangdong Prov Peoples Hosp, Dept Pathol, Guangzhou 510080, Peoples R ChinaAD  - Karolinska Inst, Dept Physiol & Pharmacol, S-17165 Stockholm, SwedenAD  - Univ Gothenburg, Dept Internal Med & Clin Nutr, S-41346 Gothenburg, SwedenAD  - Karolinska Inst, Dept Neurosci, Biomed, S-17165 Stockholm, SwedenC3  - Max Planck SocietyC3  - Karolinska InstitutetC3  - Brno University of TechnologyC3  - Wake Forest UniversityC3  - Medical University of ViennaC3  - Leipzig UniversityC3  - Uppsala UniversityC3  - University of Texas SystemC3  - University of Texas El PasoC3  - University of BarcelonaC3  - Karolinska InstitutetC3  - Karolinska InstitutetC3  - Karolinska University HospitalC3  - Vienna Biocenter (VBC)C3  - Research Institute of Molecular Pathology (IMP)C3  - Guangdong Academy of Medical Sciences & Guangdong General HospitalC3  - Karolinska InstitutetC3  - University of GothenburgC3  - Karolinska InstitutetFU  - ERC [KILL-OR-DIFFERENTIATE 856529]; Knut and Alice Wallenberg Foundation; Swedish Research Council; Bertil Hallsten Foundation; Cancerfonden; Paradifference Foundation; Olle Engkvists Stiftelse; NIH Ruth Kirschstein postdoctoral fellowship [F32GM117806]; ERC AdG program; DFG [FZT111]; CEITEC 2020 [LQ1601]; Ministry of Education, Youth and Sports of the Czech Republic under the National Sustainability Programme II; MEYS CR [LM2018110]; National Key R&D Program of China [2019YFE0106700]; Natural Science Foundation of China [31970782]; Swedish research council [2019-01919, 2020-02298]; Karolinska Institute; Russian Foundation for Basic Research [19-29-04115]
-FX  - I.A. was supported by ERC Consolidator grant STEMMING-FROM-NERVE and ERC Synergy grant KILL-OR-DIFFERENTIATE 856529, Knut and Alice Wallenberg Foundation, Swedish Research Council, Bertil Hallsten Foundation, Cancerfonden, Paradifference Foundation. A.S. was supported by the Swedish Research Council, Cancerfonden, Olle Engkvists Stiftelse. M.K. was supported by the Max Planck Society. A.E. was supported by NIH Ruth Kirschstein postdoctoral fellowship F32GM117806. E.M.T. was supported by the ERC AdG program and DFG FZT111. M.T., T.Z. and J.K. acknowledge the project CEITEC 2020 (LQ1601) with financial support from the Ministry of Education, Youth and Sports of the Czech Republic under the National Sustainability Programme II and CzechNanoLab Research Infrastructure supported by MEYS CR (LM2018110). M.T. acknowledges the Brno City Municipality as a Brno Ph.D. Talent Scholarship Holder and Martina Roeselova Memorial Fellowship. J.F.F. was supported by the National Key R&D Program of China 2019YFE0106700, the Natural Science Foundation of China 31970782. P.T.N. was supported by the Swedish research council (#2019-01919) and Karolinska Institute. A.S.C was supported by The Swedish Research Council (#2020-02298) and The Russian Foundation for Basic Research (#19-29-04115). We thank Olga Kharchenko for the help with illustrations. Visuals in Fig.4 were created using BioRender.com.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2041-1723
-J9  - NAT COMMUN
-JI  - Nat. Commun.
-DA  - NOV 14
-PY  - 2022
-VL  - 13
-IS  - 1
-C7  - 6949
-DO  - 10.1038/s41467-022-34266-w
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000883836600034
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  62
-ER  -
-
-TY  - JOUR
-AU  - Ganti, K
-AU  - Bagga, A
-AU  - Carnaccini, S
-AU  - Ferreri, LM
-AU  - Geiger, G
-AU  - Caceres, CJ
-AU  - Seibert, B
-AU  - Li, YH
-AU  - Wang, LP
-AU  - Kwon, T
-AU  - Li, YH
-AU  - Morozov, I
-AU  - Ma, WN
-AU  - Richt, JA
-AU  - Perez, DR
-AU  - Koelle, K
-AU  - Lowen, AC
-TI  - Influenza A virus reassortment in mammals gives rise to genetically distinct within-host subpopulations
-T2  - NATURE COMMUNICATIONS
-LA  - English
-KW  - LOWER RESPIRATORY-TRACT
-KW  - SWINE
-KW  - TRANSMISSION
-KW  - SEGMENT
-KW  - ORIGIN
-KW  - EVOLUTION
-KW  - DYNAMICS
-KW  - FERRET
-AB  - Virus reassortment drives genetic diversity and evolution and is governed by intra-host dynamics that are less well understood. Here, the authors characterise the within-host dynamics of influenza A virus reassortment in swine, ferrets and guinea pigs, considering their spatial distribution.
-   Influenza A virus (IAV) genetic exchange through reassortment has the potential to accelerate viral evolution and has played a critical role in the generation of multiple pandemic strains. For reassortment to occur, distinct viruses must co-infect the same cell. The spatio-temporal dynamics of viral dissemination within an infected host therefore define opportunity for reassortment. Here, we used wild type and synonymously barcoded variant viruses of a pandemic H1N1 strain to examine the within-host viral dynamics that govern reassortment in guinea pigs, ferrets and swine. The first two species are well-established models of human influenza, while swine are a natural host and a frequent conduit for cross-species transmission and reassortment. Our results show reassortment to be pervasive in all three hosts but less frequent in swine than in ferrets and guinea pigs. In ferrets, tissue-specific differences in the opportunity for reassortment are also evident, with more reassortants detected in the nasal tract than the lower respiratory tract. While temporal trends in viral diversity are limited, spatial patterns are clear, with heterogeneity in the viral genotypes detected at distinct anatomical sites revealing extensive compartmentalization of reassortment and replication. Our data indicate that the dynamics of viral replication in mammals allow diversification through reassortment but that the spatial compartmentalization of variants likely shapes their evolution and onward transmission.
-AD  - Emory Univ Sch Med, Dept Microbiol & Immunol, Atlanta, GA USAAD  - Emory Coll Arts & Sci, Atlanta, GA USAAD  - Univ Georgia, Coll Vet Med, Dept Populat Hlth, Athens, GA USAAD  - Kansas State Univ, Coll Vet Med, Dept Diagnost Med & Pathobiol, Manhattan, KS USAAD  - Univ Missouri, Dept Vet Pathobiol, Columbia, MO USAAD  - Univ Missouri, Dept Mol Microbiol & Immunol, Columbia, MO USAAD  - SJ Jude Ctr Excellence Influenza Res & Response S, Memphis, TN USAAD  - Ctr Res Influenza Pathogenesis & Transmiss CRIPT, New York, NY USAAD  - Emory Univ, Dept Biol, Atlanta, GA USAAD  - Emory Ctr Excellence Influenza Res & Response Emo, Atlanta, GA USAC3  - Emory UniversityC3  - University System of GeorgiaC3  - University of GeorgiaC3  - Kansas State UniversityC3  - University of Missouri SystemC3  - University of Missouri ColumbiaC3  - University of Missouri SystemC3  - University of Missouri ColumbiaC3  - Emory UniversityFU  - NIH [R01 AI127799]; NIH/NIAID Centers of Excellence in Influenza Research and Response (CEIRR) [75N93021C00017, 75N93021C00014, 75N93021C00016]; AMP Core of the Center of Emerging and Zoonotic Infectious Diseases (CEZID) from NIGMS [P20GM130448]; Emory University Integrated Cellular Imaging Microscopy Core
-FX  - We thank Shamika Danzy for their technical assistance. We would like to thank the Emory Division of Animal Resources for their assistance with the guinea pig experiments. We thank Rusty Ransburgh, Baoliang Zheng, Dongchang He, Abaineh Endalew, Daniel Madden, Yuekun Lang for their assistance with the pig experiments. We thank David VanInsberghe for assistance with figure generation. This project was supported by the Emory University Integrated Cellular Imaging Microscopy Core. The research was funded by NIH R01 AI127799 (A.C.L.) and the NIH/NIAID Centers of Excellence in Influenza Research and Response (CEIRR), contract numbers 75N93021C00017 (A.C.L., K.K.), 75N93021C00014 (D.R.P.) and 75N93021C00016 (J.A.R., W.M.), and the AMP Core of the Center of Emerging and Zoonotic Infectious Diseases (CEZID) from NIGMS under award number P20GM130448 (J.A.R.).
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2041-1723
-J9  - NAT COMMUN
-JI  - Nat. Commun.
-DA  - NOV 11
-PY  - 2022
-VL  - 13
-IS  - 1
-C7  - 6846
-DO  - 10.1038/s41467-022-34611-z
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000882306500041
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  61
-ER  -
-
-TY  - JOUR
-AU  - Anderson, C
-AU  - Fernandez-Nieves, A
-TI  - Social interactions lead to motility-induced phase separation in fire ants
-T2  - NATURE COMMUNICATIONS
-LA  - English
-KW  - AGGREGATION
-KW  - DYNAMICS
-KW  - PATTERNS
-KW  - BEHAVIOR
-KW  - MODEL
-AB  - Some active matter systems as they evolve, can be characterized by spatially varying density, with some regions that are dense and immobile, and other regions with lower density that accommodate most mobile particles. The authors show that this phenomenon can also be observed as an effect of the social interactions between fire ants.
-   Collections of fire ants are a form of active matter, as the ants use their internal metabolism to self-propel. In the absence of aligning interactions, theory and simulations predict that active matter with spatially dependent motility can undergo motility-induced phase separation. However, so far in experiments, the motility effects that drive this process have come from either crowding or an external parameter. Though fire ants are social insects that communicate and cooperate in nontrivial ways, we show that the effect of their interactions can also be understood within the framework of motility-induced phase separation. In this context, the slowing down of ants when they approach each other results in an effective attraction that can lead to space-filling clusters and an eventual formation of dynamical heterogeneities. These results illustrate that motility-induced phase separation can provide a unifying framework to rationalize the behavior of a wide variety of active matter systems.
-AD  - Univ Barcelona, Dept Condensed Matter Phys, Barcelona 08028, SpainAD  - Georgia Inst Technol, Sch Phys, Atlanta, GA 30332 USAAD  - ICREA Inst Catalana Recerca & Estudis Avancats, Barcelona 08010, SpainAD  - Univ Barcelona, Inst Complex Syst UBICS, Barcelona 08028, SpainC3  - University of BarcelonaC3  - University System of GeorgiaC3  - Georgia Institute of TechnologyC3  - ICREAC3  - University of BarcelonaFU  - FLAMEL program [NSF DGE-1258425]; MCIN/AEI/FEDER, UE [PID2021-122369NB-100]
-FX  - We thank MCIN/AEI/10.13039/501100011033/FEDER, UE (Grant No. PID2021-122369NB-100) and the FLAMEL program (NSF DGE-1258425) for financial support.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2041-1723
-J9  - NAT COMMUN
-JI  - Nat. Commun.
-DA  - NOV 7
-PY  - 2022
-VL  - 13
-IS  - 1
-C7  - 6710
-DO  - 10.1038/s41467-022-34181-0
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000879857400015
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  46
-ER  -
-
-TY  - JOUR
-AU  - Kim, J
-AU  - Jo, Y
-AU  - Cho, D
-AU  - Ryu, D
-TI  - L-threonine promotes healthspan by expediting ferritin-dependent ferroptosis inhibition in C. elegans
-T2  - NATURE COMMUNICATIONS
-LA  - English
-KW  - CAENORHABDITIS-ELEGANS
-KW  - LIFE-SPAN
-KW  - DIETARY RESTRICTION
-KW  - LIPID-METABOLISM
-KW  - IRON
-KW  - HOMEOSTASIS
-KW  - EXPRESSION
-KW  - STRINGTIE
-KW  - DEATH
-KW  - FAT
-AB  - The pathways that impact longevity in the wake of dietary restriction (DR) remain still ill-defined. Most studies have focused on nutrient limitation and perturbations of energy metabolism. We showed that the L-threonine was elevated in Caenorhabditis elegans under DR, and that L-threonine supplementation increased its healthspan. Using metabolic and transcriptomic profiling in worms that were fed with RNAi to induce loss of key candidate mediators. L-threonine supplementation and loss-of-threonine dehydrogenaseincreased the healthspan by attenuating ferroptosis in a ferritin-dependent manner. Transcriptomic analysis showed that FTN-1 encoding ferritin was elevated, implying FTN-1 is an essential mediator of longevity promotion. Organismal ferritin levels were positively correlated with chronological aging and L-threonine supplementation protected against age-associated ferroptosis through the DAF-16 and HSF-1 pathways. Our investigation uncovered the role of a distinct and universal metabolite, L-threonine, in DR-mediated improvement in organismal healthspan, suggesting it could be an effective intervention for preventing senescence progression and age-induced ferroptosis.
-   How dietary restriction increases longevity is still not fully understood. Here, the authors demonstrate that L-threonine is an essential mediator of dietary restriction that prevents age-induced ferroptosis and that dietary supplementation promotes healthy ageing.
-AD  - Amorepacif R&D Ctr, Basic Res & Innovat Div, Yongin, South KoreaAD  - Sungkyunkwan Univ, Dept Mol Cell Biol, Sch Med, Suwon, South KoreaC3  - Sungkyunkwan University (SKKU)FU  - NIH Office of Research Infrastructure Programs; National Research Foundation of Korea (NRF) - Korean government (MSIT) [2020R1A2C2010964, 2021R1A5A8029876]
-FX  - C. elegans strains used in this research were provided by the Caenorhabditis Genetics Center (University of Minnesota, USA), which is funded by the NIH Office of Research Infrastructure Programs. D.R. was supported by grants from the National Research Foundation of Korea (NRF) funded by the Korean government (MSIT, 2020R1A2C2010964 and 2021R1A5A8029876).
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 2041-1723
-J9  - NAT COMMUN
-JI  - Nat. Commun.
-DA  - NOV 2
-PY  - 2022
-VL  - 13
-IS  - 1
-C7  - 6554
-DO  - 10.1038/s41467-022-34265-x
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000879356300009
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  64
-ER  -
-

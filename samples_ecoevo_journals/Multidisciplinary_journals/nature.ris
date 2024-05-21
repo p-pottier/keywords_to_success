@@ -1,1195 +1,0 @@
-TY  - JOUR
-AU  - Murat, F
-AU  - Mbengue, N
-AU  - Winge, SB
-AU  - Trefzer, T
-AU  - Leushkin, E
-AU  - Sepp, M
-AU  - Cardoso-Moreira, M
-AU  - Schmidt, J
-AU  - Schneider, C
-AU  - Moessinger, K
-AU  - Bruening, T
-AU  - Lamanna, F
-AU  - Belles, MR
-AU  - Conrad, C
-AU  - Kondova, I
-AU  - Bontrop, R
-AU  - Behr, R
-AU  - Khaitovich, P
-AU  - Paeaebo, S
-AU  - Marques-Bonet, T
-AU  - Gruetzner, F
-AU  - Almstrup, K
-AU  - Schierup, MH
-AU  - Kaessmann, H
-TI  - The molecular evolution of spermatogenesis across mammals
-T2  - NATURE
-LA  - English
-KW  - SEX-CHROMOSOMES
-KW  - CELL-ADHESION
-KW  - X-CHROMOSOME
-KW  - GENES
-KW  - DYNAMICS
-KW  - FEATURES
-KW  - ORIGINS
-KW  - MACAQUE
-AB  - The testis produces gametes through spermatogenesis and evolves rapidly at both the morphological and molecular level in mammals(1-6), probably owing to the evolutionary pressure on males to be reproductively successful(7). However, the molecular evolution of individual spermatogenic cell types across mammals remains largely uncharacterized. Here we report evolutionary analyses of single-nucleus transcriptome data for testes from 11 species that cover the three main mammalian lineages (eutherians, marsupials and monotremes) and birds (the evolutionary outgroup), and include seven primates. We find that the rapid evolution of the testis was driven by accelerated fixation rates of gene expression changes, amino acid substitutions and new genes in late spermatogenic stages, probably facilitated by reduced pleiotropic constraints, haploid selection and transcriptionally permissive chromatin. We identify temporal expression changes of individual genes across species and conserved expression programs controlling ancestral spermatogenic processes. Genes predominantly expressed in spermatogonia (germ cells fuelling spermatogenesis) and Sertoli (somatic support) cells accumulated on X chromosomes during evolution, presumably owing to male-beneficial selective forces. Further work identified transcriptomal differences between X- and Y-bearing spermatids and uncovered that meiotic sex-chromosome inactivation (MSCI) also occurs in monotremes and hence is common to mammalian sex-chromosome systems. Thus, the mechanism of meiotic silencing of unsynapsed chromatin, which underlies MSCI, is an ancestral mammalian feature. Our study illuminates the molecular evolution of spermatogenesis and associated selective forces, and provides a resource for investigating the biology of the testis across mammals.
-AD  - Heidelberg Univ, Ctr Mol Biol ZMBH, DKFZ ZMBH Alliance, Heidelberg, GermanyAD  - INRAE, LPGP, Rennes, FranceAD  - Copenhagen Univ Hosp, Rigshosp, Dept Growth & Reprod, Copenhagen, DenmarkAD  - Copenhagen Univ Hosp, Rigshosp, Int Ctr Res & Res Training Endocrine Disrupt Male, Copenhagen, DenmarkAD  - Aarhus Univ, Bioinformat Res Ctr, Aarhus, DenmarkAD  - Univ Med Berlin, Berlin Inst Hlth Charite, Berlin, GermanyAD  - Free Univ Berlin, Berlin, GermanyAD  - Humboldt Univ, Berlin, GermanyAD  - Francis Crick Inst, Evolutionary Dev Biol Lab, London, EnglandAD  - Biomed Primate Res Ctr BPRC, Robinson Res Inst, Sch Biol Sci, Rijswijk, SA, NetherlandsAD  - German Primate Ctr DPZ, Platform Degenerat Dis, Dept Cellular & Mol Med, Gottingen, GermanyAD  - German Ctr Cardiovasc Res DZHK, Partner Site Gottingen, Gottingen, GermanyAD  - Skolkovo Inst Sci & Technol, Ctr Neurobiol & Brain Restorat, Moscow, RussiaAD  - Max Planck Inst Evolutionary Anthropol, Leipzig, GermanyAD  - Inst Evolutionary Biol UPF CSIC, Barcelona, SpainAD  - Catalan Inst Res & Adv Studies ICREA, Barcelona, SpainAD  - Barcelona Inst Sci & Technol BIST, Ctr Genom Regulat CRG, CNAG CRG, Barcelona, SpainAD  - Autonomous Univ Barcelona, Miquel Crusafont Catalan Inst Paleontol, Barcelona, SpainC3  - Helmholtz AssociationC3  - German Cancer Research Center (DKFZ)C3  - Ruprecht Karls University HeidelbergC3  - INRAEC3  - RigshospitaletC3  - University of CopenhagenC3  - RigshospitaletC3  - University of CopenhagenC3  - Aarhus UniversityC3  - Berlin Institute of HealthC3  - Free University of BerlinC3  - Humboldt University of BerlinC3  - Charite Universitatsmedizin BerlinC3  - Free University of BerlinC3  - Humboldt University of BerlinC3  - Francis Crick InstituteC3  - Deutsches Primatenzentrum (DPZ)C3  - German Centre for Cardiovascular ResearchC3  - Skolkovo Institute of Science & TechnologyC3  - Max Planck SocietyC3  - Consejo Superior de Investigaciones Cientificas (CSIC)C3  - CSIC-UPF - Institut de Biologia Evolutiva (IBE)C3  - Pompeu Fabra UniversityC3  - ICREAC3  - Barcelona Institute of Science & TechnologyC3  - Pompeu Fabra UniversityC3  - Centre de Regulacio Genomica (CRG)C3  - Autonomous University of BarcelonaFU  - state of Baden-Wuerttemberg through bwHPC; German Research Foundation [INST 35/1134-1 FUGG]; ERC [615253, 242597]; German Research Council (DFG) [SFB 873, KA 1710/4-1]; CellNetworks Postdoc Fellowship; EMBO Long-Term Fellowship [ALTF 591-2017]; Australian Research Council [FT160100267]; Novo Nordisk Foundation [NNF21OC0069913, NNF18OC0031004]
-FX  - We thank all members of the Kaessmann group, S. Tirier for discussions and N. Trost for the administration of the Kaessmann laboratory server. Computations were performed on the Kaessmann laboratory server and the bwForCluster from the Heidelberg University Computational Center (supported by the state of Baden-Wuerttemberg through bwHPC and the German Research Foundation grant no. INST 35/1134-1 FUGG). This research was supported by grants from the ERC (grant no. 615253, OntoTransEvol) and German Research Council (DFG, grant nos. SFB 873 and KA 1710/4-1) to H.K., by the CellNetworks Postdoc Fellowship and EMBO Long-Term Fellowship to F.M. (grant no. ALTF 591-2017), and by the Australian Research Council (grant no. FT160100267) to F.G. and by the Novo Nordisk Foundation (grant no. NNF21OC0069913) to K.A. and (grant no. NNF18OC0031004) to M.H.S. The use of all other mammalian samples for the type of work described in this study was approved by ERC ethics screening panels (ERC starting grant no. 242597, SexGenTransEvolution and ERC consolidator grant no. 615253, OntoTransEvol).
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 0028-0836
-SN  - 1476-4687
-J9  - NATURE
-JI  - Nature
-DO  - 10.1038/s41586-022-05547-7
-C6  - DEC 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000901995500006
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  50
-ER  -
-
-TY  - JOUR
-AU  - Malhi, Y
-AU  - Riutta, T
-AU  - Wearn, OR
-AU  - Deere, NJ
-AU  - Mitchell, SL
-AU  - Bernard, H
-AU  - Majalap, N
-AU  - Nilus, R
-AU  - Davies, ZG
-AU  - Ewers, RM
-AU  - Struebig, MJ
-TI  - Logged tropical forests have amplified and diverse ecosystem energetics
-T2  - NATURE
-LA  - English
-KW  - LAND-USE
-KW  - LOGGING INTENSITY
-KW  - COMMUNITIES
-KW  - BORNEO
-KW  - CONSERVATION
-KW  - BIODIVERSITY
-KW  - PERSISTENCE
-KW  - THRESHOLDS
-KW  - MANAGEMENT
-KW  - ABUNDANCE
-AB  - Old-growth tropical forests are widely recognized as being immensely important for their biodiversity and high biomass(1). Conversely, logged tropical forests are usually characterized as degraded ecosystems(2). However, whether logging results in a degradation in ecosystem functions is less clear: shifts in the strength and resilience of key ecosystem processes in large suites of species have rarely been assessed in an ecologically integrated and quantitative framework. Here we adopt an ecosystem energetics lens to gain new insight into the impacts of tropical forest disturbance on a key integrative aspect of ecological function: food pathways and community structure of birds and mammals. We focus on a gradient spanning old-growth and logged forests and oil palm plantations in Borneo. In logged forest there is a 2.5-fold increase in total resource consumption by both birds and mammals compared to that in old-growth forests, probably driven by greater resource accessibility and vegetation palatability. Most principal energetic pathways maintain high species diversity and redundancy, implying maintained resilience. Conversion of logged forest into oil palm plantation results in the collapse of most energetic pathways. Far from being degraded ecosystems, even heavily logged forests can be vibrant and diverse ecosystems with enhanced levels of ecological function.
-AD  - Univ Oxford, Environm Change Inst, Sch Geog & Environm, Oxford, EnglandAD  - Univ Exeter, Dept Geog, Exeter, EnglandAD  - Fauna & Flora Int Vietnam Programme, Hanoi, VietnamAD  - Univ Kent, Durrell Inst Conservat & Ecol DICE, Sch Anthropol & Conservat, Canterbury, EnglandAD  - Univ Malaysia Sabah, Inst Trop Biol & Conservat, Kota Kinabalu, MalaysiaAD  - Sabah Forestry Dept, Forest Res Ctr, Sandakan, MalaysiaAD  - Imperial Coll London, Georgina Mace Ctr, Dept Life Sci, Ascot, EnglandC3  - University of OxfordC3  - University of ExeterC3  - University of KentC3  - Universiti Malaysia SabahC3  - Pusat Penyelidikan HutanC3  - Imperial College LondonFU  - UK Natural Environment Research Council's Human-Modified Tropical Forests Program [NE/K016407/1, NE/K016377/1]; Sime Darby Foundation; Bat Conservation International; Maliau Basin Management Committee; Danum Valley Management Committee; Royal Society Southeast Asia Rainforest Research Partnership; Sabah Foundation; Benta Wawasan; Sabah Chief Minister's Departments; Sabah Forestry Department; Sabah Biodiversity Council; Economic Planning Unit; Jackson Foundation; European Research Council Advanced Investigator Grant, GEM-TRAIT [321131]; Leverhulme Trust; NOMIS Foundation
-FX  - This study was part of the SAFE Project, financially supported by the UK Natural Environment Research Council's Human-Modified Tropical Forests Program (NE/K016407/1 and NE/K016377/1), the Sime Darby Foundation and Bat Conservation International. This paper is also a product of the Global Ecosystems Monitoring network (gem.tropicalforests. ox.ac.uk) that provided training and methods. Maliau Basin and Danum Valley Management Committees, Royal Society Southeast Asia Rainforest Research Partnership, Sabah Foundation, Benta Wawasan, the State Secretary, Sabah Chief Minister's Departments, Sabah Forestry Department, Sabah Biodiversity Council and the Economic Planning Unit are acknowledged for their support and access to the sites in Sabah. We thank K. Sam and R. Dunn for helpful advice on parts of the analysis. Y.M. was supported by the Jackson Foundation and a European Research Council Advanced Investigator Grant, GEM-TRAIT (321131). M.J.S. was supported by a Leverhulme Trust Research Leadership Award, and R.M.E. was supported by the NOMIS Foundation.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 0028-0836
-SN  - 1476-4687
-J9  - NATURE
-JI  - Nature
-DO  - 10.1038/s41586-022-05523-1
-C6  - DEC 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000898087700004
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  58
-ER  -
-
-TY  - JOUR
-AU  - Tikhonenkov, DV
-AU  - Mikhailov, KV
-AU  - Gawryluk, RMR
-AU  - Belyaev, AO
-AU  - Mathur, V
-AU  - Karpov, SA
-AU  - Zagumyonnyi, DG
-AU  - Borodina, AS
-AU  - Prokina, KI
-AU  - Mylnikov, AP
-AU  - Aleoshin, VV
-AU  - Keeling, PJ
-TI  - Microbial predators form a new supergroup of eukaryotes
-T2  - NATURE
-LA  - English
-KW  - MITOCHONDRIAL GENOMES
-KW  - SEQUENCE
-KW  - PROTEIN
-KW  - RECONSTRUCTION
-KW  - ANNOTATION
-KW  - SOFTWARE
-KW  - GENE
-KW  - GENERATION
-KW  - DIVERSITY
-KW  - ALGORITHM
-AB  - Molecular phylogenetics of microbial eukaryotes has reshaped the tree of life by establishing broad taxonomic divisions, termed supergroups, that supersede the traditional kingdoms of animals, fungi and plants, and encompass a much greater breadth of eukaryotic diversity(1). The vast majority of newly discovered species fall into a small number of known supergroups. Recently, however, a handful of species with no clear relationship to other supergroups have been described(2-4), raising questions about the nature and degree of undiscovered diversity, and exposing the limitations of strictly molecular-based exploration. Here we report ten previously undescribed strains of microbial predators isolated through culture that collectively form a diverse new supergroup of eukaryotes, termed Provora. The Provora supergroup is genetically, morphologically and behaviourally distinct from other eukaryotes, and comprises two divergent clades of predators-Nebulidia and Nibbleridia-that are superficially similar to each other, but differ fundamentally in ultrastructure, behaviour and gene content. These predators are globally distributed in marine and freshwater environments, but are numerically rare and have consequently been overlooked by molecular-diversity surveys. In the age of high-throughput analyses, investigation of eukaryotic diversity through culture remains indispensable for the discovery of rare but ecologically and evolutionarily important eukaryotes.
-AD  - Russian Acad Sci, Papanin Inst Biol Inland Waters, Borok, RussiaAD  - Univ Tyumen, AquaBioSafe Lab, Tyumen, RussiaAD  - Lomonosov Moscow State Univ, Belozersky Inst Physicochem Biol, Moscow, RussiaAD  - Russian Acad Sci, Kharkevich Inst Informat Transmiss Problems, Moscow, RussiaAD  - Univ Victoria, Dept Biol, Victoria, BC, CanadaAD  - Penza State Univ, Dept Zool & Ecol, Penza, RussiaAD  - Univ British Columbia, Dept Bot, Vancouver, BC, CanadaAD  - Univ Oxford, Dept Zool, Oxford, EnglandAD  - Russian Acad Sci, Zool Inst, St Petersburg, RussiaAD  - St Petersburg State Univ, Fac Biol, Dept Invertebrate Zool, St Petersburg, RussiaAD  - Voronezh State Univ, Dept Zool & Parasitol, Voronezh, RussiaAD  - Univ Paris Saclay, Ecol Systemat Evolut, CNRS, AgroParisTech, Gif Sur Yvette, FranceC3  - Papanin Institute for Biology of Inland WatersC3  - Russian Academy of SciencesC3  - Tyumen State UniversityC3  - Lomonosov Moscow State UniversityC3  - Kharkevich Institute for Information Transmission Problems of the RASC3  - Russian Academy of SciencesC3  - University of VictoriaC3  - Penza State UniversityC3  - University of British ColumbiaC3  - University of OxfordC3  - Russian Academy of SciencesC3  - Zoological Institute of the Russian Academy of SciencesC3  - Saint Petersburg State UniversityC3  - Voronezh State UniversityC3  - AgroParisTechC3  - Centre National de la Recherche Scientifique (CNRS)C3  - UDICE-French Research UniversitiesC3  - Universite Paris SaclayFU  - Russian Foundation for Basic Research [20-34-70049]; Tyumen Oblast Government, West-Siberian Interregional Science and Education Center's project [89-DON (2)]; Ministry of Science and Higher Education of the Russian Federation within the Federal Scientific and Technical Program for the Development of Genetic Technologies [075-15-2021-1345, RF-193021X0012]; Gordon and Betty Moore Foundation; GenomeBC; Natural Sciences and Engineering Research Council of Canada [2019-03994]
-FX  - We thank M. Vermeij and the staff at the CARMABI research station for field sampling support; and N. Kosolapova for help with sample collection in the Arctic. This research was supported by grants from the Russian Foundation for Basic Research (to D.V.T., grant no. 20-34-70049), the Tyumen Oblast Government, as part of the West-Siberian Interregional Science and Education Center's project no. 89-DON (2) (to D.V.T.), the Ministry of Science and Higher Education of the Russian Federation within the framework of the Federal Scientific and Technical Program for the Development of Genetic Technologies for 2019-2027 (agreement no. 075-15-2021-1345, unique identifier RF-193021X0012), the Gordon and Betty Moore Foundation (to P.J.K., https://doi.org/10.37807/GBMF9201), GenomeBC and the Natural Sciences and Engineering Research Council of Canada (to P.J.K., grant no. 2019-03994), and was carried out within the framework of state assignment no. 121051100102-2.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 0028-0836
-SN  - 1476-4687
-J9  - NATURE
-JI  - Nature
-DO  - 10.1038/s41586-022-05511-5
-C6  - DEC 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000895213100004
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  59
-ER  -
-
-TY  - JOUR
-AU  - Eby, P
-AU  - Peel, AJ
-AU  - Hoegh, A
-AU  - Madden, W
-AU  - Giles, JR
-AU  - Hudson, PJ
-AU  - Plowright, RK
-TI  - Pathogen spillover driven by rapid changes in bat ecology
-T2  - NATURE
-LA  - English
-KW  - FLYING-FOXES
-AB  - During recent decades, pathogens that originated in bats have become an increasing public health concern. A major challenge is to identify how those pathogens spill over into human populations to generate a pandemic threat(1). Many correlational studies associate spillover with changes in land use or other anthropogenic stressors(2,3), although the mechanisms underlying the observed correlations have not been identified(4). One limitation is the lack of spatially and temporally explicit data on multiple spillovers, and on the connections among spillovers, reservoir host ecology and behaviour and viral dynamics. We present 25 years of data on land-use change, bat behaviour and spillover of Hendra virus from Pteropodid bats to horses in subtropical Australia. These data show that bats are responding to environmental change by persistently adopting behaviours that were previously transient responses to nutritional stress. Interactions between land-use change and climate now lead to persistent bat residency in agricultural areas, where periodic food shortages drive clusters of spillovers. Pulses of winter flowering of trees in remnant forests appeared to prevent spillover. We developed integrative Bayesian network models based on these phenomena that accurately predicted the presence or absence of clusters of spillovers in each of the 25 years. Our long-term study identifies the mechanistic connections between habitat loss, climate and increased spillover risk. It provides a framework for examining causes of bat virus spillover and for developing ecological countermeasures to prevent pandemics.
-AD  - Univ New South Wales, Sch Biol Earth & Environm Sci, Sydney, NSW, AustraliaAD  - Griffith Univ, Ctr Planetary Hlth & Food Secur, Nathan, Qld, AustraliaAD  - Ctr Large Landscape Conservat, Bozeman, MT USAAD  - Montana State Univ, Dept Math Sci, Bozeman, MT USAAD  - Montana State Univ, Dept Microbiol & Cell Biol, Bozeman, MT 59717 USAAD  - Johns Hopkins Bloomberg Sch Publ Hlth, Dept Epidemiol, Baltimore, MD USAAD  - Penn State Univ, Ctr Infect Dis Dynam, State Coll, PA USAAD  - Cornell Univ, Dept Publ & Ecosyst Hlth, Ithaca, NY 14850 USAAD  - Emory Univ, Rollins Sch Publ Hlth, Dept Biostat & Bioinformat, Atlanta, GA USAAD  - Univ Washington, Inst Hlth Metr & Evaluat, Seattle, WA USAC3  - University of New South Wales SydneyC3  - Griffith UniversityC3  - Montana State University SystemC3  - Montana State University BozemanC3  - Montana State University SystemC3  - Montana State University BozemanC3  - Johns Hopkins UniversityC3  - Johns Hopkins Bloomberg School of Public HealthC3  - Pennsylvania Commonwealth System of Higher Education (PCSHE)C3  - Pennsylvania State UniversityC3  - Cornell UniversityC3  - Emory UniversityC3  - Rollins School Public HealthC3  - Institute for Health Metrics & EvaluationC3  - University of WashingtonC3  - University of Washington SeattleFU  - National Science Foundation [DEB-1716698]; US Defense Advanced Research Projects Agency [DARPA PREEMPT D18AC00031]; US National Institute of Food and Agriculture [1015891]; Australian Research Council DECRA fellowship [DE190100710]
-FX  - We thank B. Han, H. McCallum, M. Ruiz-Aravena, T. Lunn, L. McGuire, E. Fleishman, G. Tabor, D. Kerlin, B. Hunt, M. Higgs and T. Creech for comments on the manuscript or statistical methods. We thank R. Egloff for help with the figures. We thank P. Freeman, P. Kemsley, L. Ruytenberg, J. Wood, L. Collins, S. Stanford, P. Space, B. White, T. Whitehead, B. Winner, D. Sommerville, P. Reid, H. Field, N. Kung and C. Smith for helpful conversations and data. The Griffith University Human Research Ethics Committee (GUHREC) approved the research (GU Ref No. 2022/765) and informed consent was obtained from all human research participants. This research was developed with funding from the National Science Foundation (DEB-1716698), US Defense Advanced Research Projects Agency (DARPA PREEMPT D18AC00031) and US National Institute of Food and Agriculture (1015891). A.J.P. was supported by an Australian Research Council DECRA fellowship (DE190100710). The content of the information does not necessarily reflect the position or the policy of the US government, and no official endorsement should be inferred. We acknowledge the Biripi, Bundjalung, Butchulla, Dainggatti, Danggan Balun, Githabul, Gumbainggir, Kabi Kabi, Turrbal, Wakka Wakka, Widjabul Wia-bal, Yaegl, Yugambeh and Yuggera Ugarapul people, who are the Traditional Custodians of the land upon which this work was conducted.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 0028-0836
-SN  - 1476-4687
-J9  - NATURE
-JI  - Nature
-DO  - 10.1038/s41586-022-05506-2
-C6  - NOV 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000901942700001
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  37
-ER  -
-
-TY  - JOUR
-AU  - Eskelinen, A
-AU  - Harpole, WS
-AU  - Jessen, MT
-AU  - Virtanen, R
-AU  - Hautier, Y
-TI  - Light competition drives herbivore and nutrient effects on plant diversity
-T2  - NATURE
-LA  - English
-KW  - COMMUNITY RESPONSES
-KW  - NITROGEN DEPOSITION
-KW  - SPECIES RICHNESS
-KW  - GRASSLAND
-KW  - TRAITS
-KW  - ENRICHMENT
-KW  - DATABASE
-KW  - IMPACTS
-AB  - Enrichment of nutrients and loss of herbivores are assumed to cause a loss of plant diversity in grassland ecosystems because they increase plant cover, which leads to a decrease of light in the understory(1-3). Empirical tests of the role of competition for light in natural systems are based on indirect evidence, and have been a topic of debate for the last 40 years. Here we show that experimentally restoring light to understory plants in a natural grassland mitigates the loss of plant diversity that is caused by either nutrient enrichment or the absence of mammalian herbivores. The initial effect of light addition on restoring diversity under fertilization was transitory and outweighed by the greater effect of herbivory on light levels, indicating that herbivory is a major factor that controls diversity, partly through light. Our results provide direct experimental evidence, in a natural system, that competition for light is a key mechanism that contributes to the loss of biodiversity after cessation of mammalian herbivory. Our findings also show that the effects of herbivores can outpace the effects of fertilization on competition for light. Management practices that target maintaining grazing by native or domestic herbivores could therefore have applications in protecting biodiversity in grassland ecosystems, because they alleviate competition for light in the understory.
-AD  - UFZ Helmholtz Ctr Environm Res, Dept Physiol Divers, Leipzig, GermanyAD  - German Ctr Integrat Biodivers Res iDiv, Leipzig, GermanyAD  - Univ Oulu, Dept Ecol & Genet, Oulu, FinlandAD  - Martin Luther Univ Halle Wittenberg, Inst Biol, Halle, GermanyAD  - UFZ Helmholtz Ctr Environm Res, Dept Community Ecol, Halle, GermanyAD  - Univ Utrecht, Dept Biol, Ecot & Biodivers Grp, Utrecht, NetherlandsC3  - Helmholtz AssociationC3  - Helmholtz Center for Environmental Research (UFZ)C3  - University of OuluC3  - Martin Luther University Halle WittenbergC3  - Helmholtz AssociationC3  - Helmholtz Center for Environmental Research (UFZ)C3  - Utrecht UniversityFU  - Helmholtz Centre for Environmental Research-UFZ; Federal Ministry of Education and Research; State Ministry of Science and Economy of Saxony-Anhalt; State Ministry for Higher Education, Research and the Arts Saxony; Academy of Finland [297191]; iDiv Flexpool program [34600565-11]
-FX  - We acknowledge the Helmholtz Centre for Environmental Research-UFZ, the Federal Ministry of Education and Research, the State Ministry of Science and Economy of Saxony-Anhalt and the State Ministry for Higher Education, Research and the Arts Saxony for funding the GCEF project. We thank K. Kirsch for help in maintaining the grazing treatment and taking care of the lamps at eDiValo; I. Merbach for help during the project; the staff at the Bad Lauchstadt Experimental Research Station and M. Schadler for their work in maintaining the GCEF plots and infrastructure; H. Auge, F. Buscot, S. Klotz, T. Reitz and M. Schadler for their role in setting up the GCEF; P. Portius and the UFZ workshop staff for planning and manufacturing the lamp mounts; R. Feldman for help in establishing the project; M. Krieger, E. Ramirez, J. Young, U. Rachor and A. Leyendecker for field and laboratory assistance; S. Dunker for help with choosing the lamps; H. Auge for discussions, Valoya for support in planning the lighting; G. Rada (iDiv, Media and Communications) for support with the graphics in Fig. 1 and J. S. Lefcheck for statistical advice. A.E. was supported by the Academy of Finland project no. 297191. M.-T.J.was supported by the iDiv Flexpool program grant no. 34600565-11.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 0028-0836
-SN  - 1476-4687
-J9  - NATURE
-JI  - Nature
-DA  - NOV 10
-PY  - 2022
-VL  - 611
-IS  - 7935
-SP  - 301
-EP  - +
-DO  - 10.1038/s41586-022-05383-9
-C6  - NOV 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000878151700002
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  2
-Cited Reference Count:  52
-ER  -
-
-TY  - JOUR
-AU  - Van Dyke, MN
-AU  - Levine, JM
-AU  - Kraft, NJB
-TI  - Small rainfall changes drive substantial changes in plant coexistence
-T2  - NATURE
-LA  - English
-KW  - FUNCTIONAL TRAITS
-KW  - COMPETITION
-KW  - PHENOLOGY
-KW  - MAINTENANCE
-KW  - MECHANISMS
-KW  - RESPONSES
-KW  - DIVERSITY
-KW  - INVASION
-KW  - NICHE
-AB  - Although precipitation patterns have long been known to shape plant distributions(1), the effect of changing climate on the interactions of species and therefore community composition is far less understood(2,3). Here, we explored how changes in precipitation alter competitive dynamics via direct effects on individual species, as well as by the changing strength of competitive interactions between species, using an annual grassland community in California. We grew plants under ambient and reduced precipitation in the field to parameterize a competition model(4) with which we quantified the stabilizing niche and fitness differences that determine species coexistence in each rainfall regime. We show that reduced precipitation had little direct effect on species grown alone, but it qualitatively shifted predicted competitive outcomes for 10 of 15 species pairs. In addition, species pairs that were functionally more similar were less likely to experience altered outcomes, indicating that functionally diverse communities may be most threatened by changing interactions. Our results highlight how important it is to account for changes to species interactions when predicting species and community response to global change.
-AD  - Univ Calif Los Angeles, Dept Ecol & Evolutionary Biol, Los Angeles, CA 90095 USAAD  - Princeton Univ, Dept Ecol & Evolutionary Biol, Princeton, NJ 08544 USAC3  - University of California SystemC3  - University of California Los AngelesC3  - Princeton UniversityFU  - La Kretz Center at Sedgwick Reserve; UCLA Vavra fellowship; National Science Foundation grants [DEB 164461, 2022810, 2022213]
-FX  - We acknowledge the Chumash peoples as the traditional land caretakers of the area where we planted our experiment, and the Gabrielino/Tongva peoples as the traditional land caretakers of Tovaangar (the Los Angeles basin and So. Channel Islands), where UCLA is located; G. Kandlikar, K. Hayashi and M. Vaz for helpful suggestions and stimulating discussions; A. Kleinhesselink and C. Johnson for help with analyses; H. Lindsay, M. Clarke, A. Dhaliwal, G. Kandlikar, K. Hayashi, A. Kleinhesselink, K. McCurdy, A. Hardy, L. Johnsen, M. Browne, J. Cooch, M. Cowen, S. Montague and F. Van Dyke for laboratory and field assistance. The work was funded by the La Kretz Center at Sedgwick Reserve, a UCLA Vavra fellowship and National Science Foundation grants DEB 164461 and 2022810 and 2022213.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 0028-0836
-SN  - 1476-4687
-J9  - NATURE
-JI  - Nature
-DA  - NOV 17
-PY  - 2022
-VL  - 611
-IS  - 7936
-SP  - 507
-EP  - +
-DO  - 10.1038/s41586-022-05391-9
-C6  - NOV 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000878151700010
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  40
-ER  -
-
-TY  - JOUR
-AU  - Navalon, G
-AU  - Bjarnason, A
-AU  - Griffiths, E
-AU  - Benson, RBJ
-TI  - Environmental signal in the evolutionary diversification of bird skeletons
-T2  - NATURE
-LA  - English
-KW  - ADAPTIVE RADIATION
-KW  - R PACKAGE
-KW  - DISPARITY
-KW  - PHYLOGENY
-KW  - DIVERSITY
-KW  - MODULES
-KW  - MODELS
-AB  - Characterizing how variation in the tempo and mode of evolution has structured the phenotypic diversity of extant species is a central goal of macroevolution(1-3). However, studies are typically limited to a handful of traits(4-6), providing incomplete information. We analyse morphological diversification in living birds, an ecologically diverse group(7), documenting structural scales from 'pan-skeletal' proportions down to the localized three-dimensional shape changes of individual bones. We find substantial variation in evolutionary modes among avian subgroups and among skeletal parts, indicating widespread mosaicism and possible differences in the structure of the macroevolutionary landscape across Earth's main environments. Water-linked groups, especially Aequorlitornithes (waterbirds), have repeatedly explored a large portion of their total morphospace, emphasizing variation in body proportions and in the shape of bones close to the body core, which are functionally related to the mechanics of locomotion(8). By contrast, landbirds (Inopinaves) evolved distinct, group-specific body forms early in the aftermath of the K-Pg and subsequently emphasized local shape variation, especially in the head and distal limb bones, which interact more directly with the environment. Passerines, which comprise more than half of all bird species, show a conservative evolutionary dynamic that resulted in low disparity across all skeletal parts. Evidence for early establishment of the morphospace of living birds is clear for some skeletal parts, including beaks and the combined skeletal morphology. However, we find little evidence for early partitioning of that morphospace, contrary to more specific predictions of 'niche-filling' models(1,9). Nevertheless, early divergence among broad environmental types may have caused an early divergence of evolutionary modes, suggesting an important role for environmental divergence in structuring the radiation of crown-group birds.
-AD  - Univ Cambridge, Dept Earth Sci, Cambridge, EnglandAD  - Univ Oxford, Dept Earth Sci, Oxford, EnglandAD  - Univ Autonoma Madrid, Dept Biot, Unidad Pateontol, Madrid, SpainC3  - University of CambridgeC3  - University of OxfordC3  - Autonomous University of MadridFU  - European Union [677774]; UKRI Future Leaders Fellowship [MR/S032177/1]
-FX  - For access to specimens, we thank J. White and J. Cooper (NHMUK), J. Hinshaw (UMMZ), M. Lowe and M. Brooke (UMZC), M. Carnall and E. Westwig (OUMNH), K. Zyskowski (YPM), and B. Marks and J. Bates (FMNH). For access to CT scanning facilities, we thank K. Smithson (Cambridge Biotomography Centre); T. Davies, B. Moon and L. Martin-Silverstone (University of Bristol); V. Fernandez (Natural History Museum); A. Neander and Z.-X. Luo (University of Chicago PaleoCT) and M. Friedman (University of Michigan). We thank E. Griffiths, S. Wright, S. Poindexter, A. Wolniewicz and S. Evers for segmenting digital bone models from the CT scan data. We are grateful to A. Martin-Serra, J. L. Cantalapiedra, F. Blanco, M. Fabbri, I. Menendez, S.M. Nebreda, J. Clavel, E.M. Steell, J. Marugan-Lobon and C. Navalon for enlightening discussion on contents, narrative and analytical approaches. We thank L. Balsa Pascual and . Sanisidro for discussion on design choices. This work was supported by the European Union's Horizon 2020 research and innovation programme 2014-2018 under grant agreement no. 677774 (European Research Council Starting grant no. TEMPO). Grant no. 677774 applies to the work of G.N., A.B. and R.B.J.B. G.N. acknowledges support from UKRI Future Leaders Fellowship no. MR/S032177/1.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 0028-0836
-SN  - 1476-4687
-J9  - NATURE
-JI  - Nature
-DA  - NOV 10
-PY  - 2022
-VL  - 611
-IS  - 7935
-SP  - 306
-EP  - +
-DO  - 10.1038/s41586-022-05372-y
-C6  - OCT 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000875061600004
-N1  - Times Cited in Web of Science Core Collection:  0
-Total Times Cited:  0
-Cited Reference Count:  64
-ER  -
-
-TY  - JOUR
-AU  - Jorgensen, LB
-AU  - Orsted, M
-AU  - Malte, H
-AU  - Wang, T
-AU  - Overgaard, J
-TI  - Extreme escalation of heat failure rates in ectotherms with global warming
-T2  - NATURE
-LA  - English
-KW  - THERMAL PERFORMANCE CURVES
-KW  - CLIMATE-CHANGE
-KW  - METABOLIC THEORY
-KW  - TEMPERATURE
-KW  - VULNERABILITY
-KW  - PHYSIOLOGY
-KW  - RESPONSES
-KW  - IMPACTS
-KW  - MARINE
-KW  - ADAPTATION
-AB  - Temperature affects the rate of all biochemical processes in ectotherms(1,2) and is therefore critical for determining their current and future distribution under global climate change(3-5). Here we show that the rate of biological processes maintaining growth, homeostasis and ageing in the permissive temperature range increases by 7% per degree Celsius (median activation energy E-a = 0.48 eV from 1,351 rates across 314 species). By contrast, the processes underlying heat failure rate within the stressful temperature range are extremely temperature sensitive, such that heat failure increases by more than 100% per degree Celsius across a broad range of taxa (median E-a = 6.13 eV from 123 rates across 112 species). The extreme thermal sensitivity of heat failure rates implies that the projected increase in the frequency and intensity of heatwaves can exacerbate heat mortality for many ectothermic species with severe and disproportionate consequences. Combining the extreme thermal sensitivities with projected increases in maximum temperatures globally(6), we predict that moderate warming scenarios can increase heat failure rates by 774% (terrestrial) and 180% (aquatic) by 2100. This finding suggests that we are likely to underestimate the potential impact of even a modest global warming scenario.
-AD  - Aarhus Univ, Dept Biol, Sect Zoophysiol, Aarhus, DenmarkC3  - Aarhus UniversityFU  - Danish Council for Independent Research-Natural Sciences; Danish Council for Independent Research-Technology and Production Sciences
-FX  - We thank our colleagues at the Section for Zoophysiology, Aarhus University for the many discussions on temperature biology of animals. This work was funded by The Danish Council for Independent Research-Natural Sciences (to J.O.) and The Danish Council for Independent Research-Technology and Production Sciences (to M.O.).
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 0028-0836
-SN  - 1476-4687
-J9  - NATURE
-JI  - Nature
-DA  - NOV 3
-PY  - 2022
-VL  - 611
-IS  - 7934
-SP  - 93
-EP  - +
-DO  - 10.1038/s41586-022-05334-4
-C6  - OCT 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000874441600002
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  2
-Cited Reference Count:  66
-ER  -
-
-TY  - JOUR
-AU  - Jandt, U
-AU  - Bruelheide, H
-AU  - Jansen, F
-AU  - Bonn, A
-AU  - Grescho, V
-AU  - Klenke, RA
-AU  - Sabatini, FM
-AU  - Bernhardt-Romermann, M
-AU  - Bluml, V
-AU  - Dengler, J
-AU  - Diekmann, M
-AU  - Doerfler, I
-AU  - Doring, U
-AU  - Dullinger, S
-AU  - Haider, S
-AU  - Heinken, T
-AU  - Horchler, P
-AU  - Kuhn, G
-AU  - Lindner, M
-AU  - Metze, K
-AU  - Muller, N
-AU  - Naaf, T
-AU  - Peppler-Lisbach, C
-AU  - Poschlod, P
-AU  - Roscher, C
-AU  - Rosenthal, G
-AU  - Rumpf, SB
-AU  - Schmidt, W
-AU  - Schrautzer, J
-AU  - Schwabe, A
-AU  - Schwartze, P
-AU  - Sperle, T
-AU  - Stanik, N
-AU  - Storm, C
-AU  - Voigt, W
-AU  - Wegener, U
-AU  - Wesche, K
-AU  - Wittig, B
-AU  - Wulf, M
-TI  - More losses than gains during one century of plant biodiversity change in Germany
-T2  - NATURE
-LA  - English
-KW  - VEGETATION CHANGE
-KW  - DATABASES
-KW  - WINNERS
-KW  - TRENDS
-KW  - LOSERS
-KW  - HOMOGENIZATION
-KW  - CONSERVATION
-KW  - EXTINCTION
-KW  - DYNAMICS
-KW  - FORESTS
-AB  - Long-term analyses of biodiversity data highlight a 'biodiversity conservation paradox': biological communities show substantial species turnover over the past century(1,2), but changes in species richness are marginal(1,3-5). Most studies, however, have focused only on the incidence of species, and have not considered changes in local abundance. Here we asked whether analysing changes in the cover of plant species could reveal previously unrecognized patterns of biodiversity change and provide insights into the underlying mechanisms. We compiled and analysed a dataset of 7,738 permanent and semi-permanent vegetation plots from Germany that were surveyed between 2 and 54 times from 1927 to 2020, in total comprising1,794 species of vascular plants. We found that decrements in cover, averaged across all species and plots, occurred more often than increments; that the number of species that decreased in cover was higher than the number of species that increased; and that decrements were more equally distributed among losers than were gains among winners. Null model simulations confirmed that these trends do not emerge by chance, but are the consequence of species-specific negative effects of environmental changes. In the long run, these trends might result in substantial losses of species at both local and regional scales. Summarizing the changes by decade shows that the inequality in the mean change in species cover of losers and winners diverged as early as the 1960s. We conclude that changes in species cover in communities represent an important but understudied dimension of biodiversity change that should more routinely be considered in time-series analyses.
-AD  - Martin Luther Univ Halle Wittenberg, Inst Biol, Dept Geobot & Bot Garden, Halle, GermanyAD  - German Ctr Integrat Biodivers Res iDiv, Leipzig, GermanyAD  - Rostock Univ, Fac Agr & Environm Sci, Rostock, GermanyAD  - Helmhotz Ctr Environm Res UFZ, Dept Ecosyst Serv, Leipzig, GermanyAD  - Friedrich Schiller Univ Jena, Inst Biodivers, Jena, GermanyAD  - Alma Mater Studiorum Univ Bologna, Dept Biol Geol & Environm Sci BiGeA, BIOME Lab, Bologna, ItalyAD  - Friedrich Schiller Univ Jena, Inst Ecol & Evolut, Jena, GermanyAD  - BMS Umweltplanung, Osnabruck, GermanyAD  - Zurich Univ Appl Sci ZHAW, Inst Nat Resource Sci IUNR, Vegetat Ecol Grp, Wadenswil, SwitzerlandAD  - Bayreuth Ctr Ecol & Environm Res BayCEER, Plant Ecol, Bayreuth, GermanyAD  - Univ Bremen, Inst Ecol, Vegetat Ecol & Conservat Biol, Bremen, GermanyAD  - Carl von Ossietzky Univ Oldenburg, Inst Biol & Environm Sci, Vegetat Sci & Nat Conservat Grp, Oldenburg, GermanyAD  - Univ Vienna, Dept Bot & Biodivers Res, Vienna, AustriaAD  - Univ Potsdam, Inst Biochem & Biol, Genera & Bot, Potsdam, GermanyAD  - Fed Inst Hydrol, Dept Vegetat Studies & Landscape Management, Koblenz, GermanyAD  - Bayer Landesanstalt Landwirtschaft, AG Vegetat Okol & Monitoring, Inst Agrarokol & Biol Landbau, Freising Weihenstephan, GermanyAD  - Martin Luther Univ Halle Wittenberg, Inst Biol, Halle, GermanyAD  - Minist Wissensch Energie Klimaschutz & Umwelt Lan, Magdeburg, GermanyAD  - Fachhsch Erfurt, Dept Landscape Management & Restorat Ecol, Erfurt, GermanyAD  - Leibniz Ctr Agr Landscape Res ZALF, Muncheberg, GermanyAD  - Carl von Ossietzky Univ Oldenburg, Inst Biol & Environm Sci, Landscape Ecol Grp, Oldenburg, GermanyAD  - Univ Regensburg, Fac Biol & Preclin Med, Inst Plant Sci, Ecol & Conservat Biol, Regensburg, GermanyAD  - UFZ Helmholtz Ctr Environm Res, Dept Physiol Divers, Leipzig, GermanyAD  - Univ Kassel, Dept Landscape & Vegetat Ecol, Kassel, GermanyAD  - Univ Lausanne, Dept Ecol & Evolut, Lausanne, SwitzerlandAD  - Univ Basel, Dept Environm Sci, Basel, SwitzerlandAD  - Georg August Univ Gottingen, Dept Silviculture & Forest Ecol Temperate Zones, Gottingen, GermanyAD  - Univ Kiel, Inst Ecosyst Res, Kiel, GermanyAD  - Tech Univ Darmstadt, Fac Biol, Darmstadt, GermanyAD  - Biol Stn Kreis Steinfurt eV, Tecklenburg, GermanyAD  - Tech Univ Darmstadt, Fachbereich Biol, Fachgebiet Chem Pflanzenokol, Darmstadt, GermanyAD  - Univ Jena, Inst Ecol & Evolut, Jena, GermanyAD  - Senckenberg Museum Nat Hist Gorlitz, Bot Dept, Gorlitz, GermanyAD  - Tech Univ Dresden, Int Inst Zittau, Zittau, GermanyAD  - Betriebsstelle Luneburg, Lower Saxony Water Management Coastal Protect & N, Standort Verden, Verden, GermanyAD  - Univ Potsdam, Inst Biochem & Biol, Potsdam, GermanyC3  - Martin Luther University Halle WittenbergC3  - University of RostockC3  - Helmholtz AssociationC3  - Helmholtz Center for Environmental Research (UFZ)C3  - Friedrich Schiller University of JenaC3  - University of BolognaC3  - Friedrich Schiller University of JenaC3  - Zurich University of Applied SciencesC3  - University of BayreuthC3  - University of BremenC3  - Carl von Ossietzky Universitat OldenburgC3  - University of ViennaC3  - University of PotsdamC3  - Martin Luther University Halle WittenbergC3  - Leibniz Zentrum fur Agrarlandschaftsforschung (ZALF)C3  - Carl von Ossietzky Universitat OldenburgC3  - University of RegensburgC3  - Helmholtz AssociationC3  - Helmholtz Center for Environmental Research (UFZ)C3  - Universitat KasselC3  - University of LausanneC3  - University of BaselC3  - University of GottingenC3  - University of KielC3  - Technical University of DarmstadtC3  - Technical University of DarmstadtC3  - Friedrich Schiller University of JenaC3  - Senckenberg Gesellschaft fur Naturforschung (SGN)C3  - Technische Universitat DresdenC3  - University of PotsdamFU  - German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig - German Research Foundation [DFG-FZT 118, 202548816]
-FX  - We are grateful to the surveyors who recorded vegetation in the field and provided these data. We acknowledge the data contributors who made their data available to us or helped in recording these data: T. Dittmann, A. Erfmeier, B. Gerken, K. Gunther, S. Heinz, W. Hakes, H. Heklau, A. Henrichfreise, E. Hullbusch, A. Huwer, A. Immoor, S. L. Kuhn, B. Krause, S. Leonhardt, J. Reinecke, U. Scheidel, I. Vollmer and E. Wagner. We thank D. Bowler for her analysis of spatial representativeness; V. Hahn and S. Bernhard for their advice on Figs. 2 and 3; and T. Muer, the Regensburgische Botanische Gesellschaft and the Haupt Verlag for the permit to use the photographs from Floraweb.de for Fig. 4. We appreciate the support for the strategic project sMon by the German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, funded by the German Research Foundation (DFG-FZT 118, 202548816).
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 0028-0836
-SN  - 1476-4687
-J9  - NATURE
-JI  - Nature
-DA  - NOV 17
-PY  - 2022
-VL  - 611
-IS  - 7936
-SP  - 512
-EP  - +
-DO  - 10.1038/s41586-022-05320-w
-C6  - OCT 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000870207100005
-N1  - Times Cited in Web of Science Core Collection:  3
-Total Times Cited:  3
-Cited Reference Count:  75
-ER  -
-
-TY  - JOUR
-AU  - Sackville, MA
-AU  - Cameron, CB
-AU  - Gillis, JA
-AU  - Brauner, CJ
-TI  - Ion regulation at gills precedes gas exchange and the origin of vertebrates
-T2  - NATURE
-LA  - English
-KW  - RAINBOW-TROUT
-KW  - NEURAL CREST
-KW  - ATLANTIC SALMON
-KW  - RESPIRATORY DEVELOPMENT
-KW  - NA+/K+-ATPASE
-KW  - YOLK-SAC
-KW  - LARVAL
-KW  - FISH
-KW  - ACCLIMATION
-KW  - ONTOGENY
-AB  - Gas exchange and ion regulation at gills have key roles in the evolution ofvertebrates(1-4). Gills are hypothesized to have first acquired these important homeostatic functions from the skin in stem vertebrates, facilitating the evolution of larger, more-active modes oflife(2,3,5). However, this hypothesis lacks functional support in relevant taxa. Here we characterize the function ofgills and skin in a vertebrate (lamprey ammocoete; Entosphen us tridentatus), a cephalochordate (amphioxus; Branch iostomafloridae) and a hemichordate (acorn worm; Saccoglossus kowaleuskii) with the presumed burrowing, filter-feeding traits ofvertebrate ancestors(6-9). We provide functional support for a vertebrate origin ofgas exchange at the gills with increasing body size and activity, as direct measurements in vivo reveal that gills are the dominant site ofgas exchange only in ammocoetes, and only with increasing body size or challenges to oxygen supply and demand. Conversely, gills of all threetaxa are implicated in ion regulation. Ammocoetegills are responsible for all ion flux at all body sizes, whereas molecular markers for ion regulation are higher in the gillsthan in the skin of amphioxus and acorn worms. This suggeststhat ion regulation at gills has an earlier origin than gas exchange that is unrelated to vertebrate size and activity-perhaps at the very inception of pharyngeal pores in stem deuterostomes.
-AD  - Univ British Columbia, Dept Zool, Vancouver, BC, CanadaAD  - Univ Montreal, Dept Sci Biol, Montreal, PQ, CanadaAD  - Univ Cambridge, Dept Zool, Cambridge, EnglandC3  - University of British ColumbiaC3  - Universite de MontrealC3  - University of CambridgeFU  - Natural Sciences and Engineering Council of Canada [2018-04172, 1283784]; Royal Society University Research Fellowship [UF130182, URF\R\191007]; Royal Society Research Fellows Enhancement Award [RGF/EA/180087]; NSERC CGS-D scholarship
-FX  - We thank P. J. Rombough for discussion that helped inspire this work. This study was funded in part by Natural Sciences and Engineering Council of Canada Discovery Grants to C.J.B. (2018-04172) and C.B.C. (1283784), and a Royal Society University Research Fellowship (UF130182, URF\R\191007) and Royal Society Research Fellows Enhancement Award (RGF/EA/180087) to J.A.G. M.A.S. was supported by an NSERC CGS-D scholarship.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 0028-0836
-SN  - 1476-4687
-J9  - NATURE
-JI  - Nature
-DA  - OCT 27
-PY  - 2022
-VL  - 610
-IS  - 7933
-SP  - 699
-EP  - +
-DO  - 10.1038/s41586-022-05331-7
-C6  - OCT 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000870207100004
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  66
-ER  -
-
-TY  - JOUR
-AU  - Zou, T
-AU  - Zhang, X
-AU  - Davidson, EA
-TI  - Global trends of cropland phosphorus use and sustainability challenges
-T2  - NATURE
-LA  - English
-KW  - KUZNETS CURVE
-KW  - AGRICULTURAL SUSTAINABILITY
-KW  - SOIL-PHOSPHORUS
-KW  - FERTILIZER USE
-KW  - NITROGEN
-KW  - FOOD
-KW  - IMBALANCES
-KW  - CARBON
-AB  - To meet the growing food demand while addressing the multiple challenges of exacerbating phosphorus (P) pollution and depleting P rock reserves(1-15), P use efficiency (PUE, the ratio of productive P output to P input in a defined system) in crop production needs to be improved. Although many efforts have been devoted to improving nutrient management practices on farms, few studies have examined the historical trajectories of PUE and their socioeconomic and agronomic drivers on a national scale(1,2,6,7,11,16,17). Here we present a database of the P budget (the input and output of the crop production system) and PUE by country and by crop type for 1961-2019, and examine the substantial contribution of several drivers for PUE, such as economic development stages and crop portfolios. To address the P management challenges, we found that global PUE in crop production must increase to 68-81%, and recent trends indicate some meaningful progress towards this goal. However, P management challenges and opportunities in croplands vary widely among countries.
-   The historical and spatial patterns of the phosphorus budget and phosphorus use efficiency by country and crop type are reported, and used to determine phosphorus pollution and scarcity challenges.
-AD  - Univ Maryland, Appalachian Lab, Ctr Environm Sci, Frostburg, MD 21532 USAC3  - University System of MarylandC3  - University of Maryland Center for Environmental ScienceFU  - OCP Research LLC; National Science Foundation [CNS-1739823, CBET-2047165, CBET-2025826]; Belmont Forum
-FX  - We thank the OCP Research LLC for providing financial support and suggestions; F. Knorre for providing the code for the cointegration test, the non-cointegration test and the extended fully modified ordinary least squares estimator adapted for the cointegrating polynomial regression; D. Liang and V. Lyubchich for providing suggestions on statistical analyses; A. J. Elmore and K. Jackson for providing suggestions on map copyright; and K. Jackson for generating the main-text maps in ArcGIS. X.Z. is supported by the National Science Foundation (CNS-1739823, CBET-2047165, and CBET-2025826) and the Belmont Forum.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 0028-0836
-SN  - 1476-4687
-J9  - NATURE
-JI  - Nature
-DA  - NOV 3
-PY  - 2022
-VL  - 611
-IS  - 7934
-SP  - 81
-EP  - +
-DO  - 10.1038/s41586-022-05220-z
-C6  - OCT 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000866362700002
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  2
-Cited Reference Count:  62
-ER  -
-
-TY  - JOUR
-AU  - Guerra, CA
-AU  - Berdugo, M
-AU  - Eldridge, DJ
-AU  - Eisenhauer, N
-AU  - Singh, BK
-AU  - Cui, H
-AU  - Abades, S
-AU  - Alfaro, FD
-AU  - Bamigboye, AR
-AU  - Bastida, F
-AU  - Blanco-Pastor, JL
-AU  - de los Rios, A
-AU  - Duran, J
-AU  - Grebenc, T
-AU  - Illan, JG
-AU  - Liu, YR
-AU  - Makhalanyane, TP
-AU  - Mamet, S
-AU  - Molina-Montenegro, MA
-AU  - Moreno, JL
-AU  - Mukherjee, A
-AU  - Nahberger, TU
-AU  - Penaloza-Bojaca, GF
-AU  - Plaza, C
-AU  - Pico, S
-AU  - Verma, JP
-AU  - Rey, A
-AU  - Rodriguez, A
-AU  - Tedersoo, L
-AU  - Teixido, AL
-AU  - Torres-Diaz, C
-AU  - Trivedi, P
-AU  - Wang, J
-AU  - Wang, L
-AU  - Wang, J
-AU  - Zaady, E
-AU  - Zhou, X
-AU  - Zhou, XQ
-AU  - Delgado-Baquerizo, M
-TI  - Global hotspots for soil nature conservation
-T2  - NATURE
-LA  - English
-KW  - LAND-USE
-KW  - ECOSYSTEM SERVICES
-KW  - CLIMATE-CHANGE
-KW  - BIODIVERSITY
-KW  - COMMUNITY
-KW  - DIVERSITY
-KW  - MODEL
-AB  - Soils are the foundation of all terrestrial ecosystems(1). However, unlike for plants and animals, a global assessment of hotspots for soil nature conservation is still lacking(2). This hampers our ability to establish nature conservation priorities for the multiple dimensions that support the soil system: from soil biodiversity to ecosystem services. Here, to identify global hotspots for soil nature conservation, we performed a global field survey that includes observations of biodiversity (archaea, bacteria, fungi, protists and invertebrates) and functions (critical for six ecosystem services) in 615 composite samples of topsoil from a standardized survey in all continents. We found that each of the different ecological dimensions of soils-that is, species richness (alpha diversity, measured as amplicon sequence variants), community dissimilarity and ecosystem services-peaked in contrasting regions of the planet, and were associated with different environmental factors. Temperate ecosystems showed the highest species richness, whereas community dissimilarity peaked in the tropics, and colder high-latitudinal ecosystems were identified as hotspots of ecosystem services. These findings highlight the complexities that are involved in simultaneously protecting multiple ecological dimensions of soil. We further show that most of these hotspots are not adequately covered by protected areas (more than 70%), and are vulnerable in the context of several scenarios of global change. Our global estimation of priorities for soil nature conservation highlights the importance of accounting for the multidimensionality of soil biodiversity and ecosystem services to conserve soils for future generations.
-AD  - German Ctr Integrat Biodivers Res iDiv, Leipzig, GermanyAD  - Martin Luther Univ Halle Wittenberg, Inst Biol, Halle, Saale, GermanyAD  - Univ Leipzig, Inst Biol, Leipzig, GermanyAD  - Swiss Fed Inst Technol, Inst Integrat Biol, Dept Environm Syst Sci, Zurich, SwitzerlandAD  - Univ New South Wales, Ctr Ecosyst Sci, Sch Biol Earth & Environm Sci, Sydney, NSW, AustraliaAD  - Western Sydney Univ, Hawkesbury Inst Environm, Penrith, NSW, AustraliaAD  - Western Sydney Univ, Global Ctr Land Based Innovat, Penrith, NSW, AustraliaAD  - Northeast Normal Univ, Jilin Songnen Grassland Ecosyst Natl Observat & R, Inst Grassland Sci, Key Lab Vegetat Ecol,Minist Educ,Sch Life Sci, Changchun, Peoples R ChinaAD  - Univ Pablo de Olavide, Dept Sistemas Fis Quim & Nat, Seville, SpainAD  - Univ Mayor, GEMA Ctr Genom Ecol & Environm, Fac Interdisciplinary Studies, Huechuraba, ChileAD  - Inst Ecol & Biodiversidad IEB, Santiago, ChileAD  - Obafemi Awolowo Univ, Nat Hist Museum, Ife, NigeriaAD  - CEBAS CSIC, Campus Univ Espinardo, Murcia, SpainAD  - Univ Seville, Dept Plant Biol & Ecol, Seville, SpainAD  - CSIC, Museo Nacl Ciencias Nat, Madrid, SpainAD  - Univ Coimbra, Ctr Funct Ecol, Dept Life Sci, Coimbra, PortugalAD  - CSIC, Mis Biol Galicia, Pontevedra, SpainAD  - Slovenian Forestry Inst, Ljubljana, SloveniaAD  - Washington State Univ, Coll Agr Human & Nat Resource Sci, Dept Entomol, Pullman, WA 99164 USAAD  - Huazhong Agr Univ, Coll Resources & Environm, Wuhan, Peoples R ChinaAD  - Univ Pretoria, Dept Biochem Genet & Microbiol, Pretoria, South AfricaAD  - Univ Saskatchewan, Coll Agr & Bioresources, Dept Soil Sci, Saskatoon, SK, CanadaAD  - Univ Talca, Inst Ciencias Biol, Lab Ecol Integrat, Talca, ChileAD  - Univ Catolica Norte, CEAZA, Coquimbo, ChileAD  - Banaras Hindu Univ, Inst Environm & Sustainable Dev, Varanasi, Uttar Pradesh, IndiaAD  - Univ Fed Minas Gerais, Dept Bot, Belo Horizonte, MG, BrazilAD  - CSIC, Inst Ciencias Agr, Madrid, SpainAD  - Univ Cadiz, Inst Univ Invest Marina INMAR, Dept Biol, Puerto Real, SpainAD  - Univ Tartu, Mycol & Microbiol Ctr, Tartu, EstoniaAD  - King Saud Univ, Coll Sci, Riyadh, Saudi ArabiaAD  - Univ Fed Mato Grosso, Inst Biociencias, Dept Bot & Ecol, Cuiaba, BrazilAD  - Univ Bio Bio, Dept Ciencias Basicas, Grp Invest Biodiversidad & Cambio Global GI BCG, Chillan, ChileAD  - Colorado State Univ, Microbiome Network, Ft Collins, CO 80523 USAAD  - Colorado State Univ, Dept Agr Biol, Ft Collins, CO 80523 USAAD  - Agr Res Org, Inst Plant Sci, Gilat Res Ctr, Dept Nat Resources, Negev, IsraelAD  - Chinese Acad Sci, State Key Lab Desert & Oasis Ecol, Xinjiang Inst Ecol & Geog, Urumqi, Peoples R ChinaAD  - CSIC, Inst Recursos Nat & Agrobiol Sevilla IRNAS, Lab Biodiversidad & Funcionamiento Ecosistem, Seville, SpainAD  - Univ Pablo de Olavide, Unidad Asociada CSIC UPO BioFun, Seville, SpainC3  - Martin Luther University Halle WittenbergC3  - Leipzig UniversityC3  - Swiss Federal Institutes of Technology DomainC3  - ETH ZurichC3  - University of New South Wales SydneyC3  - Western Sydney UniversityC3  - Western Sydney UniversityC3  - Northeast Normal University - ChinaC3  - Universidad Pablo de OlavideC3  - Universidad MayorC3  - Obafemi Awolowo UniversityC3  - Consejo Superior de Investigaciones Cientificas (CSIC)C3  - CSIC - Centro de Edafologia y Biologia Aplicada del Segura (CEBAS)C3  - University of MurciaC3  - University of SevillaC3  - Consejo Superior de Investigaciones Cientificas (CSIC)C3  - CSIC - Museo Nacional de Ciencias Naturales (MNCN)C3  - Universidade de CoimbraC3  - Consejo Superior de Investigaciones Cientificas (CSIC)C3  - CSIC - Mision Biologica de Galicia (MBG)C3  - Slovenian Forestry InstituteC3  - Washington State UniversityC3  - Huazhong Agricultural UniversityC3  - University of PretoriaC3  - University of SaskatchewanC3  - Universidad de TalcaC3  - Universidad Catolica del NorteC3  - Banaras Hindu University (BHU)C3  - Universidade Federal de Minas GeraisC3  - Consejo Superior de Investigaciones Cientificas (CSIC)C3  - CSIC - Instituto de Ciencias Agrarias (ICA)C3  - Universidad de CadizC3  - University of TartuC3  - King Saud UniversityC3  - Universidade Federal de Mato GrossoC3  - Universidad del Bio-BioC3  - Colorado State UniversityC3  - Colorado State UniversityC3  - Chinese Academy of SciencesC3  - Xinjiang Institute of Ecology & Geography, CASC3  - Consejo Superior de Investigaciones Cientificas (CSIC)C3  - CSIC - Instituto de Recursos Naturales y Agrobiologia de Sevilla (IRNAS)C3  - Universidad Pablo de OlavideFU  - British Ecological Society [LRA17\1193]; DFG-FZT [118, 202548816]; FCT [PTDC/BIA-CBI/2340/2020]; MCIN/AEI [RYC2018025483-I, PID2020-115813RA-I00, P20_00879]; FONDECYT [1181034]; ANID-PIA-Anillo INACH [ACT192057]; FRFCU [2662019PY010]; ESF [PRG632]; i-LINK+2018 - CSIC [LINKA20069]; Grupo de Biodibersidad; Cambio Global [UBB-GI 170509/EF]; EU H2020 grant [101000224]; DST [DST/INT/SL/P-31/2021]; SERB [EEQ/2021/001083]; BHU-IoE [6031];  [IF/00950/2014];  [2020.03670.CEECIND];  [SFRH/BDP/108913/2015];  [UIDB/04004/2020];  [NSFC32101335];  [FRFCU2412021QD014];  [CPSF2021M690589]
-FX  - We thank all of the researchers who were involved in the collection of field data. This project received funding from the British Ecological Society (agreement LRA17\1193; MUSGONET). C. A.G. and N.E. were funded by DFG-FZT 118, 202548816; C.A.G. was supported by FCT-PTDC/BIA-CBI/2340/2020; M.D.-B. was supported by RYC2018025483-I, PID2020-115813RA-I00\MCIN/AEI/10.13039/501100011033 and P20_00879. M.A.M.-M. and S.A. were funded by FONDECYT 1181034 and ANID-PIA-Anillo INACH ACT192057. J.D. and A.R. acknowledge support from IF/00950/2014, 2020.03670.CEECIND, SFRH/BDP/108913/2015 and UIDB/04004/2020. Y.-R.L. was supported by 2662019PY010 from the FRFCU. L.T. was supported by the ESF grant PRG632. F.B. and J.L.M. were supported by i-LINK+2018 (LINKA20069) funded by CSIC. C.T.-D. was supported by the Grupo de Biodibersidad & Cambio Global UBB-GI 170509/EF. C.P. was supported by the EU H2020 grant agreement 101000224. H.C. was supported by NSFC32101335, FRFCU2412021QD014 and CPSF2021M690589. J.P.V. was supported by DST (DST/INT/SL/P-31/2021) SERB (EEQ/2021/001083) and BHU-IoE (6031).
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 0028-0836
-SN  - 1476-4687
-J9  - NATURE
-JI  - Nature
-DA  - OCT 27
-PY  - 2022
-VL  - 610
-IS  - 7933
-SP  - 693
-EP  - +
-DO  - 10.1038/s41586-022-05292-x
-C6  - OCT 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000866404100004
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  2
-Cited Reference Count:  98
-ER  -
-
-TY  - JOUR
-AU  - Funston, GF
-AU  - dePolo, PE
-AU  - Sliwinski, JT
-AU  - Dumont, M
-AU  - Shelley, SL
-AU  - Pichevin, LE
-AU  - Cayzer, NJ
-AU  - Wible, JR
-AU  - Williamson, TE
-AU  - Rae, JWB
-AU  - Brusatte, SL
-TI  - The origin of placental mammal life histories
-T2  - NATURE
-LA  - English
-KW  - BODY-SIZE
-KW  - BONE MICROSTRUCTURE
-KW  - EARLY PALEOCENE
-KW  - GROWTH-RATE
-KW  - EVOLUTION
-KW  - TEETH
-KW  - ENAMEL
-KW  - RECORD
-AB  - After the end-Cretaceous extinction, placental mammals quickly diversified(1), occupied key ecological niches(2,3) and increased in size(4,5), but this last was not true of other therians(6). The uniquely extended gestation of placental young(7) may have factored into their success and size increase(8), but reproduction style in early placentals remains unknown. Here we present the earliest record of a placental life history using palaeohistology and geochemistry, in a 62 million-year-old pantodont, the clade including the first mammals to achieve truly large body sizes. We extend the application of dental trace element mapping(9,10) by 60 million years, identifying chemical markers of birth and weaning, and calibrate these to a daily record of growth in the dentition. A long gestation (approximately 7 months), rapid dental development and short suckling interval (approximately 30-75 days) show that Pantolambda bathmodon was highly precocial, unlike non-placental mammals and known Mesozoic precursors. These results demonstrate that P. bathmodon reproduced like a placental and lived at a fast pace for its body size. Assuming that P. bathmodon reflects close placental relatives, our findings suggest that the ability to produce well-developed, precocial young was established early in placental evolution, and that larger neonate sizes were a possible mechanism for rapid size increase in early placentals.
-AD  - Univ Edinburgh, Sch GeoSci, Edinburgh, Midlothian, ScotlandAD  - Univ St Andrews, Sch Earth & Environm Sci, St Andrews, Fife, ScotlandAD  - Carnegie Museum Nat Hist, Pittsburgh, PA USAAD  - New Mexico Museum Nat Hist & Sci, Albuquerque, NM USAAD  - Roya Ontario Museum, Dept Nat Hist, Toronto, ON, CanadaC3  - University of EdinburghC3  - University of St AndrewsFU  - University of Edinburgh; Royal Society [NIF\R1\191527]; National Science Foundation [DEB 1654949, EAR 1654952]; European Research Council (ERC) under the European Union [756226, 805246]; SNSF Mobility Fellowship [P2EZP2_199923]; Philip Leverhulme Prize
-FX  - We thank N. Volden for facilitating specimen access, J. Craven for access to microscopy facilities and A. Reynolds for discussion of captive lifespan. Funding was provided by the University of Edinburgh, the Royal Society (grant NIF\R1\191527), National Science Foundation (grants DEB 1654949 and EAR 1654952), European Research Council (ERC) starting grants (nos. 756226 and 805246) under the European Union's Horizon 2020 Research and Innovation Programme, a Philip Leverhulme Prize and a SNSF Mobility Fellowship (grant P2EZP2_199923).
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 0028-0836
-SN  - 1476-4687
-J9  - NATURE
-JI  - Nature
-DA  - OCT 6
-PY  - 2022
-VL  - 610
-IS  - 7930
-SP  - 107
-EP  - +
-DO  - 10.1038/s41586-022-05150-w
-C6  - AUG 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000848083000010
-N1  - Times Cited in Web of Science Core Collection:  1
-Total Times Cited:  1
-Cited Reference Count:  58
-ER  -
-
-TY  - JOUR
-AU  - Reich, PB
-AU  - Bermudez, R
-AU  - Montgomery, RA
-AU  - Rich, RL
-AU  - Rice, KE
-AU  - Hobbie, SE
-AU  - Stefanski, A
-TI  - Even modest climate change may lead to major transitions in boreal forests
-T2  - NATURE
-LA  - English
-KW  - DROUGHT
-KW  - GROWTH
-KW  - TEMPERATURE
-KW  - PATTERNS
-KW  - SURVIVAL
-KW  - MOISTURE
-AB  - The sensitivity of forests to near-term warming and associated precipitation shifts remains uncertain(1-9). Herein, using a 5-year open-air experiment in southern boreal forest, we show divergent responses to modest climate alteration among juveniles of nine co-occurring North American tree species. Warming alone (+1.6 degrees C or +3.1 degrees C above ambient temperature) or combined with reduced rainfall increased the juvenile mortality of all species, especially boreal conifers. Species differed ingrowth responses to warming, ranging from enhanced growth in Acer rubrum and Acer saccharum to severe growth reductions in Abies balsamea, Picea glauca and Pinus strob us. Moreover, treatment-induced changes in both photosynthesis and growth help explain treatment-driven changes in survival. Treatments in which species experienced conditions warmer or drier than at their range margins resulted in the most adverse impacts on growth and survival. Species abundant in southern boreal forests had the largest reductions ingrowth and survival due to climate manipulations. By contrast, temperate species that experienced little mortality and substantial growth enhancement in response to warming are rare throughout southern boreal forest and unlikely to rapidly expand their density and distribution. Therefore, projected climate change will probably cause regeneration failure of currently dominant southern boreal species and, coupled with their slow replacement by temperate species, lead to tree regeneration shortfalls with potential adverse impacts on the health, diversity and ecosystem services of regional forests.
-AD  - Univ Minnesota, Dept Forest Resources, St Paul, MN 55108 USAAD  - Western Sydney Univ, Hawkesbury Inst Environm, Penrith, NSW, AustraliaAD  - Univ Michigan, Inst Grobar Change Biol, Ann Arbor, MI 48109 USAAD  - Univ Michigan, Sch Environm & Sustainabil, Ann Arbor, MI 48109 USAAD  - Smithsonian Environm Res Ctr, POB 28, Edgewater, MD 21037 USAAD  - Univ Minnesota, Dept Ecol Evolut & Behav, St Paul, MN 55108 USAC3  - University of Minnesota SystemC3  - University of Minnesota Twin CitiesC3  - Western Sydney UniversityC3  - University of Michigan SystemC3  - University of MichiganC3  - University of Michigan SystemC3  - University of MichiganC3  - Smithsonian InstitutionC3  - Smithsonian Environmental Research CenterC3  - University of Minnesota SystemC3  - University of Minnesota Twin CitiesFU  - US Department of Energy, Office of Science, and Office of Biological and Environmental Research [DE-FG02-07ER64456]; Minnesota Agricultural Experiment Station [MN-42-030, MN-42-060]; College of Food, Agricultural and Natural Resources Sciences and Wilderness Research Foundation, University of Minnesota; National Science Foundation, Biological Integration Institutes grant [NSF-DBI-2021898]
-FX  - We thank the many field assistants who were involved in implementing and maintaining the experimental facility, the experimental planting and the measurements presented in this paper. This research was supported by the US Department of Energy, Office of Science, and Office of Biological and Environmental Research award number DE-FG02-07ER64456; Minnesota Agricultural Experiment Station MN-42-030 and MN-42-060; the College of Food, Agricultural and Natural Resources Sciences and Wilderness Research Foundation, University of Minnesota; and the National Science Foundation, Biological Integration Institutes grant NSF-DBI-2021898.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 0028-0836
-SN  - 1476-4687
-J9  - NATURE
-JI  - Nature
-DA  - AUG 18
-PY  - 2022
-VL  - 608
-IS  - 7923
-SP  - 540
-EP  - +
-DO  - 10.1038/s41586-022-05076-3
-C6  - AUG 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000838682300002
-N1  - Times Cited in Web of Science Core Collection:  3
-Total Times Cited:  3
-Cited Reference Count:  41
-ER  -
-
-TY  - JOUR
-AU  - Dial, RJ
-AU  - Maher, CT
-AU  - Hewitt, RE
-AU  - Sullivan, PF
-TI  - Sufficient conditions for rapid range expansion of a boreal conifer
-T2  - NATURE
-LA  - English
-KW  - TREE-LINE VEGETATION
-KW  - WHITE SPRUCE
-KW  - CLIMATE-CHANGE
-KW  - FOREST-TUNDRA
-KW  - PICEA-GLAUCA
-KW  - ARCTIC TREELINE
-KW  - BROOKS RANGE
-KW  - SEA-ICE
-KW  - ALASKA
-KW  - ESTABLISHMENT
-AB  - Unprecedented modern rates of warming are expected to advance boreal forest into Arctic tundra(1), thereby reducing albedo(2-4), altering carbon cycling(4) and further changing climate(1-4), yet the patterns and processes ofthis biome shift remain unclear'. Climate warming, required for previous boreal advances(6-17), is not sufficient by itself for modern range expansion of conifers forming forest-tundra ecotones(5,12,15,17-20). No high-latitude population of conifers, the dominant North American Arctic treeline taxon, has previously been documented(5) advancing at rates following the last glacial maximum (LGM)(6-8). Here we describe a population of white spruce (Piceaglauca) advancing at post-LGM rates(7) across an Arctic basin distant from established treelines and provide evidence of mechanisms sustaining the advance. The population doubles each decade, with exponential radial growth in the main stems of individual trees correlating positively with July air temperature. Lateral branches in adults and terminal leaders in large juveniles grow almost twice as fast as those at established treelines. We conclude that surpassing temperature thresholds(1,6-17), together with winter winds facilitating long-distance dispersal, deeper snowpack and increased soil nutrient availability promoting recruitment and growth, provides sufficient conditions for boreal forest advance. These observations enable forecast modelling with important insights into the environmental conditions converting tundra into forest.
-AD  - Alaska Pacific Univ, Inst Culture & Environm, Anchorage, AK 99508 USAAD  - Univ Alaska Anchorage, Environm & Nat Resources Inst, Anchorage, AK 99508 USAAD  - Amherst Coll, Dept Environm Studies, Amherst, MA 01002 USAAD  - No Arizona Univ, Ctr Ecosyst Sci & Soc, Flagstaff, AZ 86011 USAC3  - University of Alaska SystemC3  - University of Alaska AnchorageC3  - Amherst CollegeC3  - Northern Arizona UniversityFU  - Alaska NASA EPSCoR [80NSSC19M0062]; NASA through the Alaska Space Grant Program; Explorers Club Discovery Expedition Grant; NSF [OPP-1748849, OPP-2129120, OPP-1748773]
-FX  - L. Berner, A. Brownlee, D. Cooper, P. Burns, A. Dahl, P. Dial, J. Ditto, S. Donahue, F. Restrepo, J. Geck, R. Koleser, J. Kramer, T. Matsuoka, F. McCarthy, B. Meiklejohn, S. Smeltz, D. Stephens, S. Taylor, B. Weissenbach, R. Wong, D. Wright and M. Zietlow assisted with remote sensing, GIS, field and/or laboratory work, and D. Nickisch, E. Sieh and J. Cummins provided safe transport. The US National Park Service permitted the research as NOAT-2021-SCI-0002, GAAR-2021-SCI-0004 and GAAR-2019-SCI-0002. We acknowledge awards NSF OPP-1748849 to P.F.S., NSF OPP-2129120 to R.E.H. and NSF OPP-1748773, Explorers Club Discovery Expedition Grant, Alaska NASA EPSCoR (80NSSC19M0062), and NASA through the Alaska Space Grant Program to R.J.D. and his students.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 0028-0836
-SN  - 1476-4687
-J9  - NATURE
-JI  - Nature
-DA  - AUG 18
-PY  - 2022
-VL  - 608
-IS  - 7923
-SP  - 546
-EP  - +
-DO  - 10.1038/s41586-022-05093-2
-C6  - AUG 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000838682300008
-N1  - Times Cited in Web of Science Core Collection:  4
-Total Times Cited:  4
-Cited Reference Count:  69
-ER  -
-
-TY  - JOUR
-AU  - Dow, C
-AU  - Kim, AY
-AU  - D'Orangeville, L
-AU  - Gonzalez-Akre, EB
-AU  - Helcoski, R
-AU  - Herrmann, V
-AU  - Harley, GL
-AU  - Maxwell, JT
-AU  - McGregor, IR
-AU  - McShea, WJ
-AU  - McMahon, SM
-AU  - Pederson, N
-AU  - Tepley, AJ
-AU  - Anderson-Teixeira, KJ
-TI  - Warm springs alter timing but not total growth of temperate deciduous trees
-T2  - NATURE
-LA  - English
-KW  - NET CARBON UPTAKE
-KW  - INTERANNUAL VARIABILITY
-KW  - FOREST
-KW  - PRODUCTIVITY
-KW  - SEASON
-KW  - OAK
-KW  - PHENOLOGY
-KW  - WATER
-AB  - As the climate changes, warmer spring temperatures are causing earlier leaf-out(1-3) and commencement of CO2 uptake(1,3) in temperate deciduous forests, resulting in a tendency towards increased growing season length(3) and annual CO2 uptake(1,3-7). However, less is known about how spring temperatures affect tree stem growth(8,9), which sequesters carbon in wood that has a long residence time in the ecosystem(10,11). Here we show that warmer spring temperatures shifted stem diameter growth of deciduous trees earlier but had no consistent effect on peak growing season length, maximum growth rates, or annual growth, using dendrometer band measurements from 440 trees across two forests. The latter finding was confirmed on the centennial scale by 207 tree-ring chronologies from 108 forests across eastern North America, where annual ring width was far more sensitive to temperatures during the peak growing season than in the spring. These findings imply that any extra CO2 uptake in years with warmer spring temperatures(4,5) does not significantly contribute to increased sequestration in long-lived woody stem biomass. Rather, contradicting projections from global carbon cycle models(1,12), our empirical results imply that warming spring temperatures are unlikely to increase woody productivity enough to strengthen the long-term CO2 sink of temperate deciduous forests.
-AD  - Smithsonians Natl Zoo & Conservat Biol Inst, Conservat Ecol Ctr, Front Royal, VA 22630 USAAD  - Purdue Univ, Dept Forestry & Nat Resources, W Lafayette, IN 47907 USAAD  - Smith Coll, Stat & Data Sci, Northampton, MA 01063 USAAD  - Harvard Forest, Petersham, MA USAAD  - Univ New Brunswick, Fac Forestry & Environm Management, Fredericton, NB, CanadaAD  - Univ Idaho, Dept Earth & Spatial Sci, Moscow, ID 83843 USAAD  - Indiana Univ, Dept Geog, Bloomington, IN 47405 USAAD  - North Carolina State Univ, Ctr Geospatial Analyt, Raleigh, NC USAAD  - Smithsonian Environm Res Ctr, POB 28, Edgewater, MD 21037 USAAD  - Smithsonian Trop Res Inst, Forest GLobal Earth Observ, Panama City, PanamaAD  - Canadian Forest Serv, Northern Forestry Ctr, Edmonton, AB, CanadaAD  - Cal Poly Humboldt Univ, Dept Forestry & Wildland Resources, Arcata, CA USAC3  - Smithsonian InstitutionC3  - Smithsonian National Zoological Park & Conservation Biology InstituteC3  - Purdue University SystemC3  - Purdue UniversityC3  - Purdue University West Lafayette CampusC3  - Smith CollegeC3  - Harvard UniversityC3  - University of New BrunswickC3  - IdahoC3  - University of IdahoC3  - Indiana University SystemC3  - Indiana University BloomingtonC3  - North Carolina State UniversityC3  - Smithsonian InstitutionC3  - Smithsonian Environmental Research CenterC3  - Smithsonian InstitutionC3  - Smithsonian Tropical Research InstituteC3  - Natural Resources CanadaC3  - Canadian Forest ServiceFU  - National Science Foundation [RAPID-2030862, 1805276, 1805617]; Indiana University Vice Provost for Research Faculty Research Program; Natural Sciences and Engineering Research Council of Canada [DG RGPIN-2019-04353]; New Brunswick Innovation Foundation [RIF 2019-029]; Smithsonian Institution (ForestGEO-Smithsonian Tropical Research Institute); Smithsonian Institution (Smithsonian's National Zoo & Conservation Biology Institute); Smithsonian Institution; USDA Agriculture and Food Research Initiative grant [2017-67013-26191]
-FX  - We acknowledge all researchers who assisted with data collection in the field and laboratory, particularly T. Fung Au, J. Bregy, J. Dickens, K. Heeter, A. Hennage, D. King, J. McGee, B. Lockwood, J. McGarvey, V. Meakem, J. Oliver, J. Shue, K. Schmidt-Simard, B. Strange, A. Terrell, B. Taylor, M. Thornton, S. Robeson, M. Wenzel and L. Wylie; and D. A. Orwig, R. Zweifel and members of the ForestGEO Ecosystems & Climate Lab at SCBI for helpful feedback. Analyses and SCBI data collection were funded by the Smithsonian Institution (ForestGEO-Smithsonian Tropical Research Institute, Smithsonian's National Zoo & Conservation Biology Institute, and Scholarly Studies, Competitive Grants Program for Science and Grand Challenges Award Program grants to K.J.A.-T.). Collection of tree-ring samples was funded by the USDA Agriculture and Food Research Initiative grant 2017-67013-26191 (to J.T.M.), National Science Foundation grants nos. 1805276 (to G.L.H.) and 1805617 (to J.T.M.), and from the Indiana University Vice Provost for Research Faculty Research Program (to J.T.M.). L.D. received funding from the Natural Sciences and Engineering Research Council of Canada (DG RGPIN-2019-04353) and New Brunswick Innovation Foundation (RIF 2019-029). S.M.M. was partially funded by National Science Foundation RAPID-2030862.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 0028-0836
-SN  - 1476-4687
-J9  - NATURE
-JI  - Nature
-DA  - AUG 18
-PY  - 2022
-VL  - 608
-IS  - 7923
-SP  - 552
-EP  - +
-DO  - 10.1038/s41586-022-05092-3
-C6  - AUG 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000838682300009
-N1  - Times Cited in Web of Science Core Collection:  6
-Total Times Cited:  6
-Cited Reference Count:  75
-ER  -
-
-TY  - JOUR
-AU  - Cunha, HFV
-AU  - Andersen, KM
-AU  - Lugli, LF
-AU  - Santana, FD
-AU  - Aleixo, IF
-AU  - Moraes, AM
-AU  - Garcia, S
-AU  - Di Ponzio, R
-AU  - Mendoza, EO
-AU  - Brum, B
-AU  - Rosa, JS
-AU  - Cordeiro, AL
-AU  - Portela, BTT
-AU  - Ribeiro, G
-AU  - Coelho, SD
-AU  - de Souza, ST
-AU  - Silva, LS
-AU  - Antonieto, F
-AU  - Pires, M
-AU  - Salomao, AC
-AU  - Miron, AC
-AU  - de Assis, RL
-AU  - Domingues, TF
-AU  - Aragao, LEOC
-AU  - Meir, P
-AU  - Camargo, JL
-AU  - Manzi, AO
-AU  - Nagy, L
-AU  - Mercado, LM
-AU  - Hartley, IP
-AU  - Quesada, CA
-TI  - Direct evidence for phosphorus limitation on Amazon forest productivity
-T2  - NATURE
-LA  - English
-KW  - NET PRIMARY PRODUCTIVITY
-KW  - NUTRIENT LIMITATION
-KW  - TREE GROWTH
-KW  - RAIN-FOREST
-KW  - PLANT-ROOTS
-KW  - NITROGEN
-KW  - CARBON
-KW  - SOIL
-KW  - FERTILIZATION
-KW  - RESPIRATION
-AB  - The productivity of rainforests growing on highly weathered tropical soils is expected to be limited by phosphorus availability(1). Yet, controlled fertilization experiments have been unable to demonstrate a dominant role for phosphorus in controlling tropical forest net primary productivity. Recent syntheses have demonstrated that responses to nitrogen addition are as large as to phosphorus(2), and adaptations to low phosphorus availability appear to enable net primary productivity to be maintained across major soil phosphorus gradients'. Thus, the extent to which phosphorus availability limits tropical forest productivity is highly uncertain. The majority of the Amazonia, however, is characterized by soils that are more depleted in phosphorus than those in which most tropical fertilization experiments have taken place(2). Thus, we established a phosphorus, nitrogen and base cation addition experiment in an old growth Amazon rainforest, with a low soil phosphorus content that is representative of approximately 60% of the Amazon basin. Here we show that net primary productivity increased exclusively with phosphorus addition. After 2 years, strong responses were observed in fine root (+29%) and canopy productivity (+19%), but not stem growth. The direct evidence of phosphorus limitation of net primary productivity suggests that phosphorus availability may restrict Amazon forest responses to CO2 fertilization(4), with major implications for future carbon sequestration and forest resilience to climate change.
-AD  - Natl Inst Amazonian Res, Coordinat Environm Dynam, Manaus, Amazonas, BrazilAD  - Nanyang Technol Univ, Asian Sch Environm, Singapore, SingaporeAD  - Univ Exeter, Coll Life & Environm Sci, Geog, Exeter, Devon, EnglandAD  - Tech Univ Munich, TUM Sch Life Sci, Freising Weihenstephan, GermanyAD  - Natl Inst Amazonian Res, BioL Dynam Forest Fragment Project, Manaus, Amazonas, BrazilAD  - Colorado State Univ, Ft Collins, CO 80523 USAAD  - Univ Hamburg, Dept Biol, Hamburg, GermanyAD  - Univ Oslo, Nat Hist Museum, Oslo, NorwayAD  - Univ Sao Paulo, Fac Filosofia Ciencia & Letras Ribeirao Preto, Sao Paulo, BrazilAD  - Natl Inst Space Res, Sao Jose Dos Campos, SP, BrazilAD  - Univ Edinburgh, Sch Geosci, Edinburgh, Midlothian, ScotlandAD  - Australian Natl Univ, Res Sch Biol, Canberra, ACT, AustraliaAD  - Univ Estadual Campinas, Sao Paulo, BrazilAD  - UK Ctr Ecol & Hydrol, Wallingford, Oxon, EnglandC3  - Institute Nacional de Pesquisas da AmazoniaC3  - Nanyang Technological University & National Institute of Education (NIE) SingaporeC3  - Nanyang Technological UniversityC3  - University of ExeterC3  - Technical University of MunichC3  - Institute Nacional de Pesquisas da AmazoniaC3  - Colorado State UniversityC3  - University of HamburgC3  - University of OsloC3  - Universidade de Sao PauloC3  - Instituto Nacional de Pesquisas Espaciais (INPE)C3  - University of EdinburghC3  - Australian National UniversityC3  - Universidade Estadual de CampinasC3  - UK Centre for Ecology & Hydrology (UKCEH)FU  - UK Natural Environment Research Council (NERC) [NE/L007223/1]; Brazilian National Council for Scientific and Technological Development (CNPq) [CNPq/LBA 68/2013]; CNPq/MCTI/FNDCT [18/2021]; AmazonFACE programme; Coordination for the Improvement of Higher Education Personnel (CAPES); National Institute of Amazonian Research [CAPES-INPA/88887.154643/2017-00, 88881.154644/2017-01]; Fundacao de Amparo a Pesquisa do Estado de SAo Paulo (FAPESP) [2015/50488-5]; Partnership for Enhanced Engagement in Research (PEER) programme [AID-OAA-A-11-00012]; CNPq [314416/2020-0]
-FX  - We thank the late Paulo Apostolo AssuncAo for the botanical identification of the trees and J. Cruz, A. dos Santos and B. S. da Silva for helping in field campaigns. The authors acknowledge funding from the UK Natural Environment Research Council (NERC), grant number NE/L007223/1. This is publication 850 in the technical series of the BDFFP. C.A.Q. acknowledges the grants from Brazilian National Council for Scientific and Technological Development (CNPq) CNPq/LBA 68/2013, CNPq/MCTI/FNDCT no. 18/2021 and his productivity grant. C.A.Q., H.F.V.C., F.D.S., I.A., L.F.L., E.O.M. and S.G. acknowledge the AmazonFACE programme for financial support in cooperation with Coordination for the Improvement of Higher Education Personnel (CAPES) and the National Institute of Amazonian Research as part of the grants CAPES-INPA/88887.154643/2017-00 and 88881.154644/2017-01. T.F.D. acknowledges funds from FundacAo de Amparo a Pesquisa do Estado de SAo Paulo (FAPESP), grant 2015/50488-5, and the Partnership for Enhanced Engagement in Research (PEER) programme grant AID-OAA-A-11-00012. L.E.O.C.A. thanks CNPq (314416/2020-0).
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 0028-0836
-SN  - 1476-4687
-J9  - NATURE
-JI  - Nature
-DA  - AUG 18
-PY  - 2022
-VL  - 608
-IS  - 7923
-SP  - 558
-EP  - +
-DO  - 10.1038/s41586-022-05085-2
-C6  - AUG 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000838682300004
-N1  - Times Cited in Web of Science Core Collection:  4
-Total Times Cited:  4
-Cited Reference Count:  68
-ER  -
-
-TY  - JOUR
-AU  - Johnson, CA
-AU  - Dutt, P
-AU  - Levine, JM
-TI  - Competition for pollinators destabilizes plant coexistence
-T2  - NATURE
-LA  - English
-KW  - MECHANISMS
-KW  - MAINTENANCE
-KW  - IMPACTS
-AB  - Mounting concern over the global decline of pollinators has fuelled calls for investigating their role in maintaining plant diversity. Theory predicts that competition for pollinators can stabilize interactions between plant species by providing opportunities for niche differentiation, while at the same time can drive competitive imbalances that favour exclusion. Here we empirically tested these contrasting effects by manipulating competition for pollinators in a way that predicts its long-term implications for plant coexistence. We subjected annual plant individuals situated across experimentally imposed gradients in neighbour density to either ambient insect pollination or a pollen supplementation treatment alleviating competition for pollinators. The vital rates of these individuals informed plant population dynamic models predicting the key theoretical metrics of species coexistence. Competition for pollinators generally destabilized the interactions between plant species, reducing the proportion of pairs expected to coexist. Interactions with pollinators also influenced the competitive imbalances between plant species, effects that are expected to strengthen with pollinator decline, potentially disrupting plant coexistence. Indeed, results from an experiment simulating pollinator decline showed that plant species experiencing greater reductions in floral visitation also suffered greater declines in population growth rate. Our results reveal that competition for pollinators may weaken plant coexistence by destabilizing interactions and contributing to competitive imbalances, information critical for interpreting the impacts of pollinator decline.
-AD  - Princeton Univ, Dept Ecol & Evolut Biol, Princeton, NJ 08544 USAAD  - Swiss Fed Inst Technol, Inst Integrat Biol, Zurich, SwitzerlandC3  - Princeton UniversityC3  - Swiss Federal Institutes of Technology DomainC3  - ETH ZurichFU  - ETH Zurich Center for Adaptation to Changing Environments; Princeton University; NSF [DEB 2022213]
-FX  - We thank M. von Rutte, A. Bieger, C. Hess, M. Negreiros, A. Reid and R. Zach for their work in the field and laboratory; J. Johnson (Life Science Studios) for the illustrations in Figs. 1 and 3; W. Petry and S. Hart for statistical advice; and laboratory members at the ETH Zurich and Princeton University for comments on the manuscript. C.A.J. was supported by the ETH Zurich Center for Adaptation to Changing Environments and funds from Princeton University. J.M.L. was supported by NSF grant DEB 2022213.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 0028-0836
-SN  - 1476-4687
-J9  - NATURE
-JI  - Nature
-DA  - JUL 28
-PY  - 2022
-VL  - 607
-IS  - 7920
-SP  - 721
-EP  - +
-C7  - s41586-022-04973-x
-DO  - 10.1038/s41586-022-04973-x
-C6  - JUL 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000828280500009
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  2
-Cited Reference Count:  27
-ER  -
-
-TY  - JOUR
-AU  - Forzieri, G
-AU  - Dakos, V
-AU  - McDowell, NG
-AU  - Ramdane, A
-AU  - Cescatti, A
-TI  - Emerging signals of declining forest resilience under climate change
-T2  - NATURE
-LA  - English
-KW  - EARLY-WARNING SIGNALS
-KW  - CARBON
-KW  - VEGETATION
-KW  - DROUGHT
-KW  - IMPACT
-KW  - DISTURBANCES
-KW  - MECHANISMS
-KW  - INDICATORS
-KW  - MORTALITY
-KW  - SHIFTS
-AB  - Forest ecosystems depend on their capacity to withstand and recover from natural and anthropogenic perturbations (that is, their resilience)(1). Experimental evidence of sudden increases in tree mortality is raising concerns about variation in forest resilience(2), yet little is known about how it is evolving in response to climate change. Here we integrate satellite-based vegetation indices with machine learning to show how forest resilience, quantified in terms of critical slowing down indicators(3-5), has changed during the period 2000-2020. We show that tropical, arid and temperate forests are experiencing a significant decline in resilience, probably related to increased water limitations and climate variability. By contrast, boreal forests show divergent local patterns with an average increasing trend in resilience, probably benefiting from warming and CO2 fertilization, which may outweigh the adverse effects of climate change. These patterns emerge consistently in both managed and intact forests, corroborating the existence of common large-scale climate drivers. Reductions in resilience are statistically linked to abrupt declines in forest primary productivity, occurring in response to slow drifting towards a critical resilience threshold. Approximately 23% of intact undisturbed forests, corresponding to 3.32 Pg C of gross primary productivity, have already reached a critical threshold and are experiencing a further degradation in resilience. Together, these signals reveal a widespread decline in the capacity of forests to withstand perturbation that should be accounted for in the design of land-based mitigation and adaptation plans.
-AD  - European Commiss, Joint Res Ctr, Ispra, ItalyAD  - Univ Montpellier, CNRS, IRD, Inst Sci Evolut Montpellier ISEM,EPHE, Montpellier, FranceAD  - Pacific Northwest Natl Lab, Atmospher Sci & Global Change Div, Richland, WA 99352 USAAD  - Washington State Univ, Sch Biol Sci, Pullman, WA 99164 USAAD  - Univ Florence, Dept Civil & Environm Engn, Florence, ItalyC3  - European Commission Joint Research CentreC3  - EC JRC ISPRA SiteC3  - Centre National de la Recherche Scientifique (CNRS)C3  - Institut de Recherche pour le Developpement (IRD)C3  - UDICE-French Research UniversitiesC3  - PSL Research University ParisC3  - Universite de MontpellierC3  - United States Department of Energy (DOE)C3  - Pacific Northwest National LaboratoryC3  - Washington State UniversityC3  - University of FlorenceFU  - Exploratory Project FOREST@RISK of the European Commission, Joint Research Centre; Department of Energy's project Next Generation Ecosystem Experiment-Tropics
-FX  - The study was funded by the Exploratory Project FOREST@RISK of the European Commission, Joint Research Centre. N.G.M. was supported by the Department of Energy's project Next Generation Ecosystem Experiment-Tropics.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 0028-0836
-SN  - 1476-4687
-J9  - NATURE
-JI  - Nature
-DA  - AUG 18
-PY  - 2022
-VL  - 608
-IS  - 7923
-SP  - 534
-EP  - +
-DO  - 10.1038/s41586-022-04959-9
-C6  - JUL 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000824430000012
-N1  - Times Cited in Web of Science Core Collection:  10
-Total Times Cited:  10
-Cited Reference Count:  59
-ER  -
-
-TY  - JOUR
-AU  - Peng, D
-AU  - Kakani, EG
-AU  - Mameli, E
-AU  - Vidoudez, C
-AU  - Mitchell, SN
-AU  - Merrihew, GE
-AU  - MacCoss, MJ
-AU  - Adams, K
-AU  - Rinvee, TA
-AU  - Shaw, WR
-AU  - Catteruccia, F
-TI  - A male steroid controls female sexual behaviour in the malaria mosquito
-T2  - NATURE
-LA  - English
-KW  - VECTORIAL CAPACITY
-KW  - IDENTIFICATION
-KW  - EXPRESSION
-KW  - RECEPTOR
-KW  - PEPTIDE
-KW  - SWITCH
-AB  - Insects, unlike vertebrates, are widely believed to lack male-biased sex steroid hormones(1). In the malaria mosquito Anopheles gambiae, the ecdysteroid 20-hydroxyecdysone (20E) appears to have evolved to both control egg development when synthesized by females(2) and to induce mating refractoriness when sexually transferred by males(3). Because egg development and mating are essential reproductive traits, understanding how Anopheles females integrate these hormonal signals can spur the design of new malaria control programs. Here we reveal that these reproductive functions are regulated by distinct sex steroids through a sophisticated network of ecdysteroid-activating/inactivating enzymes. We identify a male-specific oxidized ecdysteroid, 3-dehydro-20E (3D20E), which safeguards paternity by turning off female sexual receptivity following its sexual transfer and activation by dephosphorylation. Notably, 3D20E transfer also induces expression of a reproductive gene that preserves egg development during Plasmodium infection, ensuring fitness of infected females. Female-derived 20E does not trigger sexual refractoriness but instead licenses oviposition in mated individuals once a 20E-inhibiting kinase is repressed. Identifying this male-specific insect steroid hormone and its roles in regulating female sexual receptivity, fertility and interactions with Plasmodium parasites suggests the possibility for reducing the reproductive success of malaria-transmitting mosquitoes.
-AD  - Harvard TH Chan Sch Publ Hlth, Dept Immunol & Infect Dis, Boston, MA 02115 USAAD  - Harvard Ctr Mass Spectrometry, Cambridge, MA USAAD  - Univ Washington, Dept Genome Sci, Seattle, WA 98195 USAAD  - Howard Hughes Med Inst, Chevy Chase, MD 20815 USAAD  - Verily Life Sci, San Francisco, CA USAAD  - Harvard Med Sch, Dept Genet, Blavatnik Inst, Boston, MA 02115 USAC3  - Harvard UniversityC3  - Harvard T.H. Chan School of Public HealthC3  - University of WashingtonC3  - University of Washington SeattleC3  - Howard Hughes Medical InstituteC3  - Harvard UniversityC3  - Harvard Medical SchoolFU  - Howard Hughes Medical Institute; Bill and Melinda Gates Foundation (BMGF) [OPP1158190]; National Institutes of Health (NIH) [R01 AI104956, R01 AI124165]; NIH [P41 GM103533]; Harvard Data Science Initiative (Postdoctoral Fellow Research Fund, 2019)
-FX  - We thank E. Nelson, K. Thornburg and E. Selland for help with mosquito rearing and the members of the Catteruccia laboratory for comments on the manuscript. Funding for this study was provided by a joint Howard Hughes Medical Institute and Bill and Melinda Gates Foundation (BMGF) Faculty Scholars Award (grant ID OPP1158190) and by the National Institutes of Health (NIH) (award numbers R01 AI104956 and R01 AI124165) to F.C. Proteomics work was supported by NIH (P41 GM103533) to M.J.M. RNA-seq work was supported by the Harvard Data Science Initiative (Postdoctoral Fellow Research Fund, 2019) to D.P. The findings and conclusions within this publication are those of the authors and do not necessarily reflect positions or policies of the HHMI, the BMGF or the NIH. F.C. is an HHMI investigator.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 0028-0836
-SN  - 1476-4687
-J9  - NATURE
-JI  - Nature
-DA  - AUG 4
-PY  - 2022
-VL  - 608
-IS  - 7921
-SP  - 93
-EP  - +
-DO  - 10.1038/s41586-022-04908-6
-C6  - JUL 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000821424900004
-N1  - Times Cited in Web of Science Core Collection:  2
-Total Times Cited:  2
-Cited Reference Count:  37
-ER  -
-
-TY  - JOUR
-AU  - Kim, JH
-AU  - Castroverde, CDM
-AU  - Huang, S
-AU  - Li, C
-AU  - Hilleary, R
-AU  - Seroka, A
-AU  - Sohrabi, R
-AU  - Medina-Yerena, D
-AU  - Huot, B
-AU  - Wang, J
-AU  - Nomura, K
-AU  - Marr, SK
-AU  - Wildermuth, MC
-AU  - Chen, T
-AU  - MacMicking, JD
-AU  - He, SY
-TI  - Increasing the resilience of plant immunity to a warming climate
-T2  - NATURE
-LA  - English
-KW  - SYSTEMIC ACQUIRED-RESISTANCE
-KW  - SALICYLIC-ACID
-KW  - DISEASE RESISTANCE
-KW  - TEMPERATURE
-KW  - DEFENSE
-KW  - ARABIDOPSIS
-KW  - GENE
-KW  - GROWTH
-KW  - REGULATOR
-KW  - RPS4
-AB  - Extreme weather conditions associated with climate change affect many aspects of plant and animal life, including the response to infectious diseases. Production of salicylic acid (SA), a central plant defence hormone(1-3), is particularly vulnerable to suppression by short periods of hot weather above the normal plant growth temperature range via an unknown mechanism(4-7). Here we show that suppression of SA production in Arabidopsis thaliana at 28 degrees C is independent of PHYTOCHROME B-8,B-9 (phyB) and EARLY FLOWERING 3(10) (ELF3), which regulate thermo-responsive plant growth and development. Instead, we found that formation of GUANYLATE BINDING PROTEIN-LIKE 3 (GBPL3) defence-activated biomolecular condensates(11) (GDACs) was reduced at the higher growth temperature. The altered GDAC formation in vivo is linked to impaired recruitment of GBPL3 and SA-associated Mediator subunits to the promoters of CBP60g and SARD1, which encode master immune transcription factors. Unlike many other SA signalling components, including the SA receptor and biosynthetic genes, optimized CBP60g expression was sufficient to broadly restore SA production, basal immunity and effector-triggered immunity at the elevated growth temperature without significant growth trade-offs. CBP60g family transcription factors are widely conserved in plants(12). These results have implications for safeguarding the plant immune system as well as understanding the concept of the plant-pathogen-environment disease triangle and the emergence of new disease epidemics in a warming climate.
-AD  - Duke Univ, Dept Biol, Durham, NC 27706 USAAD  - Duke Univ, Howard Hughes Med Inst, Durham, NC 27706 USAAD  - Michigan State Univ, Dept Energy Plant Res Lab, E Lansing, MI 48824 USAAD  - Michigan State Univ, Plant Resilience Inst, E Lansing, MI 48824 USAAD  - Wilfrid Laurier Univ, Dept Biol, Waterloo, ON, CanadaAD  - Yale Univ, Howard Hughes Med Inst, West Haven, CT USAAD  - Yale Univ, Yale Syst Biol Inst, West Haven, CT USAAD  - Yale Univ, Dept Immunobiol & Microbial Pathogenesis, Sch Med, New Haven, CT USAAD  - Huazhong Agr Univ, State Key Lab Agr Microbiol, Wuhan, Peoples R ChinaAD  - Michigan State Univ, Dept Plant Biol, E Lansing, MI 48824 USAAD  - Univ Calif Berkeley, Dept Plant & Microbial Biol, Berkeley, CA 94720 USAC3  - Duke UniversityC3  - Duke UniversityC3  - Howard Hughes Medical InstituteC3  - Michigan State UniversityC3  - Michigan State UniversityC3  - Wilfrid Laurier UniversityC3  - Howard Hughes Medical InstituteC3  - Yale UniversityC3  - Yale UniversityC3  - Yale UniversityC3  - Huazhong Agricultural UniversityC3  - Michigan State UniversityC3  - University of California SystemC3  - University of California BerkeleyFU  - Natural Sciences and Engineering Research Council of Canada; Korean Research Foundation Postdoctoral Fellowship; National Institutes of Health T32 Predoctoral Fellowship; Howard Hughes Medical Institute Exceptional Research Opportunities Fellowship; National Natural Science Foundation of China; MSU Plant Resilience Institute and Duke Science and Technology Initiative
-FX  - We thank G. Li and D. Wan for 35S::CBP60g OE-16 and 35S::CBP60g OE-17; X. Dong for npr1<SUP>S11D/S15D</SUP>; Y. Zhang for npr3 npr4; C. Lagarias for 35S::PHYB<SUP>Y276H</SUP>; P. Wigge for BdELF3-OE; J. Parker for 35S::EDS1; J. Shah and Z. Chen for 35S::PAD4; D. Yu and L. Chen for 35S::WRKY75; M. Thomashow for camta2/3; J. Zeier for bsmt1; T. Mengiste for 35S::CDK8-myc; Z. Mou for MED16pro::MED16; G. Howe for Castlemart tomato; B. Day for Pst DC3000/avrPphB; B. Staskawicz Pst DC3000/avrRps4; Michigan State University (MSU) Growth Chamber, Genomics, Metabolomics Facilities and Duke Phytotron for technical assistance; and L. Zhang and S. Withers for critically reading the manuscript. This work was supported by the Natural Sciences and Engineering Research Council of Canada (C.D.M.C.), Korean Research Foundation Postdoctoral Fellowship (J.H.K.), National Institutes of Health T32 Predoctoral Fellowship (A.S.), Howard Hughes Medical Institute Exceptional Research Opportunities Fellowship (D.M.-Y.), National Natural Science Foundation of China (T.C.) and MSU Plant Resilience Institute and Duke Science and Technology Initiative (S.Y.H.). J.D.M and S.Y.H. are investigators of the Howard Hughes Medical Institute.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 0028-0836
-SN  - 1476-4687
-J9  - NATURE
-JI  - Nature
-DA  - JUL 14
-PY  - 2022
-VL  - 607
-IS  - 7918
-SP  - 339
-EP  - +
-DO  - 10.1038/s41586-022-04902-y
-C6  - JUN 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000818664800007
-N1  - Times Cited in Web of Science Core Collection:  11
-Total Times Cited:  11
-Cited Reference Count:  51
-ER  -
-
-TY  - JOUR
-AU  - Tang, D
-AU  - Jia, YX
-AU  - Zhang, JZ
-AU  - Li, HB
-AU  - Cheng, L
-AU  - Wang, P
-AU  - Bao, ZG
-AU  - Liu, ZH
-AU  - Feng, SS
-AU  - Zhu, XJ
-AU  - Li, DW
-AU  - Zhu, GT
-AU  - Wang, HR
-AU  - Zhou, Y
-AU  - Zhou, YF
-AU  - Bryan, GJ
-AU  - Buell, CR
-AU  - Zhang, CZ
-AU  - Huang, SW
-TI  - Genome evolution and diversity of wild and cultivated potatoes
-T2  - NATURE
-LA  - English
-KW  - HI-C
-KW  - PHYLOGENETIC ANALYSIS
-KW  - ALIGNMENT
-KW  - SEQUENCE
-KW  - ANNOTATION
-KW  - PROVIDES
-KW  - TOOL
-KW  - ARCHITECTURE
-KW  - ALGORITHM
-KW  - GENETICS
-AB  - Potato (Solanum tuberosum L.) is the world's most important non-cereal food crop, and the vast majority of commercially grown cultivars are highly heterozygous tetraploids. Advances in diploid hybrid breeding based on true seeds have the potential to revolutionize future potato breeding and production(1)(-4). So far, relatively few studies have examined the genome evolution and diversity of wild and cultivated landrace potatoes, which limits the application of their diversity in potato breeding. Here we assemble 44 high-quality diploid potato genomes from 24 wild and 20 cultivated accessions that are representative of Solanum section Petota, the tuber-bearing clade, as well as 2 genomes from the neighbouring section, Etuberosum. Extensive discordance of phylogenomic relationships suggests the complexity of potato evolution. We find that the potato genome substantially expanded its repertoire of disease-resistance genes when compared with closely related seed-propagated solanaceous crops, indicative of the effect of tuber-based propagation strategies on the evolution of the potato genome. We discover a transcription factor that determines tuber identity and interacts with the mobile tuberization inductive signal SP6A. We also identify 561,433 high-confidence structural variants and construct a map of large inversions, which provides insights for improving inbred lines and precluding potential linkage drag, as exemplified by a 5.8-Mb inversion that is associated with carotenoid content in tubers. This study will accelerate hybrid potato breeding and enrich our understanding of the evolution and biology of potato as a global staple food crop.
-AD  - Chinese Acad Agr Sci, Guangdong Lab Lingnan Modern Agr, Minist Agr & Rural Affairs Agr, Genome Anal Lab,Agr Genom Inst Shenzhen,Shenzhen, Shenzhen, Peoples R ChinaAD  - Chinese Acad Agr Sci, Key Lab Biol & Genet Improvement Hort Crops, Sino Dutch Joint Lab Hort Gen, Inst Vegetables & Flowers,Minist Agr, Beijing, Peoples R ChinaAD  - Wageningen Univ & Res, Lab Plant Breeding, Grad Sch Expt Plant Sci, Wageningen, NetherlandsAD  - Yunnan Normal Univ, AGISCAAS YNNU Joint Acad Potato Sci, Kunming, Yunnan, Peoples R ChinaAD  - Univ Calif Berkeley, Dept Integrat Biol, Berkeley, CA 94720 USAAD  - James Hutton Inst, Cell & Mol Sci, Invergowrie, EnglandAD  - Univ Georgia, Ctr Appl Genet Technol, Athens, GA 30602 USAC3  - Chinese Academy of Agricultural SciencesC3  - Agriculture Genomes Institute at Shenzhen, CAASC3  - Guangdong Laboratory for Lingnan Modern AgricultureC3  - Chinese Academy of Agricultural SciencesC3  - Institute of Vegetables & Flowers, CAASC3  - Ministry of Agriculture & Rural AffairsC3  - Wageningen University & ResearchC3  - Yunnan Normal UniversityC3  - University of California SystemC3  - University of California BerkeleyC3  - James Hutton InstituteC3  - University System of GeorgiaC3  - University of GeorgiaFU  - National Key Research and Development Program of China [2019YFA0906200]; Agricultural Science and Technology Innovation Program [CAAS-ZDRW202101]; Shenzhen Science and Technology Program [KQTD2016113010482651]; Special Funds for Science Technology Innovation and Industrial Development of Shenzhen Dapeng New District [RC201901-05]; National Natural Science Foundation of China [31902027]; Shenzhen Outstanding Talents Training Fund; China National Key Research and Development Program [2019YFE0120500]
-FX  - We thank N. Stein, Y. Zhang, S. Dong, L. Wang, S. Zhou, L. Liu, Y. Wu and Y. Yang for discussion and comments on the project, and the AGIS CAAS-YNNU Joint Academy of Potato Sciences for greenhouse assistance. This work was supported by the National Key Research and Development Program of China (grant 2019YFA0906200), the Agricultural Science and Technology Innovation Program (CAAS-ZDRW202101), the Shenzhen Science and Technology Program (grant KQTD2016113010482651), the Special Funds for Science Technology Innovation and Industrial Development of Shenzhen Dapeng New District (grant RC201901-05), the National Natural Science Foundation of China (31902027), Shenzhen Outstanding Talents Training Fund and the China National Key Research and Development Program to C.Z. (2019YFE0120500).
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 0028-0836
-SN  - 1476-4687
-J9  - NATURE
-JI  - Nature
-DA  - JUN 16
-PY  - 2022
-VL  - 606
-IS  - 7914
-SP  - 535
-EP  - +
-DO  - 10.1038/s41586-022-04822-x
-C6  - JUN 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000808011000010
-N1  - Times Cited in Web of Science Core Collection:  22
-Total Times Cited:  22
-Cited Reference Count:  108
-ER  -
-
-TY  - JOUR
-AU  - Abbas, M
-AU  - Sharma, G
-AU  - Dambire, C
-AU  - Marquez, J
-AU  - Alonso-Blanco, C
-AU  - Proano, K
-AU  - Holdsworth, MJ
-TI  - An oxygen-sensing mechanism for angiosperm adaptation to altitude
-T2  - NATURE
-LA  - English
-KW  - END RULE PATHWAY
-KW  - TETRAPYRROLE BIOSYNTHESIS
-KW  - PLANTS
-KW  - STRESS
-KW  - IDENTIFICATION
-KW  - EXPRESSION
-KW  - REGULATOR
-KW  - HYPOXIA
-KW  - PROTEIN
-KW  - GENE
-AB  - Flowering plants (angiosperms) can grow at extreme altitudes, and have been observed growing as high as 6,400 metres above sea level(1,2); however, the molecular mechanismsthat enable plant adaptation specifically to altitude are unknown. One distinguishing feature of increasing altitude is a reduction in the partial pressure of oxygen (pO(2)). Here we investigated the relationship between altitude and oxygen sensing in relation to chlorophyll biosynthesis-which requires molecular oxygen(3)- and hypoxia-related gene expression. We show that in etiolated seedlings of angiosperm species, steady-state levels of the phototoxic chlorophyll precursor protochlorophyllide are influenced by sensing of atmospheric oxygen concentration. In Arabidopsis thaliana, this is mediated by the PLANT CYSTEINE OXIDASE (PCO) N-degron pathway substrates GROUP VII ETHYLENE RESPONSE FACTOR transcription factors (ERFVIIs). ERFVIIs positively regulate expression of FLUORESCENT IN BLUE LIGHT (FLU), which represses the first committed step of chlorophyll biosynthesis, forming an inactivation complex with tetrapyrrole synthesis enzymes that are negatively regulated by ERFVIIs, thereby suppressing protochlorophyllide. In natural populations representing diverse angiosperm clades, we find oxygen-dependent altitudinal clines for steady-state levels of protochlorophyllide, expression of inactivation complex components and hypoxia-related genes. Finally, A. thaliana accessions from contrasting altitudes display altitude-dependent ERFVII activity and accumulation. We thus identify a mechanism for genetic adaptation to absolute altitude through alteration of the sensitivity of the oxygen-sensing system.
-AD  - Univ Nottingham, Sch Biosci, Nottingham, EnglandAD  - CSIC, Ctr Nacl Biotecnol, Madrid, SpainAD  - Univ Fuerzas Armadas ESPE, Dept Ciencias Vida & Agr, Lab Biotecnol Vegetal, Sangolqui, EcuadorC3  - University of NottinghamC3  - Consejo Superior de Investigaciones Cientificas (CSIC)C3  - CSIC - Centro Nacional de Biotecnologia (CNB)C3  - Escuela Politecnica Superior del EjercitoFU  - Marie Curie CASCADE fellowship [600181]; Leverhulme Trust [RPG-2018-172]; Biotechnology and Biological Sciences Research Council [BB/R002428/1]; Agencia Estatal de Investigacion of Spain (AEI) [PID2019-104249GB-I00]
-FX  - Solanum sp. accessions were obtained from the UC Davis/C.M. Rick Tomato Genetics Resource Center maintained by the Department of Plant Sciences, University of California, Davis, USA; A. thaliana accessions were obtained from NASC, Nottingham, UK; and quinoa and B. distachyon altitudinal cline accessions were provided by the US Department of Agriculture's National Plant Germplasm System, Plant Introduction Research Station, Ames, Iowa, USA. We thank M. Baldeon and O. Barreiro for generous use of equipment; B. Grimm for FLU antibody; G. Mino for technical support; and N. Crout and M. Blazquez for many helpful discussions. The work was funded by a Marie Curie CASCADE fellowship (600181) to M.A. and a Leverhulme Trust Research Project Grant (RPG-2018-172) to M.J.H. and was supported by the Biotechnology and Biological Sciences Research Council (grant number BB/R002428/1) to M.J.H. C.A.-B. was funded by grant PID2019-104249GB-I00 from the Agencia Estatal de Investigacion of Spain (AEI)/10.13039/501100011033.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 0028-0836
-SN  - 1476-4687
-J9  - NATURE
-JI  - Nature
-DA  - JUN 16
-PY  - 2022
-VL  - 606
-IS  - 7914
-SP  - 565
-EP  - +
-DO  - 10.1038/s41586-022-04740-y
-C6  - JUN 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000804671500001
-N1  - Times Cited in Web of Science Core Collection:  6
-Total Times Cited:  6
-Cited Reference Count:  39
-ER  -
-
-TY  - JOUR
-AU  - Taucher, J
-AU  - Bach, LT
-AU  - Prowe, AEF
-AU  - Boxhammer, T
-AU  - Kvale, K
-AU  - Riebesell, U
-TI  - Enhanced silica export in a future ocean triggers global diatom decline
-T2  - NATURE
-LA  - English
-KW  - PARTICULATE ORGANIC-CARBON
-KW  - BIOGENIC-SILICA
-KW  - TECHNICAL NOTE
-KW  - ELEVATED CO2
-KW  - WORLD OCEAN
-KW  - DISSOLUTION
-KW  - ACIDIFICATION
-KW  - MODEL
-KW  - NUTRIENT
-KW  - RATIOS
-AB  - Diatoms account for up to 40% of marine primary production(1,2) and require silicic acid to grow and build their opal shell(3). On the physiological and ecological level, diatoms are thought to be resistant to, or even benefit from, ocean acidification(4-6). Yet, global-scale responses and implications for biogeochemical cycles in the future ocean remain largely unknown. Here we conducted five in situ mesocosm experiments with natural plankton communities in different biomes and find that ocean acidification increases the elemental ratio of silicon (Si) to nitrogen (N) of sinking biogenic matter by 17 +/- 6 per cent under p(CO2) conditions projected for the year 2100. This shift in Si:N seems to be caused by slower chemical dissolution of silica at decreasing seawater pH. We test this finding with global sediment trap data, which confirm a widespread influence of pH on Si:N in the oceanic water column. Earth system model simulations show that a future pH-driven decrease in silica dissolution of sinking material reduces the availability of silicic acid in the surface ocean, triggering a global decline of diatoms by 13-26 per cent due to ocean acidification by the year 2200. This outcome contrasts sharply with the conclusions of previous experimental studies, thereby illustrating how our current understanding of biological impacts of ocean change can be considerably altered at the global scale through unexpected feedback mechanisms in the Earth system.
-AD  - GEOMAR Helmholtz Ctr Ocean Res Kiel, Kiel, GermanyAD  - Univ Tasmania, Inst Marine & Antarctic Studies, Hobart, Tas, AustraliaAD  - GNS Sci, Lower Hutt, New ZealandC3  - Helmholtz AssociationC3  - GEOMAR Helmholtz Center for Ocean Research KielC3  - University of TasmaniaC3  - GNS Science - New ZealandFU  - German Federal Ministry of Science and Education (BMBF) [FKZ 03F0728, FKZ 03F0662]; 'European Project on Ocean Acidification' (EPOCA) from the European Community's Seventh Framework Programme (FP7/2007-2013) [211384]; EU project MESOAQUA [228224]; BIOACIDII [FKZ 03F06550]; SOPRANII [03F0611]
-FX  - This study was supported by the German Federal Ministry of Science and Education (BMBF) in the framework of the projects BIOACIDIII ('Biological Impacts of Ocean Acidification', FKZ 03F0728) and SOPRANIII ('Surface Ocean Processes in the Anthropocene', FKZ 03F0662). Funding for the different mesocosm studies was also provided by the 'European Project on Ocean Acidification' (EPOCA, grant no. 211384) from the European Community's Seventh Framework Programme (FP7/2007-2013), the EU project MESOAQUA (grant no. 228224), as well as BIOACIDII (FKZ 03F06550) and SOPRANII (03F0611). Furthermore, we thank all participating scientists and technicians for their efforts in realizing the different studies. We also thank the staff of the marine biological stations in the different study locations for providing logistics, technical assistance and support at all times. We thank the captains and crews of RV Viking Explorer, MV Esperanza of Greenpeace, RV Hakon Mosby (2011609), RV Alkor (AL376, AL394, AL397, AL406, AL420), RV Heincke (HE360), RV Poseidon (POS463), and RV Hesperides (29HE20140924) for support during transport, deployment and recovery of the mesocosm facilities.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 0028-0836
-SN  - 1476-4687
-J9  - NATURE
-JI  - Nature
-DA  - MAY 26
-PY  - 2022
-VL  - 605
-IS  - 7911
-SP  - 696
-EP  - +
-DO  - 10.1038/s41586-022-04687-0
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000802032400020
-N1  - Times Cited in Web of Science Core Collection:  6
-Total Times Cited:  7
-Cited Reference Count:  73
-ER  -
-
-TY  - JOUR
-AU  - Bauman, D
-AU  - Fortunel, C
-AU  - Delhaye, G
-AU  - Malhi, Y
-AU  - Cernusak, LA
-AU  - Bentley, LP
-AU  - Rifai, SW
-AU  - Aguirre-Gutierrez, J
-AU  - Menor, IO
-AU  - Phillips, OL
-AU  - McNellis, BE
-AU  - Bradford, M
-AU  - Laurance, SGW
-AU  - Hutchinson, MF
-AU  - Dempsey, R
-AU  - Santos-Andrade, PE
-AU  - Ninantay-Rivera, HR
-AU  - Paucar, JCR
-AU  - McMahon, SM
-TI  - Tropical tree mortality has increased with rising atmospheric water stress
-T2  - NATURE
-LA  - English
-KW  - CARBON SINK
-KW  - DROUGHT
-KW  - FORESTS
-KW  - PHOTOSYNTHESIS
-KW  - CONSEQUENCES
-KW  - DISTURBANCE
-KW  - MECHANISMS
-KW  - TURNOVER
-KW  - ECOLOGY
-KW  - GROWTH
-AB  - Evidence exists that tree mortality is accelerating in some regions of the tropics(1,2), with profound consequences for the future of the tropical carbon sink and the global anthropogenic carbon budget left to limit peak global warming below 2 degrees C. However, the mechanisms that may be driving such mortality changes and whether particular species are especially vulnerable remain unclear(3-8). Here we analyse a 49-year record of tree dynamics from 24 old-growth forest plots encompassing a broad climatic gradient across the Australian moist tropics and find that annual tree mortality risk has, on average, doubled across all plots and species over the last 35 years, indicating a potential halving in life expectancy and carbon residence time. Associated losses in biomass were not offset by gains from growth and recruitment. Plots in less moist local climates presented higher average mortality risk, but local mean climate did not predict the pace of temporal increase in mortality risk. Species varied in the trajectories of their mortality risk, with the highest average risk found nearer to the upper end of the atmospheric vapour pressure deficit niches of species. A long-term increase in vapour pressure deficit was evident across the region, suggesting that thresholds involving atmospheric water stress, driven by global warming, may be a primary cause of increasing tree mortality in moist tropical forests.
-AD  - Smithsonian Environm Res Ctr, POB 28, Edgewater, MD 21037 USAAD  - Univ Oxford, Environm Change Inst, Sch Geog & Environm, Oxford, EnglandAD  - Univ Montpellier, CNRS, AMAP Bot & Modelisat Architecture Plantes & Veget, CIRAD,INRAE,IRD, Montpellier, FranceAD  - Royal Bot Gardens Kew, Ecosyst Stewardship, London, EnglandAD  - James Cook Univ, Coll Sci & Engn, Ctr Trop Environm & Sustainabil Sci, Cairns, Qld, AustraliaAD  - Sonoma State Univ, Dept Biol, Rohnert Pk, CA USAAD  - Univ New South Wales, ARC Ctr Excellence Climate Extremes, Sydney, NSW, AustraliaAD  - Univ Calif Berkeley, Dept Environm Sci Policy & Management, Berkeley, CA USAAD  - Naturalis Biodivers Ctr, Biodivers Dynam, Leiden, NetherlandsAD  - Univ Leeds, Sch Geog, Leeds, W Yorkshire, EnglandAD  - US Geol Survey, Southwest Biol Sci Ctr, Moab, UT USAAD  - CSIRO Land & Water, Trop Forest Res Ctr, Atherton, Qld, AustraliaAD  - Australian Natl Univ, Fenner Sch Environm & Soc, Canberra, ACT, AustraliaAD  - Univ Nacl San Antonio Abad Cusco, Cuzco, PeruC3  - Smithsonian InstitutionC3  - Smithsonian Environmental Research CenterC3  - University of OxfordC3  - Centre National de la Recherche Scientifique (CNRS)C3  - CIRADC3  - INRAEC3  - Institut de Recherche pour le Developpement (IRD)C3  - Universite de MontpellierC3  - Royal Botanic Gardens, KewC3  - James Cook UniversityC3  - California State University SystemC3  - Sonoma State UniversityC3  - University of New South Wales SydneyC3  - University of California SystemC3  - University of California BerkeleyC3  - Naturalis Biodiversity CenterC3  - University of LeedsC3  - United States Department of the InteriorC3  - United States Geological SurveyC3  - Commonwealth Scientific & Industrial Research Organisation (CSIRO)C3  - Australian National UniversityC3  - Universidad Nacional de San Antonio Abad del CuscoFU  - Belgian American Educational Foundation (BAEF); Philippe Wiener-Maurice Anspach Foundation; European Union's Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant [895799]; Frank Jackson Foundation; NASA [20-CARBON20-0033]; UK Natural Environmental Research Council (NERC) [NE/T011084/1, NE/S011811/1]; NERC [NE/P001092/1]; European Research Council projects T-FORCES (Tropical Forests in the Changing Earth System) [291585]; GEM-TRAIT [321131]; European Union; Fonds de la Recherche Scientifique de Belgique (F.R.S.-FNRS) [2.5020.11]; Walloon Region
-FX  - We thank A. Cheesman for his help with field work in Bellenden Ker, and M. Torrello Raventos for the first census of Bellender Ker. D.B. was funded by the Belgian American Educational Foundation (BAEF), the Philippe Wiener-Maurice Anspach Foundation, and the European Union's Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement no. 895799. G.D. was supported by the Philippe Wiener-Maurice Anspach Foundation. Y.M. was supported by the Frank Jackson Foundation. S.M.M. was partially funded by NASA grant 20-CARBON20-0033. J.A.-G. was funded by the UK Natural Environmental Research Council (NERC; grants NE/T011084/1 and NE/S011811/1). The trait campaign and data analysis were funded by NERC grant NE/P001092/1 to Y.M. and the European Research Council projects T-FORCES (Tropical Forests in the Changing Earth System; 291585) to O.L.P. and Y.M., and GEM-TRAIT (321131) to Y.M., under the European Union's Seventh Framework Programme (FP7/2007-2013). We acknowledge the foresight of G. Stocker in establishing the CSIRO permanent plots and the many CSIRO staff and volunteers who have helped to measure and maintain the plots since 1971; thankful to the Daintree Rainforest Observatory for providing a subsidy on accommodation and station fees, and to the Australian Supersite Network, part of the Australian Government's Terrestrial Ecosystem Network (Daintree Rainforest, Cow Bay, and Robson Creek Supersites) for provision of data used as part of the study. Computational resources have been provided by the Consortium des Equipements de Calcul Intensif (CECI), funded by the Fonds de la Recherche Scientifique de Belgique (F.R.S.-FNRS) under grant no. 2.5020.11 and by the Walloon Region. This study is a product of the Global Ecosystems Monitoring (GEM) network.
-PU  - NATURE PORTFOLIO
-PI  - BERLIN
-PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
-SN  - 0028-0836
-SN  - 1476-4687
-J9  - NATURE
-JI  - Nature
-DA  - AUG 18
-PY  - 2022
-VL  - 608
-IS  - 7923
-SP  - 528
-EP  - +
-DO  - 10.1038/s41586-022-04737-7
-C6  - MAY 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000797332400006
-N1  - Times Cited in Web of Science Core Collection:  8
-Total Times Cited:  8
-Cited Reference Count:  86
-ER  -
-
