@@ -2,7 +2,7 @@
 
 This repository contains the data, code, and other materials used for this project. We recommend navigating those documents using the knitted page, at https://p-pottier.github.io/keywords_to_success/
 
-To cite this data or code, please use: *Pottier, P., Lagisz, M., Burke, S., Drobniak, S. M., Downing, P. A., Macartney, E. L., ... & Nakagawa, S. (2023). Title, abstract, and keywords: a practical guide to maximise the visibility and impact of academic papers.* [![DOI](https://zenodo.org/badge/696517502.svg)](https://zenodo.org/doi/10.5281/zenodo.11593509)
+To cite this data or code, please use: *Pottier, P., Lagisz, M., Burke, S., Drobniak, S. M., Downing, P. A., Macartney, E. L., ... & Nakagawa, S. (2023). Title, abstract, and keywords: a practical guide to maximise the visibility and impact of academic papers. Zenodo* [![DOI](https://zenodo.org/badge/696517502.svg)](https://zenodo.org/doi/10.5281/zenodo.11593509)
 
 Below is a description of the architecture of the different folders. Please don't hesitate to contact Patrice Pottier (p.pottier@unsw.edu.au) if you need assistance navigating these documents. We highly recommend contacting us if you are to re-use our data or analyses in future studies.
 
