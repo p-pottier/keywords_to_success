@@ -1,4 +1,4 @@
-# Keywords to success: a practical guide to maximise the visibility and impact of academic papers
+# Title, abstract, and keywords: a practical guide to maximise the visibility and impact of academic papers
 
 This repository contains the data, code, and other materials used for this project. We recommend navigating those documents using the knitted page, at https://p-pottier.github.io/keywords_to_success/
 
@@ -6,7 +6,11 @@ Below is a description of the architecture of the different folders. Please don'
 
 ### data 
 
-* `Survey_journal_guidelines.csv`: Data from the survey of journal policies 
+* `Survey_journal_guidelines.csv`: Data from the survey of journal policies
+* `Processed_data_survey_journal_guidelines.csv`: Processed data from the survey of journal policies. This includes some inferences of title word limits, and the renaming and cleaning of columns and journal names.
+* `Studies_to_screen_for_article_type.csv`: Sample of studies for which abstracts differ by at least 25 words from the abstract word limit imposed by journals. These studies were screened manually in Rayyan to identify and exclude non-standard article types.
+* `Included_studies_after_screening.csv`: Included studies (standard article types) after screening `Studies_to_screen_for_article_type.csv`.
+* `Processed_data_study_samples.csv`: Processed data from samples of ~25 studies retrieved from 230 journals in ecology and evolutionary biology.
 
 ### fig 
 
@@ -16,7 +20,7 @@ Below is a description of the architecture of the different folders. Please don'
 
 ### R 
 
-* `Data_processing_and_text_mining.Rmd`: Code used to process the survey data and study samples, mine the text, and produced data visualisations
+* `Data_processing_and_text_mining.Rmd`: Code used to process the survey data and study samples, mine the text, and produce data visualisations
 * `Data_processing_and_text_mining.html`: Knitted code 
 
 ### samples_ecoevo_journals
@@ -72,21 +76,19 @@ This folder contains all the bibliographic files used to gather study samples fr
 
 #### Multidisciplinary_journals 
 
-* `biological_reviews.ris`: bibliographic file containing the sample of studies from Biological Reviews
-* `communications_biology.ris`: bibliographic file containing the sample of studies from Communications Biology
-* `current_biology.ris`: bibliographic file containing the sample of studies from Current Biology
-* `elife.ris`:  bibliographic file containing the sample of studies from eLife
-* `nature.ris`: bibliographic file containing the sample of studies from Nature
-* `nature_climate_change.ris`: bibliographic file containing the sample of studies from Nature Climate Change
-* `nature_communications.ris`: bibliographic file containing the sample of studies from Nature Communications
-* `philo_transactions_B.ris`: bibliographic file containing the sample of studies from Philosophical Transactions of the Royal Society B
-* `plos_biology.ris`: bibliographic file containing the sample of studies from Plos Biology
-* `plos_biology2.ris`: bibliographic file containing the remaining sample of studies from Plos Biology
-* `pnas.ris`: bibliographic file containing the sample of studies from Proceedings of the National Academy of Sciences of the United States of America
-* `science.ris`: bibliographic file containing the sample of studies from Science
-* `science_advances.ris`: bibliographic file containing the sample of studies from Science Advances
-* `scientific_reports.ris`: bibliographic file containing the sample of studies from Scientific Reports
-* `multidisciplinary_journals_20230911_1-336.bib`: bibliographic file containing all study samples from multidisciplinary journals. This was obtained using a further search in Web of Science after processing all the .ris files above.
+* `biological_reviews.bib`: bibliographic file containing the sample of studies from Biological Reviews
+* `communications_biology.bib`: bibliographic file containing the sample of studies from Communications Biology
+* `current_biology.bib`: bibliographic file containing the sample of studies from Current Biology
+* `elife.bib`:  bibliographic file containing the sample of studies from eLife
+* `nature.bib`: bibliographic file containing the sample of studies from Nature
+* `nature_climate_change.bib`: bibliographic file containing the sample of studies from Nature Climate Change
+* `nature_communications.bib`: bibliographic file containing the sample of studies from Nature Communications
+* `philosophical_transactions_biological_sciences.bib`: bibliographic file containing the sample of studies from Philosophical Transactions of the Royal Society B
+* `plos_biology.bib`: bibliographic file containing the sample of studies from Plos Biology
+* `pnas.bib`: bibliographic file containing the sample of studies from Proceedings of the National Academy of Sciences of the United States of America
+* `science.bib`: bibliographic file containing the sample of studies from Science
+* `science_advances.bib`: bibliographic file containing the sample of studies from Science Advances
+* `scientific_reports.bib`: bibliographic file containing the sample of studies from Scientific Reports
 
 
 
